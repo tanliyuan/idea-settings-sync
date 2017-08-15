@@ -51,6 +51,7 @@
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
+      <file name="D:/IDEA-project/disconf/wdaitest/ac/jdbc.properties" timestamp="1502789491084" />
       <file name="D:/IDEA-project/react-demo/package.json" timestamp="1500876690763">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="20" column="15" />
@@ -74,6 +75,9 @@
         <mark key="]" line="6" column="53" />
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/WanXiangInsuranceDoMapper.xml" timestamp="1502791368706">
+        <mark key="'" line="163" column="0" />
       </file>
       <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1501641497437">
         <mark key="[" line="45" column="34" />
@@ -168,12 +172,6 @@
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="42" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1502422637991">
-        <mark key="'" line="91" column="31" />
-        <mark key="]" line="97" column="11" />
-        <mark key="." line="97" column="11" />
-        <mark key="^" line="97" column="18" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1502775405716">
         <mark key="[" line="12" column="0" />
@@ -287,6 +285,12 @@
         <mark key="^" line="46" column="17" />
         <mark key="." line="46" column="11" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/generatorConfig.xml" timestamp="1502791002986">
+        <mark key="[" line="51" column="63" />
+        <mark key="]" line="51" column="71" />
+        <mark key="." line="51" column="71" />
+        <mark key="^" line="51" column="71" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-dozer.xml" timestamp="1501041259798">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="41" />
@@ -305,7 +309,7 @@
         <mark key="^" line="54" column="12" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502679913724">
+      <file name="/Dummy.txt" timestamp="1502790876885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/controller/HomeController.java" timestamp="1502174153086">
@@ -382,6 +386,7 @@
         <mark key="." line="130" column="16" />
         <mark key="^" line="130" column="16" />
       </file>
+      <file name="/jdbc.properties" timestamp="1502789180617" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/CustomerExceptionHandler.java" timestamp="1500284175553">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="16" column="89" />
@@ -424,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="6" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/PojoConvertUtil.java" />
       <jump line="117" column="6" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/dto/UserRewardFlowDTO.java" />
       <jump line="28" column="14" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
       <jump line="91" column="22" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
@@ -524,13 +528,14 @@
       <jump line="133" column="32" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" />
       <jump line="848" column="69" filename="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/webjars/drore-document-ui/drore/DApiUI.js" />
       <jump line="1066" column="8" filename="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/webjars/drore-document-ui/drore/DApiUI.js" />
+      <jump line="163" column="0" filename="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/WanXiangInsuranceDoMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>medal</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>medal</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
