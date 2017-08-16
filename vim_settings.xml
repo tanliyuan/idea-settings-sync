@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/commons/commons.common/1.2.5/commons.common-1.2.5.jar!/com/weidai/commons/util/MobileVerifyUtils.class" timestamp="1502851859405" />
       <file name="/a.dummy" timestamp="1502797531887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,6 +13,7 @@
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/main/RegisterVO.java" timestamp="1502851346595" />
       <file name="D:/IDEA-project/react-demo/src/components/avator.jsx" timestamp="1500881203173">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="9" column="28" />
@@ -36,6 +38,7 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/RegisterServiceImpl.java" timestamp="1502851405260" />
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
         <mark key="[" line="8" column="27" />
       </file>
@@ -63,7 +66,7 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="19" column="90" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/enums/ChannelCodeEnum.java" timestamp="1502850234951" />
+      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/enums/ChannelCodeEnum.java" timestamp="1502851281156" />
       <file name="D:/IDEA-project/react-demo/package.json" timestamp="1500876690763">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="20" column="15" />
@@ -145,6 +148,7 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1502358657086">
         <mark key="[" line="32" column="13" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1502851822388" />
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/HttpUtils.java" timestamp="1502446296202">
         <mark key="[" line="30" column="24" />
         <mark key="]" line="35" column="24" />
@@ -196,11 +200,12 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1502850454282">
-        <mark key="[" line="64" column="39" />
-        <mark key="]" line="64" column="69" />
-        <mark key="." line="64" column="69" />
-        <mark key="^" line="64" column="69" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1502851092795">
+        <mark key="'" line="74" column="11" />
+        <mark key="[" line="69" column="63" />
+        <mark key="]" line="69" column="69" />
+        <mark key="." line="69" column="69" />
+        <mark key="^" line="69" column="69" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1502848821939">
         <mark key="[" line="63" column="8" />
@@ -424,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="22" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
       <jump line="130" column="7" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
       <jump line="114" column="12" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
       <jump line="94" column="54" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
@@ -524,46 +528,47 @@
       <jump line="163" column="0" filename="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/WanXiangInsuranceDoMapper.xml" />
       <jump line="56" column="20" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" />
       <jump line="173" column="18" filename="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/AbstractUserRegisterDTO.java" />
+      <jump line="69" column="11" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>insuranceVo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>insuranceVo</text>
+        <text encoding="base64">UnBjUmVzdWx0PEFic3RyYWN0VXNlclJlZ2lzdGVyRFRPPg==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>org.springframework.validation.annotation.Validated</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgcmVnaXN0ZXJEVE9ScGNSZXN1bHQgPSB1c2VyUmVnaXN0ZXJTZXJ2aWNlRmFjYWRlLnJlZ2lzdGVyVXNlcih1c2VyUmVnaXN0ZXJEVE8pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUmVnaXN0ZXJEVE8uc2V0S2V5d29yZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90RW1wdHkoaW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnR5Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90RW1wdHkoaW4pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmFsdWU+V3JpdGVEYXRlVXNlRGF0ZUZvcm1hdDwvdmFsdWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb3BlcnR5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFNlcnZsZXRDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIgo=</text>
       </register>
     </registers>
     <search>
