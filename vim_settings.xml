@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1502865247894">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/weidai/commons/commons.common/1.2.5/commons.common-1.2.5.jar!/com/weidai/commons/util/MobileVerifyUtils.class" timestamp="1502851859405" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/MedalActivityVO.java" timestamp="1502856429832" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/springconfig/Swagger2Config.java" timestamp="1502356303916">
@@ -49,11 +55,12 @@
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVo.java" timestamp="1502861599112">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-        <mark key="^" line="43" column="12" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVo.java" timestamp="1502864615397">
+        <mark key="'" line="69" column="24" />
+        <mark key="[" line="52" column="49" />
+        <mark key="]" line="52" column="48" />
+        <mark key="^" line="52" column="48" />
+        <mark key="." line="52" column="48" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/BaseController.java" timestamp="1502800541658">
         <mark key="[" line="19" column="90" />
@@ -151,9 +158,11 @@
         <mark key="^" line="5" column="95" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1502862767518">
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="130" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1502864942056">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="225" column="35" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/HttpUtils.java" timestamp="1502853708395">
         <mark key="[" line="98" column="8" />
@@ -185,11 +194,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1502861075039">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="28" column="0" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1502863681354">
+        <mark key="'" line="39" column="59" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="57" column="123" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/Config.java" timestamp="1502180176491">
         <mark key="[" line="12" column="3" />
@@ -289,6 +299,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-rocketmq.xml" timestamp="1502865319591" />
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/RetryService.java" timestamp="1502102494789">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="47" />
@@ -438,8 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="12" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
-      <jump line="94" column="54" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
       <jump line="98" column="70" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalTaskJob.java" />
       <jump line="94" column="13" filename="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" />
       <jump line="50" column="11" filename="$MAVEN_REPOSITORY$/org/mock-server/mockserver-netty/3.10.7/mockserver-netty-3.10.7-sources.jar!/org/mockserver/junit/MockServerRule.java" />
@@ -538,46 +547,51 @@
       <jump line="173" column="18" filename="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/AbstractUserRegisterDTO.java" />
       <jump line="69" column="11" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="37" column="61" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" />
+      <jump line="37" column="59" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
+      <jump line="69" column="24" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;dubbo接口注册失败&quot;</text>
+        <text>在投本金达到某个指标的时候</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;dubbo接口注册失败&quot;</text>
+        <text>在投本金达到某个指标的时候</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoRXJyb3JMb2cuYnVpbGRKc29uU3RyKHJlcXVlc3QsIGUpLCBlKTsK</text>
+      <register name="0" type="4">
+        <text>, message = &quot;验证码长度部队&quot;, groups = Insurance100Group.class</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIDwhLS3U2s22sb698LTvtb3Es7j21rix6rXEyrG68i0tPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTaXplCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihTdHJpbmdVdGlscy5pc0VtcHR5KGluc3VyYW5jZVZvLmdldFNtcwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBFeGNlcHRpb25IYW5kbGVyKEJpbmRFeGNlcHRpb24uY2xhc3MpCiAgICBwdWJsaWMgQWpheFJlc3VsdCBiaW5kRXJyb3IoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsIEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgTE9HR0VSLmVycm9yKEVycm9yTG9nLmJ1aWxkSnNvblN0cihyZXF1ZXN0LCBlKSwgZSk7CgogICAgICAgIFN0cmluZyBtZXNzYWdlID0gKChCaW5kRXhjZXB0aW9uKSBlKS5nZXRCaW5kaW5nUmVzdWx0KCkuZ2V0QWxsRXJyb3JzKCkuZ2V0KDApLmdldERlZmF1bHRNZXNzYWdlKCk7CiAgICAgICAgcmV0dXJuIEFqYXhSZXN1bHQuRVJST1IoRXJyb3JFbnVtLlBBUkFNU19OVUxMLCBtZXNzYWdlKTsKICAgIH0K</text>
+      <register name="7" type="4">
+        <text>Code()) || com.weidai.commons.util.StringUtils.isEmpty(registerVO.getMobile())){
+            ajaxResult.setFail(ErrorEnum.MOBILE_CODE_NULL.getCode(),ErrorEnum.MOBILE_CODE_NULL.getDesc());
+            return ajaxResult;
+        }else{</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRGF0ZVRpbWUoYmlydGhkYXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlLmdldEJpbmRpbmdSZXN1bHQoKS5nZXRBbGxFcnJvcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWpheFJlc3VsdC5zZXRGYWlsKEVycm9yRW51bS5NT0JJTEVfTk9UX01BVENILmdldENvZGUoKSxFcnJvckVudW0uTU9CSUxFX05PVF9NQVRDSC5nZXREZXNjKCkpOwo=</text>
       </register>
     </registers>
     <search>
