@@ -49,11 +49,11 @@
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVo.java" timestamp="1502859661096">
-        <mark key="[" line="23" column="117" />
-        <mark key="]" line="23" column="82" />
-        <mark key="^" line="23" column="82" />
-        <mark key="." line="23" column="82" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVo.java" timestamp="1502861599112">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="43" column="12" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/BaseController.java" timestamp="1502800541658">
         <mark key="[" line="19" column="90" />
@@ -185,7 +185,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1502857010626">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1502861075039">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="37" column="24" />
@@ -203,19 +203,19 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1502857979113">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1502861878035">
         <mark key="'" line="93" column="11" />
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-        <mark key="^" line="59" column="29" />
+        <mark key="[" line="101" column="55" />
+        <mark key="]" line="101" column="55" />
+        <mark key="." line="101" column="55" />
+        <mark key="^" line="101" column="55" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1502859486692">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1502861248387">
         <mark key="'" line="37" column="61" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="25" />
-        <mark key="^" line="65" column="25" />
+        <mark key="[" line="68" column="5" />
+        <mark key="]" line="69" column="3" />
+        <mark key="^" line="69" column="3" />
+        <mark key="." line="69" column="3" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/Swagger2Config.java" timestamp="1501069759092">
         <mark key="[" line="18" column="0" />
@@ -331,9 +331,6 @@
         <mark key="^" line="54" column="12" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/AbstractUserRegisterDTO.java" timestamp="1502849469081">
-        <mark key="'" line="173" column="18" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/swagger-ui/index.html" timestamp="1501837994259">
         <mark key="[" line="76" column="14" />
         <mark key="]" line="76" column="21" />
@@ -411,6 +408,13 @@
         <mark key="]" line="7" column="10" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" timestamp="1502861780470">
+        <mark key="'" line="56" column="20" />
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="71" column="60" />
+        <mark key="^" line="71" column="114" />
+        <mark key="." line="71" column="60" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/index.jsp" timestamp="1502364053786">
         <mark key="[" line="21" column="30" />
@@ -537,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BindException</text>
+        <text>&quot;dubbo接口注册失败&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>BindException</text>
+        <text>&quot;dubbo接口注册失败&quot;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -549,31 +553,31 @@
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoRXJyb3JMb2cuYnVpbGRKc29uU3RyKHJlcXVlc3QsIGUpLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlLmdldEJpbmRpbmdSZXN1bHQoKS5nZXRBbGxFcnJvcnMoKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlLmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0LkJpbmRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9IrrDICE9IG51bGwiPgogICAgICAgICAgICAgICAgcGFzc3dvcmQgPSAje3Bhc3N3b3JkfSwKICAgICAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InBhc3N3b3JkICE9IG51bGwiPgogICAgICAgICAgICAgICAgI3twYXNzd29yZH0sCiAgICAgICAgICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InBhc3N3b3JkICE9IG51bGwiPgogICAgICAgICAgICAgICAgcGFzc3dvcmQsCiAgICAgICAgICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0icGFzc3dvcmQiIHByb3BlcnR5PSJwYXNzd29yZCIgLz4K</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBFeGNlcHRpb25IYW5kbGVyKEJpbmRFeGNlcHRpb24uY2xhc3MpCiAgICBwdWJsaWMgQWpheFJlc3VsdCBiaW5kRXJyb3IoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsIEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgTE9HR0VSLmVycm9yKEVycm9yTG9nLmJ1aWxkSnNvblN0cihyZXF1ZXN0LCBlKSwgZSk7CgogICAgICAgIFN0cmluZyBtZXNzYWdlID0gKChCaW5kRXhjZXB0aW9uKSBlKS5nZXRCaW5kaW5nUmVzdWx0KCkuZ2V0QWxsRXJyb3JzKCkuZ2V0KDApLmdldERlZmF1bHRNZXNzYWdlKCk7CiAgICAgICAgcmV0dXJuIEFqYXhSZXN1bHQuRVJST1IoRXJyb3JFbnVtLlBBUkFNU19OVUxMLCBtZXNzYWdlKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVXNlclJlZ2lzdGVyU2VydmljZUZhY2FkZSB1c2VyUmVnaXN0ZXJTZXJ2aWNlRmFjYWRlOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRGF0ZVRpbWUoYmlydGhkYXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldFVpZCgpIHsKICAgICAgICByZXR1cm4gdWlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFVpZChJbnRlZ2VyIHVpZCkgewogICAgICAgIHRoaXMudWlkID0gdWlkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBlLmdldEJpbmRpbmdSZXN1bHQoKS5nZXRBbGxFcnJvcnMoKQo=</text>
       </register>
     </registers>
     <search>
