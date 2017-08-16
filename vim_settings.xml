@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1502866270617">
-        <mark key="[" line="24" column="57" />
-        <mark key="]" line="24" column="57" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="24" column="57" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1502884473827">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="70" />
+        <mark key="^" line="27" column="70" />
+        <mark key="." line="27" column="70" />
       </file>
       <file name="/a.dummy" timestamp="1502797531887">
         <mark key="[" line="0" column="0" />
@@ -188,6 +188,12 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceResponseDTO.java" timestamp="1502884671868">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="D:/IDEA-project/medal/medal-service/pom.xml" timestamp="1502866444048" />
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/DateUtils.java" timestamp="1502174139620">
         <mark key="[" line="46" column="11" />
@@ -340,11 +346,11 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="57" column="25" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1502879187836">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-        <mark key="^" line="26" column="7" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1502884996460">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
@@ -362,11 +368,11 @@
         <mark key="." line="229" column="0" />
         <mark key="^" line="225" column="35" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1502775405716">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1502885377567">
+        <mark key="[" line="15" column="76" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/Config.java" timestamp="1502180176491">
         <mark key="[" line="12" column="3" />
@@ -374,11 +380,11 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1502879123209">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="9" column="6" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1502885573965">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
@@ -440,18 +446,14 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/UserRegistListener.java" timestamp="1502866706017">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="45" column="56" />
-      </file>
       <file name="/Dummy.txt" timestamp="1502874638856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" timestamp="1502879506930">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" timestamp="1502884914452">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/swagger-ui/index.html" timestamp="1501837994259">
         <mark key="[" line="76" column="14" />
@@ -595,10 +597,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T2JqZWN0IHBvc3RGb3JPYmplY3QgPSA=</text>
+        <text>5000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0IHBvc3RGb3JPYmplY3QgPSA=</text>
+        <text>5000</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -607,31 +609,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgKE1lc3NhZ2VFeHQgbWVzc2FnZUV4dCA6IG1zZ3MpIHsgLy/ErMjPw7+0zta709DSu8z1z/vPor34wLQKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIr3TytW1vc/7z6I6IiArIG5ldyBTdHJpbmcobWVzc2FnZUV4dC5nZXRCb2R5KCkpICsgIjvP6sfpOiIgKyBtZXNzYWdlRXh0KTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbk9iamVjdCA9IEpTT04ucGFyc2VPYmplY3QobmV3IFN0cmluZyhtZXNzYWdlRXh0LmdldEJvZHkoKSkpOwogICAgICAgICAgICAgICAgSW50ZWdlciB1aWQgPSBqc29uT2JqZWN0LmdldEludGVnZXIoInVpZCIpOwoKICAgICAgICAgICAgICAgIGlmICh1aWQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIFVzZXJSZXdhcmRJbmZvRE8gdXNlclJld2FyZEluZm9ETyA9IFVzZXJSZXdhcmRJbmZvRE8ubmV3SW5zdGFuY2UodWlkKTsKICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkSW5mb0RBTy5jcmVhdGVVc2VyUmV3YXJkSW5mbyh1c2VyUmV3YXJkSW5mb0RPKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWNhdGNoIChFeGNlcHRpb24gZSl7CiAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIrLlyOvQwteisuHTw7un0avVwrv5sb7Qxc+iyqew3KOhIixlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gQ29uc3VtZUNvbmN1cnJlbnRseVN0YXR1cy5DT05TVU1FX1NVQ0NFU1M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50Cg==</text>
+        <text encoding="base64">QERhdGFkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QERhdGFkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoIrLp0a/Kp7Dcu/LTw7unsru05tTaveG5+6O6e30iLCBKU09OLnRvSlNPTlN0cmluZyh1c2VyRFRPUnBjUmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyRFRPUnBjUmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoIrLp0a/Kp7Dcu/LTw7unsru05tTaveG5+6O6e30iLCBKU09OLnRvSlNPTlN0cmluZyh1c2VyRFRPUnBjUmVzdWx0KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY29tbW9ucy51dGlsLlN0cmluZ1V0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyRFRPUnBjUmVzdWx0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VyUmV3YXJkSW5mb0RPIHVzZXJSZXdhcmRJbmZvRE8gPSBVc2VyUmV3YXJkSW5mb0RPLm5ld0luc3RhbmNlKHVpZCk7CiAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEluZm9EQU8uY3JlYXRlVXNlclJld2FyZEluZm8odXNlclJld2FyZEluZm9ETyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
