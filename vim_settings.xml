@@ -158,11 +158,11 @@
         <mark key="[" line="263" column="0" />
         <mark key="]" line="263" column="130" />
       </file>
-      <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/HttpUtils.java" timestamp="1502853084745">
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="8" />
-        <mark key="^" line="35" column="24" />
-        <mark key="." line="97" column="8" />
+      <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/HttpUtils.java" timestamp="1502853708395">
+        <mark key="[" line="98" column="8" />
+        <mark key="]" line="98" column="17" />
+        <mark key="^" line="98" column="17" />
+        <mark key="." line="98" column="17" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/InsuranceService.java" timestamp="1502849179423">
         <mark key="[" line="15" column="4" />
@@ -209,11 +209,12 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1502853005031">
-        <mark key="'" line="80" column="11" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1502854333751">
+        <mark key="'" line="83" column="11" />
+        <mark key="[" line="71" column="33" />
+        <mark key="]" line="71" column="41" />
+        <mark key="." line="71" column="41" />
+        <mark key="^" line="71" column="41" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1502848821939">
         <mark key="[" line="63" column="8" />
@@ -432,8 +433,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1502802290980">
+      <file name="/fragment.java" timestamp="1502853748767">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/BigDecimalUtil.java" timestamp="1502853798953">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -540,10 +546,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Objectu</text>
+        <text>anyNull</text>
       </register>
       <register name="-" type="4">
-        <text>Objectu</text>
+        <text>anyNull</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -552,31 +558,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUnBjUmVzdWx0PFVzZXJWTz4gdXNlclZPUnBjUmVzdWx0ID0gdGVuZGVyVXNlclNlcnZpY2VGYWNhZGUucXVlcnlVc2VySW5mb0J5TW9iaWxlKHJlZ2lzdGVyVk8uZ2V0TW9iaWxlKCkpOyAgLy+4xNPDZHViYm+199PDCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm8K</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RVdGlsLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChPYmplY3RVdGlscy5maXJzdE5vbk51bGwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQ8VXNlclZPPiB1c2VyVk9ScGNSZXN1bHQgPSB0ZW5kZXJVc2VyU2VydmljZUZhY2FkZS5xdWVyeVVzZXJJbmZvQnlNb2JpbGUoaW5zdXJhbmNlVm8uZ2V0TW9iaWxlKCkpOyAgLy+4xNPDZHViYm+199PDCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyUmVnaXN0ZXJEVE8gdXNlclJlZ2lzdGVyRFRPID0gdHJhbnNmZXJWb1RvRFRPKGluc3VyYW5jZVZvKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogSWYgdGhlIEJpZ0RlY2ltYWwgaXMgbm90IG51bGwgY2FsbCB0aGUgY29uc3VtZXIgKGRlcGVuZHMgb24gSkRLOCspCiAgICAgKiBAcGFyYW0gYmQgdGhlIEJpZ0RlY2ltYWwKICAgICAqIEBwYXJhbSBjb25zdW1lciBvZiB0aGUgdmFsdWUsIGNhbGxlZCBpZiBub3QgbnVsbAogICAgICogQHJldHVybiB0cnVlIGlmIGNvbnN1bWVkCiAgICAgKiBAc2luY2UgMS40LjAKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBib29sZWFuIGlmTm90TnVsbChmaW5hbCBCaWdEZWNpbWFsIGJkLCBmaW5hbCBDb25zdW1lcjxCaWdEZWNpbWFsPiBjb25zdW1lcikgewogICAgICAgIGlmIChiZCAhPSBudWxsKSB7CiAgICAgICAgICAgIGNvbnN1bWVyLmFjY2VwdChiZCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChPYmplY3RVdGlscy5maXJzdE5vbk51bGwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUmVnaXN0ZXJEVE8uc2V0Q2hhbm5lbENvZGUoQ2hhbm5lbENvZGVFbnVtLldEX0g1LmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQ8VXNlclZPPiB1c2VyVk9ScGNSZXN1bHQgPSB0ZW5kZXJVc2VyU2VydmljZUZhY2FkZS5xdWVyeVVzZXJJbmZvQnlNb2JpbGUoaW5zdXJhbmNlVm8uZ2V0TW9iaWxlKCkpOyAgLy+4xNPDZHViYm+199PDCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW4K</text>
+        <text encoding="base64">ICAgICAgICBVc2VyUmVnaXN0ZXJEVE8gdXNlclJlZ2lzdGVyRFRPID0gdHJhbnNmZXJWb1RvRFRPKGluc3VyYW5jZVZvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
