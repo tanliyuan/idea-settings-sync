@@ -321,12 +321,12 @@
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1502948461011">
-        <mark key="'" line="86" column="32" />
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="98" column="32" />
-        <mark key="^" line="98" column="32" />
-        <mark key="." line="98" column="32" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1502950251999">
+        <mark key="'" line="101" column="32" />
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="57" />
+        <mark key="^" line="44" column="57" />
+        <mark key="." line="44" column="57" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-redis.xml" timestamp="1499680842580">
         <mark key="[" line="11" column="17" />
@@ -361,11 +361,11 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1502885573965">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1502950115845">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
@@ -479,8 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="13" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" />
-      <jump line="783" column="23" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/redis/impl/RedisServiceImpl.java" />
       <jump line="249" column="33" filename="$MAVEN_REPOSITORY$/com/weidai/middleware/parent-pom-spring4/1.0.1/parent-pom-spring4-1.0.1.pom" />
       <jump line="409" column="8" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/redbag/ActivityRedpacketComboApiImpl.java" />
       <jump line="162" column="6" filename="$MAVEN_REPOSITORY$/com/weidai/operations/operations-common-service-facade/1.0.35-SNAPSHOT/operations-common-service-facade-1.0.35-20170714.081826-3-sources.jar!/com/weidai/operations/facade/dto/wechat/PeriodProductDTO.java" />
@@ -579,13 +577,15 @@
       <jump line="167" column="13" filename="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/BasicUserDTO.java" />
       <jump line="337" column="11" filename="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/LocalDate.java" />
       <jump line="86" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
+      <jump line="99" column="21" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
+      <jump line="101" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>customPropertyPlaceholderConfigurer</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>customPropertyPlaceholderConfigurer</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
