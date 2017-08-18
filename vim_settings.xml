@@ -12,10 +12,11 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
       </file>
-      <file name="D:/IDEA-project/ac/pom.xml" timestamp="1503020949936">
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
+      <file name="D:/IDEA-project/ac/pom.xml" timestamp="1503031707029">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="270" column="23" />
+        <mark key="." line="270" column="23" />
+        <mark key="^" line="270" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1503021095681">
         <mark key="[" line="0" column="0" />
@@ -54,6 +55,12 @@
         <mark key="^" line="67" column="55" />
         <mark key="." line="65" column="38" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/custom.js" timestamp="1503034203753">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="20" column="33" />
+      </file>
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
         <mark key="[" line="8" column="27" />
       </file>
@@ -63,17 +70,17 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503020575838" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503026923699">
         <mark key="[" line="8" column="49" />
         <mark key="]" line="8" column="141" />
         <mark key="." line="8" column="49" />
         <mark key="^" line="8" column="132" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503024986010">
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="76" column="14" />
-        <mark key="." line="76" column="14" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503034287878">
+        <mark key="[" line="110" column="31" />
+        <mark key="]" line="110" column="13" />
+        <mark key="." line="110" column="13" />
+        <mark key="^" line="110" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1503027129437">
         <mark key="[" line="0" column="0" />
@@ -99,11 +106,11 @@
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/Swagger2Config.java" timestamp="1503024158440">
-        <mark key="[" line="32" column="66" />
-        <mark key="]" line="32" column="74" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/Swagger2Config.java" timestamp="1503031424748">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="32" column="74" />
-        <mark key="." line="32" column="74" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/People.java" timestamp="1502967722861">
         <mark key="[" line="10" column="44" />
@@ -250,47 +257,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXN1Y2Nlc3MiIHN0eWxlPSJtYXJnaW4tbGVmdDogNXB4OyB2ZXJ0aWNhbC1hbGlnbjogc3VwZXIiPm5ldzwvc3Bhbj4=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXN1Y2Nlc3MiIHN0eWxlPSJtYXJnaW4tbGVmdDogNXB4OyB2ZXJ0aWNhbC1hbGlnbjogc3VwZXIiPm5ldzwvc3Bhbj4=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>只需传递表单中的参数，其他参数不用传递</text>
+        <text>$('.swagger-ui .topbar')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBcGkoZGVzY3JpcHRpb24gPSAisaO05rrNuPzQwtPDu6e12Na30MXPoiIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMudm8uYWRkcmVzcy5JbnN1cmFuY2VWTzsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiaW5zdXJhbmNlVm8iLCBkYXRhVHlwZSA9ICJJbnN1cmFuY2VWbyIpCiAgICB9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vY3VzdG9tLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="5" type="4">
-        <text>@ApiImplicitParams({
-            @ApiImplicitParam(name = &quot;insuranceVo&quot;, dataType = &quot;com.weidai.ac.vo.address.InsuranceVo&quot;)
-    })</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnJyArCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@ApiParam({
-            ApiParam()
-    })</text>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtcygpCg==</text>
+        <text encoding="base64">JCgnLnN3YWdnZXItdWkgLnRvcGJhcicpLmNzcygiYmFja2dyb3VuZC1jb2xvciIsICIjMjA1MDgxIik7CiQoJyNzd2FnZ2VyLXVpJykuZmluZCgnLmRvd25sb2FkLXVybC13cmFwcGVyJykuaGlkZSgpOwokKCcudG9wYmFyLXdyYXBwZXIgaW1nJykuYXR0cigic3JjIiwgImh0dHA6Ly93ZWlkYWkud2lraS9zL3poX0NOLzU3ODEvMDZiZTc3NGU0OTgzNmY1NTM2NTM1MjQ4NGNkYjBiZGJlMDFlMTE5Yi4xMS9fL2ltYWdlcy9sb2dvL2NvbmZsdWVuY2UtbG9nby5wbmciKS5hdHRyKCJoZWlnaHQiLCAiNDVweCIpLmF0dHIoIndpZHRoIiwgIjY5cHgiKS5uZXh0KCkudGV4dCgiu/3OorPJ1vi0+7av1tC5+iIpLmNzcygiZm9udC1zaXplIiwgInNtYWxsZXIiKS5hZGRDbGFzcygnbWFza2VkJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEFwaU1vZGVsKCKxo7Wl16Ky4XZvIEluc3VyYW5jZVZvIikK</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS53ZWlkYWkuYWMud2ViLmNvbnRyb2xsZXIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+MS41LjE2PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICA8L3N0eWxlPgo=</text>
       </register>
     </registers>
     <search>

@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="mustache" type="HTML" />
       <removed_mapping ext="mustache" type="Handlebars/Mustache" />
-      <mapping ext="map" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
