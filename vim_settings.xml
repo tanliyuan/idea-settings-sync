@@ -75,6 +75,11 @@
       <file name="/Dummy.regexp" timestamp="1503048415742">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503051350275">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
       <file name="/Dummy.txt" timestamp="1503049615456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9.4.1.v20170120</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>9.4.1.v20170120</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
