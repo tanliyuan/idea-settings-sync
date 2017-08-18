@@ -30,6 +30,11 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/pom.xml" timestamp="1503052410536">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVO.java" timestamp="1503023864415">
         <mark key="'" line="200" column="32" />
       </file>
@@ -75,10 +80,11 @@
       <file name="/Dummy.regexp" timestamp="1503048415742">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503051350275">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503052612733">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1503049615456">
         <mark key="[" line="0" column="0" />
@@ -253,8 +259,8 @@
       <jump line="46" column="16" filename="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/address/AddressDoMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="-" type="4">
         <text>localhost</text>
@@ -266,19 +272,19 @@
         <text>$('.swagger-ui .topbar')</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICA8ZGVzY3JpcHRpb24gLz4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PHN5c3RlbVByb3BlcnRpZXM+CiAgICAgICAgICAgIDxzeXN0ZW1Qcm9wZXJ0eT4KICAgICAgICAgICAgICA8bmFtZT5sb2c0ai5jb25maWd1cmF0aW9uPC9uYW1lPgogICAgICAgICAgICAgIDx2YWx1ZT5maWxlOi8vLyR7YmFzZWRpcn0vc3JjL3Rlc3QvcmVzb3VyY2VzL2xvZzRqLnByb3BlcnRpZXM8L3ZhbHVlPgogICAgICAgICAgICA8L3N5c3RlbVByb3BlcnR5PgogICAgICAgICAgPC9zeXN0ZW1Qcm9wZXJ0aWVzPg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICA8bmFtZT4ke3Byb2plY3QuYXJ0aWZhY3RJZH08L25hbWU+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDxodHRwQ29ubmVjdG9yPgogICAgICAgICAgICA8cG9ydD44MDgwPC9wb3J0PgogICAgICAgICAgPC9odHRwQ29ubmVjdG9yPg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -287,10 +293,10 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFDLmN1c3RvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgIEFDLmN1c3RvbSgpOwo=</text>
       </register>
     </registers>
     <search>
