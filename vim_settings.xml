@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IDEA-project/websocket-logviewer/README" timestamp="1503054113156" />
+      <file name="D:/IDEA-project/websocket-logviewer/README" timestamp="1503054255283" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1502954299264">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="29" />
@@ -80,6 +80,11 @@
       </file>
       <file name="/Dummy.regexp" timestamp="1503048415742">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IDEA-project/websocket-logviewer/pom.xml" timestamp="1503054333384">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503052612733">
         <mark key="[" line="16" column="48" />
@@ -261,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5uZXR0eTwvYXJ0aWZhY3RJZD4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>-3.2.1.Final.jar</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -273,22 +278,22 @@
         <text>$('.swagger-ui .topbar')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5uZXR0eTwvYXJ0aWZhY3RJZD4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICA8ZGVzY3JpcHRpb24gLz4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PHN5c3RlbVByb3BlcnRpZXM+CiAgICAgICAgICAgIDxzeXN0ZW1Qcm9wZXJ0eT4KICAgICAgICAgICAgICA8bmFtZT5sb2c0ai5jb25maWd1cmF0aW9uPC9uYW1lPgogICAgICAgICAgICAgIDx2YWx1ZT5maWxlOi8vLyR7YmFzZWRpcn0vc3JjL3Rlc3QvcmVzb3VyY2VzL2xvZzRqLnByb3BlcnRpZXM8L3ZhbHVlPgogICAgICAgICAgICA8L3N5c3RlbVByb3BlcnR5PgogICAgICAgICAgPC9zeXN0ZW1Qcm9wZXJ0aWVzPg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICA8bmFtZT4ke3Byb2plY3QuYXJ0aWZhY3RJZH08L25hbWU+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDxodHRwQ29ubmVjdG9yPgogICAgICAgICAgICA8cG9ydD44MDgwPC9wb3J0PgogICAgICAgICAgPC9odHRwQ29ubmVjdG9yPg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -297,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFDLmN1c3RvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
