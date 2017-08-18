@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1502963846072">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1502954299264">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="29" />
@@ -18,9 +13,9 @@
         <mark key="[" line="36" column="3" />
       </file>
       <file name="D:/IDEA-project/ac/pom.xml" timestamp="1503020949936">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="42" />
-        <mark key="." line="40" column="42" />
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1503021095681">
         <mark key="[" line="0" column="0" />
@@ -40,6 +35,19 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVO.java" timestamp="1503023864415">
+        <mark key="'" line="185" column="32" />
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="56" column="33" />
+        <mark key="^" line="56" column="33" />
+        <mark key="." line="56" column="33" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/insurance/InsuranceDo.java" timestamp="1503023598096">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+      </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/DateUtils.java" timestamp="1502943603472">
         <mark key="[" line="67" column="59" />
         <mark key="]" line="65" column="38" />
@@ -56,16 +64,22 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503020575838" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1502958371299">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="8" column="39" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503025827073">
+        <mark key="[" line="8" column="95" />
+        <mark key="]" line="8" column="106" />
+        <mark key="." line="8" column="106" />
+        <mark key="^" line="8" column="106" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503024986010">
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="14" />
+        <mark key="." line="76" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1502965991557">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" timestamp="1503020823960">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" timestamp="1503024766944">
+        <mark key="'" line="97" column="28" />
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
@@ -85,11 +99,11 @@
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/Swagger2Config.java" timestamp="1503020907999">
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="32" column="88" />
-        <mark key="^" line="32" column="57" />
-        <mark key="." line="32" column="58" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/Swagger2Config.java" timestamp="1503024158440">
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="32" column="74" />
+        <mark key="^" line="32" column="74" />
+        <mark key="." line="32" column="74" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/People.java" timestamp="1502967722861">
         <mark key="[" line="10" column="44" />
@@ -109,30 +123,30 @@
         <mark key="^" line="26" column="123" />
         <mark key="." line="26" column="123" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1503021716359" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1503024785119">
+        <mark key="'" line="224" column="65" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="11" />
+        <mark key="^" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+      </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1502956815076">
         <mark key="[" line="7" column="43" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/CertificateNoUtil.java" timestamp="1502941385374">
         <mark key="[" line="32" column="19" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503021334481">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="41" column="20" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503024760698">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1502963345247">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="10" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
-      <jump line="60" column="31" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/ErrorLog.java" />
-      <jump line="94" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
-      <jump line="293" column="37" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
-      <jump line="243" column="39" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="37" column="46" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="38" column="26" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="22" column="17" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
@@ -228,19 +242,24 @@
       <jump line="63" column="63" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
       <jump line="277" column="27" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="37" column="26" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
+      <jump line="56" column="31" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
+      <jump line="183" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVO.java" />
+      <jump line="150" column="45" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" />
+      <jump line="97" column="28" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" />
+      <jump line="224" column="65" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QEFwaVBhcmFtKGRlc2NyaXB0aW9uID0gImRkZCIpIA==</text>
+        <text>mytest/demo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QEFwaVBhcmFtKGRlc2NyaXB0aW9uID0gImRkZCIpIA==</text>
+        <text>mytest/demo</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;com.weidai.ac.web.controller&quot;</text>
+        <text>只需传递表单中的参数，其他参数不用传递</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBBcGkoZGVzY3JpcHRpb24gPSAisaO05rrNuPzQwtPDu6e12Na30MXPoiIK</text>
