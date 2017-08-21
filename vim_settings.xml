@@ -55,11 +55,11 @@
         <mark key="^" line="75" column="77" />
         <mark key="." line="75" column="77" />
       </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503306984946">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503308163562">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307588543" />
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
@@ -134,12 +134,6 @@
         <mark key="^" line="33" column="38" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/writetofile.xml" timestamp="1503304188029" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503049296469">
-        <mark key="[" line="17" column="108" />
-        <mark key="]" line="17" column="112" />
-        <mark key="." line="17" column="108" />
-        <mark key="^" line="13" column="15" />
-      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503052612733">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="48" />
@@ -308,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>output-channel=&quot;filesOut&quot;</text>
+        <text>Component</text>
       </register>
       <register name="-" type="4">
-        <text>output-channel=&quot;filesOut&quot;</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
