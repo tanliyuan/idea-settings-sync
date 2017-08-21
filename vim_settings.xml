@@ -30,6 +30,13 @@
       <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1502956801583">
         <mark key="[" line="7" column="43" />
       </file>
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/pom.xml" timestamp="1503284641475">
+        <mark key="'" line="101" column="19" />
+        <mark key="[" line="109" column="21" />
+        <mark key="]" line="109" column="21" />
+        <mark key="." line="109" column="21" />
+        <mark key="^" line="109" column="33" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" timestamp="1502941372982">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="25" />
@@ -65,11 +72,11 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/src/main/java/bk/tailfile/web/GreetingsController.java" timestamp="1503282462064">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="37" column="19" />
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/src/main/java/bk/tailfile/web/GreetingsController.java" timestamp="1503283585520">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
         <mark key="[" line="8" column="27" />
@@ -173,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="26" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="22" column="17" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
       <jump line="76" column="25" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="226" column="6" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
@@ -273,13 +279,14 @@
       <jump line="97" column="28" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" />
       <jump line="224" column="65" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" />
       <jump line="46" column="16" filename="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/address/AddressDoMapper.xml" />
+      <jump line="101" column="19" filename="D:/IDEA-project/spring-websockets-sample/projects/tail-file/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1.2.2.RELEASE</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1.2.2.RELEASE</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
