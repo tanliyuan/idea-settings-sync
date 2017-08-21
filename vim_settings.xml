@@ -71,6 +71,13 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1503310477554">
+        <mark key="'" line="28" column="65" />
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="145" column="26" />
+        <mark key="^" line="145" column="18" />
+        <mark key="." line="145" column="19" />
+      </file>
       <file name="/Dummy.xpath" timestamp="1503048415748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,6 +99,7 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="37" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/ErrorEnum.java" timestamp="1503310516212" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/TailFileConfig.java" timestamp="1503302897539" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-file/4.0.2.RELEASE/spring-integration-file-4.0.2.RELEASE-sources.jar!/org/springframework/integration/file/tail/ApacheCommonsFileTailingMessageProducer.java" timestamp="1503288920609" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/Handler.java" timestamp="1503306977817">
@@ -303,7 +311,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Component</text>
+        <text>获取图片验证码</text>
       </register>
       <register name="-" type="4">
         <text>Component</text>
@@ -312,7 +320,7 @@
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>fileInboundChannelAdapter</text>
+        <text>获取图片验证码</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAgIHhtbG5zOmludGVncmF0aW9uPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2MiCg==</text>
