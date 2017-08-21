@@ -2,5 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/69c70a2f_mybatis-3-config.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/integration/file/spring-integration-file-2.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/b40fd7dd_spring-integration-file-2.1.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/spring-integration-2.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/93768fef_spring-integration-2.1.xsd" />
   </component>
 </application>
