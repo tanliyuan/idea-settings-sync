@@ -30,12 +30,12 @@
       <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1502956801583">
         <mark key="[" line="7" column="43" />
       </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/pom.xml" timestamp="1503286830484">
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/pom.xml" timestamp="1503294988053">
         <mark key="'" line="101" column="19" />
-        <mark key="[" line="109" column="21" />
-        <mark key="]" line="109" column="21" />
-        <mark key="." line="109" column="21" />
-        <mark key="^" line="109" column="33" />
+        <mark key="[" line="121" column="62" />
+        <mark key="]" line="117" column="27" />
+        <mark key="." line="117" column="27" />
+        <mark key="^" line="117" column="27" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/TailFileConfig.java" timestamp="1503288918450" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" timestamp="1502941372982">
@@ -50,9 +50,6 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-file/4.0.2.RELEASE/spring-integration-file-4.0.2.RELEASE-sources.jar!/org/springframework/integration/file/tail/ApacheCommonsFileTailingMessageProducer.java" timestamp="1503288920609" />
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVO.java" timestamp="1503023864415">
-        <mark key="'" line="200" column="32" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/insurance/InsuranceDo.java" timestamp="1503023598096">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="27" />
@@ -82,9 +79,6 @@
       </file>
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
         <mark key="[" line="8" column="27" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/address/AddressDoMapper.xml" timestamp="1503047363989">
-        <mark key="'" line="46" column="16" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503049296469">
         <mark key="[" line="17" column="108" />
@@ -159,9 +153,6 @@
         <mark key="^" line="26" column="123" />
         <mark key="." line="26" column="123" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1503024785119">
-        <mark key="'" line="28" column="65" />
-      </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1502956815076">
         <mark key="[" line="7" column="43" />
       </file>
@@ -172,8 +163,12 @@
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/CertificateNoUtil.java" timestamp="1502941385374">
         <mark key="[" line="32" column="19" />
       </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503286559167" />
-      <file name="/fragment.java" timestamp="1502963345247">
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503294422463">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="71" />
+        <mark key="." line="30" column="71" />
+      </file>
+      <file name="/fragment.java" timestamp="1503295400010">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -281,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.0.0.BUILD-SNAPSHOT</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.0.BUILD-SNAPSHOT</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
