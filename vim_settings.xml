@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/pom.xml" timestamp="1503281779180">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/pom.xml" timestamp="1503282378587">
+        <mark key="[" line="106" column="21" />
+        <mark key="]" line="110" column="25" />
+        <mark key="." line="110" column="25" />
+        <mark key="^" line="110" column="25" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1502954299264">
         <mark key="[" line="22" column="14" />
@@ -63,6 +64,12 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
+      </file>
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/src/main/java/bk/tailfile/web/GreetingsController.java" timestamp="1503282462064">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
         <mark key="[" line="8" column="27" />
@@ -268,11 +275,11 @@
       <jump line="46" column="16" filename="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/address/AddressDoMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICA8Z3JvdXBJZD48L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5uZXR0eTwvYXJ0aWZhY3RJZD4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>-3.2.1.Final.jar</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
