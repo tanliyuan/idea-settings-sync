@@ -31,6 +31,7 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="37" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/index.vm" timestamp="1503373046884" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/pom.xml" timestamp="1503294988053">
         <mark key="'" line="101" column="19" />
         <mark key="[" line="121" column="62" />
@@ -39,6 +40,12 @@
         <mark key="^" line="117" column="27" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/ErrorEnum.java" timestamp="1503366760395" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/LogWebSocketHandle.java" timestamp="1503373463701">
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="24" column="68" />
+        <mark key="^" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/pom.xml" timestamp="1503369478292">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -106,13 +113,19 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/log/index.html" timestamp="1503373172011">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503308163562">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503370298410">
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503372575124">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="23" column="56" />
         <mark key="^" line="23" column="56" />
@@ -130,7 +143,7 @@
       <file name="/Dummy.xpath" timestamp="1503048415748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503369169941">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
         <mark key="^" line="7" column="52" />
@@ -258,10 +271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data/logs/apps/8150-ac/</text>
+        <text encoding="base64">Y2Qg</text>
       </register>
       <register name="-" type="4">
-        <text>data/logs/apps/8150-ac/</text>
+        <text encoding="base64">Y2Qg</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
