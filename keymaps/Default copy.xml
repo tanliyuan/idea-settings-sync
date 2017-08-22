@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="BuildArtifact">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
