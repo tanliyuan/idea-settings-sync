@@ -79,6 +79,11 @@
       <file name="/Dummy.regexp" timestamp="1503048415742">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503323621498">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/tailfile.xml" timestamp="1503322874083">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="8" />
@@ -98,6 +103,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503323795231">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="75" />
+        <mark key="^" line="23" column="75" />
+        <mark key="." line="23" column="75" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
@@ -237,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>198.168.56.3</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>198.168.56.3</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
