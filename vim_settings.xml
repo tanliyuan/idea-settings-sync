@@ -133,11 +133,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503458976296">
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="38" />
-        <mark key="^" line="41" column="38" />
-        <mark key="." line="41" column="38" />
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503460028183">
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
@@ -281,11 +281,11 @@
       <jump line="36" column="26" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getre</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJQnVmZmVyZWRXcml0ZXIoaW5wdXRTdHJlYW0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getre</text>
+        <text>thread.getReader().()</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -294,32 +294,31 @@
         <text>environment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWlmCg==</text>
+        <text encoding="base64">CQkJQnVmZmVyZWRXcml0ZXIoaW5wdXRTdHJlYW0pOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgNGZhM2E1MQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJaW5wdXRTdHJlYW0ud2RkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPsS/x7C7udTazerJxrLiytS917bOo6y0+sLr1ru05tTasuLK1Lu3vrM8L2xpPgo=</text>
+        <text encoding="base64">CQkJCWlmCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoIXN0b3ApIHsKCQkJc3RvcCA9IEJvb2xlYW4uVFJVRTsKCQl9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgNGZhM2E1MQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aHJlYWQuZ2V0UmVhZGVyKCkuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPsS/x7C7udTazerJxrLiytS917bOo6y0+sLr1ru05tTasuLK1Lu3vrM8L2xpPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQluZXcgVGhyZWFkR3JvdXAoKQo=</text>
+        <text encoding="base64">CQlpZiAoIXN0b3ApIHsKCQkJc3RvcCA9IEJvb2xlYW4uVFJVRTsKCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLnN1cGVyKCkK</text>
+        <text encoding="base64">CQl0aHJlYWQuZ2V0UmVhZGVyKCkuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQluZXcgVGhyZWFkR3JvdXAoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>finally {
-		}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQl0aGlzLnN1cGVyKCkK</text>
       </register>
     </registers>
     <search>
