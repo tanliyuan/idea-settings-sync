@@ -41,7 +41,7 @@
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="53" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/MyTailerListener.java" timestamp="1503491774135">
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/MyTailerListener.java" timestamp="1503492685728">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="55" />
@@ -54,7 +54,7 @@
         <mark key="." line="6" column="7" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1503483114297" />
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503491658891">
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503492858693">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="28" column="23" />
         <mark key="." line="24" column="0" />
@@ -62,12 +62,6 @@
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/StringTest.java" timestamp="1503485620170">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="13" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503476809673">
         <mark key="'" line="69" column="10" />
@@ -94,7 +88,7 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503480379635">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503493110887">
         <mark key="]" line="56" column="56" />
         <mark key="^" line="56" column="56" />
         <mark key="." line="56" column="56" />
@@ -211,7 +205,7 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1503488781031">
+      <file name="/fragment.java" timestamp="1503492715037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/Mobile.java" timestamp="1503314563058">
@@ -324,11 +318,11 @@
       <jump line="45" column="36" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJVGFpbGVyTGlzdGVuZXIgbGlzdGVuZXIgPSBuZXcgTXlUYWlsZXJMaXN0ZW5lcihzZXNzaW9uKTsKCQkJdGFpbGVyID0gVGFpbGVyLmNyZWF0ZShuZXcgRmlsZSgiRDpcXGlucHV0XFx0ZXN0LnR4dCIpLCBsaXN0ZW5lciwgMTAwMCk7CgkJCSB0aHJlYWQgPSBuZXcgVGhyZWFkKHRhaWxlciwgInRhaWwiKTsKCQkJdGhyZWFkLnNldERhZW1vbih0cnVlKTsKCQkJdGhyZWFkLnN0YXJ0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>SourceTree</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>error</text>
