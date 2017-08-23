@@ -41,8 +41,8 @@
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="53" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/MyTailerListener.java" timestamp="1503488780402">
-        <mark key="[" line="19" column="55" />
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/MyTailerListener.java" timestamp="1503491774135">
+        <mark key="[" line="17" column="31" />
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="55" />
         <mark key="^" line="21" column="11" />
@@ -54,11 +54,11 @@
         <mark key="." line="6" column="7" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1503483114297" />
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503490847461">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="25" />
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503491658891">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="4" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
         <mark key="[" line="53" column="40" />
@@ -324,8 +324,8 @@
       <jump line="45" column="36" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SourceTree</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJVGFpbGVyTGlzdGVuZXIgbGlzdGVuZXIgPSBuZXcgTXlUYWlsZXJMaXN0ZW5lcihzZXNzaW9uKTsKCQkJdGFpbGVyID0gVGFpbGVyLmNyZWF0ZShuZXcgRmlsZSgiRDpcXGlucHV0XFx0ZXN0LnR4dCIpLCBsaXN0ZW5lciwgMTAwMCk7CgkJCSB0aHJlYWQgPSBuZXcgVGhyZWFkKHRhaWxlciwgInRhaWwiKTsKCQkJdGhyZWFkLnNldERhZW1vbih0cnVlKTsKCQkJdGhyZWFkLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SourceTree</text>
@@ -333,8 +333,8 @@
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>D:\\input\\test.txt</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJVGFpbGVyTGlzdGVuZXIgbGlzdGVuZXIgPSBuZXcgTXlUYWlsZXJMaXN0ZW5lcihzZXNzaW9uKTsKCQkJdGFpbGVyID0gVGFpbGVyLmNyZWF0ZShuZXcgRmlsZSgiRDpcXGlucHV0XFx0ZXN0LnR4dCIpLCBsaXN0ZW5lciwgMTAwMCk7CgkJCSB0aHJlYWQgPSBuZXcgVGhyZWFkKHRhaWxlciwgInRhaWwiKTsKCQkJdGhyZWFkLnNldERhZW1vbih0cnVlKTsKCQkJdGhyZWFkLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgeyBzZXNzaW9uLmdldEJhc2ljUmVtb3RlKCkuc2VuZFRleHQobGluZSArICI8YnI+Iik7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
