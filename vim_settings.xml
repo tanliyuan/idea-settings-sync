@@ -127,11 +127,11 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503308163562">
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503471472073">
         <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503467981682">
         <mark key="[" line="41" column="0" />
@@ -281,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>line</text>
+        <text>Controller</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>Controller</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
