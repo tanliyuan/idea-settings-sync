@@ -6,6 +6,7 @@
       <file name="/a.dummy" timestamp="1503021095681">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/CrunchifyTailFOnLogFile_LogFileTailer.java" timestamp="1503493764582" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-dubbo.xml" timestamp="1503477493586" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/RegisterServiceImpl.java" timestamp="1503479126635" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/MobileValidator.java" timestamp="1503320313559">
@@ -54,7 +55,7 @@
         <mark key="." line="6" column="7" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1503483114297" />
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503492858693">
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503493756535">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="28" column="23" />
         <mark key="." line="24" column="0" />
@@ -92,6 +93,9 @@
         <mark key="]" line="56" column="56" />
         <mark key="^" line="56" column="56" />
         <mark key="." line="56" column="56" />
+      </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
+        <mark key="'" line="113" column="1" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1503482729045" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
@@ -216,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="31" filename="D:/IDEA-project/react-demo/src/components/App.js" />
       <jump line="199" column="12" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="589" column="48" filename="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.5.8-internal/rocketmq-client-3.5.8-internal-sources.jar!/com/alibaba/rocketmq/shade/io/netty/util/concurrent/DefaultPromise.java" />
       <jump line="884" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.5.8-internal/rocketmq-client-3.5.8-internal-sources.jar!/com/alibaba/rocketmq/shade/io/netty/util/concurrent/DefaultPromise.java" />
@@ -316,6 +319,7 @@
       <jump line="78" column="8" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="114" column="34" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="45" column="36" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
+      <jump line="113" column="1" filename="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
