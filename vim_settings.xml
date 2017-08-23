@@ -3,92 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1503021095681">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/index.vm" timestamp="1503385498999" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/LogWebSocketHandle.java" timestamp="1503400354062">
-        <mark key="'" line="24" column="10" />
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="30" />
-        <mark key="." line="56" column="30" />
-        <mark key="^" line="56" column="30" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/MobileValidator.java" timestamp="1503320313559">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
-        <mark key="^" line="21" column="48" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-common/pom.xml" timestamp="1503314860450">
-        <mark key="[" line="17" column="24" />
-      </file>
-      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
-        <mark key="[" line="8" column="27" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503400983064">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-      </file>
-      <file name="/Dummy.regexp" timestamp="1503048415742">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/tailfile.xml" timestamp="1503322874083">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="8" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/log.vm" timestamp="1503405608920">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/log/index.html" timestamp="1503384023230">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="53" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="53" />
-      </file>
-      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503308163562">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503394845567">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="56" />
-        <mark key="^" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/static.vm" timestamp="1503384145291">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
-        <mark key="[" line="53" column="40" />
-      </file>
-      <file name="/Dummy.xpath" timestamp="1503048415748">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="7" column="52" />
-        <mark key="." line="8" column="15" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1503384218449">
-        <mark key="[" line="83" column="18" />
-        <mark key="]" line="84" column="20" />
-        <mark key="." line="84" column="20" />
-        <mark key="^" line="84" column="20" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
       </file>
@@ -97,6 +11,9 @@
         <mark key="]" line="55" column="19" />
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1503021095681">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1502956801583">
         <mark key="[" line="7" column="43" />
@@ -107,7 +24,13 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="37" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/ErrorEnum.java" timestamp="1503366760395" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/LogWebSocketHandle.java" timestamp="1503454109468">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="18" column="63" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="18" column="79" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/pom.xml" timestamp="1503369478292">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -131,17 +54,38 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/HttpSessionAwareConfigurator.java" timestamp="1503381624895">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/custom.js" timestamp="1503385642501" />
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/MobileValidator.java" timestamp="1503320313559">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-common/pom.xml" timestamp="1503314860450">
+        <mark key="[" line="17" column="24" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/hello-world/src/main/java/bk/tailfile/web/GreetingsController.java" timestamp="1503305913596">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="38" />
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
+      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/APIConstants.java" timestamp="1502445964994">
+        <mark key="[" line="8" column="27" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503400983064">
+        <mark key="'" line="36" column="26" />
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/TailLogThread.java" timestamp="1503395374264">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Dummy.regexp" timestamp="1503048415742">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503369115192">
         <mark key="[" line="6" column="0" />
@@ -149,29 +93,65 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503385544692">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="32" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503396333416">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503394701491">
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/tailfile.xml" timestamp="1503322874083">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503454044376">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/log.vm" timestamp="1503454065068">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="72" />
+        <mark key="." line="8" column="72" />
+        <mark key="^" line="8" column="72" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/log/index.html" timestamp="1503384023230">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/RequestListener.java" timestamp="1503382567018" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/main/LoginController.java" timestamp="1503381191858" />
+      <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503308163562">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503394845567">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/InsuranceDoMapper.xml" timestamp="1502881024530">
+        <mark key="[" line="53" column="40" />
+      </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1502956815076">
         <mark key="[" line="7" column="43" />
+      </file>
+      <file name="/Dummy.xpath" timestamp="1503048415748">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="7" column="52" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/CertificateNoUtil.java" timestamp="1502941385374">
         <mark key="[" line="32" column="19" />
@@ -180,6 +160,12 @@
         <mark key="[" line="30" column="71" />
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1503384218449">
+        <mark key="[" line="83" column="18" />
+        <mark key="]" line="84" column="20" />
+        <mark key="." line="84" column="20" />
+        <mark key="^" line="84" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1503399624368">
         <mark key="[" line="0" column="0" />
@@ -294,11 +280,11 @@
       <jump line="36" column="26" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPsS/x7C7udTazerJxrLiytS917bOo6y0+sLr1ru05tTasuLK1Lu3vrM8L2xpPgo=</text>
+      <register name="&quot;" type="4">
+        <text>catalina.out</text>
       </register>
       <register name="-" type="4">
-        <text>线上环境暂未开启</text>
+        <text>catalina.out</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -306,33 +292,33 @@
       <register name="0" type="4">
         <text>environment</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPsS/x7C7udTazerJxrLiytS917bOo6y0+sLr1ru05tTasuLK1Lu3vrM8L2xpPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgNGZhM2E1MQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAoIXN0b3ApIHsKCQkJc3RvcCA9IEJvb2xlYW4uVFJVRTsKCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPsS/x7C7udTazerJxrLiytS917bOo6y0+sLr1ru05tTasuLK1Lu3vrM8L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0aHJlYWQuZ2V0UmVhZGVyKCkuY2xvc2UoKTsK</text>
+        <text encoding="base64">CQlpZiAoIXN0b3ApIHsKCQkJc3RvcCA9IEJvb2xlYW4uVFJVRTsKCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQluZXcgVGhyZWFkR3JvdXAoKQo=</text>
+        <text encoding="base64">CQl0aHJlYWQuZ2V0UmVhZGVyKCkuY2xvc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aGlzLnN1cGVyKCkK</text>
+        <text encoding="base64">CQluZXcgVGhyZWFkR3JvdXAoKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQl0aGlzLnN1cGVyKCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>finally {
 		}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZXNzaW9uLmNsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgcmVhZGVyLgo=</text>
+        <text encoding="base64">CQlzZXNzaW9uLmNsCg==</text>
       </register>
     </registers>
     <search>
