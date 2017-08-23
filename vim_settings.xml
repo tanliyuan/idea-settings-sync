@@ -79,10 +79,11 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/TailLogThread.java" timestamp="1503395374264">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/TailLogThread.java" timestamp="1503457430017">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="/Dummy.regexp" timestamp="1503048415742">
         <mark key="[" line="0" column="0" />
@@ -281,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>catalina.out</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>catalina.out</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
