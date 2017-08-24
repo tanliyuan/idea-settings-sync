@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1503021095681">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/WanZhangRestAPI.java" timestamp="1503539884202">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="59" />
+        <mark key="^" line="11" column="59" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/MobileValidator.java" timestamp="1503320313559">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="48" />
@@ -51,6 +57,13 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503540516081">
+        <mark key="'" line="74" column="29" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503493756535">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="28" column="23" />
@@ -85,15 +98,22 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503493110887">
-        <mark key="]" line="56" column="56" />
-        <mark key="^" line="56" column="56" />
-        <mark key="." line="56" column="56" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503540224368">
+        <mark key="'" line="66" column="11" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="70" column="4" />
+        <mark key="^" line="70" column="4" />
+        <mark key="." line="70" column="4" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
         <mark key="'" line="113" column="1" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1503538672234" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1503539637046">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
       </file>
@@ -188,6 +208,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" timestamp="1503540104449">
+        <mark key="'" line="118" column="27" />
+        <mark key="[" line="116" column="5" />
+        <mark key="]" line="118" column="27" />
+        <mark key="^" line="118" column="27" />
+        <mark key="." line="118" column="27" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
@@ -215,8 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="12" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
-      <jump line="589" column="48" filename="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.5.8-internal/rocketmq-client-3.5.8-internal-sources.jar!/com/alibaba/rocketmq/shade/io/netty/util/concurrent/DefaultPromise.java" />
       <jump line="884" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.5.8-internal/rocketmq-client-3.5.8-internal-sources.jar!/com/alibaba/rocketmq/shade/io/netty/util/concurrent/DefaultPromise.java" />
       <jump line="45" column="16" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="242" column="69" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/OrderVO.java" />
@@ -290,7 +315,6 @@
       <jump line="270" column="41" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="43" column="21" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="79" column="13" filename="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" />
-      <jump line="63" column="63" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
       <jump line="277" column="27" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="37" column="26" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
       <jump line="56" column="31" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
@@ -315,46 +339,49 @@
       <jump line="114" column="34" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="45" column="36" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="113" column="1" filename="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" />
+      <jump line="118" column="27" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" />
+      <jump line="63" column="11" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
+      <jump line="66" column="29" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>customPropertyPlaceholderConfigurer</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>customPropertyPlaceholderConfigurer</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJVGFpbGVyTGlzdGVuZXIgbGlzdGVuZXIgPSBuZXcgTXlUYWlsZXJMaXN0ZW5lcihzZXNzaW9uKTsKCQkJdGFpbGVyID0gVGFpbGVyLmNyZWF0ZShuZXcgRmlsZSgiRDpcXGlucHV0XFx0ZXN0LnR4dCIpLCBsaXN0ZW5lciwgMTAwMCk7CgkJCSB0aHJlYWQgPSBuZXcgVGhyZWFkKHRhaWxlciwgInRhaWwiKTsKCQkJdGhyZWFkLnNldERhZW1vbih0cnVlKTsKCQkJdGhyZWFkLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIG5vdGlmeUluc3VyYW5jZShJbnN1cmFuY2VSZXF1ZXN0RFRPIHJlcXVlc3REVE8pIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgeyBzZXNzaW9uLmdldEJhc2ljUmVtb3RlKCkuc2VuZFRleHQobGluZSArICI8YnI+Iik7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdGFpbGVyLnJ1bigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHt3YW56aGFuZy5wdWJsaWNLZXl9IikKICAgIHByaXZhdGUgU3RyaW5nIHB1YmxpY0tleTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUYWlsZXIK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgeyBzZXNzaW9uLmdldEJhc2ljUmVtb3RlKCkuc2VuZFRleHQobGluZSArICI8YnI+Iik7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJICAgIFRhaWxlcgo=</text>
+        <text encoding="base64">CQkJdGFpbGVyLnJ1bigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXJlYWRlci5zCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUYWlsZXIK</text>
       </register>
     </registers>
     <search>
