@@ -55,10 +55,11 @@
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1503542127945">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503551098245">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503554384815">
+        <mark key="[" line="84" column="51" />
+        <mark key="]" line="84" column="68" />
+        <mark key="." line="84" column="68" />
+        <mark key="^" line="84" column="68" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503493756535">
         <mark key="[" line="40" column="27" />
@@ -66,7 +67,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503547734630">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503553918270">
         <mark key="'" line="71" column="10" />
         <mark key="[" line="65" column="69" />
         <mark key="]" line="65" column="82" />
@@ -117,6 +118,9 @@
         <mark key="[" line="7" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1503551239245" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1503552897725">
+        <mark key="[" line="121" column="11" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/static/js/tailfileapp.js" timestamp="1503303058665">
         <mark key="[" line="49" column="41" />
         <mark key="]" line="49" column="41" />
@@ -164,11 +168,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503545634485">
-        <mark key="[" line="159" column="21" />
-        <mark key="]" line="171" column="20" />
-        <mark key="^" line="171" column="20" />
-        <mark key="." line="171" column="20" />
+      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503552503967">
+        <mark key="[" line="164" column="21" />
+        <mark key="]" line="164" column="29" />
+        <mark key="^" line="164" column="29" />
+        <mark key="." line="164" column="29" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/Tst.java" timestamp="1503489622999">
         <mark key="[" line="21" column="27" />
@@ -210,7 +214,7 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1503551328814">
+      <file name="/fragment.java" timestamp="1503554385605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -326,11 +330,11 @@
       <jump line="66" column="11" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzLnNldEFjY2VwdChBcnJheXMuYXNMaXN0KE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>json</text>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_JSON</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
