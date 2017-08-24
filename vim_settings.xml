@@ -21,12 +21,12 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" timestamp="1503568317543">
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" timestamp="1503568582481">
         <mark key="'" line="91" column="30" />
         <mark key="[" line="94" column="9" />
-        <mark key="]" line="95" column="18" />
-        <mark key="." line="95" column="18" />
-        <mark key="^" line="95" column="18" />
+        <mark key="]" line="96" column="22" />
+        <mark key="." line="96" column="22" />
+        <mark key="^" line="96" column="22" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/pom.xml" timestamp="1503314860450">
         <mark key="[" line="17" column="24" />
@@ -72,10 +72,8 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1502338001108">
         <mark key="[" line="36" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/commons/commons.common/1.2.5/commons.common-1.2.5.jar!/com/weidai/commons/util/DateUtil.class" timestamp="1503568785784" />
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/DateTime.java" timestamp="1503566170152" />
-      <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1503544161734">
-        <mark key="[" line="7" column="43" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1503551239245" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1503555504952">
         <mark key="[" line="123" column="0" />
@@ -236,11 +234,11 @@
       <jump line="89" column="30" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yyyy-MM-dd HH:mm:ss</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlVXRpbHMuZm8K</text>
       </register>
       <register name="-" type="4">
-        <text>和</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -249,31 +247,31 @@
         <text>yyyy-MM-dd HH:mm:ss</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5wYXJzZSgieXl5eS1NTS1kZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVXRpbHMuZm8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5wYXJzZSgieXl5eS1NTS1kZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVXRpbHMucGFyc2VEYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uT2JqLnRvCg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVXRpbHMucGFyc2VEYXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uT2JqLnRvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXVzZXJEVE9ScGNSZXN1bHQuaXNTdWNjZXNzKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXVzZXJEVE9ScGNSZXN1bHQuaXNTdWNjZXNzKCkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhblpoYW5nUmVzdEFQSS5ub3RpZnlJbnN1cmFuY2UoaW5zdXJhbmNlUmVxdWVzdERUTyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdhblpoYW5nUmVzdEFQSS5ub3RpZnlJbnN1cmFuY2UoaW5zdXJhbmNlUmVxdWVzdERUTyk7Cg==</text>
       </register>
     </registers>
     <search>
