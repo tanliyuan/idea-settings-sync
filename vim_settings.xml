@@ -41,7 +41,7 @@
         <mark key="." line="8" column="72" />
         <mark key="^" line="8" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1503564905383" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1503575340562" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/log/index.html" timestamp="1503384023230">
         <mark key="[" line="17" column="47" />
         <mark key="]" line="17" column="53" />
@@ -67,11 +67,11 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="66" column="37" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503572660546">
-        <mark key="[" line="73" column="62" />
-        <mark key="]" line="73" column="66" />
-        <mark key="." line="73" column="66" />
-        <mark key="^" line="73" column="66" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503575452012">
+        <mark key="[" line="73" column="41" />
+        <mark key="]" line="73" column="41" />
+        <mark key="." line="73" column="41" />
+        <mark key="^" line="73" column="56" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503493756535">
         <mark key="[" line="40" column="27" />
@@ -85,12 +85,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503573533685">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503575350078">
         <mark key="'" line="76" column="10" />
-        <mark key="[" line="73" column="53" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-        <mark key="^" line="74" column="43" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="73" column="50" />
+        <mark key="." line="73" column="50" />
+        <mark key="^" line="73" column="50" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
         <mark key="[" line="8" column="15" />
@@ -332,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;charset=UTF-8</text>
+        <text>APPLICATION_JSON</text>
       </register>
       <register name="-" type="4">
-        <text>;charset=UTF-8</text>
+        <text>APPLICATION_JSON</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
