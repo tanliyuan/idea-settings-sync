@@ -21,12 +21,12 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" timestamp="1503567140761">
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" timestamp="1503568317543">
         <mark key="'" line="91" column="30" />
-        <mark key="[" line="93" column="61" />
-        <mark key="]" line="93" column="71" />
-        <mark key="." line="93" column="71" />
-        <mark key="^" line="93" column="71" />
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="95" column="18" />
+        <mark key="." line="95" column="18" />
+        <mark key="^" line="95" column="18" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/pom.xml" timestamp="1503314860450">
         <mark key="[" line="17" column="24" />
@@ -94,7 +94,7 @@
         <mark key="[" line="13" column="42" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503555236352" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503567388424">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503568343182">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="9" column="33" />
@@ -236,17 +236,17 @@
       <jump line="89" column="30" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5wYXJzZSgieXl5eS1NTS1kZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>yyyy-MM-dd HH:mm:ss</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>和</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;计算周岁，生日解析失败&quot;</text>
+        <text>yyyy-MM-dd HH:mm:ss</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBEYXRlVGltZS5wYXJzZSgieXl5eS1NTS1kZCIpCg==</text>
