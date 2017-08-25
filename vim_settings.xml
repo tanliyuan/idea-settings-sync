@@ -29,7 +29,7 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/BaseController.java" timestamp="1503642067537" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/BaseController.java" timestamp="1503648420389" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.6.RELEASE/spring-webmvc-4.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.java" timestamp="1503642686784" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/tailfile.xml" timestamp="1503322874083">
         <mark key="[" line="20" column="9" />
@@ -54,6 +54,9 @@
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="55" />
         <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" timestamp="1503648472563">
+        <mark key="'" line="85" column="11" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503471472073">
         <mark key="[" line="6" column="1" />
@@ -113,6 +116,9 @@
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503641947192" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1503631892288" />
+      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
+        <mark key="'" line="113" column="1" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1503628447837">
         <mark key="'" line="48" column="36" />
         <mark key="[" line="129" column="52" />
@@ -232,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="8" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="239" column="15" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="143" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="172" column="19" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
@@ -332,6 +337,7 @@
       <jump line="271" column="12" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="161" column="107" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
       <jump line="195" column="124" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" />
+      <jump line="85" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
