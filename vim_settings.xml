@@ -9,6 +9,7 @@
         <mark key="^" line="42" column="98" />
         <mark key="." line="42" column="98" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/UserRegisterDTO.java" timestamp="1503626524686" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/WanZhangRestAPI.java" timestamp="1503559383751">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="7" />
@@ -22,7 +23,6 @@
         <mark key="." line="96" column="22" />
         <mark key="^" line="96" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/web/client/HttpClientErrorException.java" timestamp="1503571576668" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/MobileValidator.java" timestamp="1503320313559">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="48" />
@@ -41,7 +41,6 @@
         <mark key="." line="8" column="72" />
         <mark key="^" line="8" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1503575340562" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/log/index.html" timestamp="1503384023230">
         <mark key="[" line="17" column="47" />
         <mark key="]" line="17" column="53" />
@@ -67,7 +66,7 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="66" column="37" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503575452012">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503628700262">
         <mark key="[" line="73" column="41" />
         <mark key="]" line="73" column="41" />
         <mark key="." line="73" column="41" />
@@ -79,17 +78,23 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/address/impl/AddressServiceImpl.java" timestamp="1503627258173">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/StringTest.java" timestamp="1503571440773">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503575350078">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503626885646">
         <mark key="'" line="76" column="10" />
-        <mark key="[" line="72" column="30" />
-        <mark key="]" line="73" column="50" />
-        <mark key="." line="73" column="50" />
+        <mark key="[" line="20" column="78" />
+        <mark key="]" line="20" column="78" />
+        <mark key="." line="20" column="78" />
         <mark key="^" line="73" column="50" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
@@ -99,40 +104,34 @@
         <mark key="." line="8" column="15" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1503384218449">
-        <mark key="[" line="83" column="18" />
+        <mark key="[" line="13" column="18" />
         <mark key="]" line="84" column="20" />
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
-        <mark key="'" line="113" column="1" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503627568305">
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1503572115300">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1503628447837">
         <mark key="'" line="48" column="36" />
         <mark key="[" line="129" column="52" />
         <mark key="]" line="129" column="77" />
         <mark key="." line="129" column="77" />
         <mark key="^" line="129" column="77" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/commons/commons.common/1.2.5/commons.common-1.2.5.jar!/com/weidai/commons/util/DateUtil.class" timestamp="1503570653439" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1503368414158">
         <mark key="[" line="55" column="15" />
         <mark key="]" line="55" column="19" />
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="D:/IDEA-project/ac/pom.xml" timestamp="1503571148537">
-        <mark key="'" line="271" column="12" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/commons/commons.common/1.2.5/commons.common-1.2.5-sources.jar!/com/weidai/commons/util/DateUtil.java" timestamp="1503571261196" />
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/DateTime.java" timestamp="1503566170152" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1503551239245" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1503555504952">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1503574250678" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/static/js/tailfileapp.js" timestamp="1503303058665">
         <mark key="[" line="49" column="41" />
         <mark key="]" line="49" column="41" />
@@ -197,7 +196,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503572751718">
+      <file name="/Dummy.txt" timestamp="1503627633941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -207,9 +206,6 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" timestamp="1503567509545" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/Swagger2Config.java" timestamp="1503567541865" />
-      <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1503544147820" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
         <mark key="[" line="30" column="71" />
         <mark key="]" line="30" column="71" />
@@ -332,10 +328,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>APPLICATION_JSON</text>
+        <text>addressService</text>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_JSON</text>
+        <text>addressService</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
