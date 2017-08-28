@@ -105,6 +105,9 @@
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
         <mark key="'" line="113" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" timestamp="1503888957014">
+        <mark key="'" line="94" column="13" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1503628447837">
         <mark key="'" line="48" column="36" />
         <mark key="[" line="129" column="52" />
@@ -226,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="15" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="143" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="172" column="19" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="212" column="25" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
@@ -326,6 +328,7 @@
       <jump line="161" column="107" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
       <jump line="195" column="124" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" />
       <jump line="85" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" />
+      <jump line="94" column="13" filename="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
