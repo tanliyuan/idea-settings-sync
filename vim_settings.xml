@@ -47,11 +47,11 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/log.vm" timestamp="1503472914264">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="72" />
-        <mark key="." line="8" column="72" />
-        <mark key="^" line="8" column="72" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/log.vm" timestamp="1503913745641">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="127" column="31" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/log/index.html" timestamp="1503384023230">
         <mark key="[" line="17" column="47" />
@@ -64,9 +64,6 @@
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="55" />
         <mark key="^" line="21" column="11" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" timestamp="1503648472563">
-        <mark key="'" line="85" column="11" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/service/FileContentRecordingService.java" timestamp="1503471472073">
         <mark key="[" line="6" column="1" />
@@ -118,20 +115,10 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503909076887">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="7" column="52" />
-        <mark key="." line="8" column="15" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503903768389">
-        <mark key="'" line="54" column="0" />
-      </file>
-      <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
-        <mark key="'" line="113" column="1" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" timestamp="1503888957014">
-        <mark key="'" line="94" column="13" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503915410586">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1503368414158">
         <mark key="[" line="55" column="15" />
@@ -209,6 +196,12 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503915634969">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503396333416">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="16" column="54" />
@@ -238,9 +231,6 @@
         <mark key="]" line="23" column="15" />
         <mark key="." line="23" column="15" />
         <mark key="^" line="18" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" timestamp="1503642209086">
-        <mark key="'" line="195" column="124" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
         <mark key="[" line="30" column="71" />
@@ -364,11 +354,11 @@
       <jump line="54" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>class=&quot;row&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>下</text>
+        <text>class=&quot;row&quot;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -377,31 +367,31 @@
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuY29udmVydGVyLnhtbC5NYXBwaW5nSmFja3NvbjJYbWxIdHRwTWVzc2FnZUNvbnZlcnRlciIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gc3VwcG9ydHMoTWV0aG9kUGFyYW1ldGVyIG1ldGhvZFBhcmFtZXRlciwgVHlwZSB0YXJnZXRUeXBlLCBDbGFzczw/IGV4dGVuZHMgSHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlclR5cGUpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JqZWN0IGhhbmRsZUVtcHR5Qm9keShPYmplY3QgYm9keSwgSHR0cElucHV0TWVzc2FnZSBpbnB1dE1lc3NhZ2UsIE1ldGhvZFBhcmFtZXRlciBwYXJhbWV0ZXIsIFR5cGUgdGFyZ2V0VHlwZSwgQ2xhc3M8PyBleHRlbmRzIEh0dHBNZXNzYWdlQ29udmVydGVyPD8+PiBjb252ZXJ0ZXJUeXBlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgSHR0cElucHV0TWVzc2FnZSBiZWZvcmVCb2R5UmVhZChIdHRwSW5wdXRNZXNzYWdlIGlucHV0TWVzc2FnZSwgTWV0aG9kUGFyYW1ldGVyIHBhcmFtZXRlciwgVHlwZSB0YXJnZXRUeXBlLCBDbGFzczw/IGV4dGVuZHMgSHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlclR5cGUpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JqZWN0IGFmdGVyQm9keVJlYWQoT2JqZWN0IGJvZHksIEh0dHBJbnB1dE1lc3NhZ2UgaW5wdXRNZXNzYWdlLCBNZXRob2RQYXJhbWV0ZXIgcGFyYW1ldGVyLCBUeXBlIHRhcmdldFR5cGUsIENsYXNzPD8gZXh0ZW5kcyBIdHRwTWVzc2FnZUNvbnZlcnRlcjw/Pj4gY29udmVydGVyVHlwZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmogPSBKU09OT2JqZWN0LmZyb21PYmplY3QocmVxdWVzdERUTyk7Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KCjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjcGFyc2UoIi9sYXlvdXQvbmF2YmFyLnZtIikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCEtLSBMaXN019a2zsjnufvOqm51bGwsyuSz9s6qW10stvi3x251bGwgLS0+CiAgICAgICAgICAgICAgICA8dmFsdWU+V3JpdGVOdWxsTGlzdEFzRW1wdHk8L3ZhbHVlPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICA8L3NjcmlwdD4K</text>
       </register>
     </registers>
     <search>
