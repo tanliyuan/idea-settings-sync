@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Copyright.txt.ft" timestamp="1503903827179">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1503900557002" />
+      <file name="/File Header.txt.ft" timestamp="1503903829000">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1503901857702">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +35,9 @@
         <mark key="]" line="21" column="48" />
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1503903823061">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/tailfile.xml" timestamp="1503322874083">
         <mark key="[" line="20" column="9" />
@@ -94,6 +103,9 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1503903822254">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/AppTest.java" timestamp="1503656813466">
         <mark key="[" line="34" column="107" />
         <mark key="]" line="34" column="109" />
@@ -109,7 +121,6 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503901128280">
         <mark key="[" line="66" column="91" />
         <mark key="]" line="70" column="0" />
-        <mark key="^" line="68" column="106" />
         <mark key="." line="70" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
@@ -117,6 +128,9 @@
         <mark key="]" line="8" column="15" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503903768389">
+        <mark key="'" line="54" column="0" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
         <mark key="'" line="113" column="1" />
@@ -186,6 +200,9 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1503903784114">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/index.html" timestamp="1503568343182">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -197,7 +214,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503885584382">
+      <file name="/Dummy.txt" timestamp="1503903911536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -245,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="172" column="19" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="212" column="25" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
       <jump line="99" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/model/AjaxResult.java" />
@@ -345,6 +361,7 @@
       <jump line="195" column="124" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" />
       <jump line="85" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" />
       <jump line="94" column="13" filename="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" />
+      <jump line="54" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
