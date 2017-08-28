@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1503900557002" />
+      <file name="/a.dummy" timestamp="1503901857702">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/controller/address/AddressControllerTest.java" timestamp="1503550134353">
         <mark key="[" line="42" column="99" />
         <mark key="]" line="42" column="98" />
@@ -72,6 +76,12 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="54" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/RequestBodyAdvice.java" timestamp="1503901849531">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="112" />
+        <mark key="^" line="8" column="112" />
+        <mark key="." line="8" column="112" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503493756535">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="28" column="23" />
@@ -96,6 +106,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="36" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503901128280">
+        <mark key="[" line="66" column="91" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="68" column="106" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503372990385">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -114,6 +130,8 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.6.RELEASE/spring-webmvc-4.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.java" timestamp="1503902890499" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1503901795225" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/static/js/tailfileapp.js" timestamp="1503303058665">
         <mark key="[" line="49" column="41" />
         <mark key="]" line="49" column="41" />
@@ -161,6 +179,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="21" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503901025220" />
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/Tst.java" timestamp="1503489622999">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="24" />
@@ -194,6 +213,15 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" timestamp="1503902899616">
+        <mark key="[" line="38" column="39" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/MyRequestBodyAdvice.java" timestamp="1503902368243">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="18" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" timestamp="1503642209086">
         <mark key="'" line="195" column="124" />
       </file>
@@ -202,6 +230,7 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/http/converter/FormHttpMessageConverter.java" timestamp="1503901301915" />
       <file name="/fragment.java" timestamp="1503655512034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -319,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -331,31 +360,31 @@
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmogPSBKU09OT2JqZWN0LmZyb21PYmplY3QocmVxdWVzdERUTyk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gc3VwcG9ydHMoTWV0aG9kUGFyYW1ldGVyIG1ldGhvZFBhcmFtZXRlciwgVHlwZSB0YXJnZXRUeXBlLCBDbGFzczw/IGV4dGVuZHMgSHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlclR5cGUpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JqZWN0IGhhbmRsZUVtcHR5Qm9keShPYmplY3QgYm9keSwgSHR0cElucHV0TWVzc2FnZSBpbnB1dE1lc3NhZ2UsIE1ldGhvZFBhcmFtZXRlciBwYXJhbWV0ZXIsIFR5cGUgdGFyZ2V0VHlwZSwgQ2xhc3M8PyBleHRlbmRzIEh0dHBNZXNzYWdlQ29udmVydGVyPD8+PiBjb252ZXJ0ZXJUeXBlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgSHR0cElucHV0TWVzc2FnZSBiZWZvcmVCb2R5UmVhZChIdHRwSW5wdXRNZXNzYWdlIGlucHV0TWVzc2FnZSwgTWV0aG9kUGFyYW1ldGVyIHBhcmFtZXRlciwgVHlwZSB0YXJnZXRUeXBlLCBDbGFzczw/IGV4dGVuZHMgSHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlclR5cGUpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JqZWN0IGFmdGVyQm9keVJlYWQoT2JqZWN0IGJvZHksIEh0dHBJbnB1dE1lc3NhZ2UgaW5wdXRNZXNzYWdlLCBNZXRob2RQYXJhbWV0ZXIgcGFyYW1ldGVyLCBUeXBlIHRhcmdldFR5cGUsIENsYXNzPD8gZXh0ZW5kcyBIdHRwTWVzc2FnZUNvbnZlcnRlcjw/Pj4gY29udmVydGVyVHlwZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmogPSBKU09OT2JqZWN0LmZyb21PYmplY3QocmVxdWVzdERUTyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PCEtLSBMaXN019a2zsjnufvOqm51bGwsyuSz9s6qW10stvi3x251bGwgLS0+CiAgICAgICAgICAgICAgICA8dmFsdWU+V3JpdGVOdWxsTGlzdEFzRW1wdHk8L3ZhbHVlPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PCEtLSBMaXN019a2zsjnufvOqm51bGwsyuSz9s6qW10stvi3x251bGwgLS0+CiAgICAgICAgICAgICAgICA8dmFsdWU+V3JpdGVOdWxsTGlzdEFzRW1wdHk8L3ZhbHVlPg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2YWx1ZT5hcHBsaWNhdGlvbi9qc29uPC92YWx1ZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RVdGlscy5maXJzdE5vbk51bGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2YWx1ZT5hcHBsaWNhdGlvbi9qc29uPC92YWx1ZT4K</text>
       </register>
     </registers>
     <search>
