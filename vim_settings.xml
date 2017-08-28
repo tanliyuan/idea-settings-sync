@@ -3,15 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1503651094631" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/rocketmq/rocketmq-client/3.5.8-internal/rocketmq-client-3.5.8-internal-sources.jar!/com/alibaba/rocketmq/common/message/MessageExt.java" timestamp="1503653722377" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/controller/address/AddressControllerTest.java" timestamp="1503550134353">
         <mark key="[" line="42" column="99" />
         <mark key="]" line="42" column="98" />
         <mark key="^" line="42" column="98" />
         <mark key="." line="42" column="98" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/UserRegisterDTO.java" timestamp="1503626524686" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -23,15 +20,12 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.6.RELEASE/spring-context-4.2.6.RELEASE-sources.jar!/org/springframework/format/annotation/NumberFormat.java" timestamp="1503653437980" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/validator/MobileValidator.java" timestamp="1503320313559">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="48" />
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/BaseController.java" timestamp="1503655094450" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.6.RELEASE/spring-webmvc-4.2.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.java" timestamp="1503642686784" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/META-INF/spring/tailfile.xml" timestamp="1503322874083">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="8" />
@@ -72,6 +66,12 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="66" column="37" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1503885493272">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/LogWebSocketHandle.java" timestamp="1503493756535">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="28" column="23" />
@@ -102,14 +102,6 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1503384218449">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="84" column="20" />
-        <mark key="." line="84" column="20" />
-        <mark key="^" line="84" column="20" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1503655440229" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1503631892288" />
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/test.java" timestamp="1503493711695">
         <mark key="'" line="113" column="1" />
       </file>
@@ -126,12 +118,10 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" timestamp="1503642312162" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1503657500200">
-        <mark key="[" line="111" column="54" />
-        <mark key="]" line="111" column="54" />
-        <mark key="." line="111" column="54" />
-        <mark key="^" line="122" column="50" />
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/resources/static/js/tailfileapp.js" timestamp="1503303058665">
         <mark key="[" line="49" column="41" />
@@ -180,7 +170,6 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1503636872125" />
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/java/com/xxg/websocket/Tst.java" timestamp="1503489622999">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="24" />
@@ -198,18 +187,22 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503656484866">
+      <file name="/Dummy.txt" timestamp="1503885584382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.6.RELEASE/spring-context-4.2.6.RELEASE-sources.jar!/org/springframework/format/support/FormattingConversionServiceFactoryBean.java" timestamp="1503649037158" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" timestamp="1503885319739">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" timestamp="1503629952414" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" timestamp="1503642209086">
         <mark key="'" line="195" column="124" />
       </file>
@@ -218,7 +211,6 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/http/converter/FormHttpMessageConverter.java" timestamp="1503642664641" />
       <file name="/fragment.java" timestamp="1503655512034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -231,7 +223,6 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/accept/ContentNegotiationManagerFactoryBean.java" timestamp="1503656097387" />
     </filemarks>
     <jumps>
       <jump line="239" column="15" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
@@ -336,11 +327,11 @@
       <jump line="85" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>JsonIgnore</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -349,33 +340,31 @@
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmogPSBKU09OT2JqZWN0LmZyb21PYmplY3QocmVxdWVzdERUTyk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PCEtLSBMaXN019a2zsjnufvOqm51bGwsyuSz9s6qW10stvi3x251bGwgLS0+CiAgICAgICAgICAgICAgICA8dmFsdWU+V3JpdGVOdWxsTGlzdEFzRW1wdHk8L3ZhbHVlPg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2YWx1ZT5hcHBsaWNhdGlvbi9qc29uPC92YWx1ZT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBPYmplY3RVdGlscy5maXJzdE5vbk51bGwoKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>InsuranceRequestDTO.PersonInfo personInfo = requestDTO.new PersonInfo();
-        personInfo.setBirthday(DateUtil.formatDate(insuranceVO.getBirthday(), &quot;yyyy-MM-dd&quot;);
-        personInfo.setSex(insuranceVO.getGender() == 0 ?</text>
       </register>
     </registers>
     <search>
