@@ -56,6 +56,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1503903823061">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/sparklr-boot/src/test/java/demo/GenerateCSR.java" timestamp="1504007795372">
+        <mark key="[" line="106" column="76" />
+        <mark key="]" line="106" column="76" />
+        <mark key="." line="106" column="76" />
+        <mark key="^" line="106" column="76" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503396333416">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="16" column="54" />
@@ -66,6 +72,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/IDEA-project/sparklr-boot/src/test/java/demo/test.java" timestamp="1504007594623" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
@@ -205,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">JnF1b3Q7</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">JnF1b3Q7</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
