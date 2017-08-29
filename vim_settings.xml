@@ -46,27 +46,15 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1503903823061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/navbar.vm" timestamp="1503915634969">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503396333416">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503974451573">
+      <file name="/Dummy.txt" timestamp="1503993320578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/log.vm" timestamp="1503916394692">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
@@ -97,11 +85,6 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="D:/IDEA-project/spring-atmosphere-samples/spring-integration-atmosphere-sample/src/main/java/org/springframework/integration/samples/asynchttp/controller/HomeController.java" timestamp="1503974171171" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/layout.vm" timestamp="1503915410586">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
         <mark key="[" line="30" column="71" />
         <mark key="]" line="30" column="71" />
@@ -211,8 +194,8 @@
       <jump line="54" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>spring-integration-atmosphere</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQk8aHR0cENvbm5lY3Rvcj4KCQkJCQkJPHBvcnQ+PC9wb3J0PgoJCQkJCTwvaHR0cENvbm5lY3Rvcj4K</text>
       </register>
       <register name="-" type="4">
         <text>spring-integration-atmosphere</text>
@@ -224,31 +207,31 @@
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCQk8aHR0cENvbm5lY3Rvcj4KCQkJCQkJPHBvcnQ+PC9wb3J0PgoJCQkJCTwvaHR0cENvbm5lY3Rvcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdD4KCjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KCjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjcGFyc2UoIi9sYXlvdXQvbmF2YmFyLnZtIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjcGFyc2UoIi9sYXlvdXQvbmF2YmFyLnZtIikK</text>
       </register>
     </registers>
     <search>
