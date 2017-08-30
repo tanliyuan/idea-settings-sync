@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Copyright.txt.ft" timestamp="1503903827179">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/AuthImpl.java" timestamp="1504059388624">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="13" column="73" />
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
-      </file>
-      <file name="/File Header.txt.ft" timestamp="1503903829000">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504080156914">
         <mark key="[" line="19" column="11" />
@@ -23,9 +17,6 @@
       </file>
       <file name="D:/IDEA-project/ac/pom.xml" timestamp="1504085678880" />
       <file name="/XPlanTenderListener.java" timestamp="1504080996804" />
-      <file name="/a.dummy" timestamp="1503901857702">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/software/java/jdk1.7.0_79/src.zip!/java/net/Authenticator.java" timestamp="1504059720362" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1504087744663" />
       <file name="D:/IDEA-project/spring-atmosphere-samples/spring-integration-atmosphere-sample/pom.xml" timestamp="1503974385547">
@@ -60,17 +51,11 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1503903784114">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/CustomPropertyPlaceholderConfigurer.java" timestamp="1504082245136">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1503903823061">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/sparklr-boot/src/test/java/demo/GenerateCSR.java" timestamp="1504007795372">
         <mark key="[" line="106" column="76" />
@@ -83,7 +68,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504087941381">
+      <file name="/Dummy.txt" timestamp="1504090744995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -95,9 +80,6 @@
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" timestamp="1504084612641" />
       <file name="D:/IDEA-project/java-request-signer/src/test/java/com/rill/rest/HttpQueryParamParserTest.java" timestamp="1504062109725" />
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1503903822254">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503905193357">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -109,8 +91,10 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/Config.java" timestamp="1504077745201">
-        <mark key="[" line="15" column="12" />
+      <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/Config.java" timestamp="1504090662229">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -216,8 +200,8 @@
       <jump line="54" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC54c2QKCQlodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YwoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMueHNkIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wL3NwcmluZy1hb3AueHNkIj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUF0bGFzTWV0cmljcwo=</text>
       </register>
       <register name="-" type="4">
         <text>PropertyPlaceholderConfigurer</text>
@@ -228,32 +212,32 @@
       <register name="0" type="4">
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">QEVuYWJsZUF0bGFzTWV0cmljcwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC54c2QKCQlodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YwoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMueHNkIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wL3NwcmluZy1hb3AueHNkIj4=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGUtbGlzdD4KICAgICAgICA8d2VsY29tZS1maWxlPmluZGV4LmpzcDwvd2VsY29tZS1maWxlPgogICAgPC93ZWxjb21lLWZpbGUtbGlzdD4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CXJlYWRlci5jbG9zZSgpOwoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQl0cnkgewo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQk8aHR0cENvbm5lY3Rvcj4KCQkJCQkJPHBvcnQ+PC9wb3J0PgoJCQkJCTwvaHR0cENvbm5lY3Rvcj4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
     </registers>
     <search>
