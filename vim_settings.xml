@@ -27,6 +27,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/software/java/jdk1.7.0_79/src.zip!/java/net/Authenticator.java" timestamp="1504059720362" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1504087744663" />
       <file name="D:/IDEA-project/spring-atmosphere-samples/spring-integration-atmosphere-sample/pom.xml" timestamp="1503974385547">
         <mark key="[" line="146" column="24" />
         <mark key="]" line="30" column="20" />
@@ -82,7 +83,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504085682447">
+      <file name="/Dummy.txt" timestamp="1504087941381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -101,11 +102,6 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1504058511540">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="D:/IDEA-project/java-request-signer/src/test/java/com/rill/rest/sign/BaseApiRequestSignerTest.java" timestamp="1504062658957" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -221,7 +217,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PropertyPlaceholderConfigurer</text>
+        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC54c2QKCQlodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YwoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMueHNkIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wL3NwcmluZy1hb3AueHNkIj4=</text>
       </register>
       <register name="-" type="4">
         <text>PropertyPlaceholderConfigurer</text>
@@ -232,32 +228,32 @@
       <register name="0" type="4">
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC54c2QKCQlodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YwoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMueHNkIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wL3NwcmluZy1hb3AueHNkIj4=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGUtbGlzdD4KICAgICAgICA8d2VsY29tZS1maWxlPmluZGV4LmpzcDwvd2VsY29tZS1maWxlPgogICAgPC93ZWxjb21lLWZpbGUtbGlzdD4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CXJlYWRlci5jbG9zZSgpOwoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQl0cnkgewo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQk8aHR0cENvbm5lY3Rvcj4KCQkJCQkJPHBvcnQ+PC9wb3J0PgoJCQkJCTwvaHR0cENvbm5lY3Rvcj4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
       </register>
     </registers>
     <search>
