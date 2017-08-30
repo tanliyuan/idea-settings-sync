@@ -15,6 +15,12 @@
       <file name="/File Header.txt.ft" timestamp="1503903829000">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504080156914">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+      </file>
       <file name="/a.dummy" timestamp="1503901857702">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,7 +74,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504062466139">
+      <file name="/Dummy.txt" timestamp="1504080260401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -77,9 +83,6 @@
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" timestamp="1503902899616">
-        <mark key="[" line="38" column="39" />
       </file>
       <file name="D:/IDEA-project/java-request-signer/src/test/java/com/rill/rest/HttpQueryParamParserTest.java" timestamp="1504062109725" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1503903822254">
@@ -91,9 +94,9 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1504058511540">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="D:/IDEA-project/java-request-signer/src/test/java/com/rill/rest/sign/BaseApiRequestSignerTest.java" timestamp="1504062658957" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -209,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getch</text>
+        <text>和返回json格式的请求用不同的分开</text>
       </register>
       <register name="-" type="4">
-        <text>getch</text>
+        <text>和返回json格式的请求用不同的分开</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
