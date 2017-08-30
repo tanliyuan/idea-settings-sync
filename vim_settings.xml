@@ -61,6 +61,12 @@
       <file name="/HTML File.txt.ft" timestamp="1503903784114">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/CustomPropertyPlaceholderConfigurer.java" timestamp="1504082245136">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1503903823061">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,7 +81,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504080260401">
+      <file name="/Dummy.txt" timestamp="1504082521457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -95,9 +101,9 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1504058511540">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="D:/IDEA-project/java-request-signer/src/test/java/com/rill/rest/sign/BaseApiRequestSignerTest.java" timestamp="1504062658957" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -213,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>和返回json格式的请求用不同的分开</text>
+        <text>PropertyPlaceholderConfigurer</text>
       </register>
       <register name="-" type="4">
-        <text>和返回json格式的请求用不同的分开</text>
+        <text>PropertyPlaceholderConfigurer</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
