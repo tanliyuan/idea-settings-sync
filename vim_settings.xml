@@ -53,11 +53,11 @@
         <mark key="^" line="182" column="20" />
         <mark key="." line="182" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504176812940">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="22" column="13" />
-        <mark key="." line="22" column="13" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504178696003">
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="44" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="50" column="44" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503995709725">
         <mark key="[" line="30" column="8" />
@@ -78,11 +78,11 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="26" column="55" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueService.java" timestamp="1504176823194">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueService.java" timestamp="1504178587091">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="21" column="60" />
+        <mark key="^" line="21" column="60" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/AssessFaceValueService.java" timestamp="1504170614764">
         <mark key="[" line="14" column="39" />
@@ -347,11 +347,11 @@
       <jump line="61" column="3" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/impl/FastDFSServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy+8x8K8yc+0qwogICAgICAgICAgICBmYWNlVmFsdWVTZXJ2aWNlLnNhdmVJbmZvKCkK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>, properties</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
