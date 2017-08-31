@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504151218899">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/AuthImpl.java" timestamp="1504059388624">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="13" column="73" />
@@ -28,6 +34,12 @@
         <mark key="^" line="30" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/weidai/wdmsg/wdmsg-common-service-facade/1.1.1/wdmsg-common-service-facade-1.1.1-sources.jar!/com/weidai/wdmsg/facade/api/MsgSendFacade.java" timestamp="1504147387062" />
+      <file name="D:/IDEA-project/ac/ac-service/pom.xml" timestamp="1504150937356">
+        <mark key="[" line="222" column="21" />
+        <mark key="]" line="228" column="20" />
+        <mark key="^" line="228" column="20" />
+        <mark key="." line="228" column="20" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -86,11 +98,23 @@
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/SysConfigDoMapperExt.xml" timestamp="1504146918706" />
       <file name="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/FileUploadUtils.java" timestamp="1504148226786" />
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/ShowgirlServiceImpl.java" timestamp="1504146989370" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/AppTest.java" timestamp="1504151598126">
+        <mark key="[" line="64" column="112" />
+        <mark key="]" line="64" column="82" />
+        <mark key="." line="64" column="82" />
+        <mark key="^" line="64" column="82" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/SysConfigDoMapperExt.java" timestamp="1504146850372" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503905193357">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-fastdfs.xml" timestamp="1504151187477">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
         <mark key="[" line="30" column="71" />
@@ -206,11 +230,11 @@
       <jump line="119" column="41" filename="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/wechat/mapper/WechatMenuMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZUF0bGFzTWV0cmljcwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>PropertyPlaceholderConfigurer</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -219,31 +243,31 @@
         <text>classpath:META-INF/spring/ac-context.xml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZUF0bGFzTWV0cmljcwo=</text>
+        <text encoding="base64">CQluZXcgUGF0aCgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC54c2QKCQlodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YwoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMueHNkIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wL3NwcmluZy1hb3AueHNkIj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGUtbGlzdD4KICAgICAgICA8d2VsY29tZS1maWxlPmluZGV4LmpzcDwvd2VsY29tZS1maWxlPgogICAgPC93ZWxjb21lLWZpbGUtbGlzdD4K</text>
+        <text encoding="base64">QEVuYWJsZUF0bGFzTWV0cmljcwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CXJlYWRlci5jbG9zZSgpOwoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9</text>
+        <text encoding="base64">IHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucwogICAgICAgCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMvc3ByaW5nLWJlYW5zLnhzZAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dAoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dC9zcHJpbmctY29udGV4dC54c2QKCQlodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YwoJCWh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMueHNkIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYW9wL3NwcmluZy1hb3AueHNkIj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGUtbGlzdD4KICAgICAgICA8d2VsY29tZS1maWxlPmluZGV4LmpzcDwvd2VsY29tZS1maWxlPgogICAgPC93ZWxjb21lLWZpbGUtbGlzdD4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQk8aHR0cENvbm5lY3Rvcj4KCQkJCQkJPHBvcnQ+PC9wb3J0PgoJCQkJCTwvaHR0cENvbm5lY3Rvcj4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CXJlYWRlci5jbG9zZSgpOwoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">CQkJCQk8aHR0cENvbm5lY3Rvcj4KCQkJCQkJPHBvcnQ+PC9wb3J0PgoJCQkJCTwvaHR0cENvbm5lY3Rvcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
