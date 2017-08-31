@@ -70,7 +70,8 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504144735163">
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/RedPackageWordApiImpl.java" timestamp="1504146725517" />
+      <file name="/Dummy.txt" timestamp="1504146856637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -80,6 +81,12 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/RedPackageWordForeignServiceImpl.java" timestamp="1504146738235" />
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/ActivityConfigServiceImpl.java" timestamp="1504146959387" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/SysConfigDoMapperExt.xml" timestamp="1504146918706" />
+      <file name="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/FileUploadUtils.java" timestamp="1504146814882" />
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/ShowgirlServiceImpl.java" timestamp="1504146989370" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/SysConfigDoMapperExt.java" timestamp="1504146850372" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1503905193357">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -97,7 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="19" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="212" column="25" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/wechatpower/PeriodProductVO.java" />
       <jump line="99" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/model/AjaxResult.java" />
       <jump line="113" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/model/AjaxResult.java" />
@@ -197,6 +203,7 @@
       <jump line="85" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomDateEditor.java" />
       <jump line="94" column="13" filename="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" />
       <jump line="54" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
+      <jump line="119" column="41" filename="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/wechat/mapper/WechatMenuMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
