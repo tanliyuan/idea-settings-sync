@@ -3,6 +3,79 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IDEA-project/sql_review/ac/20170830_01/DDL_20170830_01.sql" timestamp="1504097086752">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/wdmsg/wdmsg-common-service-facade/1.1.1/wdmsg-common-service-facade-1.1.1-sources.jar!/com/weidai/wdmsg/facade/api/MsgSendFacade.java" timestamp="1504147387062" />
+      <file name="D:/IDEA-project/ac/ac-service/pom.xml" timestamp="1504167271051">
+        <mark key="[" line="224" column="6" />
+        <mark key="]" line="224" column="19" />
+        <mark key="^" line="224" column="19" />
+        <mark key="." line="224" column="19" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504163225622">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/fastdfs-client/1.2/fastdfs-client-1.2.jar!/com/weidai/fastdfs/FastDfsFileManager.class" timestamp="1504153455745" />
+      <file name="D:/IDEA-project/sparklr-boot/src/test/java/demo/GenerateCSR.java" timestamp="1504007795372">
+        <mark key="[" line="106" column="76" />
+        <mark key="]" line="106" column="76" />
+        <mark key="." line="106" column="76" />
+        <mark key="^" line="106" column="76" />
+      </file>
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/RedPackageWordApiImpl.java" timestamp="1504146725517" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/FastDFSService.java" timestamp="1504164819559">
+        <mark key="[" line="20" column="116" />
+        <mark key="]" line="20" column="138" />
+        <mark key="^" line="20" column="138" />
+        <mark key="." line="20" column="138" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/AssessFaceValueService.java" timestamp="1504169357100">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/RedPackageWordForeignServiceImpl.java" timestamp="1504146738235" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/impl/FastDFSServiceImpl.java" timestamp="1504164907814">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+      </file>
+      <file name="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/FileUploadUtils.java" timestamp="1504148226786" />
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/ShowgirlServiceImpl.java" timestamp="1504146989370" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/AppTest.java" timestamp="1504152740793">
+        <mark key="[" line="64" column="112" />
+        <mark key="]" line="48" column="45" />
+        <mark key="." line="48" column="45" />
+        <mark key="^" line="48" column="45" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-fastdfs.xml" timestamp="1504151187477">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1504159963084">
+        <mark key="[" line="109" column="53" />
+        <mark key="]" line="109" column="53" />
+        <mark key="." line="109" column="53" />
+        <mark key="^" line="109" column="53" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504153622958">
+        <mark key="[" line="63" column="58" />
+        <mark key="]" line="63" column="58" />
+        <mark key="^" line="63" column="61" />
+        <mark key="." line="63" column="58" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504151218899">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="13" />
@@ -21,24 +94,11 @@
         <mark key="^" line="19" column="46" />
         <mark key="." line="19" column="46" />
       </file>
-      <file name="D:/IDEA-project/sql_review/ac/20170830_01/DDL_20170830_01.sql" timestamp="1504097086752">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="40" />
-        <mark key="^" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-      </file>
       <file name="D:/IDEA-project/spring-atmosphere-samples/spring-integration-atmosphere-sample/pom.xml" timestamp="1503974385547">
         <mark key="[" line="146" column="24" />
         <mark key="]" line="30" column="20" />
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/wdmsg/wdmsg-common-service-facade/1.1.1/wdmsg-common-service-facade-1.1.1-sources.jar!/com/weidai/wdmsg/facade/api/MsgSendFacade.java" timestamp="1504147387062" />
-      <file name="D:/IDEA-project/ac/ac-service/pom.xml" timestamp="1504167271051">
-        <mark key="[" line="224" column="6" />
-        <mark key="]" line="224" column="19" />
-        <mark key="^" line="224" column="19" />
-        <mark key="." line="224" column="19" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/ErrorEnum.java" timestamp="1504166699000">
         <mark key="[" line="44" column="30" />
@@ -52,76 +112,28 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504163225622">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/fastdfs-client/1.2/fastdfs-client-1.2.jar!/com/weidai/fastdfs/FastDfsFileManager.class" timestamp="1504153455745" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/CustomPropertyPlaceholderConfigurer.java" timestamp="1504082245136">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="D:/IDEA-project/sparklr-boot/src/test/java/demo/GenerateCSR.java" timestamp="1504007795372">
-        <mark key="[" line="106" column="76" />
-        <mark key="]" line="106" column="76" />
-        <mark key="." line="106" column="76" />
-        <mark key="^" line="106" column="76" />
-      </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/RedPackageWordApiImpl.java" timestamp="1504146725517" />
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/FastDFSService.java" timestamp="1504164819559">
-        <mark key="[" line="20" column="116" />
-        <mark key="]" line="20" column="138" />
-        <mark key="^" line="20" column="138" />
-        <mark key="." line="20" column="138" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504168174338">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="39" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-      </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/RedPackageWordForeignServiceImpl.java" timestamp="1504146738235" />
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/impl/FastDFSServiceImpl.java" timestamp="1504164907814">
-        <mark key="'" line="48" column="11" />
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504168843678">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="22" />
+        <mark key="^" line="34" column="22" />
+        <mark key="." line="34" column="22" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/ActivityConfigServiceImpl.java" timestamp="1504150198325" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/SysConfigDoMapperExt.xml" timestamp="1504146918706" />
-      <file name="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/FileUploadUtils.java" timestamp="1504148226786" />
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/ShowgirlServiceImpl.java" timestamp="1504146989370" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/AppTest.java" timestamp="1504152740793">
-        <mark key="[" line="64" column="112" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="45" />
-        <mark key="^" line="48" column="45" />
-      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/SysConfigDoMapperExt.java" timestamp="1504146850372" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-fastdfs.xml" timestamp="1504151187477">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504169326422">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartFile.java" timestamp="1504165545881" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1504159963084">
-        <mark key="[" line="109" column="53" />
-        <mark key="]" line="109" column="53" />
-        <mark key="." line="109" column="53" />
-        <mark key="^" line="109" column="53" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504153622958">
-        <mark key="[" line="63" column="58" />
-        <mark key="]" line="63" column="58" />
-        <mark key="^" line="63" column="61" />
-        <mark key="." line="63" column="58" />
-      </file>
       <file name="/fragment.java" timestamp="1504159972693">
         <mark key="[" line="0" column="0" />
       </file>
@@ -230,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
