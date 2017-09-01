@@ -62,11 +62,11 @@
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504235515016">
-        <mark key="[" line="54" column="59" />
-        <mark key="]" line="54" column="74" />
-        <mark key="^" line="54" column="74" />
-        <mark key="." line="54" column="74" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504249110909">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="71" column="73" />
+        <mark key="^" line="71" column="73" />
+        <mark key="." line="71" column="73" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503995709725">
         <mark key="[" line="30" column="8" />
@@ -91,11 +91,11 @@
         <mark key="^" line="19" column="107" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueService.java" timestamp="1504229523950">
-        <mark key="[" line="22" column="75" />
-        <mark key="]" line="22" column="89" />
-        <mark key="." line="22" column="89" />
-        <mark key="^" line="22" column="89" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueService.java" timestamp="1504248635406">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="25" column="61" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/AssessFaceValueService.java" timestamp="1504183581192">
         <mark key="[" line="13" column="56" />
@@ -132,7 +132,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504247837496" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504249097901">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/AuthImpl.java" timestamp="1504059388624">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="13" column="73" />
@@ -208,12 +213,12 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504244706410">
-        <mark key="'" line="103" column="23" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="33" />
-        <mark key="." line="112" column="33" />
-        <mark key="^" line="112" column="33" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504248850364">
+        <mark key="'" line="104" column="23" />
+        <mark key="[" line="122" column="9" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="123" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504175433668">
         <mark key="[" line="31" column="0" />
@@ -342,17 +347,17 @@
       <jump line="0" column="0" filename="D:/IDEA-project/ac/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wguanjia.url</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>rest</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>fastdfs-client</text>
+        <text>wguanjia.url</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
