@@ -9,16 +9,29 @@
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/weibutler/FaceValueDo.java" timestamp="1504235886142">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="4" />
+        <mark key="." line="67" column="4" />
+        <mark key="^" line="29" column="17" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/AuthImpl.java" timestamp="1504059388624">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="13" column="73" />
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504232768938">
-        <mark key="[" line="74" column="42" />
-        <mark key="]" line="74" column="42" />
-        <mark key="." line="74" column="42" />
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/AsyncResultCountDownLatch.java" timestamp="1504234977932">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504235786139">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="99" />
+        <mark key="." line="28" column="99" />
+        <mark key="^" line="28" column="99" />
       </file>
       <file name="D:/IDEA-project/sql_review/ac/20170830_01/DDL_20170830_01.sql" timestamp="1504097086752">
         <mark key="[" line="6" column="40" />
@@ -26,6 +39,7 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.6.RELEASE/spring-context-4.2.6.RELEASE-sources.jar!/org/springframework/scheduling/annotation/AsyncResult.java" timestamp="1504234925299" />
       <file name="/a.dummy" timestamp="1504174297791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,16 +123,22 @@
         <mark key="^" line="182" column="20" />
         <mark key="." line="182" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504233494017">
-        <mark key="[" line="54" column="68" />
-        <mark key="]" line="55" column="34" />
-        <mark key="^" line="55" column="34" />
-        <mark key="." line="55" column="34" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504235515016">
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="54" column="74" />
+        <mark key="^" line="54" column="74" />
+        <mark key="." line="54" column="74" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503995709725">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/vo/FaceValueResponseVO.java" timestamp="1504237760754">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="33" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="47" column="33" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/CustomPropertyPlaceholderConfigurer.java" timestamp="1504082245136">
         <mark key="[" line="15" column="8" />
@@ -149,7 +169,7 @@
         <mark key="." line="22" column="89" />
         <mark key="^" line="22" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504176409896">
+      <file name="/Dummy.txt" timestamp="1504236033860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -165,12 +185,12 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504233156104">
-        <mark key="'" line="97" column="23" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="83" column="17" />
-        <mark key="." line="83" column="17" />
-        <mark key="^" line="83" column="17" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504237772460">
+        <mark key="'" line="94" column="23" />
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+        <mark key="." line="73" column="25" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/impl/FastDFSServiceImpl.java" timestamp="1504183389535">
         <mark key="'" line="77" column="63" />
@@ -236,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="14" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="59" column="45" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="241" column="118" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="400" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
@@ -336,13 +355,14 @@
       <jump line="77" column="63" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/impl/FastDFSServiceImpl.java" />
       <jump line="44" column="15" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" />
       <jump line="102" column="23" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
+      <jump line="51" column="16" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/vo/FaceValueResponseVO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SYSTEM_ERROR</text>
+        <text>Double</text>
       </register>
       <register name="-" type="4">
-        <text>SYSTEM_ERROR</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -351,31 +371,37 @@
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoRXJyb3JMb2cuYnVpbGRKc29uU3RyKHJlcXVlc3QsIGUpLCBlKTsKCiAgICAgICAgcmV0dXJuIEFqYXhSZXN1bHQuRVJST1IoRXJyb3JFbnVtLlNZU1RFTV9FUlJPUik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEb3VibGUgZ2V0RmFjZVZhbHVlKCkgewogICAgICAgIHJldHVybiBmYWNlVmFsdWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RmFjZVZhbHVlKERvdWJsZSBmYWNlVmFsdWUpIHsKICAgICAgICB0aGlzLmZhY2VWYWx1ZSA9IGZhY2VWYWx1ZTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzSHVtYW4oKSB7CiAgICAgICAgcmV0dXJuIGlzSHVtYW47CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SHVtYW4oYm9vbGVhbiBodW1hbikgewogICAgICAgIGlzSHVtYW4gPSBodW1hbjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXN1bHQgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQWpheFJlc3VsdC5FUlJPUihFcnJvckVudW0uRkFTVERGU19FUlJPUik7Cg==</text>
+      <register name="4" type="4">
+        <text>public Integer getFaceValue() {
+        return faceValue;
+    }
+
+    public void setFaceValue(Integer faceValue) {
+        this.faceValue = faceValue;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUuZ2V0Q2F1c2UoKSBpbnN0YW5jZW9mIEZhc3RERlNVcGxvYWRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIHRocm93IChGYXN0REZTVXBsb2FkRXhjZXB0aW9uKWUuZ2V0Q2F1c2UoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRmFzdERGU1NlcnZpY2UgZmFzdERGU1NlcnZpY2U7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEFzc2Vzc0ZhY2VWYWx1ZVNlcnZpY2UgYXNzZXNzRmFjZVZhbHVlU2VydmljZTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudERvd25MYXRjaC5jb3VudERvd24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBBamF4UmVzdWx0LmJ1aWxkKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudERvd25MYXRjaC5jb3VudERvd24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExhdGNoKENvdW50RG93bkxhdGNoIGxhdGNoKSB7CiAgICAgICAgdGhpcy5sYXRjaCA9IGxhdGNoOwogICAgfQo=</text>
       </register>
     </registers>
     <search>
