@@ -100,6 +100,7 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="38" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/CapitalListener.java" timestamp="1504257348013" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/StringTest.java" timestamp="1504255029883">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="40" />
@@ -139,11 +140,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504253670522">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="11" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504257136351">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="43" column="13" />
         <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="12" />
+        <mark key="." line="43" column="13" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/AuthImpl.java" timestamp="1504059388624">
         <mark key="[" line="13" column="61" />
@@ -189,6 +190,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-rocketmq.xml" timestamp="1504257357318" />
       <file name="D:/IDEA-project/websocket-tail-demo/pom.xml" timestamp="1503485634464">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -210,16 +212,16 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504253503522">
+      <file name="/Dummy.txt" timestamp="1504257348948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" timestamp="1504254872856">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" timestamp="1504256441763">
         <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="22" />
-        <mark key="^" line="45" column="35" />
-        <mark key="." line="45" column="22" />
+        <mark key="]" line="45" column="9" />
+        <mark key="^" line="45" column="9" />
+        <mark key="." line="45" column="9" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
@@ -233,6 +235,7 @@
         <mark key="." line="124" column="19" />
         <mark key="^" line="124" column="19" />
       </file>
+      <file name="/config.properties" timestamp="1504257098077" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504175433668">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="0" />
@@ -361,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#{wechatOpenId}</text>
+        <text>http://</text>
       </register>
       <register name="-" type="4">
-        <text>#{wechatOpenId}</text>
+        <text>http://</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
