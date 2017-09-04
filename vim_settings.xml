@@ -46,6 +46,9 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1504514080474">
+        <mark key="'" line="288" column="18" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504182560223">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="59" />
@@ -187,7 +190,7 @@
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504235786139">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504515383839">
         <mark key="[" line="28" column="52" />
         <mark key="]" line="28" column="99" />
         <mark key="." line="28" column="99" />
@@ -277,7 +280,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504512123817">
+      <file name="/Dummy.txt" timestamp="1504515065809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -293,7 +296,7 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504512120493">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504515427173">
         <mark key="'" line="136" column="15" />
         <mark key="[" line="141" column="29" />
         <mark key="]" line="141" column="29" />
@@ -306,6 +309,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="14" column="34" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/main/LoginController.java" timestamp="1504263097206">
+        <mark key="'" line="122" column="39" />
       </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504262723425">
         <mark key="[" line="39" column="69" />
@@ -326,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="37" filename="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/controller/HomeController.java" />
       <jump line="82" column="13" filename="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/controller/HomeController.java" />
       <jump line="71" column="18" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="41" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
@@ -426,6 +431,7 @@
       <jump line="70" column="23" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" />
       <jump line="29" column="20" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueStatisticServiceImpl.java" />
       <jump line="91" column="30" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/DESUtil.java" />
+      <jump line="288" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
