@@ -61,6 +61,7 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/web/client/HttpClientErrorException.java" timestamp="1504516741885" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/DESUtil.java" timestamp="1504510228193">
         <mark key="'" line="91" column="30" />
         <mark key="[" line="101" column="46" />
@@ -68,12 +69,12 @@
         <mark key="." line="101" column="46" />
         <mark key="^" line="23" column="67" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504509654150">
-        <mark key="'" line="95" column="7" />
-        <mark key="[" line="95" column="36" />
-        <mark key="]" line="95" column="59" />
-        <mark key="." line="95" column="59" />
-        <mark key="^" line="95" column="59" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504517138691">
+        <mark key="'" line="96" column="7" />
+        <mark key="[" line="87" column="17" />
+        <mark key="]" line="87" column="25" />
+        <mark key="^" line="87" column="25" />
+        <mark key="." line="87" column="25" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503995709725">
         <mark key="[" line="30" column="8" />
@@ -215,6 +216,7 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1504516733751" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1504496487167">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="157" column="10" />
@@ -232,12 +234,6 @@
         <mark key="]" line="8" column="14" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/ErrorEnum.java" timestamp="1504490057022">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="29" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/FastDFSUploadException.java" timestamp="1504163015670">
         <mark key="[" line="8" column="54" />
@@ -296,7 +292,7 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504515427173">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504517326511">
         <mark key="'" line="136" column="15" />
         <mark key="[" line="141" column="29" />
         <mark key="]" line="141" column="29" />
@@ -318,6 +314,11 @@
         <mark key="]" line="42" column="54" />
         <mark key="^" line="42" column="54" />
         <mark key="." line="42" column="54" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504517728762">
+        <mark key="[" line="69" column="17" />
+        <mark key="]" line="69" column="17" />
+        <mark key="." line="69" column="17" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/DESutil.java" timestamp="1504490517458" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -435,10 +436,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>RestClient</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>RestClient</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -447,31 +448,31 @@
         <text>&quot;accountBalance&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBzdGF0aXN0aWNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBhY2NvdW50QmFsYW5jZSA9ICIzNDIyMy4yMyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChTdHJpbmcpKChNYXA8U3RyaW5nLCBPYmplY3Q+KS5nZXQoImFjY291bnRCYWxhbmNlIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0ICE9IG51bGwgJiYgIEludGVnZXIudmFsdWVPZigxKS5lcXVhbHMocmVzdWx0LmdldFIoKSkpIHsKICAgICAgICAgICAgcmV0dXJuIChTdHJpbmcpKChNYXA8U3RyaW5nLCBPYmplY3Q+KS5nZXQoImFjY291bnRCYWxhbmNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwRW50aXR5PE9iamVjdD4gaHR0cEVudGl0eSA9IG5ldyBIdHRwRW50aXR5PD4oaGVhZGVycyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGdldERhdGEoKSB7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGF0YShNYXA8U3RyaW5nLCBPYmplY3Q+IGRhdGEpIHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFJldENvZGUoKSB7CiAgICAgICAgcmV0dXJuIHJldENvZGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmV0Q29kZShJbnRlZ2VyIHJldENvZGUpIHsKICAgICAgICB0aGlzLnJldENvZGUgPSByZXRDb2RlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBzdGF0aXN0aWNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBhY2NvdW50QmFsYW5jZSA9ICIzNDIyMy4yMyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzRG8uc2V0VWlkKHVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChTdHJpbmcpKChNYXA8U3RyaW5nLCBPYmplY3Q+KS5nZXQoImFjY291bnRCYWxhbmNlIik7Cg==</text>
       </register>
     </registers>
     <search>
