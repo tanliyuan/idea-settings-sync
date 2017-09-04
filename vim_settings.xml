@@ -71,10 +71,6 @@
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504517138691">
         <mark key="'" line="96" column="7" />
-        <mark key="[" line="87" column="17" />
-        <mark key="]" line="87" column="25" />
-        <mark key="^" line="87" column="25" />
-        <mark key="." line="87" column="25" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503995709725">
         <mark key="[" line="30" column="8" />
@@ -137,10 +133,11 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="30" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1504500091208">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="5" />
-        <mark key="." line="50" column="5" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1504521383167">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1504498923528">
         <mark key="[" line="80" column="30" />
@@ -276,7 +273,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504515065809">
+      <file name="/Dummy.txt" timestamp="1504521385955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -316,9 +313,9 @@
         <mark key="." line="42" column="54" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504517728762">
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="17" />
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="17" />
+        <mark key="." line="68" column="17" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/DESutil.java" timestamp="1504490517458" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -436,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RestClient</text>
+        <text>NeedLogin</text>
       </register>
       <register name="-" type="4">
-        <text>RestClient</text>
+        <text>NeedLogin</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
