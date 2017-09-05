@@ -59,7 +59,7 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504612142191">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504618502776">
         <mark key="'" line="97" column="7" />
         <mark key="[" line="67" column="12" />
         <mark key="]" line="67" column="40" />
@@ -142,11 +142,11 @@
         <mark key="." line="11" column="10" />
       </file>
       <file name="E:/software/java/jdk1.7.0_79/src.zip!/java/util/concurrent/CompletionService.java" timestamp="1504611047175" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504491380562">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="28" column="27" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504617465267">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/dao/mapper/weibutler/FaceValueDoMapper.java" timestamp="1504265072246">
         <mark key="[" line="31" column="0" />
@@ -282,7 +282,7 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504612032784">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504618229098">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -312,7 +312,7 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1504612051674">
+      <file name="/fragment.java" timestamp="1504618503648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -422,16 +422,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>发</text>
+        <text>scheduled</text>
       </register>
       <register name="-" type="4">
-        <text>发</text>
+        <text>scheduled</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>uploadFastdfsResult</text>
+        <text>executor</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
