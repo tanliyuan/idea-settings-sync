@@ -27,6 +27,9 @@
         <mark key="." line="16" column="84" />
         <mark key="^" line="16" column="84" />
       </file>
+      <file name="/a.dummy" timestamp="1504607289734">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -42,9 +45,6 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1504514080474">
-        <mark key="'" line="288" column="18" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504182560223">
         <mark key="[" line="8" column="44" />
@@ -156,6 +156,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/ObjectWrapper.java" timestamp="1504607355346">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1504511602832">
         <mark key="[" line="43" column="40" />
         <mark key="]" line="42" column="3" />
@@ -243,7 +249,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504596735549">
+      <file name="/Dummy.txt" timestamp="1504607397344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -253,6 +259,9 @@
         <mark key="]" line="20" column="9" />
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="9" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/RetrofitAutowiredProcessor.java" timestamp="1504491366979">
+        <mark key="[" line="20" column="14" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/ResultWrapper.java" timestamp="1504604225193">
         <mark key="[" line="10" column="0" />
@@ -283,9 +292,6 @@
         <mark key="]" line="19" column="34" />
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/main/LoginController.java" timestamp="1504263097206">
-        <mark key="'" line="122" column="39" />
       </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504262723425">
         <mark key="[" line="39" column="69" />
@@ -413,11 +419,11 @@
       <jump line="119" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>发</text>
       </register>
       <register name="-" type="4">
-        <text>uploadResult</text>
+        <text>发</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
