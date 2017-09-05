@@ -65,12 +65,12 @@
         <mark key="." line="101" column="46" />
         <mark key="^" line="23" column="67" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504591788555">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504593624041">
         <mark key="'" line="97" column="7" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="66" column="72" />
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="68" column="51" />
+        <mark key="." line="68" column="51" />
+        <mark key="^" line="68" column="51" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/TailLogThread.java" timestamp="1503995709725">
         <mark key="[" line="30" column="8" />
@@ -315,10 +315,10 @@
         <mark key="^" line="42" column="54" />
         <mark key="." line="42" column="54" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504593222506">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="6" />
-        <mark key="." line="34" column="6" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504593457108">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
         <mark key="^" line="34" column="6" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -435,11 +435,11 @@
       <jump line="288" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">ID0gbmV3IGJ5dGVbMF0=</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -448,31 +448,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmFjZURldGVjdFJlc3VsdCA9IGJ1aWxkRGVmYXVsdFJlc3VsdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">bmV3IEZhY2VEZXRlY3RSZXN1bHQoKTsKICAgICAgICAgICAgZmFjZURldGVjdFJlc3VsdC5zZXRSZXN1bHRfbnVtKDEpOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGhhc2hNYXAgPSBNYXBzLm5ld0hhc2hNYXAoKTsKICAgICAgICAgICAgaGFzaE1hcC5wdXQoImJlYXV0eSIsIFJhbmRvbVV0aWxzLm5leHRJbnQoNTYsIDEwMCkpOwogICAgICAgICAgICBmYWNlRGV0ZWN0UmVzdWx0LnNldFJlc3VsdChBcnJheXMuYXNMaXN0KGhhc2hNYXApKTs=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhY2VEZXRlY3RSZXN1bHQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLSIgKyBKU09OLnRvSlNPTlN0cmluZyhmYWNlRGV0ZWN0UmVzdWx0KSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmUgPSBuZXcgQXN5bmNSZXN1bHQ8PihmYWNlRGV0ZWN0UmVzdWx0KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3IEZhY2VEZXRlY3RSZXN1bHQoKTsKICAgICAgICAgICAgZmFjZURldGVjdFJlc3VsdC5zZXRSZXN1bHRfbnVtKDEpOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGhhc2hNYXAgPSBNYXBzLm5ld0hhc2hNYXAoKTsKICAgICAgICAgICAgaGFzaE1hcC5wdXQoImJlYXV0eSIsIFJhbmRvbVV0aWxzLm5leHRJbnQoNTYsIDEwMCkpOwogICAgICAgICAgICBmYWNlRGV0ZWN0UmVzdWx0LnNldFJlc3VsdChBcnJheXMuYXNMaXN0KGhhc2hNYXApKTs=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhY2VEZXRlY3RSZXN1bHQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLSIgKyBKU09OLnRvSlNPTlN0cmluZyhmYWNlRGV0ZWN0UmVzdWx0KSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmdXR1cmUgPSBuZXcgQXN5bmNSZXN1bHQ8PihmYWNlRGV0ZWN0UmVzdWx0KTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCW1lZGFsU2VydmljZS50ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
     </registers>
     <search>
