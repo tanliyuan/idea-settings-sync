@@ -150,11 +150,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504684028408">
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="19" column="46" />
-        <mark key="." line="18" column="45" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504685461183">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="48" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/dao/mapper/weibutler/FaceValueDoMapper.java" timestamp="1504265072246">
         <mark key="[" line="31" column="0" />
@@ -196,6 +196,12 @@
         <mark key="." line="146" column="139" />
         <mark key="^" line="146" column="139" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504685386288">
+        <mark key="[" line="67" column="59" />
+        <mark key="]" line="67" column="59" />
+        <mark key="." line="67" column="59" />
+        <mark key="^" line="67" column="58" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueStatisticsService.java" timestamp="1504510586350">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="59" />
@@ -208,7 +214,7 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="37" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1504496487167">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1504686262089">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="157" column="10" />
         <mark key="^" line="157" column="10" />
@@ -271,10 +277,10 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504683460787">
+      <file name="/Dummy.txt" timestamp="1504686393367">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" timestamp="1504256441763">
         <mark key="[" line="20" column="22" />
@@ -438,43 +444,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>weidaiwang_A97</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIud2FybihFcnJvckxvZy5idWlsZEpzb25TdHIocmVxdWVzdCwgZSkpOwoKICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICgoQmluZEV4Y2VwdGlvbikgZSkuZ2V0QmluZGluZ1Jlc3VsdCgpLmdldEFsbEVycm9ycygpLmdldCgwKS5nZXREZWZhdWx0TWVzc2FnZSgpOwogICAgICAgIHJldHVybiBBamF4UmVzdWx0LkVSUk9SKEVycm9yRW51bS5QQVJBTVNfTlVMTCwgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFdEX1daXzEwMCgid2Rfd3pfQTEwMCIsICLN8tXJsaPP1TEwMM3ysaO27iIpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICgoQmluZEV4Y2VwdGlvbikgZSkuZ2V0QmluZGluZ1Jlc3VsdCgpLmdldEFsbEVycm9ycygpLmdldCgwKS5nZXREZWZhdWx0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUmVnaXN0ZXJEVE8uc2V0Q2hhbm5lbENvZGUoVXNlckNoYW5uZWxUeXBlLldEX1daXzEwMC5nZXRLZXkoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFdEX1daXzEwMCgid2Rfd3pfQTEwMCIsICLN8tXJsaPP1TEwMM3ysaO27iIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGluc3VyYW5jZVZvLmdldFR5cGUoKSA9PSAyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUmVnaXN0ZXJEVE8uc2V0Q2hhbm5lbENvZGUoVXNlckNoYW5uZWxUeXBlLldEX1daXzEwMC5nZXRLZXkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5zdXJhbmNlVm8uZ2V0VHlwZSgpID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN1cmFuY2VWby5zZXRUeXBlKDIpOyAvLzEwMM3ysaO27go=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGluc3VyYW5jZVZvLmdldFR5cGUoKSA9PSAyKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN1cmFuY2VWby5zZXRUeXBlKDEpOyAvLzEwzfKxo7buCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5zdXJhbmNlVm8uZ2V0VHlwZSgpID09IDEpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlVmFsdWVTZXJ2aWNlLmFzeW5jQXNzZXNzRmFjZVZhbHVlKGZpbGUuZ2V0SW5wdXRTdHJlYW0oKSwgZG93bkxhdGNoLCBkZXRlY3RSZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnN1cmFuY2VWby5zZXRUeXBlKDIpOyAvLzEwMM3ysaO27go=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iYWJvciIK</text>
+        <text encoding="base64">ICAgICAgICBpbnN1cmFuY2VWby5zZXRUeXBlKDEpOyAvLzEwzfKxo7buCg==</text>
       </register>
     </registers>
     <search>
