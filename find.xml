@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,7 +21,6 @@
       <mask>*.j</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.java</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
@@ -36,6 +36,7 @@
       <mask>p.xml</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
