@@ -143,16 +143,21 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504676509371">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="47" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504679360035">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="18" column="45" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/dao/mapper/weibutler/FaceValueDoMapper.java" timestamp="1504265072246">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" timestamp="1504681017184">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/Config.java" timestamp="1504090662229">
         <mark key="[" line="16" column="0" />
@@ -177,11 +182,12 @@
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1504515383839">
-        <mark key="[" line="28" column="52" />
-        <mark key="]" line="28" column="99" />
-        <mark key="." line="28" column="99" />
-        <mark key="^" line="28" column="99" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" timestamp="1504681061100">
+        <mark key="'" line="125" column="36" />
+        <mark key="[" line="145" column="39" />
+        <mark key="]" line="145" column="62" />
+        <mark key="." line="145" column="62" />
+        <mark key="^" line="145" column="62" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueStatisticsService.java" timestamp="1504510586350">
         <mark key="[" line="9" column="48" />
@@ -224,6 +230,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVO.java" timestamp="1504680986396">
+        <mark key="[" line="98" column="5" />
+        <mark key="]" line="100" column="31" />
+        <mark key="^" line="100" column="31" />
+        <mark key="." line="100" column="31" />
+      </file>
       <file name="E:/software/SpringSecurityOAuth2Example/src/test/java/com/websystique/springmvc/SpringRestClient.java" timestamp="1504002643275">
         <mark key="[" line="18" column="72" />
         <mark key="]" line="18" column="72" />
@@ -255,7 +267,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504667944551">
+      <file name="/Dummy.txt" timestamp="1504680224663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -286,12 +298,8 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504667870658">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504679843047">
         <mark key="'" line="119" column="0" />
-        <mark key="[" line="100" column="37" />
-        <mark key="]" line="100" column="36" />
-        <mark key="^" line="100" column="36" />
-        <mark key="." line="100" column="36" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
@@ -323,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="18" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
       <jump line="41" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
       <jump line="0" column="0" filename="D:/IDEA-project/ac/ac-service/target/classes/com/weidai/ac/service/wechatpower/WechatPowerService.class" />
       <jump line="22" column="29" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/WechatPowerService.java" />
@@ -423,46 +430,47 @@
       <jump line="91" column="30" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/DESUtil.java" />
       <jump line="288" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" />
       <jump line="119" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
+      <jump line="125" column="36" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KERvdWJsZSkg</text>
+        <text>UserChannelType.WD_WZ_10.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KERvdWJsZSkg</text>
+        <text>UserChannelType.WD_WZ_10.getKey()</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>executor</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3RXcmFwcGVyPEZhY2VEZXRlY3RSZXN1bHQ+IGRldGVjdFJlc3VsdDEgPSBuZXcgT2JqZWN0V3JhcHBlcjw+KCk7CiAgICAgICAgZmFjZVZhbHVlU2VydmljZS5hc3luY0Fzc2Vzc0ZhY2VWYWx1ZShmaWxlLmdldElucHV0U3RyZWFtKCksIGRvd25MYXRjaCwgZGV0ZWN0UmVzdWx0MSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUmVnaXN0ZXJEVE8uc2V0Q2hhbm5lbENvZGUoVXNlckNoYW5uZWxUeXBlLldEX1daXzEwMC5nZXRLZXkoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IGU7CiAgICAgICAgfSBjYXRjaCAoRXhlY3V0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3cgZS5nZXRDYXVzZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGluc3VyYW5jZVZvLmdldFR5cGUoKSA9PSAyKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IGU7CiAgICAgICAgfSBjYXRjaCAoRXhlY3V0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3cgZS5nZXRDYXVzZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5zdXJhbmNlVm8uZ2V0VHlwZSgpID09IDEpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnN1cmFuY2VWby5zZXRUeXBlKDIpOyAvLzEwMM3ysaO27go=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN1cmFuY2VWby5zZXRUeXBlKDEpOyAvLzEwzfKxo7buCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudERvd25MYXRjaC5jb3VudERvd24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWNlVmFsdWVTZXJ2aWNlLmFzeW5jQXNzZXNzRmFjZVZhbHVlKGZpbGUuZ2V0SW5wdXRTdHJlYW0oKSwgZG93bkxhdGNoLCBkZXRlY3RSZXN1bHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KHVwbG9hZFJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iYWJvciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmUuc2V0RnV0dXJlKG5ldyBBc3luY1Jlc3VsdDw+KGZhY2VEZXRlY3RSZXN1bHQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCk7Cg==</text>
       </register>
     </registers>
     <search>
