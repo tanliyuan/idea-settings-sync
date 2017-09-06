@@ -143,11 +143,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504663392462">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504666824497">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+        <mark key="." line="19" column="47" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/dao/mapper/weibutler/FaceValueDoMapper.java" timestamp="1504265072246">
         <mark key="[" line="31" column="0" />
@@ -255,7 +255,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504607397344">
+      <file name="/Dummy.txt" timestamp="1504667944551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -286,12 +286,12 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504620181355">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" timestamp="1504667870658">
         <mark key="'" line="119" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="77" column="70" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="100" column="37" />
+        <mark key="]" line="100" column="36" />
+        <mark key="^" line="100" column="36" />
+        <mark key="." line="100" column="36" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
@@ -305,10 +305,10 @@
         <mark key="^" line="42" column="54" />
         <mark key="." line="42" column="54" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504663145494">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504667920515">
+        <mark key="[" line="93" column="65" />
+        <mark key="]" line="93" column="65" />
+        <mark key="." line="93" column="65" />
         <mark key="^" line="93" column="65" />
       </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
@@ -316,7 +316,7 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1504663513081">
+      <file name="/fragment.java" timestamp="1504667328407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -426,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">KERvdWJsZSkg</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">KERvdWJsZSkg</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
