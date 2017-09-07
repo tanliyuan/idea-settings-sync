@@ -58,7 +58,7 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504753331216">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504764153174">
         <mark key="'" line="97" column="7" />
         <mark key="[" line="64" column="95" />
         <mark key="]" line="64" column="100" />
@@ -213,7 +213,7 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
-      <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1504253481434">
+      <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1504763979296">
         <mark key="[" line="43" column="36" />
         <mark key="]" line="43" column="37" />
         <mark key="^" line="43" column="37" />
@@ -282,7 +282,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504758319909">
+      <file name="/Dummy.txt" timestamp="1504764016739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -326,11 +326,11 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504750501358">
-        <mark key="[" line="39" column="69" />
-        <mark key="]" line="42" column="54" />
+      <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504763962996">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="38" />
         <mark key="^" line="42" column="54" />
-        <mark key="." line="42" column="54" />
+        <mark key="." line="42" column="38" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" timestamp="1504667920515">
         <mark key="[" line="93" column="65" />
@@ -343,7 +343,7 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1504667328407">
+      <file name="/fragment.java" timestamp="1504763885430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -452,11 +452,11 @@
       <jump line="17" column="4" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/UserChannelType.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgYG9fYWN0aXZpdHlfZmFjZXZhbHVlYDsK</text>
+      <register name="&quot;" type="4">
+        <text>api/v2/h5/accFund/query/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>api/v2/h5/accFund/query/</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
