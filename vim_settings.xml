@@ -31,6 +31,13 @@
       <file name="/a.dummy" timestamp="1504775868652">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1504779860299">
+        <mark key="'" line="94" column="11" />
+        <mark key="[" line="70" column="8" />
+        <mark key="]" line="70" column="8" />
+        <mark key="^" line="68" column="7" />
+        <mark key="." line="70" column="8" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -273,6 +280,12 @@
         <mark key="]" line="18" column="72" />
         <mark key="." line="18" column="72" />
       </file>
+      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/Machine.java" timestamp="1504777981658">
+        <mark key="'" line="121" column="8" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/generatorConfig.xml" timestamp="1504262039335">
         <mark key="[" line="67" column="86" />
         <mark key="]" line="67" column="95" />
@@ -322,6 +335,12 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="9" />
       </file>
+      <file name="D:/IDEA-project/demo_coding/pom.xml" timestamp="1504779653779">
+        <mark key="[" line="82" column="21" />
+        <mark key="]" line="82" column="21" />
+        <mark key="." line="82" column="21" />
+        <mark key="^" line="81" column="28" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/RetrofitAutowiredProcessor.java" timestamp="1504491366979">
         <mark key="[" line="20" column="14" />
       </file>
@@ -369,20 +388,13 @@
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1504774629165">
+      <file name="/fragment.java" timestamp="1504779883167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="18" filename="D:/IDEA-project/demo_coding/src/main/java/com/example/ValidatorAspect.java" />
-      <jump line="68" column="11" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/wechatpower/impl/WechatPowerServiceImpl.java" />
-      <jump line="50" column="29" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/wechatpower/WechatPowerController.java" />
-      <jump line="59" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" />
-      <jump line="66" column="19" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" />
-      <jump line="20" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" />
-      <jump line="87" column="31" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" />
       <jump line="134" column="14" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" />
       <jump line="818" column="6" filename="D:/IDEA-project/ac/ac-webapp/src/main/webapp/api/webjars/drore-document-ui/drore/DApiUI.js" />
       <jump line="133" column="32" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" />
@@ -476,13 +488,20 @@
       <jump line="7" column="24" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/UserChannelType.java" />
       <jump line="17" column="4" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/UserChannelType.java" />
       <jump line="34" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/UserChannelType.java" />
+      <jump line="166" column="1" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/Machine.java" />
+      <jump line="44" column="4" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/Machine.java" />
+      <jump line="121" column="8" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/Machine.java" />
+      <jump line="312" column="1" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" />
+      <jump line="224" column="22" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" />
+      <jump line="313" column="32" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" />
+      <jump line="81" column="11" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>availableProcess</text>
+        <text>OperatingSystem</text>
       </register>
       <register name="-" type="4">
-        <text>availableProcess</text>
+        <text>OperatingSystem</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -491,31 +510,31 @@
         <text encoding="base64">ICAgICAgICBMT0dHRVIud2FybihFcnJvckxvZy5idWlsZEpzb25TdHIocmVxdWVzdCwgZSkpOwoKICAgICAgICBTdHJpbmcgbWVzc2FnZSA9ICgoQmluZEV4Y2VwdGlvbikgZSkuZ2V0QmluZGluZ1Jlc3VsdCgpLmdldEFsbEVycm9ycygpLmdldCgwKS5nZXREZWZhdWx0TWVzc2FnZSgpOwogICAgICAgIHJldHVybiBBamF4UmVzdWx0LkVSUk9SKEVycm9yRW51bS5QQVJBTVNfTlVMTCwgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWdhci5nZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcnRJZCA9ICJDIjsK</text>
+        <text encoding="base64">ClNraXAgdG8gY29udGVudAoKICAgICAgICBTZWFyY2ihrQogICAgICAgIEFsbCBnaXN0cwogICAgICAgIEdpdEh1YgogICAgICAgIE5ldyBnaXN0CgpAdGFubGl5dWFuCiAgU3RhciAxCiAgICAgICAgICBGb3JrIDBAc2hvZXN0cmluZ3Nob2VzdHJpbmcvd2hhdHN1cGouamFyCiAgICAgICAgQ3JlYXRlZCA1IHllYXJzIGFnbyA/CiAgICAgICAgUmVwb3J0IGdpc3QKICAgICAgICBFbWJlZAo8c2NyaXB0IHNyYz0iaHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vc2hvZXN0cmluZy80MjAwNjQ5LmpzIj48L3NjcmlwdD4KICAgICAgICBEb3dubG9hZCBaSVAKICAgICAgICBDb2RlICBSZXZpc2lvbnMgMiAgU3RhcnMgMQogICAgICAgIGdldCBhbmQgZGlzcGxheSBzeXN0ZW0gaW5mbyB3aXRoIGphdmEgYW5kIFNJR0FSCiAgICAgICAgUmF3CiAgICAgICAgd2hhdHN1cGouamFyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">VgogICAgQHRhbmxpeXVhbgoKCgogICAgV3JpdGUgIFByZXZpZXcKCiAgICBMZWF2ZSBhIGNvbW1lbnQKICAgICAgICBBdHRhY2ggZmlsZXMgYnkgZHJhZ2dpbmcgJiBkcm9wcGluZywgINGh1PHOxLz+c2VsZWN0aW5nIHRoZW0sIG9yIHBhc3RpbmcgZnJvbSB0aGUgY2xpcGJvYXJkLiAgU3R5bGluZyB3aXRoIE1hcmtkb3duIGlzIHN1cHBvcnRlZAogICAgICAgIENvbW1lbnQKICAgICAgICA/IDIwMTcgR2l0SHViLCBJbmMuCiAgICAgICAgVGVybXMKICAgICAgICBQcml2YWN5CiAgICAgICAgU2VjdXJpdHkKICAgICAgICBTdGF0dXMKICAgICAgICBIZWxwCiAgICAgICAgQ29udGFjdCBHaXRIdWIKICAgICAgICBBUEkKICAgICAgICBUcmFpbmluZwogICAgICAgIFNob3AKICAgICAgICBCbG9nCiAgICAgICAgQWJvdXQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBNYWNoaW5lSW5mb0hvbGRlcigpIHsKCiAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvcnRJZCA9ICJDIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHVibGljIHZvaWQgc2V0SG9zdChTdHJpbmcgaG9zdCkgewogICAgICB0aGlzLmhvc3QgPSBob3N0OwogICB9Cg==</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBNYWNoaW5lSW5mb0hvbGRlcigpIHsKCiAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcHVibGljIHZvaWQgc2V0SG9zdE5hbWUoU3RyaW5nIGhvc3ROYW1lKSB7CiAgICAgIHRoaXMuaG9zdE5hbWUgPSBob3N0TmFtZTsKICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
