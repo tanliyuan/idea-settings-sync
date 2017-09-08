@@ -30,10 +30,10 @@
       <file name="/a.dummy" timestamp="1504775868652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1504785592471">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1504850450939">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="8" />
+        <mark key="." line="60" column="8" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
@@ -527,10 +527,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>StringUtil</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>StringUtil</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
