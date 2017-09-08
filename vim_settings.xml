@@ -30,10 +30,10 @@
       <file name="/a.dummy" timestamp="1504775868652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1504850450939">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="8" />
-        <mark key="." line="60" column="8" />
+      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1504858927630">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
@@ -63,8 +63,8 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504764153174">
-        <mark key="'" line="97" column="7" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504859080264">
+        <mark key="'" line="114" column="28" />
         <mark key="[" line="64" column="95" />
         <mark key="]" line="64" column="100" />
         <mark key="." line="64" column="100" />
@@ -424,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/insurance/WanXiangInsuranceDoMapper.xml" />
       <jump line="56" column="20" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" />
       <jump line="173" column="18" filename="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/AbstractUserRegisterDTO.java" />
       <jump line="69" column="11" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
@@ -524,10 +523,11 @@
       <jump line="78" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
       <jump line="3187" column="35" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/Class.java" />
       <jump line="762" column="19" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/Integer.java" />
+      <jump line="114" column="28" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StringUtil</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUeXBlVG9rZW4K</text>
       </register>
       <register name="-" type="4">
         <text>StringUtil</text>
@@ -539,31 +539,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW1JbmZvIHN5c3RlbUluZm8gPSBuZXcgU3lzdGVtSW5mbygpOwogICAgICAgIEhhcmR3YXJlQWJzdHJhY3Rpb25MYXllciBoYXJkd2FyZSA9IHN5c3RlbUluZm8uZ2V0SGFyZHdhcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgICBUeXBlVG9rZW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGluaXRIb3N0KCkgewoKICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGluaXRIb3N0KCkgewoKICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgaG9zdCA9IGxvY2FsSG9zdC5nZXRIb3N0QWRkcmVzcygpOwogICAgICAgICBob3N0TmFtZSA9IGxvY2FsSG9zdC5nZXRIb3N0TmFtZSgpOwoKICAgICAgICAgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIxIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJBIjsKICAgICAgICAgfSBlbHNlIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMiIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQiI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjMiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkMiOwogICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzaG9ydElkID0gIk8iOyAvLyBPdGhlcgogICAgICAgICB9CgogICAgICAgICBhdmFpbGFibGVQcm9jZXNzb3JzID0gUnVudGltZS5nZXRSdW50aW1lKCkuYXZhaWxhYmxlUHJvY2Vzc29ycygpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgbG9jYWxIb3N0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgaG9zdE5hbWUgPSAidW5rbm93IjsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgaG9zdCA9IGxvY2FsSG9zdC5nZXRIb3N0QWRkcmVzcygpOwogICAgICAgICBob3N0TmFtZSA9IGxvY2FsSG9zdC5nZXRIb3N0TmFtZSgpOwoKICAgICAgICAgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIxIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJBIjsKICAgICAgICAgfSBlbHNlIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMiIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQiI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjMiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkMiOwogICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzaG9ydElkID0gIk8iOyAvLyBPdGhlcgogICAgICAgICB9CgogICAgICAgICBhdmFpbGFibGVQcm9jZXNzb3JzID0gUnVudGltZS5nZXRSdW50aW1lKCkuYXZhaWxhYmxlUHJvY2Vzc29ycygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgbG9jYWxIb3N0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgaG9zdE5hbWUgPSAidW5rbm93IjsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAgSW5ldEFkZHJlc3MgbG9jYWxIb3N0ID0gSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCk7CiAgICAgICAgIGhvc3QgPSBsb2NhbEhvc3QuZ2V0SG9zdEFkZHJlc3MoKTsKICAgICAgICAgaG9zdE5hbWUgPSBsb2NhbEhvc3QuZ2V0SG9zdE5hbWUoKTsKCiAgICAgICAgIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMSIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQSI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjIiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkIiOwogICAgICAgICB9IGVsc2UgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIzIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJDIjsKICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJPIjsgLy8gT3RoZXIKICAgICAgICAgfQoKICAgICAgICAgYXZhaWxhYmxlUHJvY2Vzc29ycyA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmF2YWlsYWJsZVByb2Nlc3NvcnMoKTsKICAgICAgfSBjYXRjaCAoVW5rbm93bkhvc3RFeGNlcHRpb24gZSkgewogICAgICAgICAgTE9HR0VSLndhcm4oItb3u/rQxc+is/XKvLuvyqew3CIsIGUpOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVtb3J5LmdldEF2YWlsYWJsZSgpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAgSW5ldEFkZHJlc3MgbG9jYWxIb3N0ID0gSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCk7CiAgICAgICAgIGhvc3QgPSBsb2NhbEhvc3QuZ2V0SG9zdEFkZHJlc3MoKTsKICAgICAgICAgaG9zdE5hbWUgPSBsb2NhbEhvc3QuZ2V0SG9zdE5hbWUoKTsKCiAgICAgICAgIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMSIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQSI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjIiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkIiOwogICAgICAgICB9IGVsc2UgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIzIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJDIjsKICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJPIjsgLy8gT3RoZXIKICAgICAgICAgfQoKICAgICAgICAgYXZhaWxhYmxlUHJvY2Vzc29ycyA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmF2YWlsYWJsZVByb2Nlc3NvcnMoKTsKICAgICAgfSBjYXRjaCAoVW5rbm93bkhvc3RFeGNlcHRpb24gZSkgewogICAgICAgICAgTE9HR0VSLndhcm4oItb3u/rQxc+is/XKvLuvyqew3CIsIGUpOwogICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
