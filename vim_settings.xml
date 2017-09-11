@@ -109,6 +109,9 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1504665120459">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/software/java/jdk1.7.0_79/src.zip!/java/util/concurrent/locks/Condition.java" timestamp="1505109586770">
+        <mark key="'" line="116" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/fastdfs/FastDFSService.java" timestamp="1504183417323">
         <mark key="[" line="23" column="56" />
         <mark key="]" line="23" column="56" />
@@ -395,7 +398,6 @@
       <file name="$MAVEN_REPOSITORY$/com/github/oshi/oshi-core/3.4.0/oshi-core-3.4.0-sources.jar!/oshi/hardware/HWDiskStore.java" timestamp="1504782881679">
         <mark key="'" line="176" column="29" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/bigdata/InvestorReceivingMonthDTO.java" timestamp="1504867381745" />
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504763962996">
         <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="38" />
@@ -421,9 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="20" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/aspect/ValidatorAspect.java" />
-      <jump line="173" column="18" filename="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.5.0/ucenter-common-service-facade-1.5.0-sources.jar!/com/weidai/ucenter/facade/dto/user/register/AbstractUserRegisterDTO.java" />
-      <jump line="69" column="11" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="37" column="61" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" />
       <jump line="69" column="24" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/insurance/InsuranceVo.java" />
       <jump line="49" column="13" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
@@ -521,6 +520,9 @@
       <jump line="3187" column="35" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/Class.java" />
       <jump line="762" column="19" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/Integer.java" />
       <jump line="114" column="28" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
+      <jump line="233" column="17" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/util/concurrent/locks/Condition.java" />
+      <jump line="114" column="0" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/util/concurrent/locks/Condition.java" />
+      <jump line="116" column="0" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/util/concurrent/locks/Condition.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
