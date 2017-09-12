@@ -30,10 +30,11 @@
       <file name="/a.dummy" timestamp="1504775868652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1504858927630">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1505199632838">
+        <mark key="[" line="70" column="8" />
+        <mark key="]" line="70" column="40" />
+        <mark key="." line="70" column="40" />
+        <mark key="^" line="70" column="40" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
@@ -310,9 +311,9 @@
         <mark key="." line="67" column="95" />
         <mark key="^" line="67" column="95" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" timestamp="1504783541449">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="21" column="1" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" timestamp="1505199424117">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="37" column="6" />
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="4" />
@@ -525,11 +526,11 @@
       <jump line="116" column="0" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/util/concurrent/locks/Condition.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlVG9rZW4K</text>
+      <register name="&quot;" type="4">
+        <text>Soundbank</text>
       </register>
       <register name="-" type="4">
-        <text>StringUtil</text>
+        <text>Soundbank</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -538,31 +539,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW1JbmZvIHN5c3RlbUluZm8gPSBuZXcgU3lzdGVtSW5mbygpOwogICAgICAgIEhhcmR3YXJlQWJzdHJhY3Rpb25MYXllciBoYXJkd2FyZSA9IHN5c3RlbUluZm8uZ2V0SGFyZHdhcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlVG9rZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgICBUeXBlVG9rZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGluaXRIb3N0KCkgewoKICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGluaXRIb3N0KCkgewoKICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgaG9zdCA9IGxvY2FsSG9zdC5nZXRIb3N0QWRkcmVzcygpOwogICAgICAgICBob3N0TmFtZSA9IGxvY2FsSG9zdC5nZXRIb3N0TmFtZSgpOwoKICAgICAgICAgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIxIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJBIjsKICAgICAgICAgfSBlbHNlIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMiIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQiI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjMiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkMiOwogICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzaG9ydElkID0gIk8iOyAvLyBPdGhlcgogICAgICAgICB9CgogICAgICAgICBhdmFpbGFibGVQcm9jZXNzb3JzID0gUnVudGltZS5nZXRSdW50aW1lKCkuYXZhaWxhYmxlUHJvY2Vzc29ycygpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgbG9jYWxIb3N0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgaG9zdE5hbWUgPSAidW5rbm93IjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgaG9zdCA9IGxvY2FsSG9zdC5nZXRIb3N0QWRkcmVzcygpOwogICAgICAgICBob3N0TmFtZSA9IGxvY2FsSG9zdC5nZXRIb3N0TmFtZSgpOwoKICAgICAgICAgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIxIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJBIjsKICAgICAgICAgfSBlbHNlIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMiIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQiI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjMiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkMiOwogICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzaG9ydElkID0gIk8iOyAvLyBPdGhlcgogICAgICAgICB9CgogICAgICAgICBhdmFpbGFibGVQcm9jZXNzb3JzID0gUnVudGltZS5nZXRSdW50aW1lKCkuYXZhaWxhYmxlUHJvY2Vzc29ycygpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgbG9jYWxIb3N0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgaG9zdE5hbWUgPSAidW5rbm93IjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICAgSW5ldEFkZHJlc3MgbG9jYWxIb3N0ID0gSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCk7CiAgICAgICAgIGhvc3QgPSBsb2NhbEhvc3QuZ2V0SG9zdEFkZHJlc3MoKTsKICAgICAgICAgaG9zdE5hbWUgPSBsb2NhbEhvc3QuZ2V0SG9zdE5hbWUoKTsKCiAgICAgICAgIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMSIpKSB7CiAgICAgICAgICAgIHNob3J0SWQgPSAiQSI7CiAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjIiKSkgewogICAgICAgICAgICBzaG9ydElkID0gIkIiOwogICAgICAgICB9IGVsc2UgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIzIikpIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJDIjsKICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgc2hvcnRJZCA9ICJPIjsgLy8gT3RoZXIKICAgICAgICAgfQoKICAgICAgICAgYXZhaWxhYmxlUHJvY2Vzc29ycyA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmF2YWlsYWJsZVByb2Nlc3NvcnMoKTsKICAgICAgfSBjYXRjaCAoVW5rbm93bkhvc3RFeGNlcHRpb24gZSkgewogICAgICAgICAgTE9HR0VSLndhcm4oItb3u/rQxc+is/XKvLuvyqew3CIsIGUpOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
