@@ -9,7 +9,6 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/cmd/HttpCmdClient.java" timestamp="1505273198912" />
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/AsyncResultCountDownLatch.java" timestamp="1504596997438">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -22,7 +21,6 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-jobtracker/src/main/java/com/github/ltsopensource/jobtracker/cmd/AddJobHttpCmd.java" timestamp="1505271563441" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectRequest.java" timestamp="1504172146516">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="16" column="84" />
@@ -62,7 +60,6 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/cmd/HttpCmdAcceptor.java" timestamp="1505273048241" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" timestamp="1504859080264">
         <mark key="'" line="114" column="28" />
         <mark key="[" line="64" column="95" />
@@ -93,7 +90,6 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/zookeeper/support/AbstractZkClient.java" timestamp="1505291982863" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/UserChannelType.java" timestamp="1504771252700">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="7" column="55" />
@@ -131,14 +127,12 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/cmd/HttpCmdServer.java" timestamp="1505272836936" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/AssessFaceValueService.java" timestamp="1504183581192">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="56" />
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/cmd/HttpCmd.java" timestamp="1505269989310" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/SpringContainerStartUpListener.java" timestamp="1504775796425">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="14" column="7" />
@@ -157,6 +151,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/test/resources/dubbo.properties" timestamp="1505294969529" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1504521383167">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="19" column="15" />
@@ -179,13 +174,17 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/StringTest.java" timestamp="1505296112328">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1504498923528">
         <mark key="[" line="80" column="30" />
         <mark key="]" line="82" column="35" />
         <mark key="." line="82" column="35" />
         <mark key="^" line="82" column="50" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/zookeeper/curator/CuratorZkClient.java" timestamp="1505291902294" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-fastdfs.xml" timestamp="1504151187477">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="11" column="10" />
@@ -197,12 +196,6 @@
         <mark key="]" line="10" column="55" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/register/RegisterController.java" timestamp="1505215562503">
-        <mark key="[" line="158" column="16" />
-        <mark key="]" line="158" column="11" />
-        <mark key="^" line="158" column="11" />
-        <mark key="." line="158" column="11" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504685461183">
         <mark key="[" line="19" column="46" />
@@ -255,7 +248,6 @@
         <mark key="." line="67" column="59" />
         <mark key="^" line="67" column="58" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/cmd/HttpCmdContext.java" timestamp="1505271495127" />
       <file name="D:/IDEA-project/ac/pom.xml" timestamp="1505206715559">
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
@@ -297,7 +289,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/IDEA-project/light-task-scheduler/lts-core/src/main/java/com/github/ltsopensource/core/commons/utils/WebUtils.java" timestamp="1505268057155" />
       <file name="D:/IDEA-project/websocket-tail-demo/pom.xml" timestamp="1503485634464">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -322,10 +313,10 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1505206825944">
-        <mark key="'" line="203" column="19" />
-        <mark key="[" line="226" column="8" />
-        <mark key="]" line="226" column="8" />
-        <mark key="." line="226" column="8" />
+        <mark key="'" line="207" column="19" />
+        <mark key="[" line="230" column="8" />
+        <mark key="]" line="230" column="8" />
+        <mark key="." line="230" column="8" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfo.java" timestamp="1504775865649">
         <mark key="[" line="6" column="45" />
@@ -350,7 +341,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505207719171">
+      <file name="/Dummy.txt" timestamp="1505294962550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -418,11 +409,6 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/BigDecimalUtil.java" timestamp="1505203368542">
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="34" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -528,11 +514,11 @@
       <jump line="67" column="3" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5naXRodWIuZGJsb2NrL29zaGktZGlzdCAtLT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmdpdGh1Yi5kYmxvY2s8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm9zaGktZGlzdDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+My40LjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuZ2V0RGF0YSgpLnVzaW5nV2F0Y2hlcihuZXcgV2F0Y2hlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHByb2Nlc3MoV2F0Y2hlZEV2ZW50IHdhdGNoZWRFdmVudCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCK78cihysK8/iIgKyB3YXRjaGVkRXZlbnQpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuZm9yUGF0aCgiL2FjIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>machineInfoHolder</text>
+        <text>.get(0)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -540,32 +526,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJbmV0QWRkcmVzcyBsb2NhbEhvc3QgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGxvY2FsSG9zdCA9IEluZXRBZGRyZXNzLmdldExvY2FsSG9zdCgpOwogICAgICAgIH0gY2F0Y2ggKFVua25vd25Ib3N0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLndhcm4oItb3u/rQxc+is/XKvLuvyqew3CIsIGUpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGlmIChsb2NhbEhvc3QgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgaG9zdCA9IFVOS05PVzsKICAgICAgICAgICAgICAgIGhvc3ROYW1lID0gVU5LTk9XOwogICAgICAgICAgICAgICAgc2hvcnRJZCA9ICJPIjsKICAgICAgICAgICAgICAgIGF2YWlsYWJsZVByb2Nlc3NvcnMgPSAwOwoKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGhvc3QgPSBsb2NhbEhvc3QuZ2V0SG9zdEFkZHJlc3MoKTsKICAgICAgICAgICAgICAgIGhvc3ROYW1lID0gbG9jYWxIb3N0LmdldEhvc3ROYW1lKCk7CgogICAgICAgICAgICAgICAgaWYgKGhvc3ROYW1lLmVuZHNXaXRoKCIxIikpIHsKICAgICAgICAgICAgICAgICAgICBzaG9ydElkID0gIkEiOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmIChob3N0TmFtZS5lbmRzV2l0aCgiMiIpKSB7CiAgICAgICAgICAgICAgICAgICAgc2hvcnRJZCA9ICJCIjsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaG9zdE5hbWUuZW5kc1dpdGgoIjMiKSkgewogICAgICAgICAgICAgICAgICAgIHNob3J0SWQgPSAiQyI7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHNob3J0SWQgPSAiTyI7IC8vIE90aGVyCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgYXZhaWxhYmxlUHJvY2Vzc29ycyA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmF2YWlsYWJsZVByb2Nlc3NvcnMoKTsKICAgICAgICAgICAgICAgIG1heE1lbW9yeSA9IFNZU1RFTV9JTkZPX0VYVFJBQ1RPUi5nZXRUb3RhbCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5naXRodWIuZGJsb2NrL29zaGktZGlzdCAtLT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmdpdGh1Yi5kYmxvY2s8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm9zaGktZGlzdDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+My40LjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuZ2V0RGF0YSgpLnVzaW5nV2F0Y2hlcihuZXcgV2F0Y2hlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHByb2Nlc3MoV2F0Y2hlZEV2ZW50IHdhdGNoZWRFdmVudCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCK78cihysK8/iIgKyB3YXRjaGVkRXZlbnQpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuZm9yUGF0aCgiL2FjIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtZmlsZXVwbG9hZDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZmlsZXVwbG9hZDwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xpZW50Owo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QFNjb3BlKCJzaW5nbGV0b24iKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5naXRodWIuZGJsb2NrL29zaGktZGlzdCAtLT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmdpdGh1Yi5kYmxvY2s8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm9zaGktZGlzdDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+My40LjA8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtZmlsZXVwbG9hZDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZmlsZXVwbG9hZDwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNjb3BlKCJzaW5nbGV0b24iKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogyrXKsbavzKy4xLHktcQKICAgICAqLwoKICAgICB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogyrXKsbavzKy4xLHktcQKICAgICAqLwoKICAgICB7CiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
