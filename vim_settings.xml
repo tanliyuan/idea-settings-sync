@@ -173,10 +173,11 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/StringTest.java" timestamp="1505296112328">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/StringTest.java" timestamp="1505372063517">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="50" column="56" />
+        <mark key="." line="50" column="56" />
+        <mark key="^" line="50" column="56" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1504498923528">
         <mark key="[" line="80" column="30" />
@@ -311,11 +312,12 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1505206825944">
-        <mark key="'" line="207" column="19" />
-        <mark key="[" line="230" column="8" />
-        <mark key="]" line="230" column="8" />
-        <mark key="." line="230" column="8" />
+      <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1505371998256">
+        <mark key="'" line="212" column="19" />
+        <mark key="[" line="199" column="32" />
+        <mark key="]" line="199" column="38" />
+        <mark key="." line="199" column="38" />
+        <mark key="^" line="199" column="38" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfo.java" timestamp="1504775865649">
         <mark key="[" line="6" column="45" />
@@ -513,11 +515,11 @@
       <jump line="67" column="3" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuZ2V0RGF0YSgpLnVzaW5nV2F0Y2hlcihuZXcgV2F0Y2hlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHByb2Nlc3MoV2F0Y2hlZEV2ZW50IHdhdGNoZWRFdmVudCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCK78cihysK8/iIgKyB3YXRjaGVkRXZlbnQpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuZm9yUGF0aCgiL2FjIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>.get(0)</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
