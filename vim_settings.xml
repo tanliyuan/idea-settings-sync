@@ -380,6 +380,7 @@
         <mark key="." line="10" column="13" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/main/java/com/example/CustomCronTriggerFactoryBean.java" timestamp="1505790490032" />
+      <file name="D:/IDEA-project/quartz-manager/quartz-manager/pom.xml" timestamp="1505802125338" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
@@ -541,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>javax.</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>javax.</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
