@@ -43,9 +43,6 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/websocket/log/LogWebSocketHandle.java" timestamp="1505377883789">
-        <mark key="[" line="44" column="54" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/view/layout/nav-float.vm" timestamp="1503916432818">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -291,7 +288,7 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505791900001">
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505793344035">
         <mark key="[" line="51" column="57" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/FastDFSUploadException.java" timestamp="1504163015670">
@@ -300,7 +297,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/application.yml" timestamp="1505791835698" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/application.yml" timestamp="1505793317034">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="D:/IDEA-project/websocket-tail-demo/pom.xml" timestamp="1503485634464">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -537,10 +538,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>,DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
