@@ -212,6 +212,18 @@
         <mark key="^" line="42" column="45" />
         <mark key="." line="42" column="45" />
       </file>
+      <file name="E:/文档/react-master/app/utils/ajax.js" timestamp="1505730325123">
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="22" />
+        <mark key="^" line="81" column="22" />
+        <mark key="." line="81" column="22" />
+      </file>
+      <file name="E:/文档/react-master/app/api/house.js" timestamp="1505730383372">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="45" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1504685461183">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="48" />
@@ -348,7 +360,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505720873046">
+      <file name="/Dummy.txt" timestamp="1505729708798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -388,6 +400,11 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
+      <file name="E:/文档/react-master/.config.json" timestamp="1505729716545">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504763962996">
         <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="38" />
@@ -410,6 +427,11 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
+      </file>
+      <file name="E:/文档/react-master/app/index.html" timestamp="1505729701306">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -516,10 +538,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>GET</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
