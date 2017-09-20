@@ -9,6 +9,11 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="29" column="17" />
       </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/service/UserService.java" timestamp="1505901114272">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/AsyncResultCountDownLatch.java" timestamp="1504596997438">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -129,11 +134,17 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505814055449">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="25" />
-        <mark key="^" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/mybatis/UserMapper.xml" timestamp="1505902149817">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="2" column="57" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505901960297">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="67" column="56" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/FastDFSUploadException.java" timestamp="1504163015670">
         <mark key="[" line="8" column="54" />
@@ -156,6 +167,16 @@
         <mark key="[" line="18" column="72" />
         <mark key="]" line="18" column="72" />
         <mark key="." line="18" column="72" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/mapper/UserMapper.java" timestamp="1505901068592">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/controller/SwaggerController.java" timestamp="1505901390238">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfo.java" timestamp="1504775865649">
         <mark key="[" line="6" column="45" />
@@ -192,6 +213,7 @@
         <mark key="^" line="229" column="26" />
         <mark key="." line="229" column="26" />
       </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/controller/HelloController.java" timestamp="1505901376123" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="19" column="34" />
@@ -221,6 +243,13 @@
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/Application.java" timestamp="1505902277829">
+        <mark key="a" line="27" column="34" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="49" column="58" />
+        <mark key="." line="49" column="58" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/RegionVO.java" timestamp="1503658013703">
         <mark key="[" line="21" column="0" />
@@ -268,6 +297,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="D:/IDEA-project/react-admin/src/axios/tools.js" timestamp="1505889525988" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/model/User.java" timestamp="1505901271519" />
       <file name="D:/IDEA-project/quartz-spring-boot-demo_2/src/main/resources/application.yml" timestamp="1505809240660">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="12" />
@@ -280,6 +310,11 @@
         <mark key="]" line="45" column="91" />
         <mark key="^" line="45" column="91" />
         <mark key="." line="45" column="91" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/controller/UserController.java" timestamp="1505901135899">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/AppTest.java" timestamp="1504526805600">
         <mark key="[" line="44" column="0" />
@@ -304,6 +339,7 @@
         <mark key="^" line="56" column="46" />
         <mark key="." line="53" column="53" />
       </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/Main.java" timestamp="1505901810165" />
       <file name="E:/文档/react-master/app/utils/ajax.js" timestamp="1505730325123">
         <mark key="[" line="81" column="20" />
         <mark key="]" line="81" column="22" />
@@ -407,10 +443,11 @@
       </file>
       <file name="D:/IDEA-project/react-admin/src/action/index.js" timestamp="1505890545900" />
       <file name="D:/IDEA-project/react-admin/src/components/auth/Basic.js" timestamp="1505890936100" />
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/application.yml" timestamp="1505794758093">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/application.yml" timestamp="1505901278675">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/generatorConfig.xml" timestamp="1504262039335">
         <mark key="[" line="67" column="86" />
@@ -469,7 +506,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1505471457612">
+      <file name="/fragment.java" timestamp="1505902073149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -585,43 +622,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://www.easy-mock.com/mock</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.easy-mock.com/mock</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSHRtbFdlYnBhY2tQbHVnaW4oewogICAgICAgICAgICBpbmplY3Q6IHRydWUsCiAgICAgICAgICAgIHRlbXBsYXRlOiBwYXRocy5hcHBIdG1sLAogICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm15YmF0aXMuc3ByaW5nLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEBCZWFuCiAgICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4PSJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICBwdWJsaWMgRGF0YVNvdXJjZSBkYXRhU291cmNlKCkgewogICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50b21jYXQuamRiYy5wb29sLkRhdGFTb3VyY2UoKTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LS1hdXRvY29uZmk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcucG9zdGdyZXNxbDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cG9zdGdyZXNxbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+OS40LjEyMDg8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53b3JkbmlrLnN3YWdnZXIuYW5ub3RhdGlvbnMuQXBpT3BlcmF0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEBCZWFuKG5hbWUgPSAiZGF0YVNvdXJjZSIpCiAgICBwdWJsaWMgRHJpdmVyTWFuYWdlckRhdGFTb3VyY2UgZGF0YVNvdXJjZSgpIHsKICAgICAgICBEcml2ZXJNYW5hZ2VyRGF0YVNvdXJjZSBkcml2ZXJNYW5hZ2VyRGF0YVNvdXJjZSA9IG5ldyBEcml2ZXJNYW5hZ2VyRGF0YVNvdXJjZSgpOwogICAgICAgIGRyaXZlck1hbmFnZXJEYXRhU291cmNlLnNldERyaXZlckNsYXNzTmFtZSgiY29tLm15c3FsLmpkYmMuRHJpdmVyIik7CiAgICAgICAgZHJpdmVyTWFuYWdlckRhdGFTb3VyY2Uuc2V0VXJsKCJqZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvZWRjX25ldyIpOwogICAgICAgIGRyaXZlck1hbmFnZXJEYXRhU291cmNlLnNldFVzZXJuYW1lKCJ0cnVjLnRyYW4iKTsKICAgICAgICBkcml2ZXJNYW5hZ2VyRGF0YVNvdXJjZS5zZXRQYXNzd29yZCgiNjUyNjA2Iik7CiAgICAgICAgcmV0dXJuIGRyaXZlck1hbmFnZXJEYXRhU291cmNlOwogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgY29uZmlnTG9jYXRpb246IGNsYXNzcGF0aDovbXliYXRpcy1jb25maWcueG1sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3JnLnF1YXJ0ei5kYXRhU291cmNlLnF6RFMubWF4Q29ubmVjdGlvbjoxMCAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaHludGVuLnNjaGVkdWxlci5xdWFydHouam9iLlRlc3RKb2I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuZ2V0RGF0YSgpLnVzaW5nV2F0Y2hlcihuZXcgV2F0Y2hlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHByb2Nlc3MoV2F0Y2hlZEV2ZW50IHdhdGNoZWRFdmVudCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCK78cihysK8/iIgKyB3YXRjaGVkRXZlbnQpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuZm9yUGF0aCgiL2FjIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xpZW50Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tYXBwZXIuVXNlck1hcHBlcjsK</text>
       </register>
     </registers>
     <search>
