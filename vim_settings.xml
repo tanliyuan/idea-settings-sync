@@ -20,11 +20,18 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="29" column="38" />
       </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/shardingJdbc/ModuloDatabaseShardingAlgorithm.java" timestamp="1505979273127" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectRequest.java" timestamp="1504172146516">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="16" column="84" />
         <mark key="." line="16" column="84" />
         <mark key="^" line="16" column="84" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/shardingJdbc/ShardingJdbc.java" timestamp="1505978915348">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ModuloTableShardingAlgorithm.java" timestamp="1505975649731" />
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1505204405863">
@@ -96,6 +103,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dangdang/sharding-jdbc-core/1.5.0/sharding-jdbc-core-1.5.0-sources.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/TableRule.java" timestamp="1505977745260" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1504498923528">
         <mark key="[" line="80" column="30" />
         <mark key="]" line="82" column="35" />
@@ -305,6 +313,9 @@
         <mark key="]" line="45" column="91" />
         <mark key="^" line="45" column="91" />
         <mark key="." line="45" column="91" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dangdang/sharding-jdbc-core/1.5.0/sharding-jdbc-core-1.5.0-sources.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/ShardingRule.java" timestamp="1505978053144">
+        <mark key="'" line="90" column="28" />
       </file>
       <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/controller/UserController.java" timestamp="1505901135899">
         <mark key="[" line="2" column="0" />
@@ -518,8 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="21" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
-      <jump line="101" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
       <jump line="93" column="30" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" />
       <jump line="89" column="33" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" />
       <jump line="61" column="27" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceResponseDTO.java" />
@@ -618,48 +627,51 @@
       <jump line="140" column="67" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="30" column="13" filename="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/QuartzSchedulerConfig.java" />
       <jump line="57" column="58" filename="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ShardingJdbc.java" />
+      <jump line="90" column="28" filename="$MAVEN_REPOSITORY$/com/dangdang/sharding-jdbc-core/1.5.0/sharding-jdbc-core-1.5.0-sources.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/ShardingRule.java" />
+      <jump line="58" column="0" filename="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/shardingJdbc/ShardingJdbc.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.0.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTaGFyZGluZ0RhdGFTb3VyY2UK</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm15YmF0aXMuc3ByaW5nLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="0" type="4">
+        <text>Arrays.asList(orderTableRule, orderItemTableRule)</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTaGFyZGluZ0RhdGFTb3VyY2UK</text>
+      </register>
+      <register name="2" type="4">
+        <text>)build()
+                Arrays.asList(new BindingTableRule(Arrays.asList(orderTableRule, orderItemTableRule))),</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUYWJsZVJ1bGUgb3JkZXJUYWJsZVJ1bGUgPSBuZXcgVGFibGVSdWxlKCJ0X29yZGVyIiwgLCBkYXRhU291cmNlUnVsZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmRhbmdkYW5nL3NoYXJkaW5nLWpkYmMgLS0+Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>mybatis:
   mapperLocations: classpath:mapper/*.xml
   typeAliasesPackage: com.chynten.scheduler.model</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndlaWRhaTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y21zLWZhY2FkZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IEBCZWFuCiAgICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4PSJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICBwdWJsaWMgRGF0YVNvdXJjZSBkYXRhU291cmNlKCkgewogICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50b21jYXQuamRiYy5wb29sLkRhdGFTb3VyY2UoKTsKICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LS1hdXRvY29uZmk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3JkbmlrLnN3YWdnZXIuYW5ub3RhdGlvbnMuQXBpT3BlcmF0aW9uOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgY29uZmlnTG9jYXRpb246IGNsYXNzcGF0aDovbXliYXRpcy1jb25maWcueG1sCg==</text>
       </register>
     </registers>
     <search>
