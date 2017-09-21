@@ -26,6 +26,7 @@
         <mark key="." line="16" column="84" />
         <mark key="^" line="16" column="84" />
       </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ModuloTableShardingAlgorithm.java" timestamp="1505975649731" />
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" timestamp="1505204405863">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -136,10 +137,8 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505901960297">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="63" column="21" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505975579265">
+        <mark key="[" line="78" column="21" />
         <mark key="^" line="67" column="56" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/FastDFSUploadException.java" timestamp="1504163015670">
@@ -242,7 +241,7 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/Application.java" timestamp="1505902277829">
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/Application.java" timestamp="1505975336167">
         <mark key="a" line="27" column="34" />
         <mark key="[" line="49" column="58" />
         <mark key="]" line="49" column="58" />
@@ -433,12 +432,13 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/application.yml" timestamp="1505901278675">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="47" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/application.yml" timestamp="1505975698360">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="10" column="47" />
       </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ModuloDatabaseShardingAlgorithm.java" timestamp="1505975625196" />
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/generatorConfig.xml" timestamp="1504262039335">
         <mark key="[" line="67" column="86" />
         <mark key="]" line="67" column="95" />
@@ -462,6 +462,13 @@
         <mark key="]" line="15" column="38" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="38" />
+      </file>
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ShardingJdbc.java" timestamp="1505975800080">
+        <mark key="'" line="55" column="58" />
+        <mark key="[" line="83" column="95" />
+        <mark key="]" line="83" column="96" />
+        <mark key="." line="83" column="96" />
+        <mark key="^" line="83" column="96" />
       </file>
       <file name="D:/IDEA-project/websocket-tail-demo/src/main/webapp/index.html" timestamp="1503396333416">
         <mark key="[" line="16" column="54" />
@@ -509,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
       <jump line="99" column="21" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
       <jump line="101" column="32" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
       <jump line="93" column="30" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/insurance/InsuranceRequestDTO.java" />
@@ -609,13 +615,14 @@
       <jump line="67" column="3" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
       <jump line="140" column="67" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/InsuranceServiceImpl.java" />
       <jump line="30" column="13" filename="D:/IDEA-project/demo_coding/src/main/java/com/example/demo/QuartzSchedulerConfig.java" />
+      <jump line="57" column="58" filename="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ShardingJdbc.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndlaWRhaTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y21zLWZhY2FkZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>job_quartz</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>job_quartz</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -624,31 +631,33 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm15YmF0aXMuc3ByaW5nLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndlaWRhaTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y21zLWZhY2FkZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IEBCZWFuCiAgICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4PSJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICBwdWJsaWMgRGF0YVNvdXJjZSBkYXRhU291cmNlKCkgewogICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50b21jYXQuamRiYy5wb29sLkRhdGFTb3VyY2UoKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmRhbmdkYW5nL3NoYXJkaW5nLWpkYmMgLS0+Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LS1hdXRvY29uZmk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text>mybatis:
+  mapperLocations: classpath:mapper/*.xml
+  typeAliasesPackage: com.chynten.scheduler.model</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3JkbmlrLnN3YWdnZXIuYW5ub3RhdGlvbnMuQXBpT3BlcmF0aW9uOwo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndlaWRhaTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y21zLWZhY2FkZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEBCZWFuCiAgICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4PSJzcHJpbmcuZGF0YXNvdXJjZSIpCiAgICBwdWJsaWMgRGF0YVNvdXJjZSBkYXRhU291cmNlKCkgewogICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50b21jYXQuamRiYy5wb29sLkRhdGFTb3VyY2UoKTsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgY29uZmlnTG9jYXRpb246IGNsYXNzcGF0aDovbXliYXRpcy1jb25maWcueG1sCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LS1hdXRvY29uZmk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3JkbmlrLnN3YWdnZXIuYW5ub3RhdGlvbnMuQXBpT3BlcmF0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLm5vN3BsYXllci5tb2RlbC5Vc2VyOwo=</text>
+        <text encoding="base64">ICAgY29uZmlnTG9jYXRpb246IGNsYXNzcGF0aDovbXliYXRpcy1jb25maWcueG1sCg==</text>
       </register>
     </registers>
     <search>
