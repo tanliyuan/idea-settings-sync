@@ -137,9 +137,11 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505975579265">
-        <mark key="[" line="78" column="21" />
-        <mark key="^" line="67" column="56" />
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/pom.xml" timestamp="1505977348680">
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="25" />
+        <mark key="^" line="77" column="25" />
+        <mark key="." line="77" column="25" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/FastDFSUploadException.java" timestamp="1504163015670">
         <mark key="[" line="8" column="54" />
@@ -463,7 +465,7 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
-      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ShardingJdbc.java" timestamp="1505975800080">
+      <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/ShardingJdbc.java" timestamp="1505976818082">
         <mark key="'" line="55" column="58" />
         <mark key="[" line="83" column="95" />
         <mark key="]" line="83" column="96" />
@@ -503,7 +505,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1505902073149">
+      <file name="/fragment.java" timestamp="1505976681950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -619,10 +621,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>job_quartz</text>
+        <text>1.0.0</text>
       </register>
       <register name="-" type="4">
-        <text>job_quartz</text>
+        <text>1.0.0</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
