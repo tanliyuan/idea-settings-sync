@@ -23,6 +23,7 @@
       <file name="/a.dummy" timestamp="1506322862306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/NewsApiImpl.java" timestamp="1506325419259" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationTypeDoMapper.xml" timestamp="1505984030682">
         <mark key="[" line="150" column="69" />
         <mark key="]" line="150" column="69" />
@@ -231,7 +232,7 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/BannerApiImpl.java" timestamp="1506323579571" />
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/BannerApiImpl.java" timestamp="1506324179900" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
@@ -284,15 +285,23 @@
         <mark key="." line="93" column="65" />
         <mark key="^" line="93" column="65" />
       </file>
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/RecruitServiceImpl.java" timestamp="1506325630466">
+        <mark key="'" line="47" column="61" />
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="18" />
+        <mark key="." line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+      </file>
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WriteFileConfig.java" timestamp="1503297367055">
         <mark key="[" line="30" column="71" />
         <mark key="]" line="30" column="71" />
         <mark key="." line="30" column="71" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/ReportService.java" timestamp="1506321811924">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/ReportService.java" timestamp="1506325647764">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" timestamp="1506320254476">
         <mark key="[" line="9" column="0" />
@@ -374,6 +383,12 @@
         <mark key="]" line="48" column="8" />
         <mark key="^" line="48" column="8" />
         <mark key="." line="48" column="8" />
+      </file>
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/NewsService.java" timestamp="1506324451819">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/java/com/weidai/cms/model/OperationEventDo.java" timestamp="1505987981540">
         <mark key="[" line="2" column="0" />
@@ -505,6 +520,9 @@
         <mark key="." line="139" column="62" />
         <mark key="^" line="139" column="62" />
       </file>
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/RecruitServiceApiImpl.java" timestamp="1506325487803">
+        <mark key="'" line="35" column="47" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/pc/EventsServiceImpl.java" timestamp="1505987944862">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -543,11 +561,12 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/support/ErrorEnum.java" timestamp="1506322986593">
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/support/ErrorEnum.java" timestamp="1506324057602">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/CmsNewsServiceFacade.java" timestamp="1506046197635">
         <mark key="[" line="8" column="7" />
@@ -640,10 +659,11 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/RecruitService.java" timestamp="1506075829150">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/RecruitService.java" timestamp="1506325446218">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="D:/IDEA-project/sql_review/ac/20170907_01/DDL_20170907_01.sql" timestamp="1504748326856">
         <mark key="[" line="0" column="0" />
@@ -656,18 +676,18 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="14" column="51" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/ReportServiceImpl.java" timestamp="1506321631850">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="18" column="54" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/ReportServiceImpl.java" timestamp="1506325662799">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="20" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/BannerServiceImpl.java" timestamp="1506323814209">
-        <mark key="'" line="88" column="32" />
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="76" column="32" />
-        <mark key="." line="76" column="32" />
-        <mark key="^" line="76" column="63" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/BannerServiceImpl.java" timestamp="1506324326697">
+        <mark key="'" line="86" column="32" />
+        <mark key="[" line="98" column="9" />
+        <mark key="]" line="99" column="7" />
+        <mark key="." line="99" column="7" />
+        <mark key="^" line="99" column="7" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/java/com/weidai/cms/dao/mapper/OperationNewsDoMapper.java" timestamp="1505988491956">
         <mark key="[" line="2" column="0" />
@@ -747,6 +767,13 @@
         <mark key="]" line="186" column="7" />
         <mark key="^" line="186" column="7" />
         <mark key="." line="186" column="7" />
+      </file>
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/NewsServiceImpl.java" timestamp="1506325409935">
+        <mark key="'" line="87" column="34" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="214" column="48" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/FutureWrapper.java" timestamp="1504604164824">
         <mark key="[" line="10" column="13" />
@@ -1110,6 +1137,9 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="76" column="33" />
       </file>
+      <file name="D:/IDEA-project/cms/cms-common/src/main/java/com/weidai/cms/common/support/ClassUtils.java" timestamp="1506320218503">
+        <mark key="'" line="945" column="21" />
+      </file>
       <file name="D:/IDEA-project/demo_coding/src/main/resources/quartz.properties" timestamp="1505791360642">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="4" column="0" />
@@ -1124,8 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="29" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
-      <jump line="158" column="4" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
       <jump line="99" column="11" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
       <jump line="110" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
       <jump line="66" column="11" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
@@ -1224,46 +1252,48 @@
       <jump line="64" column="12" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/ForumEssenceServiceImpl.java" />
       <jump line="8" column="0" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/support/ErrorEnum.java" />
       <jump line="28" column="0" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/ForumEssenceServiceImpl.java" />
+      <jump line="84" column="34" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/NewsServiceImpl.java" />
+      <jump line="35" column="47" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/RecruitServiceApiImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5lbQo=</text>
+        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQ8TGlzdDxSZXBvcnRWbz4+IHJlc3VsdCA9IG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Utils</text>
+        <text>RpcResult</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CVJwY1Jlc3VsdDxMaXN0PE9wZXJhdGlvbkZvcnVtRXNzZW5jZVZPPj4gZ2V0TGF0ZXN0Rm9ydW1Fc3NlbmNlKEludGVnZXIgc2l6ZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>根据类型查询最新招聘失败</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5lbQo=</text>
+        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQ8TGlzdDxSZXBvcnRWbz4+IHJlc3VsdCA9IG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVzc2FnZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJhbm5lclZPPiBtZXNzYWdlID0gbmV3IEFycmF5TGlzdDw+KCk7ZGQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5zZXRFcnJvckNvZGUoRW51bUVycm9yLk5PLmdldENvZGUoKSk7CiAgICAgICAgICAgIG1lc3NhZ2Uuc2V0TWVzc2FnZShFbnVtRXJyb3IuTk8uZ2V0RGVzYygpKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Owo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJcmVzdWx0LnNldFN5c3RlbUVycm9yKCK4+b7dwODQzbLp0a/X7tDC1dDGuMqnsNwiKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJcmVzdWx0LnNldFN1Y2Nlc3MoKTsKCQkJcmVzdWx0LnNldFJlc3VsdChyZWNydWl0Vk9MaXN0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCXJlc3VsdC5zZXRTdWNjZXNzKCk7CgkJCQlyZXN1bHQuc2V0UmVzdWx0KHJlY3J1aXRWT0xpc3QpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJcmVzdWx0LnNldElsbGVnYWxBcmd1bWVudCgidHlwZSDOqr/VIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmVzdWx0LnNldFN1Y2Nlc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJlc3VsdC5zZXRTdWNjZXNzKCk7CgkJCQlyZXN1bHQuc2V0UmVzdWx0KGZvcnVtRXNzZW5jZVZPTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhlYWRsaW5lc05ld3MgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlScGNSZXN1bHQ8TGlzdDxPcGVyYXRpb25Gb3J1bUVzc2VuY2VWTz4+IHJlc3VsdCA9bmV3IFJwY1Jlc3VsdDxMaXN0PE9wZXJhdGlvbkZvcnVtRXNzZW5jZVZPPj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVzc2FnZTsK</text>
       </register>
     </registers>
     <search>
