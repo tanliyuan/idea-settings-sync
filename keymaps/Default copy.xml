@@ -60,6 +60,10 @@
   <action id="RunConfiguration">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ScrollFromSource">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
