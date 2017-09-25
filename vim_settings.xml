@@ -340,11 +340,11 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" timestamp="1506332526825">
-        <mark key="[" line="76" column="77" />
-        <mark key="]" line="78" column="41" />
-        <mark key="." line="78" column="41" />
-        <mark key="^" line="78" column="41" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" timestamp="1506333199800">
+        <mark key="[" line="85" column="42" />
+        <mark key="]" line="85" column="62" />
+        <mark key="." line="85" column="62" />
+        <mark key="^" line="85" column="62" />
       </file>
       <file name="D:/IDEA-project/sql_review/ac/20170830_01/DDL_20170830_01.sql" timestamp="1504097086752">
         <mark key="[" line="6" column="40" />
@@ -587,7 +587,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506328338840">
+      <file name="/Dummy.txt" timestamp="1506334014691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -634,7 +634,7 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1506322852611">
+      <file name="/fragment.java" timestamp="1506333950663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -697,11 +697,11 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506332335141">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-        <mark key="." line="19" column="22" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506333614824">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="10" />
+        <mark key="^" line="56" column="10" />
+        <mark key="." line="56" column="10" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/ReportDoMapperExt.xml" timestamp="1505987774147">
         <mark key="[" line="4" column="48" />
@@ -791,6 +791,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/medal-facade/1.2.2/medal-facade-1.2.2-sources.jar!/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1506333996539" />
       <file name="D:/IDEA-project/cms/cms-facade/pom.xml" timestamp="1506328358326">
         <mark key="[" line="78" column="21" />
         <mark key="]" line="84" column="20" />
@@ -1348,43 +1349,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>，</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>查询运营报告列表异常</text>
+        <text>String.valueOf(code)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogxKzIz7PJuabT0Le1u9i94bn7CiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHBhcmFtIAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljICBDbXNScGNWb2lkUmVzdWx0IFNVQ0NFU1MoVCBkYXRhKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU1VDQ0VTUyhudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0RXJyb3JDb2RlKFN0cmluZy52YWx1ZU9mKGNvZGUpKTsKICAgICAgICByZXN1bHQuc2V0TWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDbXNScGNWb2lkUmVzdWx0IHJlc3VsdCA9IG5ldyBDbXNScGNWb2lkUmVzdWx0KCk7CiAgICAgICAgcmVzdWx0LnNldEVycm9yQ29kZShTdHJpbmcudmFsdWVPZihFcnJvckVudW0uT0suZ2V0Q29kZSgpKSk7CiAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoRXJyb3JFbnVtLk9LLmdldERlc2MoKSk7CiAgICAgICAgcmVzdWx0LnNldFJlc3VsdChkYXRhKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogxKzIz7PJuabT0Le1u9i94bn7CiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHBhcmFtIAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljICBDbXNScGNWb2lkUmVzdWx0IFNVQ0NFU1MoVCBkYXRhKSB7CiAgICAgICAgQ21zUnBjVm9pZFJlc3VsdCByZXN1bHQgPSBuZXcgQ21zUnBjVm9pZFJlc3VsdDw+KCk7CiAgICAgICAgcmVzdWx0LnNldEVycm9yQ29kZShTdHJpbmcudmFsdWVPZihFcnJvckVudW0uT0suZ2V0Q29kZSgpKSk7CiAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoRXJyb3JFbnVtLk9LLmdldERlc2MoKSk7CiAgICAgICAgcmVzdWx0LnNldFJlc3VsdChkYXRhKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogxKzIz7PJuabT0Le1u9i94bn7CiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHBhcmFtIAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljICBDbXNScGNWb2lkUmVzdWx0IFNVQ0NFU1MoVCBkYXRhKSB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlWb2lkIGEK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KGRhdGEpOwo=</text>
       </register>
     </registers>
     <search>
