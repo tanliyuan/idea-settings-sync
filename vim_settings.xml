@@ -21,11 +21,12 @@
         <mark key="." line="81" column="110" />
         <mark key="^" line="81" column="110" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" timestamp="1506331613136">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="8" column="56" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" timestamp="1506333027057">
+        <mark key="'" line="52" column="18" />
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+        <mark key="." line="24" column="18" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506330258477">
         <mark key="[" line="150" column="15" />
@@ -339,11 +340,11 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" timestamp="1506331683168">
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="30" />
-        <mark key="^" line="67" column="30" />
-        <mark key="." line="67" column="30" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" timestamp="1506332526825">
+        <mark key="[" line="76" column="77" />
+        <mark key="]" line="78" column="41" />
+        <mark key="." line="78" column="41" />
+        <mark key="^" line="78" column="41" />
       </file>
       <file name="D:/IDEA-project/sql_review/ac/20170830_01/DDL_20170830_01.sql" timestamp="1504097086752">
         <mark key="[" line="6" column="40" />
@@ -696,7 +697,7 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506328493734">
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506332335141">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
@@ -1244,8 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/FirstInvestmentListener.java" />
-      <jump line="66" column="11" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/insurance/InsuranceController.java" />
       <jump line="89" column="30" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" />
       <jump line="271" column="12" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="161" column="107" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
@@ -1344,13 +1343,15 @@
       <jump line="84" column="34" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/NewsServiceImpl.java" />
       <jump line="35" column="47" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/RecruitServiceApiImpl.java" />
       <jump line="64" column="20" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/ForumEssenceApi.java" />
+      <jump line="62" column="4" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
+      <jump line="57" column="18" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CmsRpcResult</text>
+        <text>，</text>
       </register>
       <register name="-" type="4">
-        <text>CmsRpcResult</text>
+        <text>，</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1359,31 +1360,31 @@
         <text>查询运营报告列表异常</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY29tbW9uLnN1cHBvcnQubW9kZWwucnBjLkNtc1JwY1Jlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KGRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPGdyb3VwSWQ+b3JnLmFwYWNoZTwvZ3JvdXBJZD4KCgkJCTxhcnRpZmFjdElkPmNvbW1vbi1sYW5nPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj48L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogxKzIz7PJuabT0Le1u9i94bn7CiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHBhcmFtIAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljICBDbXNScGNWb2lkUmVzdWx0IFNVQ0NFU1MoVCBkYXRhKSB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0UmVzdWx0KGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0b3JlVk9MaXN0LnNpemUoKSA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU1VDQ0VTUyhudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBDbXNScGNWb2lkUmVzdWx0IHJlc3VsdCA9IG5ldyBDbXNScGNWb2lkUmVzdWx0KCk7CiAgICAgICAgcmVzdWx0LnNldEVycm9yQ29kZShTdHJpbmcudmFsdWVPZihFcnJvckVudW0uT0suZ2V0Q29kZSgpKSk7CiAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoRXJyb3JFbnVtLk9LLmdldERlc2MoKSk7CiAgICAgICAgcmVzdWx0LnNldFJlc3VsdChkYXRhKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0b3JlTnVtYmVyLmludFZhbHVlKCkgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogxKzIz7PJuabT0Le1u9i94bn7CiAgICAgKiBAcGFyYW0gZGF0YQogICAgICogQHBhcmFtIAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljICBDbXNScGNWb2lkUmVzdWx0IFNVQ0NFU1MoVCBkYXRhKSB7CiAgICAgICAgQ21zUnBjVm9pZFJlc3VsdCByZXN1bHQgPSBuZXcgQ21zUnBjVm9pZFJlc3VsdDw+KCk7CiAgICAgICAgcmVzdWx0LnNldEVycm9yQ29kZShTdHJpbmcudmFsdWVPZihFcnJvckVudW0uT0suZ2V0Q29kZSgpKSk7CiAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoRXJyb3JFbnVtLk9LLmdldERlc2MoKSk7CiAgICAgICAgcmVzdWx0LnNldFJlc3VsdChkYXRhKTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICByZXN1bHQuc2V0RXJyb3JDb2RlKEVudW1FcnJvci5TVE9SRV9OVU1fRVhDRVBUSU9OLmdldENvZGUoKSk7Ci8vICAgICAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoRW51bUVycm9yLlNUT1JFX05VTV9FWENFUFRJT04uZ2V0RGVzYygpKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlWb2lkIGEK</text>
       </register>
     </registers>
     <search>
