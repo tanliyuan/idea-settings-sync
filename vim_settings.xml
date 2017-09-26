@@ -399,6 +399,7 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/WalkRedPackageApiImpl.java" timestamp="1506407984155" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/java/com/weidai/cms/model/OperationEventDo.java" timestamp="1505987981540">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -419,11 +420,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/TypeApiImpl.java" timestamp="1506406713634">
-        <mark key="[" line="40" column="40" />
-        <mark key="]" line="40" column="40" />
-        <mark key="." line="40" column="40" />
-        <mark key="^" line="40" column="40" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/TypeApiImpl.java" timestamp="1506408172605">
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="63" column="67" />
+        <mark key="." line="63" column="67" />
+        <mark key="^" line="63" column="67" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/StoreApiImpl.java" timestamp="1506055314454">
         <mark key="[" line="29" column="59" />
@@ -1298,11 +1299,11 @@
       <jump line="57" column="18" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>convert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>convert</text>
+        <text encoding="base64">UnBjUmVzdWx0PE1hcDxTdHJpbmcsIFN0cmluZz4+</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1311,31 +1312,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUnBjUmVzdWx0IEVSUk9SKEVycm9yRW51bSBlcnJvckVudW0sIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkKGVycm9yRW51bS5nZXRDb2RlKCksIFN0cmluZ1V0aWxzLmRlZmF1bHRJZkVtcHR5KG1lc3NhZ2UsIGVycm9yRW51bS5nZXREZXNjKCkpLCBScGNSZXN1bHQuY2xhc3MpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQoInJlc3VsdCIsInN1Y2Nlc3MiKTsKICAgICAgICAgICAgICAgIG1hcC5wdXQoIm1zZyIsItDeuMSzybmmo6EiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQoInJlc3VsdCIsInN1Y2Nlc3MiKTsKICAgICAgICAgICAgICAgIG1hcC5wdXQoIm1zZyIsIsztvNOzybmmo6EiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBycGNWb2lkUmVzdWx0LnNldFN1Y2Nlc3MoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vLAogICAgLy8gICAgWwogICAgLy8gICAgICAid2VicGFjay1hbGlhcyIsCiAgICAvLyAgICAgIHsKICAgIC8vICAgICAgICAiY29uZmlnIjogIiR7cHJvY2Vzcy5jd2QoKX0vd2VicGFjay10ZXN0LmNvbmZpZy5qcyIKICAgIC8vICAgICAgfQogICAgLy8gICAgXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBycGNWb2lkUmVzdWx0LnNldFN1Y2Nlc3MoKTsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIFsKICAgICAgImFudGQiLAogICAgICBbCiAgICAgICAgewogICAgICAgICAgImxpYnJhcnlOYW1lIjogImFudGQiCiAgICAgICAgfQogICAgICA=</text>
+        <text encoding="base64">IC8vLAogICAgLy8gICAgWwogICAgLy8gICAgICAid2VicGFjay1hbGlhcyIsCiAgICAvLyAgICAgIHsKICAgIC8vICAgICAgICAiY29uZmlnIjogIiR7cHJvY2Vzcy5jd2QoKX0vd2VicGFjay10ZXN0LmNvbmZpZy5qcyIKICAgIC8vICAgICAgfQogICAgLy8gICAgXQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICJlbnYiOiB7CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBdCg==</text>
       </register>
     </registers>
     <search>
