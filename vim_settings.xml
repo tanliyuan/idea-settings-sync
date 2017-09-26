@@ -501,6 +501,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/support/ExceptionCatchAspect.java" timestamp="1506419263794">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/ReportApi.java" timestamp="1506411297903">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="17" />
@@ -807,11 +813,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/aspect/ExceptionCatchAspect.java" timestamp="1506417791234">
-        <mark key="[" line="48" column="51" />
-        <mark key="]" line="48" column="50" />
-        <mark key="." line="48" column="50" />
-        <mark key="^" line="48" column="50" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/aspect/ExceptionCatchAspect.java" timestamp="1506419090827">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/CmsBannerServiceFacade.java" timestamp="1506047808376">
         <mark key="[" line="22" column="14" />
@@ -1104,6 +1110,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/support/CmsFacadeException.java" timestamp="1506419273085">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="7" column="11" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/ResultWrapper.java" timestamp="1504604225193">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="25" />
@@ -1265,43 +1277,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDbXNGYWNhZGVFeGNlcHRpb24oKSB7CiAgICAgICAgc3VwZXIoKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IExVQ0tZX0RSQVdfRVJST1IoLTMsIrX308Oz6b2xvdO/2rTtzvOjoSIpLA==</text>
+        <text>RuntimeException</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>MethodSignature</text>
+        <text>&quot;facade异常方法:{} ; 参数:{}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDbXNGYWNhZGVFeGNlcHRpb24oKSB7CiAgICAgICAgc3VwZXIoKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgdGFyZ2V0ID0ganAuZ2V0VGFyZ2V0KCk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIE1ldGhvZCBtZXRob2QgPSB0YXJnZXQuZ2V0Q2xhc3MoKS5nZXRNZXRob2Qoc2lnbmF0dXJlLmdldE5hbWUoKSwgc2lnbmF0dXJlLmdldFBhcmFtZXRlclR5cGVzKCkpOwogICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcigicnBj0uyzo7D8ufy3vbeow7vT0NXStb0iLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IFJFQ09NTUVOREVEX1BFUlNPTl9OVUxMKDIwMDI2LCLNxrz2yMvOqr/VISIpLAogICAgRlJJRU5EU19JTlZJVEVEKDIwMDI3LCK6w9PR0tHR+8fro6EiKSwKICAgIExVQ0tZX0RSQVdfTk9UX1RJTUUoMTAwMjgsIsO709Cz6b2xtM7K/aOhIiksCiAgICBMVUNLWV9EUkFXX1RJTUVfRkFJTCgxMDAyOSwiuPzQwrPpvbG0zsr9yqew3KOhIiksCiAgICBJTlNFUlRfTFVDS1lfRFJBV19GQUlMKDEwMDEwLCKxo7Tms+m9sb2xxrfKp7Dco6EiKSw=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kU2lnbmF0dXJlIHNpZ25hdHVyZSA9IChNZXRob2RTaWduYXR1cmUpanAuZ2V0U2lnbmF0dXJlKCk7CiAgICAgICAgICAgIE9iamVjdCB0YXJnZXQgPSBqcC5nZXRUYXJnZXQoKTsKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBNZXRob2QgbWV0aG9kID0gdGFyZ2V0LmdldENsYXNzKCkuZ2V0TWV0aG9kKHNpZ25hdHVyZS5nZXROYW1lKCksIHNpZ25hdHVyZS5nZXRQYXJhbWV0ZXJUeXBlcygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoTm9TdWNoTWV0aG9kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIExPR0dFUi5lcnJvcigicnBj0uyzo7D8ufy3vbeow7vT0NXStb0iLCBlKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgTE9HR0VSLmVycm9yKFN0cmluZy5mb3JtYXQoImZhY2FkZdLss6O3vbeoOnt9IDsgss7K/Tp7fSIsIGpwLmdldFNpZ25hdHVyZSgpLmdldCksIHRocm93YWJsZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8v1dDGuLvutq+07c7zwusKICAgIFJFQ1JVSVRfU0FWRV9FUlJPUigzMDAwMDEsIrLlyOvQo9XQzca89tDFz6LKp7DcISIpLAogICAgUkVDUlVJVF9IQVNfU0FWRUQoMzAwMDAyLCK4w8rWu/q6xdLRvq2xu83GvPa5/cHLo6zH69bBzqK0+9XQxri5q9bausXNtrXdvPLA+iEiKSwKCiAgICAvL0FHVM/uxL8g19S2qNLluuyw/AogICAgTk9UX1VTRV9SRURQQUNLRUNUKDQwMDAwMSwixOPJ0NPQuuyw/M60yrnTw6Osx+vKudPDuvPU2cC0wezIoaOhIiks</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJwY1Jlc3VsdEZhY3RvcnkuRVJST1IoRXJyb3JFbnVtLkZBQ0FERV9FUlJPUikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kU2lnbmF0dXJlIHNpZ25hdHVyZSA9IChNZXRob2RTaWduYXR1cmUpanAuZ2V0U2lnbmF0dXJlKCk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
