@@ -536,7 +536,7 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506392405998">
+      <file name="/Dummy.txt" timestamp="1506393332212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1288,11 +1288,11 @@
       <jump line="57" column="18" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vLAogICAgLy8gICAgWwogICAgLy8gICAgICAid2VicGFjay1hbGlhcyIsCiAgICAvLyAgICAgIHsKICAgIC8vICAgICAgICAiY29uZmlnIjogIiR7cHJvY2Vzcy5jd2QoKX0vd2VicGFjay10ZXN0LmNvbmZpZy5qcyIKICAgIC8vICAgICAgfQogICAgLy8gICAgXQ==</text>
       </register>
       <register name="-" type="4">
-        <text>rpcVoidResult</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1300,26 +1300,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUnBjUmVzdWx0IEVSUk9SKEVycm9yRW51bSBlcnJvckVudW0sIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkKGVycm9yRW51bS5nZXRDb2RlKCksIFN0cmluZ1V0aWxzLmRlZmF1bHRJZkVtcHR5KG1lc3NhZ2UsIGVycm9yRW51bS5nZXREZXNjKCkpLCBScGNSZXN1bHQuY2xhc3MpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8vLAogICAgLy8gICAgWwogICAgLy8gICAgICAid2VicGFjay1hbGlhcyIsCiAgICAvLyAgICAgIHsKICAgIC8vICAgICAgICAiY29uZmlnIjogIiR7cHJvY2Vzcy5jd2QoKX0vd2VicGFjay10ZXN0LmNvbmZpZy5qcyIKICAgIC8vICAgICAgfQogICAgLy8gICAgXQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIFsKICAgICAgImFudGQiLAogICAgICBbCiAgICAgICAgewogICAgICAgICAgImxpYnJhcnlOYW1lIjogImFudGQiCiAgICAgICAgfQogICAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICJlbnYiOiB7CiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0cmFuc2Zvcm0tZGVjb3JhdG9ycy1sZWdhY3kiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJlc3Bvd2VyIiwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
