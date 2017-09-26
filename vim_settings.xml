@@ -247,11 +247,11 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" timestamp="1506329067786">
-        <mark key="[" line="188" column="15" />
-        <mark key="]" line="188" column="41" />
-        <mark key="." line="188" column="41" />
-        <mark key="^" line="188" column="41" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" timestamp="1506409299355">
+        <mark key="[" line="121" column="11" />
+        <mark key="]" line="121" column="23" />
+        <mark key="." line="121" column="23" />
+        <mark key="^" line="121" column="23" />
       </file>
       <file name="D:/IDEA-project/cms/cms-webapp/src/main/java/com/weidai/cms/web/controller/StoreController.java" timestamp="1506321927926">
         <mark key="[" line="13" column="30" />
@@ -265,10 +265,11 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/BannerApi.java" timestamp="1506406084463">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/BannerApi.java" timestamp="1506409310699">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/ReportApiImpl.java" timestamp="1506055275293">
         <mark key="[" line="33" column="59" />
@@ -340,11 +341,11 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/TypeApi.java" timestamp="1506406659533">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/TypeApi.java" timestamp="1506409028982">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504182560223">
         <mark key="[" line="8" column="44" />
@@ -420,11 +421,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/TypeApiImpl.java" timestamp="1506408172605">
-        <mark key="[" line="62" column="17" />
-        <mark key="]" line="63" column="67" />
-        <mark key="." line="63" column="67" />
-        <mark key="^" line="63" column="67" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/TypeApiImpl.java" timestamp="1506409010483">
+        <mark key="'" line="76" column="29" />
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="87" column="37" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/StoreApiImpl.java" timestamp="1506055314454">
         <mark key="[" line="29" column="59" />
@@ -1197,7 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="30" filename="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/utils/CertificateNoUtil.java" />
       <jump line="271" column="12" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="161" column="107" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" />
       <jump line="195" column="124" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" />
@@ -1297,46 +1298,47 @@
       <jump line="64" column="20" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/ForumEssenceApi.java" />
       <jump line="62" column="4" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
       <jump line="57" column="18" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
+      <jump line="80" column="29" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/TypeApiImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UnBjUmVzdWx0PE1hcDxTdHJpbmcsU3RyaW5nPj4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UnBjUmVzdWx0PE1hcDxTdHJpbmcsIFN0cmluZz4+</text>
+        <text encoding="base64">UnBjUmVzdWx0PE1hcDxTdHJpbmcsU3RyaW5nPj4=</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUnBjUmVzdWx0IEVSUk9SKEVycm9yRW51bSBlcnJvckVudW0sIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkKGVycm9yRW51bS5nZXRDb2RlKCksIFN0cmluZ1V0aWxzLmRlZmF1bHRJZkVtcHR5KG1lc3NhZ2UsIGVycm9yRW51bS5nZXREZXNjKCkpLCBScGNSZXN1bHQuY2xhc3MpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJwY1Jlc3VsdEZhY3RvcnkuVk9JREVSUk9SKEVycm9yRW51bS5HRU5FUkFMX0VSUk9SLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQoInJlc3VsdCIsInN1Y2Nlc3MiKTsKICAgICAgICAgICAgICAgIG1hcC5wdXQoIm1zZyIsItDeuMSzybmmo6EiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUnBjUmVzdWx0RmFjdG9yeS5TVUNDRVNTKG1hcCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQoInJlc3VsdCIsInN1Y2Nlc3MiKTsKICAgICAgICAgICAgICAgIG1hcC5wdXQoIm1zZyIsIsztvNOzybmmo6EiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicmVzdWx0IiwiZmFpbCIpOwogICAgICAgICAgICBtYXAucHV0KCJtc2ciLGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicmVzdWx0Iiwic3VjY2VzcyIpOwogICAgICAgICAgICBtYXAucHV0KCJtc2ciLCK3orK8s8m5pqOhIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUnBjUmVzdWx0RmFjdG9yeS5TVUNDRVNTKG1hcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY21zLmZhY2FkZS5tb2RlbC5ScGNSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicmVzdWx0IiwiZmFpbCIpOwogICAgICAgICAgICBtYXAucHV0KCJtc2ciLGUuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBycGNWb2lkUmVzdWx0LnNldFN1Y2Nlc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vLAogICAgLy8gICAgWwogICAgLy8gICAgICAid2VicGFjay1hbGlhcyIsCiAgICAvLyAgICAgIHsKICAgIC8vICAgICAgICAiY29uZmlnIjogIiR7cHJvY2Vzcy5jd2QoKX0vd2VicGFjay10ZXN0LmNvbmZpZy5qcyIKICAgIC8vICAgICAgfQogICAgLy8gICAgXQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUnBjUmVzdWx0RmFjdG9yeS5TVUNDRVNTKG1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicmVzdWx0Iiwic3VjY2VzcyIpOwogICAgICAgICAgICBtYXAucHV0KCJtc2ciLCLJvrP9s8m5pqOhIik7Cg==</text>
       </register>
     </registers>
     <search>
