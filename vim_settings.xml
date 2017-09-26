@@ -687,11 +687,11 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcResultFactory.java" timestamp="1506337408229">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="44" />
-        <mark key="." line="50" column="44" />
-        <mark key="^" line="50" column="44" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcResultFactory.java" timestamp="1506397662940">
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="46" column="7" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/RecruitService.java" timestamp="1506325446218">
         <mark key="[" line="15" column="4" />
@@ -1289,10 +1289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vLAogICAgLy8gICAgWwogICAgLy8gICAgICAid2VicGFjay1hbGlhcyIsCiAgICAvLyAgICAgIHsKICAgIC8vICAgICAgICAiY29uZmlnIjogIiR7cHJvY2Vzcy5jd2QoKX0vd2VicGFjay10ZXN0LmNvbmZpZy5qcyIKICAgIC8vICAgICAgfQogICAgLy8gICAgXQ==</text>
+        <text>_VOID</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_VOID</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
