@@ -28,8 +28,6 @@
       <file name="/a.dummy" timestamp="1506337469322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/BannerServiceImpl.java" timestamp="1506329001741" />
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/NewsApiImpl.java" timestamp="1506325419259" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationTypeDoMapper.xml" timestamp="1505984030682">
         <mark key="[" line="150" column="69" />
         <mark key="]" line="150" column="69" />
@@ -243,7 +241,6 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/BannerApiImpl.java" timestamp="1506324179900" />
       <file name="D:/IDEA-project/spring-websockets-sample/projects/tail-file/src/main/java/bk/tailfile/config/WebSocketDefaultConfig.java" timestamp="1503307381072">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
@@ -551,11 +548,11 @@
         <mark key="^" line="64" column="20" />
         <mark key="." line="64" column="20" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcVoidResult.java" timestamp="1506338348135">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcVoidResult.java" timestamp="1506390524573">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/dto/BannerDTO.java" timestamp="1506047675803">
         <mark key="[" line="46" column="29" />
@@ -748,7 +745,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/medal-facade/1.2.2/medal-facade-1.2.2-sources.jar!/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1506333996539" />
       <file name="D:/IDEA-project/cms/cms-facade/pom.xml" timestamp="1506328358326">
         <mark key="[" line="78" column="21" />
         <mark key="]" line="84" column="20" />
@@ -761,7 +757,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/support/AjaxResult.java" timestamp="1506327745164" />
       <file name="E:/software/SpringSecurityOAuth2Example/src/test/java/com/websystique/springmvc/SpringRestClient.java" timestamp="1504002643275">
         <mark key="[" line="18" column="72" />
         <mark key="]" line="18" column="72" />
@@ -1287,8 +1282,8 @@
       <jump line="57" column="18" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcVoidResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rpcVoidResult</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>rpcVoidResult</text>
@@ -1299,75 +1294,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUnBjUmVzdWx0IEVSUk9SKEVycm9yRW51bSBlcnJvckVudW0sIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgcmV0dXJuIGJ1aWxkKGVycm9yRW51bS5nZXRDb2RlKCksIFN0cmluZ1V0aWxzLmRlZmF1bHRJZkVtcHR5KG1lc3NhZ2UsIGVycm9yRW51bS5nZXREZXNjKCkpLCBScGNSZXN1bHQuY2xhc3MpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-     * 默认成功无返回结果
-     * @return
-     */
-    public static CmsRpcVoidResult SUCCESS() {
-        CmsRpcVoidResult result = new CmsRpcVoidResult();
-        result.setErrorCode(String.valueOf(ErrorEnum.OK.getCode()));
-        result.setMessage(ErrorEnum.OK.getDesc());
-        return result;
-    }
-
-    /**
-     *  使用枚举类默认提示信息
-     * @param errorEnum
-     * @param 
-     * @return
-     */
-    public static  CmsRpcVoidResult ERROR(ErrorEnum errorEnum) {
-        return build(errorEnum.getCode(), errorEnum.getDesc());
-    }
-
-    /**
-     * 覆盖默认错误提示信息，以提供业务相关更为具体的提示信息
-     * @param errorEnum
-     * @param message
-     * @param 
-     * @return
-     */
-    public static  CmsRpcVoidResult ERROR(ErrorEnum errorEnum, String message) {
-        return build(errorEnum.getCode(), StringUtils.defaultIfEmpty(message, errorEnum.getDesc()));
-    }
-
-    /**
-     * 不对外暴露这个接口，避免代码中硬编码code，不便于结果码统一查询管理,统一在枚举类中定义
-     * @param code
-     * @param message
-     * @return
-     */
-    private static CmsRpcVoidResult build(int code, String message) {
-        CmsRpcVoidResult result = new CmsRpcVoidResult();
-        result.setErrorCode(String.valueOf(code));
-        result.setMessage(message);
-        return result;
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gY29kZQogICAgICogQHBhcmFtIG1lc3NhZ2UKICAgICAqIEBwYXJhbSB0Q2xhc3MKICAgICAqIEBwYXJhbSA8VD4KICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBycGNWb2lkUmVzdWx0ID0gdENsYXNzLm5ld0luc3RhbmNlKCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy+7+bG+sru74beiyfrS7LOjCiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUIHJwY1ZvaWRSZXN1bHQgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0RmFpbChTdHJpbmcudmFsdWVPZihjb2RlKSwgbWVzc2FnZSk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQgcmVzdWx0ID0gbmV3IFJwY1Jlc3VsdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
