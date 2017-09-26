@@ -3,7 +3,7 @@
     <option name="frameworks">
       <list>
         <LogFramework>
-          <option name="defaultLoggerFieldName" />
+          <option name="defaultLoggerFieldName" value="LOGGER" />
           <option name="logMessageFormatType" value="custom" />
           <option name="logMessagesCanUsePlaceholders" value="true" />
           <option name="loggerClass" value="org.slf4j.Logger" />
@@ -82,7 +82,6 @@
           <option name="name" value="log4j-1.2" />
         </LogFramework>
         <LogFramework>
-          <option name="defaultLoggerFieldName" />
           <option name="enabledGetterMethod">
             <map>
               <entry key="trace" value="isLoggable(&quot;MyTag&quot;, android.util.Log.VERBOSE)" />
@@ -92,6 +91,8 @@
               <entry key="error" value="isLoggable(&quot;MyTag&quot;, android.util.Log.ERROR)" />
             </map>
           </option>
+          <option name="logMessageFormatType" value="custom" />
+          <option name="logMessagesCanUsePlaceholders" value="true" />
           <option name="logMethod">
             <map>
               <entry key="trace" value="v(&quot;MyTag&quot;," />
@@ -101,7 +102,7 @@
               <entry key="error" value="e(&quot;MyTag&quot;," />
             </map>
           </option>
-          <option name="loggerClass" value="android.util.Log" />
+          <option name="loggerClass" value="org.slf4j.Logger" />
           <option name="name" value="android-util-log" />
         </LogFramework>
         <LogFramework>
