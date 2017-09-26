@@ -421,13 +421,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/TypeApiImpl.java" timestamp="1506412918736">
-        <mark key="'" line="65" column="29" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="53" column="7" />
-      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/StoreApiImpl.java" timestamp="1506412780208">
         <mark key="[" line="110" column="8" />
         <mark key="]" line="110" column="8" />
@@ -679,11 +672,11 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcResultFactory.java" timestamp="1506410530959">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="19" column="63" />
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcResultFactory.java" timestamp="1506417538130">
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="9" />
+        <mark key="." line="57" column="9" />
+        <mark key="^" line="57" column="9" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/RecruitService.java" timestamp="1506325446218">
         <mark key="[" line="15" column="4" />
@@ -718,6 +711,12 @@
         <mark key="]" line="42" column="45" />
         <mark key="^" line="42" column="45" />
         <mark key="." line="42" column="45" />
+      </file>
+      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/enums/ErrorEnum.java" timestamp="1506417728473">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/java/com/weidai/cms/dao/mapper/OperationStoreDoMapper.java" timestamp="1505987558315">
         <mark key="[" line="2" column="0" />
@@ -808,11 +807,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/aspect/ExceptionCatchAspect.java" timestamp="1506416505161">
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="50" />
-        <mark key="." line="31" column="50" />
-        <mark key="^" line="31" column="50" />
+      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/aspect/ExceptionCatchAspect.java" timestamp="1506417791234">
+        <mark key="[" line="48" column="51" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/CmsBannerServiceFacade.java" timestamp="1506047808376">
         <mark key="[" line="22" column="14" />
@@ -870,13 +869,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/RecruitApi.java" timestamp="1506411072316">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="64" column="6" />
-        <mark key="]" line="64" column="16" />
-        <mark key="^" line="64" column="16" />
-        <mark key="." line="64" column="16" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationNewsDoMapperExt.xml" timestamp="1505988625327">
         <mark key="[" line="121" column="46" />
@@ -1272,44 +1264,44 @@
       <jump line="65" column="0" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/RecruitApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IExVQ0tZX0RSQVdfRVJST1IoLTMsIrX308Oz6b2xvdO/2rTtzvOjoSIpLA==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>上传图片失败</text>
+        <text>MethodSignature</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLiIiLCApOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLiIiLCApOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuIiIsICk7IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLiIiLCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoUHJvY2VlZGluZ0pvaW5Qb2luIHBvaW4pIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IFJFQ09NTUVOREVEX1BFUlNPTl9OVUxMKDIwMDI2LCLNxrz2yMvOqr/VISIpLAogICAgRlJJRU5EU19JTlZJVEVEKDIwMDI3LCK6w9PR0tHR+8fro6EiKSwKICAgIExVQ0tZX0RSQVdfTk9UX1RJTUUoMTAwMjgsIsO709Cz6b2xtM7K/aOhIiksCiAgICBMVUNLWV9EUkFXX1RJTUVfRkFJTCgxMDAyOSwiuPzQwrPpvbG0zsr9yqew3KOhIiksCiAgICBJTlNFUlRfTFVDS1lfRFJBV19GQUlMKDEwMDEwLCKxo7Tms+m9sb2xxrfKp7Dco6EiKSw=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IC8v1dDGuLvutq+07c7zwusKICAgIFJFQ1JVSVRfU0FWRV9FUlJPUigzMDAwMDEsIrLlyOvQo9XQzca89tDFz6LKp7DcISIpLAogICAgUkVDUlVJVF9IQVNfU0FWRUQoMzAwMDAyLCK4w8rWu/q6xdLRvq2xu83GvPa5/cHLo6zH69bBzqK0+9XQxri5q9bausXNtrXdvPLA+iEiKSwKCiAgICAvL0FHVM/uxL8g19S2qNLluuyw/AogICAgTk9UX1VTRV9SRURQQUNLRUNUKDQwMDAwMSwixOPJ0NPQuuyw/M60yrnTw6Osx+vKudPDuvPU2cC0wezIoaOhIiks</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIHJlc3VsdCA9IG5ldyBNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kU2lnbmF0dXJlIHNpZ25hdHVyZSA9IChNZXRob2RTaWduYXR1cmUpanAuZ2V0U2lnbmF0dXJlKCk7Cg==</text>
       </register>
     </registers>
     <search>
