@@ -218,7 +218,6 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/common/support/common-model/1.0.0/common-model-1.0.0-sources.jar!/com/weidai/common/support/model/rpc/RpcResult.java" timestamp="1506407285241" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationStoreDoMapperExt.xml" timestamp="1505987683786">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="68" />
@@ -265,7 +264,6 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/RuntimeException.java" timestamp="1506419938102" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="19" column="34" />
@@ -413,7 +411,6 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/WalkRedPackageApiImpl.java" timestamp="1506407984155" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/java/com/weidai/cms/model/OperationEventDo.java" timestamp="1505987981540">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -545,7 +542,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/model/Message.java" timestamp="1506423548519" />
       <file name="D:/IDEA-project/cms/cms-service/src/test/java/com/weidai/cms/service/HFiveApiTest.java" timestamp="1506420220279">
         <mark key="[" line="49" column="17" />
         <mark key="]" line="49" column="19" />
@@ -557,7 +553,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/ActivityConfigApiImpl.java" timestamp="1506407195510" />
       <file name="D:/IDEA-project/cms/cms-facade-parent/pom.xml" timestamp="1506068023954">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -569,11 +564,11 @@
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/NewsController.java" timestamp="1506425563968">
-        <mark key="[" line="183" column="127" />
-        <mark key="]" line="183" column="127" />
-        <mark key="." line="183" column="127" />
-        <mark key="^" line="183" column="127" />
+      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/NewsController.java" timestamp="1506476998018">
+        <mark key="[" line="186" column="57" />
+        <mark key="]" line="186" column="60" />
+        <mark key="." line="186" column="60" />
+        <mark key="^" line="186" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1506423713267">
         <mark key="[" line="0" column="0" />
@@ -706,7 +701,6 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="/EventsController.java" timestamp="1506424326224" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/AssessFaceValueService.java" timestamp="1504183581192">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="56" />
@@ -787,7 +781,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/support/AjaxResult.java" timestamp="1506407657057" />
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/support/ExceptionLogAspect.java" timestamp="1506420120365">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="16" column="12" />
@@ -1359,10 +1352,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>Do</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Do</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
