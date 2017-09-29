@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="mustache" type="HTML" />
       <removed_mapping ext="mustache" type="Handlebars/Mustache" />
+      <mapping pattern="ReactSelect" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
