@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/weibutler/FaceValueDo.java" timestamp="1504235886142">
@@ -498,6 +498,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/IDEA-project/recharts/demo/component/Sector.js" timestamp="1506761179604">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/ReportService.java" timestamp="1506325647764">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="13" />
@@ -934,7 +940,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506680393490">
+      <file name="/Dummy.txt" timestamp="1506760949801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -996,7 +1002,7 @@
       <file name="D:/IDEA-project/react-admin/src/components/ui/emoji/iconfont.js" timestamp="1506679547764">
         <mark key="'" line="2" column="6" />
       </file>
-      <file name="D:/IDEA-project/recharts/.editorconfig" timestamp="1506759399259">
+      <file name="D:/IDEA-project/recharts/.editorconfig" timestamp="1506761686713">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
@@ -1125,10 +1131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1137,31 +1143,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imd1dHRlci1ib3giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPENhcmQgdGl0bGU9Irv5tKHP39DOzbwiIGJvcmRlcmVkPXtmYWxzZX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJlY2hhcnRzUmFkYXJDaGFydC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IERlbW87Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBzdGF0aWMgZGlzcGxheU5hbWUgPSAnQ2FydGVzaWFuQXhpc0RlbW8nOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZW5kZXIoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gY29uc3Qgb3B0aW9ucyA9IFsKLy8gICAgIHsgdmFsdWU6ICdvbmUnLCBsYWJlbDonb25lJ30sCi8vICAgICB7IHZhbHVlOiAndHdvJywgbGFiZWw6ICd0d28nfQovLyBdOwovLyBjb25zdCBub3RpZnlDaGFuZ2UgPSB2YWwgPT4gbWVzc2FnZS5zdWNjZXNzKCfRodTxwcs6JyArIHZhbCk7</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG5hbWU9ImZvcm0tZmllbGQtbmFtZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJvbmUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz17b3B0aW9uc30KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9uQ2hhbmdlPXt0aGlzLm5vdGlmeUNoYW5nZX0=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdyZWFjdC1zZWxlY3QvZGlzdC9yZWFjdC1zZWxlY3QuY3NzJzsK</text>
+        <text encoding="base64">ICAvLyBzdGF0aWMgZGlzcGxheU5hbWUgPSAnQ2FydGVzaWFuQXhpc0RlbW8nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdCAgZnJvbSAncmVhY3Qtc2VsZWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICA8Um91dGUgcGF0aD17J3NlbGVjdCd9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9eydkZW1vJ30gY29tcG9uZW50PXtSZWFjdFNlbGVjdH0vPgogICAgICAgICAgICAgICAgICAgICAgICA8L1JvdXRlPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
