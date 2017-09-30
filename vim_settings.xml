@@ -21,6 +21,13 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
+      <file name="D:/IDEA-project/react-admin/src/components/charts/SynchronizedLineChart.jsx" timestamp="1506749875701">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="25" column="74" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506410153967">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -170,6 +177,12 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
+      <file name="D:/IDEA-project/react-admin/src/components/charts/RechartsSynchronizedLineChart.jsx" timestamp="1506747917699">
+        <mark key="[" line="0" column="101" />
+        <mark key="]" line="0" column="101" />
+        <mark key="." line="0" column="101" />
+        <mark key="^" line="0" column="101" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/SpringContainerStartUpListener.java" timestamp="1504775796425">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="14" column="7" />
@@ -288,6 +301,11 @@
         <mark key="]" line="77" column="25" />
         <mark key="^" line="77" column="25" />
         <mark key="." line="77" column="25" />
+      </file>
+      <file name="D:/IDEA-project/recharts/demo/index.js" timestamp="1506751391948">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/FastDFSUploadException.java" timestamp="1504163015670">
         <mark key="[" line="8" column="54" />
@@ -540,12 +558,12 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" timestamp="1506746297805">
-        <mark key="'" line="67" column="74" />
-        <mark key="[" line="9" column="70" />
-        <mark key="]" line="9" column="71" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="9" column="71" />
+      <file name="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" timestamp="1506748254458">
+        <mark key="'" line="80" column="34" />
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="9" column="59" />
+        <mark key="^" line="9" column="59" />
+        <mark key="." line="9" column="59" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504182560223">
         <mark key="[" line="8" column="44" />
@@ -607,7 +625,6 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="D:/IDEA-project/echarts-for-react/src/core.js" timestamp="1506741543998" />
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/NewsService.java" timestamp="1506324451819">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="21" />
@@ -948,7 +965,6 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="D:/IDEA-project/react-admin/package.json" timestamp="1506745290801" />
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/pom.xml" timestamp="1506318730723">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -978,8 +994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="35" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
-      <jump line="87" column="7" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
       <jump line="104" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
       <jump line="136" column="15" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
       <jump line="70" column="23" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" />
@@ -1078,46 +1092,48 @@
       <jump line="54" column="39" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
       <jump line="55" column="38" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
       <jump line="51" column="74" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
+      <jump line="80" column="34" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
+      <jump line="16" column="17" filename="D:/IDEA-project/react-admin/src/components/charts/SynchronizedLineChart.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFlBeGlzIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imd1dHRlci1ib3giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPENhcmQgdGl0bGU9Irv5tKHP39DOzbwiIGJvcmRlcmVkPXtmYWxzZX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJlY2hhcnRzUmFkYXJDaGFydC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Ly8gY29uc3Qgb3B0aW9ucyA9IFsKLy8gICAgIHsgdmFsdWU6ICdvbmUnLCBsYWJlbDonb25lJ30sCi8vICAgICB7IHZhbHVlOiAndHdvJywgbGFiZWw6ICd0d28nfQovLyBdOwovLyBjb25zdCBub3RpZnlDaGFuZ2UgPSB2YWwgPT4gbWVzc2FnZS5zdWNjZXNzKCfRodTxwcs6JyArIHZhbCk7</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IG5hbWU9ImZvcm0tZmllbGQtbmFtZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJvbmUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz17b3B0aW9uc30KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9uQ2hhbmdlPXt0aGlzLm5vdGlmeUNoYW5nZX0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0ICdyZWFjdC1zZWxlY3QvZGlzdC9yZWFjdC1zZWxlY3QuY3NzJzsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IFNlbGVjdCAgZnJvbSAncmVhY3Qtc2VsZWN0JzsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICA8Um91dGUgcGF0aD17J3NlbGVjdCd9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9eydkZW1vJ30gY29tcG9uZW50PXtSZWFjdFNlbGVjdH0vPgogICAgICAgICAgICAgICAgICAgICAgICA8L1JvdXRlPg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PFJvdXRlIHBhdGg9eydzZWxlY3QnfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPXsnZGVtbyd9IGNvbXBvbmVudD17UmVhY3RTZWxlY3R9Lz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9Sb3V0ZT4=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
