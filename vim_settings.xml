@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/weibutler/FaceValueDo.java" timestamp="1504235886142">
@@ -522,6 +522,9 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="D:/IDEA-project/recharts/demo/component/Treemap.js" timestamp="1506759360139">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/IDEA-project/sql_review/ac/20170830_01/DDL_20170830_01.sql" timestamp="1504097086752">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="40" />
@@ -993,6 +996,12 @@
       <file name="D:/IDEA-project/react-admin/src/components/ui/emoji/iconfont.js" timestamp="1506679547764">
         <mark key="'" line="2" column="6" />
       </file>
+      <file name="D:/IDEA-project/recharts/.editorconfig" timestamp="1506759399259">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="D:/IDEA-project/demo_coding/src/main/resources/quartz.properties" timestamp="1505791360642">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="4" column="0" />
@@ -1013,7 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
       <jump line="136" column="15" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
       <jump line="70" column="23" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/impl/BaiDuAssessFaceValueServiceImpl.java" />
       <jump line="29" column="20" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueStatisticServiceImpl.java" />
@@ -1113,13 +1121,14 @@
       <jump line="51" column="74" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
       <jump line="80" column="34" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
       <jump line="16" column="17" filename="D:/IDEA-project/react-admin/src/components/charts/SynchronizedLineChart.jsx" />
+      <jump line="0" column="0" filename="D:/IDEA-project/recharts/demo/component/Treemap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
