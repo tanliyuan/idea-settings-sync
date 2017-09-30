@@ -236,6 +236,12 @@
         <mark key="^" line="42" column="45" />
         <mark key="." line="42" column="45" />
       </file>
+      <file name="D:/IDEA-project/react-admin/.babelrc" timestamp="1506745857197">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/enums/ErrorEnum.java" timestamp="1506417728473">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="34" column="3" />
@@ -533,6 +539,13 @@
         <mark key="]" line="27" column="23" />
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
+      </file>
+      <file name="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" timestamp="1506746297805">
+        <mark key="'" line="67" column="74" />
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="71" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="9" column="71" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504182560223">
         <mark key="[" line="8" column="44" />
@@ -935,6 +948,7 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
+      <file name="D:/IDEA-project/react-admin/package.json" timestamp="1506745290801" />
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/pom.xml" timestamp="1506318730723">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -964,9 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="39" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/main/LoginController.java" />
-      <jump line="112" column="9" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
-      <jump line="31" column="14" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueStatisticServiceImpl.java" />
       <jump line="97" column="35" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
       <jump line="87" column="7" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
       <jump line="104" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/weibutler/WeiButlerController.java" />
@@ -1064,19 +1075,22 @@
       <jump line="70" column="12" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/TypeController.java" />
       <jump line="0" column="0" filename="D:/IDEA-project/react-admin/src/components/ui/emoji/iconfont.js" />
       <jump line="2" column="6" filename="D:/IDEA-project/react-admin/src/components/ui/emoji/iconfont.js" />
+      <jump line="54" column="39" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
+      <jump line="55" column="38" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
+      <jump line="51" column="74" filename="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>200</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ImphY2siPmphY2s8L09wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9Imx1Y3kiPmx1Y3k8L09wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ImphdmEiIGRpc2FibGVkPmphdmE8L09wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFlBeGlzIC8+Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Ly8gY29uc3Qgb3B0aW9ucyA9IFsKLy8gICAgIHsgdmFsdWU6ICdvbmUnLCBsYWJlbDonb25lJ30sCi8vICAgICB7IHZhbHVlOiAndHdvJywgbGFiZWw6ICd0d28nfQovLyBdOwovLyBjb25zdCBub3RpZnlDaGFuZ2UgPSB2YWwgPT4gbWVzc2FnZS5zdWNjZXNzKCfRodTxwcs6JyArIHZhbCk7</text>
