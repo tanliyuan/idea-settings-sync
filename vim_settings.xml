@@ -21,12 +21,12 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/charts/SynchronizedLineChart.jsx" timestamp="1507598746234">
+      <file name="D:/IDEA-project/react-admin/src/components/charts/SynchronizedLineChart.jsx" timestamp="1507604550258">
         <mark key="'" line="24" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="25" column="59" />
         <mark key="^" line="21" column="65" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="25" column="59" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506410153967">
         <mark key="[" line="133" column="0" />
@@ -110,12 +110,12 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/layout/DetectOnline.jsx" timestamp="1507603386079">
+      <file name="D:/IDEA-project/react-admin/src/components/layout/DetectOnline.jsx" timestamp="1507606021471">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506334296660">
         <mark key="[" line="28" column="22" />
@@ -970,7 +970,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507600363085">
+      <file name="/Dummy.txt" timestamp="1507604538590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1161,10 +1161,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>desc='在线'</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>desc='在线'</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1173,33 +1173,31 @@
         <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ub3Blbih7CiAgICAgICAgICAgIG1lc3NhZ2U6ICfN+MLn17TMrCcsCiAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBkZXNjLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEZXRlY3RPbmxpbmUgZGVzLz4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vdGlmeShkZXNjKSB7CiAgICAgICAgbm90aWZpY2F0aW9uLm9wZW4oewogICAgICAgICAgICBtZXNzYWdlOiAnzfjC59e0zKwnLAogICAgICAgICAgICBkZXNjcmlwdGlvbjogZGVzYywKICAgICAgICB9KTsKICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzLCBjb250ZXh0KSB7CiAgICAgICAgc3VwZXIoKTsKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gTm90aWZ5KHByb3BzKSB7CiAgICBub3RpZmljYXRpb24ub3Blbih7CiAgICAgICAgbWVzc2FnZTogJ834wufXtMysJywKICAgICAgICBkZXNjcmlwdGlvbjogcHJvcHMuZGVzYywKICAgIH0pOwp9IAo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ub3Blbih7CiAgICAgICAgICAgICBtZXNzYWdlOiAnzfjC59e0zKwnLAogICAgICAgICAgICAgZGVzY3JpcHRpb246IHByb3BzLmRlc2MsCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5vcGVuKHsKICAgICAgICBtZXNzYWdlOiAnzfjC59e0zKwnLAogICAgICAgIGRlc2NyaXB0aW9uOiBwcm9wcy5kZXNjLAogICAgfSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>({
-                return
-            })</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEZXRlY3RPbmxpbmUgZGVzLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmeShkZXNjKSB7CiAgICAgICAgbm90aWZpY2F0aW9uLm9wZW4oewogICAgICAgICAgICBtZXNzYWdlOiAnzfjC59e0zKwnLAogICAgICAgICAgICBkZXNjcmlwdGlvbjogZGVzYywKICAgICAgICB9KTsKICAgIH0K</text>
       </register>
     </registers>
     <search>
