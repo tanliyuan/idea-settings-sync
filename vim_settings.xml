@@ -110,12 +110,12 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/layout/DetectOnline.jsx" timestamp="1507602192276">
+      <file name="D:/IDEA-project/react-admin/src/components/layout/DetectOnline.jsx" timestamp="1507603386079">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506334296660">
         <mark key="[" line="28" column="22" />
@@ -231,12 +231,12 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="55" column="61" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/HeaderCustom.jsx" timestamp="1507600453454">
+      <file name="D:/IDEA-project/react-admin/src/components/HeaderCustom.jsx" timestamp="1507603461929">
         <mark key="'" line="127" column="33" />
-        <mark key="[" line="127" column="15" />
-        <mark key="]" line="127" column="15" />
+        <mark key="[" line="127" column="30" />
+        <mark key="]" line="127" column="30" />
         <mark key="^" line="128" column="46" />
-        <mark key="." line="127" column="15" />
+        <mark key="." line="127" column="30" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/pc/BannerServiceImpl.java" timestamp="1505989132550">
         <mark key="[" line="37" column="27" />
@@ -1161,45 +1161,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nofify</text>
+        <text>desc='在线'</text>
       </register>
       <register name="-" type="4">
-        <text>nofify</text>
+        <text>desc='在线'</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KCk9Pnt0aGlzLm5vZml0eSgpO3JldHVybiBudWxsO30=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ub3Blbih7CiAgICAgICAgICAgIG1lc3NhZ2U6ICfN+MLn17TMrCcsCiAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBkZXNjLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEZXRlY3RPbmxpbmUgZGVzLz4K</text>
       </register>
-      <register name="2" type="4">
-        <text>({
-                return
-            })</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5vdGlmeShkZXNjKSB7CiAgICAgICAgbm90aWZpY2F0aW9uLm9wZW4oewogICAgICAgICAgICBtZXNzYWdlOiAnzfjC59e0zKwnLAogICAgICAgICAgICBkZXNjcmlwdGlvbjogZGVzYywKICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbi5vcGVuKHsKICAgICAgICAgICAgICAgIG1lc3NhZ2U6ICfN+MLn17TMrCcsCiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogcHJvcHMuZGVzYywKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gTm90aWZ5KHByb3BzKSB7CiAgICBub3RpZmljYXRpb24ub3Blbih7CiAgICAgICAgbWVzc2FnZTogJ834wufXtMysJywKICAgICAgICBkZXNjcmlwdGlvbjogcHJvcHMuZGVzYywKICAgIH0pOwp9IAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ub3Blbih7CiAgICAgICAgICAgIG1lc3NhZ2U6ICfN+MLn17TMrCcsCiAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBwcm9wcy5kZXNjLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="8" type="4">
+        <text>({
+                return
+            })</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHsvKjxPbmxpbmU+PERldGVjdE9ubGluZSBkZXNjPSfU2s/fJy8+IDwvT25saW5lPiovfQogICAgICAgICAgICAgICAgey8qPE9mZmxpbmU+PERldGVjdE9ubGluZSBkZXNjPSfA68/fJy8+PC9PZmZsaW5lPiovfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
