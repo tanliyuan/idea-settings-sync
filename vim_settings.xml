@@ -46,12 +46,12 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/layout/DetectOnline.jsx" timestamp="1507611052431">
+      <file name="D:/IDEA-project/react-admin/src/components/layout/DetectOnline.jsx" timestamp="1507634209935">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-        <mark key="^" line="37" column="26" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/vo/FaceValueResponseVO.java" timestamp="1504264069912">
         <mark key="[" line="20" column="25" />
@@ -223,6 +223,12 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
+      <file name="D:/IDEA-project/react-admin/src/components/layout/IsOnlineComponent.jsx" timestamp="1507634431127">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" timestamp="1506412969771">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -347,13 +353,6 @@
         <mark key="]" line="21" column="5" />
         <mark key="." line="21" column="5" />
         <mark key="^" line="17" column="17" />
-      </file>
-      <file name="D:/IDEA-project/react-admin/src/components/charts/Recharts.jsx" timestamp="1506748254458">
-        <mark key="'" line="80" column="34" />
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="59" />
-        <mark key="^" line="10" column="59" />
-        <mark key="." line="10" column="59" />
       </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/exception/FastDFSUploadException.java" timestamp="1504182560223">
         <mark key="[" line="8" column="44" />
@@ -684,13 +683,6 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/MedalTypeEnum.java" timestamp="1507621464575">
-        <mark key="'" line="46" column="18" />
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/main/AssessFaceValueService.java" timestamp="1504183581192">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="56" />
@@ -721,12 +713,12 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="55" column="61" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/components/HeaderCustom.jsx" timestamp="1507603461929">
+      <file name="D:/IDEA-project/react-admin/src/components/HeaderCustom.jsx" timestamp="1507634544774">
         <mark key="'" line="127" column="33" />
-        <mark key="[" line="127" column="30" />
-        <mark key="]" line="127" column="30" />
-        <mark key="^" line="128" column="46" />
-        <mark key="." line="127" column="30" />
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/StringBaseClass.java" timestamp="1505379570683">
         <mark key="[" line="42" column="49" />
@@ -1158,6 +1150,12 @@
         <mark key="." line="37" column="58" />
         <mark key="^" line="37" column="57" />
       </file>
+      <file name="D:/IDEA-project/react-admin/src/index.js" timestamp="1507634578810">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="224" column="22" filename="D:/IDEA-project/demo_coding/src/test/java/com/example/demo/SystemInfoTest.java" />
@@ -1262,11 +1260,11 @@
       <jump line="325" column="17" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwvUHJvdmlkZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>userser</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1275,31 +1273,33 @@
         <text>dubbo获取勋章悬赏状态异常</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIDwvUHJvdmlkZXIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEdWJib0V4Y2VwdGlvbihTdHJpbmcgY29kZSwgU3RyaW5nIG1zZywgVGhyb3dhYmxlIGUpIHsKICAgICAgICBzdXBlcihtc2csIGUpOwogICAgfQo=</text>
+      <register name="3" type="4">
+        <text>const { Header } = Layout;
+const SubMenu = Menu.SubMenu;
+const MenuItemGroup = Menu.ItemGroup;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMubWVzc2FnZSA9IG1zZzsK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb2RlKFN0cmluZyBjb2RlKSB7CiAgICAgICAgdGhpcy5jb2RlID0gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIG1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWVzc2FnZShTdHJpbmcgbWVzc2FnZSkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YQogICAgICAgICAgICBocmVmPSIjIgogICAgICAgICAgICBvbkNsaWNrPXsgcHJvcHMucmVjb25uZWN0IH0KICAgICAgICAgICAgY2xhc3NOYW1lPXsgcHJvcHMuaXNPbmxpbmUgPyAnLi4uJyA6ICcuLi4nIH0KICAgICAgICA+CiAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwo=</text>
+        <text encoding="base64">ZXhwb3J0IElzT25saW5lQ29tcG9uZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgY29kZTsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIG1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gdGhpcy5jaGlsZHJlbjsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gc3VwZXIoKTsKICAgIH0K</text>
       </register>
     </registers>
     <search>
