@@ -107,12 +107,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1507626461971">
-        <mark key="'" line="325" column="17" />
-        <mark key="[" line="490" column="18" />
-        <mark key="]" line="490" column="17" />
-        <mark key="." line="490" column="17" />
-        <mark key="^" line="490" column="17" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1507627711787">
+        <mark key="'" line="327" column="17" />
+        <mark key="[" line="497" column="0" />
+        <mark key="]" line="497" column="32" />
+        <mark key="." line="497" column="32" />
+        <mark key="^" line="497" column="32" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/SystemInfoExtractor.java" timestamp="1505199947143">
         <mark key="[" line="14" column="4" />
@@ -440,7 +440,7 @@
         <mark key="^" line="19" column="21" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/RegisterListener.java" timestamp="1507616477847" />
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1507624918674">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1507627758547">
         <mark key="'" line="331" column="7" />
         <mark key="[" line="331" column="42" />
         <mark key="]" line="332" column="7" />
@@ -994,8 +994,8 @@
         <mark key="^" line="78" column="64" />
         <mark key="." line="78" column="12" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1507626943037">
-        <mark key="[" line="93" column="42" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1507627243332">
+        <mark key="[" line="93" column="53" />
         <mark key="]" line="93" column="52" />
         <mark key="." line="93" column="52" />
         <mark key="^" line="93" column="52" />
@@ -1263,43 +1263,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FASTDFS_ERROR</text>
+        <text>userser</text>
       </register>
       <register name="-" type="4">
-        <text>FASTDFS_ERROR</text>
+        <text>userser</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoRXJyb3JMb2cuYnVpbGRKc29uU3RyKHJlcXVlc3QsIGUpLCBlKTsKCiAgICAgICAgcmV0dXJuIEFqYXhSZXN1bHQuRVJST1IoRXJyb3JFbnVtLkZBU1RERlNfRVJST1IpOwo=</text>
+      <register name="0" type="4">
+        <text>dubbo获取勋章悬赏状态异常</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEdWJib0V4Y2VwdGlvbihTdHJpbmcgY29kZSwgU3RyaW5nIG1zZywgVGhyb3dhYmxlIGUpIHsKICAgICAgICBzdXBlcihtc2csIGUpOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMubWVzc2FnZSA9IG1zZzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb2RlKFN0cmluZyBjb2RlKSB7CiAgICAgICAgdGhpcy5jb2RlID0gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIG1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWVzc2FnZShTdHJpbmcgbWVzc2FnZSkgewoKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2U7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgY29kZTsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIG1lc3NhZ2U7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBEdWJib0V4Y2VwdGlvbihTdHJpbmcgY29kZSwgU3RyaW5nIG1zZywgVGhyb3dhYmxlIGUpIHsKICAgICAgICBzdXBlcihtc2csIGUpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMubWVzc2FnZSA9IG1zZzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb2RlKFN0cmluZyBjb2RlKSB7CiAgICAgICAgdGhpcy5jb2RlID0gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIG1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWVzc2FnZShTdHJpbmcgbWVzc2FnZSkgewoKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgY29kZTsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIG1lc3NhZ2U7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDQ0NTcxMTM5OTgxMjg0NTc2NTJMOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
