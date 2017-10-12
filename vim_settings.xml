@@ -153,11 +153,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/App.js" timestamp="1507795212564">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
+      <file name="D:/IDEA-project/react-admin/src/App.js" timestamp="1507800660097">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/ForumEssenceService.java" timestamp="1506323084104">
         <mark key="[" line="15" column="44" />
@@ -541,17 +541,17 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507792223698">
+      <file name="/Dummy.txt" timestamp="1507800422495">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/react-admin/config/webpack.config.dev.js" timestamp="1507795177189">
-        <mark key="'" line="47" column="34" />
-        <mark key="[" line="132" column="22" />
-        <mark key="]" line="132" column="22" />
-        <mark key="." line="132" column="22" />
-        <mark key="^" line="132" column="22" />
+      <file name="D:/IDEA-project/react-admin/config/webpack.config.dev.js" timestamp="1507800726571">
+        <mark key="'" line="80" column="43" />
+        <mark key="[" line="131" column="17" />
+        <mark key="]" line="131" column="17" />
+        <mark key="." line="131" column="17" />
+        <mark key="^" line="132" column="30" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcVoidResult.java" timestamp="1506390524573">
         <mark key="[" line="16" column="5" />
@@ -576,6 +576,9 @@
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
+      </file>
+      <file name="D:/IDEA-project/react-admin/package.json" timestamp="1507798577510">
+        <mark key="'" line="59" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1507616555407">
         <mark key="[" line="0" column="0" />
@@ -837,6 +840,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="^" line="178" column="23" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="D:/IDEA-project/react-admin/config/paths.js" timestamp="1507800698688">
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="49" column="25" />
       </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1504763962996">
         <mark key="[" line="42" column="38" />
@@ -1159,8 +1168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="29" filename="$MAVEN_REPOSITORY$/com/github/oshi/oshi-core/3.4.0/oshi-core-3.4.0-sources.jar!/oshi/hardware/HWDiskStore.java" />
-      <jump line="78" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
       <jump line="3187" column="35" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/Class.java" />
       <jump line="762" column="19" filename="E:/software/java/jdk1.7.0_79/src.zip!/java/lang/Integer.java" />
       <jump line="114" column="28" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/impl/FaceValueServiceImpl.java" />
@@ -1259,46 +1266,48 @@
       <jump line="0" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" />
       <jump line="53" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java" />
       <jump line="47" column="34" filename="D:/IDEA-project/react-admin/config/webpack.config.dev.js" />
+      <jump line="59" column="35" filename="D:/IDEA-project/react-admin/package.json" />
+      <jump line="80" column="43" filename="D:/IDEA-project/react-admin/config/webpack.config.dev.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exec</text>
+        <text>lib\/</text>
       </register>
       <register name="-" type="4">
-        <text>exec</text>
+        <text>lib\/</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>handleNetworkChange</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlOiBwYXRocy5hcHBTcmMsCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGV4ZWMgZnJvbSAnc2NyaXB0LmV4ZWMuanMnOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgICAgT2ZmbGluZSA6ICdPZmZsaW5lJywKICB9LA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnT2ZmbGluZScgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4vc3JjL2xpYi9vZmZsaW5lLm1pbi5qcycpLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y29uc3Qgb25saW5lID0gcmVxdWlyZSgnZXhwb3J0cz93aW5kb3cuSGVsbG8hLi9IZWxsby5qcycpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiLS0tIiArIG9ubGluZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">b25saW5lID8gbnVsbCA6ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIHN0eWxlPXt7IGNvbG9yOiAncmVkJyB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBZb3UgYXJlIG9mZmxpbmUsIGltYWdlcyB3aWxsIGNvbnRpbnVlIHdoZW4geW91IGdldCBiYWNrIG9ubGluZS4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvUHJvdmlkZXIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvUHJvdmlkZXIK</text>
       </register>
     </registers>
     <search>
