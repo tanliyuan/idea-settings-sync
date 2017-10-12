@@ -150,11 +150,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="D:/IDEA-project/react-admin/src/App.js" timestamp="1507773329782">
-        <mark key="[" line="53" column="60" />
-        <mark key="]" line="53" column="60" />
-        <mark key="^" line="53" column="60" />
-        <mark key="." line="53" column="60" />
+      <file name="D:/IDEA-project/react-admin/src/App.js" timestamp="1507780205393">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="52" column="60" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/ForumEssenceService.java" timestamp="1506323084104">
         <mark key="[" line="15" column="44" />
@@ -1257,8 +1257,8 @@
       <jump line="0" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiLS0tIiArIG9ubGluZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1269,34 +1269,34 @@
       <register name="0" type="4">
         <text>handleNetworkChange</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiLS0tIiArIG9ubGluZSk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">b25saW5lID8gbnVsbCA6ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIHN0eWxlPXt7IGNvbG9yOiAncmVkJyB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBZb3UgYXJlIG9mZmxpbmUsIGltYWdlcyB3aWxsIGNvbnRpbnVlIHdoZW4geW91IGdldCBiYWNrIG9ubGluZS4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgKQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDwvUHJvdmlkZXIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>const { Header } = Layout;
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8YQogICAgICAgICAgICBocmVmPSIjIgogICAgICAgICAgICBvbkNsaWNrPXsgcHJvcHMucmVjb25uZWN0IH0KICAgICAgICAgICAgY2xhc3NOYW1lPXsgcHJvcHMuaXNPbmxpbmUgPyAnLi4uJyA6ICcuLi4nIH0KICAgICAgICA+CiAgICAgICAgPC9hPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IElzT25saW5lQ29tcG9uZW50Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gdGhpcy5jaGlsZHJlbjsKICAgIH0K</text>
+        <text encoding="base64">ZXhwb3J0IElzT25saW5lQ29tcG9uZW50Cg==</text>
       </register>
     </registers>
     <search>
