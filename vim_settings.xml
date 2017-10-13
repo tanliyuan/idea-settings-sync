@@ -79,6 +79,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.6.RELEASE/spring-tx-4.2.6.RELEASE.jar!/org/springframework/dao/DuplicateKeyException.class" timestamp="1507863623064" />
       <file name="D:/IDEA-project/cms/cms-webapp/src/main/resources/config.properties" timestamp="1505985786966">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="4" column="49" />
@@ -109,7 +110,7 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1507627711787">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1507863180816">
         <mark key="'" line="327" column="17" />
         <mark key="[" line="497" column="0" />
         <mark key="]" line="497" column="32" />
@@ -200,13 +201,7 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1507624434560">
-        <mark key="'" line="243" column="30" />
-        <mark key="[" line="265" column="40" />
-        <mark key="]" line="265" column="40" />
-        <mark key="." line="265" column="40" />
-        <mark key="^" line="265" column="40" />
-      </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1507864372665" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationNewsDoMapper.xml" timestamp="1505988548548">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="44" />
@@ -249,12 +244,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1507623153417">
-        <mark key="'" line="117" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="34" />
-        <mark key="^" line="62" column="34" />
-        <mark key="." line="62" column="34" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1507865080352">
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="81" column="57" />
+        <mark key="]" line="81" column="70" />
+        <mark key="^" line="81" column="70" />
+        <mark key="." line="81" column="70" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
@@ -436,12 +431,11 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1507858623117">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1507863160078">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="349" column="42" />
-        <mark key="]" line="349" column="43" />
-        <mark key="^" line="347" column="42" />
-        <mark key="." line="349" column="43" />
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="334" column="0" />
+        <mark key="." line="334" column="0" />
       </file>
       <file name="D:/IDEA-project/react-admin/src/components/forms/BasicForm.jsx" timestamp="1506678571685">
         <mark key="[" line="106" column="41" />
@@ -539,7 +533,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507859517361">
+      <file name="/Dummy.txt" timestamp="1507862569837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1029,12 +1023,6 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-rocketmq.xml" timestamp="1507859741813">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="20" />
-        <mark key="^" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-      </file>
       <file name="D:/IDEA-project/cms/cms-common/pom.xml" timestamp="1506574356223">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -1266,46 +1254,46 @@
       <jump line="80" column="43" filename="D:/IDEA-project/react-admin/config/webpack.config.dev.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>键</text>
       </register>
       <register name="-" type="4">
-        <text>simplePushConsumer2</text>
+        <text>键</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXdhcmRGbG93Vk9TLmFkZCh1c2VyUmV3YXJkRmxvd1ZPKTsK</text>
+      <register name="0" type="4">
+        <text>final Integer uid</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIDxiZWFuIGlkPSJ6ZXJvQnV5IiBjbGFzcz0iY29tLndlaWRhaS5yb2NrZXRtcS5jbGllbnQuU2ltcGxlUHVzaENvbnN1bWVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iYXBwbGljYXRpb24iIHZhbHVlPSIke215QXBwbGljYXRpb25Db2RlfV96ZXJvX2J1eSIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ0b3BpYyIgdmFsdWU9IkFDVElWSVRZX1pFUk9fQlVZX1RPUElDIi8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im5hbWVTZXJ2ZXJBZGRyZXNzIiB2YWx1ZT0iJHtuYW1lU2VydmVyQWRkcmVzc30iLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ibWVzc2FnZUxpc3RlbmVyIj4KICAgICAgICAgICAgPGJlYW4gY2xhc3M9ImNvbS53ZWlkYWkuYWMucm9ja2V0bXEuWmVyb0J1eUxpc3RlbmVyIi8+CiAgICAgICAgPC9wcm9wZXJ0eT4KICAgIDwvYmVhbj4=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2RmZGZkJyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tdW5kZWYK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>for(var i in Offline) {
             console.log(&quot;--&quot; + i);
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9mZmxpbmUuZmFkZU91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAkb25saW5lLmZhZGVJbigpOwogICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGpRdWVyeTogJ2pxdWVyeScK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV4ZWMgZnJvbSAnc2NyaXB0LmV4ZWMuanMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9mZmxpbmUuZmFkZU91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAkb25saW5lLmZhZGVJbigpOwogICAgICAgICAgICB9KTsK</text>
       </register>
     </registers>
     <search>
