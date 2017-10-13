@@ -58,12 +58,6 @@
         <mark key="^" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalService.java" timestamp="1507625090494">
-        <mark key="[" line="52" column="111" />
-        <mark key="]" line="54" column="61" />
-        <mark key="^" line="54" column="61" />
-        <mark key="." line="54" column="61" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/weibutler/FaceValueService.java" timestamp="1504597094379">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="9" />
@@ -110,12 +104,11 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1507863180816">
-        <mark key="'" line="327" column="17" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="32" />
-        <mark key="." line="497" column="32" />
-        <mark key="^" line="497" column="32" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1507866211027">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/SystemInfoExtractor.java" timestamp="1505199947143">
         <mark key="[" line="14" column="4" />
@@ -433,9 +426,6 @@
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1507863160078">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="0" />
-        <mark key="." line="334" column="0" />
       </file>
       <file name="D:/IDEA-project/react-admin/src/components/forms/BasicForm.jsx" timestamp="1506678571685">
         <mark key="[" line="106" column="41" />
@@ -533,7 +523,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507862569837">
+      <file name="/Dummy.txt" timestamp="1507866788995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -963,12 +953,6 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1507614781108">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="24" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="49" column="24" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/async/ObjectWrapper.java" timestamp="1504607355346">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -986,12 +970,6 @@
         <mark key="]" line="78" column="12" />
         <mark key="^" line="78" column="64" />
         <mark key="." line="78" column="12" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/GlobalExceptionHandler.java" timestamp="1507788393553">
-        <mark key="[" line="93" column="53" />
-        <mark key="]" line="93" column="52" />
-        <mark key="." line="93" column="52" />
-        <mark key="^" line="93" column="52" />
       </file>
       <file name="D:/IDEA-project/ac/pom.xml" timestamp="1507859080683">
         <mark key="[" line="202" column="29" />
@@ -1255,10 +1233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>键</text>
+        <text>常</text>
       </register>
       <register name="-" type="4">
-        <text>键</text>
+        <text>常</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
