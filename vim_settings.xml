@@ -9,6 +9,12 @@
         <mark key="." line="36" column="59" />
         <mark key="^" line="36" column="59" />
       </file>
+      <file name="/a.dummy" timestamp="1507883858592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IDEA-project/disconf/dailytest/ac/log4j2.xml" timestamp="1508134045876">
+        <mark key="[" line="3" column="50" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/SendCallsController.java" timestamp="1508118912296">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="64" />
@@ -19,6 +25,9 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalService.java" timestamp="1507625090494">
+        <mark key="[" line="52" column="111" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1508118936924">
         <mark key="[" line="40" column="47" />
@@ -31,6 +40,9 @@
         <mark key="]" line="33" column="64" />
         <mark key="." line="33" column="64" />
         <mark key="^" line="33" column="64" />
+      </file>
+      <file name="D:/IDEA-project/disconf/wdaitest/ac/log4j2.xml" timestamp="1508134030694">
+        <mark key="[" line="3" column="50" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j.properties" timestamp="1508117838744" />
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1507865080352">
@@ -53,6 +65,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/sentry/sentry-log4j2/1.5.6/sentry-log4j2-1.5.6-sources.jar!/io/sentry/log4j2/SentryAppender.java" timestamp="1508123190010" />
       <file name="$MAVEN_REPOSITORY$/com/weidai/middleware/parent-pom-spring4/1.0.1/parent-pom-spring4-1.0.1.pom" timestamp="1508122404278" />
+      <file name="/Dummy.txt" timestamp="1508134196516">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1508125790886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -84,6 +99,9 @@
         <mark key="]" line="64" column="16" />
         <mark key="^" line="240" column="20" />
         <mark key="." line="64" column="16" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/sentry.properties" timestamp="1507875998260">
+        <mark key="[" line="0" column="95" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/main/LoginController.java" timestamp="1508118979031">
         <mark key="[" line="46" column="26" />
@@ -122,17 +140,23 @@
         <mark key="^" line="40" column="22" />
         <mark key="." line="48" column="30" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/CustomPropertyPlaceholderConfigurer.java" timestamp="1508132812349">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-common/src/main/java/com/weidai/spring/retrofit/RetrofitAutowiredProcessor.java" timestamp="1508119227671">
         <mark key="[" line="20" column="34" />
         <mark key="]" line="20" column="51" />
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j2.xml" timestamp="1508131429331">
-        <mark key="[" line="57" column="36" />
-        <mark key="]" line="57" column="49" />
-        <mark key="^" line="57" column="49" />
-        <mark key="." line="57" column="49" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j2.xml" timestamp="1508133847828">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="3" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/sentry/sentry-spring/1.5.6/sentry-spring-1.5.6.jar!/io/sentry/spring/SentryExceptionResolver.class" timestamp="1508127023847" />
     </filemarks>
