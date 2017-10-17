@@ -26,9 +26,6 @@
       </file>
       <file name="D:/IDEA-project/disconf/dailytest/ac/log4j2.xml" timestamp="1508137502913">
         <mark key="[" line="3" column="50" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/IDEA-project/react-admin/src/routes/index.js" timestamp="1507598802355">
         <mark key="[" line="31" column="0" />
@@ -221,6 +218,13 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j.properties" timestamp="1508213712335">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationEventDoMapper.xml" timestamp="1505988090783">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="44" />
@@ -401,6 +405,7 @@
         <mark key="^" line="48" column="8" />
         <mark key="." line="48" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/middleware/middleware-log/1.0.5/middleware-log-1.0.5-sources.jar!/com/weidai/middleware/log/filter/WebLogTraceFilter.java" timestamp="1508212842838" />
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/NewsService.java" timestamp="1506324451819">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="21" />
@@ -545,7 +550,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508144892869">
+      <file name="/Dummy.txt" timestamp="1508213862850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcVoidResult.java" timestamp="1506390524573">
@@ -572,7 +577,7 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1508125790886">
+      <file name="/fragment.java" timestamp="1508212964907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -626,6 +631,7 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/middleware/middleware-log/1.0.5/middleware-log-1.0.5-sources.jar!/com/weidai/middleware/log/filter/AbstractFilter.java" timestamp="1508212964005" />
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/RedisServiceImpl.java" timestamp="1506052422586">
         <mark key="[" line="567" column="20" />
         <mark key="]" line="567" column="20" />
@@ -733,8 +739,8 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1508210122870">
-        <mark key="[" line="34" column="21" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/webapp/WEB-INF/web.xml" timestamp="1508213038502">
+        <mark key="[" line="14" column="20" />
         <mark key="]" line="43" column="20" />
         <mark key="^" line="43" column="20" />
         <mark key="." line="43" column="20" />
@@ -1145,11 +1151,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j2.xml" timestamp="1508153330445">
-        <mark key="[" line="83" column="46" />
-        <mark key="]" line="83" column="63" />
-        <mark key="." line="83" column="63" />
-        <mark key="^" line="83" column="63" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j2.xml" timestamp="1508213679040">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="69" column="27" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/pom.xml" timestamp="1506318730723">
         <mark key="[" line="57" column="0" />
@@ -1183,8 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="23" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
-      <jump line="74" column="56" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/MachineInfoHolder.java" />
       <jump line="225" column="20" filename="D:/IDEA-project/ac/ac-webapp/pom.xml" />
       <jump line="203" column="19" filename="D:/IDEA-project/ac/ac-webapp/pom.xml" />
       <jump line="48" column="14" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/config/SystemInfoExtractorOshi.java" />
@@ -1283,13 +1287,15 @@
       <jump line="447" column="0" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="432" column="21" filename="D:/IDEA-project/ac/pom.xml" />
       <jump line="52" column="25" filename="D:/IDEA-project/ac/pom.xml" />
+      <jump line="0" column="20" filename="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j.properties" />
+      <jump line="21" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>,I,W,E</text>
       </register>
       <register name="-" type="4">
-        <text>org.jboss</text>
+        <text>,I,W,E</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1298,31 +1304,31 @@
         <text encoding="base64">CQkJPEFwcGVuZGVyUmVmIHJlZj0iY29uc29sZSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8IS0tILG+tdi/qrei1rthcHBlbmRlciC1vSAtLT4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmNpZXM+CgogICAgPC9kZXBlbmRlbmNpZXM+</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8bG9nZ2VyIG5hbWU9ImNvbS5hbGliYWJhLioiIGxldmVsPSJ3YXJuIj4KCQkJPEFwcGVuZGVyUmVmIHJlZj0iY29uc29sZSIvPgoJCTwvbG9nZ2VyPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PCEtLSC12sj9t71qYXKw/CAtLT4KCQk8bG9nZ2VyIG5hbWU9Im9yZy5kb3plciIgbGV2ZWw9Indhcm4iIC8+CgkJPGxvZ2dlciBuYW1lPSJvcmcuYXBhY2hlIiBsZXZlbD0id2FybiIgLz4KCQk8bG9nZ2VyIG5hbWU9IlJvY2tldG1xQ2xpZW50IiBsZXZlbD0id2FybiIgLz4KCQk8bG9nZ2VyIG5hbWU9ImNvbS5hbGliYWJhIiBsZXZlbD0id2FybiIgLz4KCQk8bG9nZ2VyIG5hbWU9Im9yZy5zcHJpbmdmcmFtZXdvcmsiIGxldmVsPSJ3YXJuIiAvPgoJCTxsb2dnZXIgbmFtZT0ic3ByaW5nZm94IiBsZXZlbD0id2FybiIgLz4KICAgICAgICA8bG9nZ2VyIG5hbWU9ImNvbS53ZWlkYWkuYXBpRXh0cmFjdG9yLlNwcmluZ012Y0FwaUV4dHJhY3RvciIgbGV2ZWw9ImVycm9yIiAvPgogICAgICAgIDxsb2dnZXIgbmFtZT0iY29tLndlaWRhaS5kaWFtb25kIiBsZXZlbD0id2FybiIgLz4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQk8bG9nZ2VyIG5hbWU9ImNvbS5hbGliYWJhIiBsZXZlbD0id2FybiI+CgkJCTxBcHBlbmRlclJlZiByZWY9ImNvbnNvbGUiLz4KCQk8L2xvZ2dlcj4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">PEFwcGVuZGVyUmVmIHJlZj0iaW5mb19sb2ciLz4KCQkJPEFwcGVuZGVyUmVmIHJlZj0id2Fybl9sb2ciLz4KCQkJPEFwcGVuZGVyUmVmIHJlZj0iZXJyb3JfbG9nIi8+CgkJCTxBcHBlbmRlclJlZiByZWY9ImZhdGFsX2xvZyIvPgoJCQk8YXBwZW5kZXItcmVmIHJlZj0iU2VudHJ5IiBsZXZlbD0iZXJyb3IiIC8+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nCg==</text>
+        <text encoding="base64">CQkJPEFwcGVuZGVyUmVmIHJlZj0iY29uc29sZSIvPgoJCTwvbG9nZ2VyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">CQkJPEFwcGVuZGVyUmVmIHJlZj0iY29uc29sZSIvPgoJCTwvbG9nZ2VyPgo=</text>
       </register>
     </registers>
     <search>
