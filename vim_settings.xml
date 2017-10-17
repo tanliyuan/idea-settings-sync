@@ -24,8 +24,11 @@
       <file name="/a.dummy" timestamp="1507883858592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/disconf/dailytest/ac/log4j2.xml" timestamp="1508137502913">
+      <file name="D:/IDEA-project/disconf/dailytest/ac/log4j2.xml" timestamp="1508225410850">
         <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="3" column="54" />
       </file>
       <file name="D:/IDEA-project/react-admin/src/routes/index.js" timestamp="1507598802355">
         <mark key="[" line="31" column="0" />
@@ -218,12 +221,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j.properties" timestamp="1508213712335">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j.properties" timestamp="1508225602958">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="23" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="42" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="42" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationEventDoMapper.xml" timestamp="1505988090783">
         <mark key="[" line="2" column="38" />
@@ -550,7 +553,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508219732587">
+      <file name="/Dummy.txt" timestamp="1508225623744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/RpcVoidResult.java" timestamp="1506390524573">
@@ -863,6 +866,12 @@
         <mark key="^" line="49" column="25" />
         <mark key="." line="49" column="25" />
       </file>
+      <file name="D:/IDEA-project/disconf/dailytest/ac/log4j.properties" timestamp="1508225488174">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/main/LoginController.java" timestamp="1508118979031">
         <mark key="[" line="46" column="26" />
         <mark key="]" line="46" column="26" />
@@ -1000,7 +1009,7 @@
         <mark key="^" line="64" column="42" />
         <mark key="." line="64" column="42" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1508224656481">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/IndexController.java" timestamp="1508225711163">
         <mark key="[" line="58" column="5" />
         <mark key="]" line="56" column="22" />
         <mark key="." line="56" column="22" />
@@ -1163,11 +1172,14 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j2.xml" timestamp="1508213679040">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="69" column="27" />
+      <file name="D:/IDEA-project/disconf/wdaitest/ac/log4j.properties" timestamp="1508225319269">
+        <mark key="[" line="20" column="38" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/log4j2.xml" timestamp="1508225614070">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/pom.xml" timestamp="1506318730723">
         <mark key="[" line="57" column="0" />
