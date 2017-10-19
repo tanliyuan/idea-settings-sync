@@ -129,7 +129,7 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1508331687945">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-resttemplate.xml" timestamp="1508384249012">
         <mark key="[" line="80" column="30" />
         <mark key="]" line="82" column="35" />
         <mark key="." line="82" column="35" />
@@ -357,7 +357,7 @@
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/webhooks/SentryNofityController.java" timestamp="1508230801464">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
-        <mark key="^" line="16" column="16" />
+        <mark key="^" line="17" column="16" />
         <mark key="." line="15" column="15" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectBaiduResult.java" timestamp="1504170515964">
@@ -584,7 +584,7 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1508314140704">
+      <file name="/fragment.java" timestamp="1508384056892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -668,11 +668,11 @@
         <mark key="^" line="56" column="10" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/support/SentryDingDingWebhooksNotify.java" timestamp="1508233189480">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="37" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/support/SentryDingDingWebhooksNotify.java" timestamp="1508384241915">
+        <mark key="[" line="34" column="132" />
+        <mark key="]" line="34" column="132" />
+        <mark key="." line="34" column="132" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/ZeroBuyListener.java" timestamp="1507616162869">
         <mark key="[" line="27" column="29" />
@@ -1145,12 +1145,6 @@
         <mark key="^" line="12" column="92" />
         <mark key="." line="12" column="92" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/UserRewardFlowVO.java" timestamp="1508376111198">
-        <mark key="[" line="120" column="5" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/support/CmsFacadeException.java" timestamp="1506419954181">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="20" column="3" />
@@ -1325,10 +1319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">INfWts46aXNfZGVsZXRlIA==</text>
+        <text>, (Object) null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">INfWts46aXNfZGVsZXRlIA==</text>
+        <text>, (Object) null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
