@@ -220,6 +220,13 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508495623107">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="47" column="46" />
+        <mark key="^" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationNewsDoMapper.xml" timestamp="1505988548548">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="44" />
@@ -960,10 +967,6 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalBannerService.java" timestamp="1508482155226">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="30" column="61" />
-      </file>
       <file name="D:/IDEA-project/operations/common-dal/pom.xml" timestamp="1508480982231">
         <mark key="[" line="26" column="33" />
         <mark key="]" line="31" column="32" />
@@ -1157,11 +1160,11 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1507624453265">
-        <mark key="[" line="94" column="36" />
-        <mark key="]" line="94" column="36" />
-        <mark key="^" line="94" column="36" />
-        <mark key="." line="94" column="36" />
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1508495575436">
+        <mark key="[" line="97" column="48" />
+        <mark key="]" line="97" column="73" />
+        <mark key="^" line="97" column="73" />
+        <mark key="." line="97" column="73" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/StoreApi.java" timestamp="1506412437717">
         <mark key="[" line="17" column="4" />
@@ -1286,8 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="D:/IDEA-project/quartz-spring-boot-demo/src/main/java/com/chynten/scheduler/shardingJdbc/ShardingJdbc.java" />
-      <jump line="35" column="0" filename="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/BannerDoMapperExt.xml" />
       <jump line="43" column="13" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/RedisServiceImpl.java" />
       <jump line="90" column="0" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/BannerServiceImpl.java" />
       <jump line="175" column="24" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
@@ -1386,6 +1387,8 @@
       <jump line="18" column="27" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" />
       <jump line="178" column="4" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
       <jump line="214" column="8" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
+      <jump line="255" column="46" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="172" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
