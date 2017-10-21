@@ -219,12 +219,12 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508495623107">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-        <mark key="." line="47" column="46" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508556068472">
+        <mark key="'" line="280" column="65" />
+        <mark key="[" line="302" column="11" />
+        <mark key="]" line="302" column="12" />
+        <mark key="." line="302" column="12" />
+        <mark key="^" line="302" column="12" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationNewsDoMapper.xml" timestamp="1505988548548">
         <mark key="[" line="2" column="38" />
@@ -597,7 +597,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508495124995">
+      <file name="/Dummy.txt" timestamp="1508555726635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -633,7 +633,7 @@
         <mark key="." line="103" column="35" />
         <mark key="^" line="94" column="92" />
       </file>
-      <file name="/fragment.java" timestamp="1508400548969">
+      <file name="/fragment.java" timestamp="1508555341226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -1155,11 +1155,11 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1508553970854">
-        <mark key="[" line="97" column="74" />
-        <mark key="]" line="97" column="73" />
-        <mark key="^" line="97" column="73" />
-        <mark key="." line="97" column="73" />
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1508555640739">
+        <mark key="[" line="109" column="47" />
+        <mark key="]" line="109" column="64" />
+        <mark key="^" line="109" column="64" />
+        <mark key="." line="109" column="64" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/StoreApi.java" timestamp="1506412437717">
         <mark key="[" line="17" column="4" />
@@ -1283,8 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="13" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/impl/RedisServiceImpl.java" />
-      <jump line="90" column="0" filename="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/BannerServiceImpl.java" />
       <jump line="175" column="24" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="91" column="12" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="156" column="15" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
@@ -1383,13 +1381,15 @@
       <jump line="214" column="8" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
       <jump line="255" column="46" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="172" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="80" column="12" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="279" column="65" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUmFuZ2U8SW50ZWdlcj4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>danger</text>
+        <text>notNull</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1398,31 +1398,31 @@
         <text>所处等级区</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgUmFuZ2U8SW50ZWdlcj4oKTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhZGRHb29kcyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgcHVibGljIFN0cmluZyBhZGRHb29kcyhBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNETyBleGNoYW5nZUdvb2RzRE8sIE1vZGVsIG1vZGVsKSB7CiAgICAgICAgSW50ZWdlciBpbnRlZ2VyID0gbWVkYWxFeGNoYW5nZVNlcnZpY2UuaW5zZXJ0RXhjaGFuZ2VHb29kcyhleGNoYW5nZUdvb2RzRE8pOwoKICAgICAgICByZXR1cm4gIi9tZWRhbEFjdGl2aXR5L3ZpcE1lZGFsRXhjaGFuZ2VHb29kc0xpc3QiOwogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiI3tjb25maWdiZWFuWydwaWMudXJsJ119IikKICAgIHByaXZhdGUgU3RyaW5nIHBpY1VybD0iaHR0cHM6Ly93ZWlkYWlvc3N0ZXN0Lm9zcy1jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vIjsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIi9tZWRhbEFjdGl2aXR5L3ZpcE1lZGFsRXhjaGFuZ2VHb29kc0xpc3QiOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgcCA9IG1lZGFsQWN0aXZpdHlTZXJ2aWNlLnVwZGF0ZU1lZGFsQWN0aXZpdHkobWVkYWxBY3Rpdml0eURvKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3cgY2wiIGlkPSJsaW5rIiBuYW1lPSJsaW5rIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWxhYmVsIGNvbC0yIj48c3BhbiBjbGFzcz0iYy1yZWQiPio8L3NwYW4+wbS907XY1rejujwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm1Db250cm9scyBjb2wtNCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LXRleHQiIHZhbHVlPSIkIW9wLmltZ1VybCIgcGxhY2Vob2xkZXI9IiIgaWQ9ImltZ1VybCIgbmFtZT0iaW1nVXJsIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9IlZhbGlkZm9ybV9jaGVja3RpcCI+PC9kaXY+CiAgICAgICAgPC9kaXY+</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IDxkaXYgY2xhc3M9InJvdyBjbCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCBjb2wtMiI+PHNwYW4gY2xhc3M9ImMtcmVkIj4qPC9zcGFuPsv5tKa1yLy2x/ijujwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm1Db250cm9scyBjb2wtNCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LXRleHQiIHZhbHVlPSIkIW9wLnZpcExldmVsIiBwbGFjZWhvbGRlcj0iIiBpZD0icmFuayIgbmFtZT0idmlwTGV2ZWwiIGRhdGF0eXBlPSJuIiBlcnJvcm1zZz0ix+vK5Mjryv3X1iIgbnVsbG1zZz0iIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9IlZhbGlkZm9ybV9jaGVja3RpcCI+PC9kaXY+CiAgICAgICAgPC9kaXY+</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInBpY1VybCIsIHBpY1VybCk7Cg==</text>
       </register>
     </registers>
     <search>
