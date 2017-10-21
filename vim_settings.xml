@@ -9,12 +9,11 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508570553070">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508573737457">
         <mark key="'" line="70" column="8" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="126" column="7" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506410153967">
         <mark key="[" line="133" column="0" />
@@ -126,11 +125,10 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1508572526928">
-        <mark key="[" line="124" column="51" />
-        <mark key="]" line="124" column="48" />
-        <mark key="." line="124" column="48" />
-        <mark key="^" line="124" column="48" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1508573690723">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1508568710836">
         <mark key="'" line="102" column="41" />
@@ -816,11 +814,11 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalExchangeService.java" timestamp="1508572021183">
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="16" />
-        <mark key="^" line="46" column="16" />
-        <mark key="." line="46" column="16" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalExchangeService.java" timestamp="1508573706099">
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="47" column="3" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/StoreApi.java" timestamp="1506074893945">
         <mark key="[" line="27" column="0" />
@@ -1429,44 +1427,46 @@
       <jump line="114" column="81" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>vipExchangeDo</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBVc2VyTG9naW5CYXNpY0RUTyB1c2VyQmFzZURvID0gdXNlckF1dGhJbmZvQ29tcG9uZW50LmdldEN1cnJlbnRBdXRoSW5mbygpOwogICAgICAgIGlmKHVzZXJCYXNlRG8gPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gQWpheFJlc3VsdC5FUlJPUihFcnJvckVudW0uTE9HSU5fVElNRSk7CiAgICAgICAgfQoKICAgICAgICBJbnRlZ2VyIHVpZCA9IHVzZXJCYXNlRG8uZ2V0VWlkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlwRXhjaGFuZ2VWby5zZXRNZWRhbE51bShPYmplY3RVdGlsLm51bGxGaXJzdEVsc2VTZWNvbmQodXNlclJld2FyZEluZm9WTywgMCwgdXNlclJld2FyZEluZm9WTy5nZXRWYWxpZE1lZGFsTnVtYmVyKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>Integer[] a = {null, 0, 1};
+        VipExchangeVo data = new VipExchangeVo();
+        data.setIsReceiveInsurance(a[RandomUtils.nextInt(0, 3)]);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlwRXhjaGFuZ2VWby4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFTVBUWU9CSkVDVC5zZXRyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFTVBUWU9CSkVDVC5zZXRyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlwRXhjaGFuZ2VWby5zZXRNZWRhbE51bShPYmplY3RVdGlsLm51bGxGaXJzdEVsc2VTZWNvbmQodXNlclJld2FyZEluZm9WTywgMCwgdXNlclJld2FyZEluZm9WTy5nZXRWYWxpZE1lZGFsTnVtYmVyKCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQ8VXNlclJld2FyZEluZm9EVE8+IGluZm9EVE9ScGNSZXN1bHQgPSByZXdhcmRTZXJ2aWNlRmFjYWRlLnF1ZXJ5VXNlclJld2FyZEluZm8odWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHVpZCA9IHVzZXJCYXNlRG8uZ2V0VWlkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
