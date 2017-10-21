@@ -9,11 +9,12 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508568872853">
-        <mark key="[" line="108" column="15" />
-        <mark key="]" line="108" column="67" />
-        <mark key="." line="108" column="67" />
-        <mark key="^" line="108" column="67" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508570553070">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="126" column="7" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506410153967">
         <mark key="[" line="133" column="0" />
@@ -474,6 +475,9 @@
         <mark key="^" line="47" column="42" />
         <mark key="." line="22" column="43" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.6.2/ucenter-common-service-facade-1.6.2.jar!/com/weidai/ucenter/facade/dto/UserLoginBasicDTO.class" timestamp="1508569880870">
+        <mark key="'" line="43" column="18" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/StoreApiImpl.java" timestamp="1506412780208">
         <mark key="[" line="110" column="8" />
         <mark key="]" line="110" column="8" />
@@ -680,6 +684,12 @@
         <mark key="." line="22" column="97" />
         <mark key="^" line="22" column="97" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/WanZhangRestAPI.java" timestamp="1508570491503">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/activity/ActivityUserTimeDoMapperExt.xml" timestamp="1504506740717">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="23" column="32" />
@@ -805,8 +815,8 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalExchangeService.java" timestamp="1508568366978">
-        <mark key="[" line="15" column="39" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalExchangeService.java" timestamp="1508570564966">
+        <mark key="[" line="39" column="0" />
         <mark key="]" line="17" column="10" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
@@ -1063,11 +1073,11 @@
         <mark key="^" line="45" column="91" />
         <mark key="." line="45" column="91" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1508569514856">
-        <mark key="[" line="170" column="62" />
-        <mark key="]" line="170" column="62" />
-        <mark key="^" line="170" column="54" />
-        <mark key="." line="170" column="62" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1508570513809">
+        <mark key="[" line="95" column="100" />
+        <mark key="]" line="96" column="20" />
+        <mark key="^" line="96" column="20" />
+        <mark key="." line="96" column="20" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/listener/SpringContainerStartUpListener.java" timestamp="1504776331888">
         <mark key="[" line="29" column="5" />
@@ -1316,9 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
-      <jump line="145" column="0" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" />
-      <jump line="33" column="179" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" />
       <jump line="32" column="133" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" />
       <jump line="137" column="16" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/NewsApiImpl.java" />
       <jump line="118" column="67" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/NewsApiImpl.java" />
@@ -1416,46 +1423,49 @@
       <jump line="117" column="34" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="102" column="41" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" />
       <jump line="49" column="17" filename="D:/IDEA-project/medal/medal-facade/pom.xml" />
+      <jump line="43" column="18" filename="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/1.6.2/ucenter-common-service-facade-1.6.2.jar!/com/weidai/ucenter/facade/dto/UserLoginBasicDTO.class" />
+      <jump line="115" column="8" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" />
+      <jump line="70" column="8" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BasicUserDTO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHVpZCA9IHVzZXJCYXNlRG8uZ2V0VWlkKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BasicUserDTO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVXNlckF1dGhJbmZvQ29tcG9uZW50IHVzZXJBdXRoSW5mb0NvbXBvbmVudDsK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTG9naW5CYXNpY0RUTyB1c2VyQmFzZURvID0gdXNlckF1dGhJbmZvQ29tcG9uZW50LmdldEN1cnJlbnRBdXRoSW5mbygpOwogICAgICAgIGlmKHVzZXJCYXNlRG8gPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gQWpheFJlc3VsdC5FUlJPUihFcnJvckVudW0uTE9HSU5fVElNRSk7CiAgICAgICAgfQoKICAgICAgICBJbnRlZ2VyIHVpZCA9IHVzZXJCYXNlRG8uZ2V0VWlkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBamF4UmVzdWx0PE9iamVjdD4gZXJyb3IgPSBBamF4UmVzdWx0LkVSUk9SKEVycm9yRW51bS5NRURBTF9OT1RfRU5PVUdIKTsKICAgICAgICBBamF4UmVzdWx0PE9iamVjdD4gZXJyb3IxID0gQWpheFJlc3VsdC5FUlJPUihFcnJvckVudW0uR0VORVJBTF9FUlJPUiwgIsnMxrfS0bbSu7vN6iIpOwogICAgICAgIEFqYXhSZXN1bHQ8U3RyaW5nPiBzdWNjZXNzID0gQWpheFJlc3VsdC5idWlsZCgic3VjY2VzcyIpOwogICAgICAgIEFqYXhSZXN1bHRbXSByZXN1bHRzID0ge2Vycm9yLCBlcnJvcjEsIHN1Y2Nlc3N9Owo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHVpZCA9IHVzZXJCYXNlRG8uZ2V0VWlkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8QWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8+IGRhdGEgPSBMaXN0cy48QWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8+bmV3QXJyYXlMaXN0KCk7CiAgICAgICAgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8gYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8gPSBuZXcgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8oKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTy5zZXRJZCgxKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTy5zZXRDb25zdW1lTWVkYWxOdW0oMyk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8uc2V0RXhjaGFuZ2VOb3RlKCK20ru7Iik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8uc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTy5zZXRTdG9jaygxMDApOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPLnNldFZpcExldmVsKDEpOwogICAgICAgIEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMSA9IG5ldyBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTygpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRJZCgxKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzEuc2V0Q29uc3VtZU1lZGFsTnVtKDMpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRFeGNoYW5nZU5vdGUoIr+qxvS20ru718q48SIpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXROYW1lKCK4o7Gmw8PDwyIpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRTdG9jaygxMDApOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRWaXBMZXZlbCgxKTsKICAgICAgICBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTyBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzIgPSBuZXcgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8oKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzIuc2V0SWQoMSk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldENvbnN1bWVNZWRhbE51bSgzKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzIuc2V0RXhjaGFuZ2VOb3RlKCK20ru7Iik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldE5hbWUoIrijsabDw8PDIik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldFN0b2NrKDEwMCk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldFZpcExldmVsKDEpOwogICAgICAgIEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMyA9IG5ldyBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTygpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMy5zZXRJZCgxKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0Q29uc3VtZU1lZGFsTnVtKDMpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMy5zZXRFeGNoYW5nZU5vdGUoIrbSu7siKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0U3RvY2soMTAwKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0VmlwTGV2ZWwoMSk7CiAgICAgICAgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8gYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80ID0gbmV3IEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPKCk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldElkKDIpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNC5zZXRDb25zdW1lTWVkYWxOdW0oMyk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldEV4Y2hhbmdlTm90ZSgi0tG45vPAIik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldE5hbWUoIrijsabDw8PDIik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldFN0b2NrKDApOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNC5zZXRWaXBMZXZlbCgxKTsKICAgICAgICBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTyBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUgPSBuZXcgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8oKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0SWQoMik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk81LnNldENvbnN1bWVNZWRhbE51bSgzKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0RXhjaGFuZ2VOb3RlKCLS0bjm88AiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0U3RvY2soMCk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk81LnNldFZpcExldmVsKDMpOwogICAgICAgIEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNiA9IG5ldyBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTygpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNi5zZXRJZCgyKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0Q29uc3VtZU1lZGFsTnVtKDMpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNi5zZXRFeGNoYW5nZU5vdGUoIrbSu7siKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0U3RvY2soMjMwKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0VmlwTGV2ZWwoMyk7CgogICAgICAgIGRhdGEuYWRkKGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPKTsKICAgICAgICBkYXRhLmFkZChhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzEpOwogICAgICAgIGRhdGEuYWRkKGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMik7CiAgICAgICAgZGF0YS5hZGQoYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8zKTsKICAgICAgICBkYXRhLmFkZChhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzQpOwogICAgICAgIGRhdGEuYWRkKGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNSk7CiAgICAgICAgZGF0YS5hZGQoYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk82KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsaTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImJhc2ljVXNlckR0byDW0MO709C78cihtb1zZXgsYmlydGhkYXkiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlVk88VXNlclJld2FyZEZsb3dWTz4gZmxvd1ZPUGFnZVZPID0gbmV3IFBhZ2VWTzw+KCk7CiAgICAgICAgZmxvd1ZPUGFnZVZPLnNldERhdGEoY29udmVydCk7CiAgICAgICAgZmxvd1ZPUGFnZVZPLnNldENvdW50KHBhZ2V2by5nZXRDb3VudCgpKTsKICAgICAgICBmbG93Vk9QYWdlVk8uc2V0UGFnZVNpemUocGFnZXZvLmdldFBhZ2VTaXplKCkpOwogICAgICAgIGZsb3dWT1BhZ2VWTy5zZXRQYWdlSW5kZXgocGFnZXZvLmdldFBhZ2VJbmRleCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0VXRpbC5hbnlOdWxsKGxvZ2luQmFzaWNEVE8uZ2V0U2V4KCksIGxvZ2luQmFzaWNEVE8uZ2V0QmlydGhkYXkoKSkpIHsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCLK17TOzbbXys3Gy82y6dGvtb21xNPDu6fQxc+iOiB7fSIsIEpTT04udG9KU09OU3RyaW5nKGJhc2ljVXNlckRUTykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlVk88VXNlclJld2FyZEZsb3dEVE8+IHBhZ2V2byA9IHBhZ2VWT1JwY1Jlc3VsdC5nZXRSZXN1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYmlydGhkYXkgPSBudWxsOwogICAgICAgIEludGVnZXIgc2V4ID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL8ntt93WpLrF1tC94s72INDUsfCjrLP2yfrI1cbaCiAgICAgICAgaWYgKEludGVnZXIudmFsdWVPZihDcmVkZW50aWFsc1R5cGVFbnVtLlJQQ19JRC5nZXRDb2RlKCkpLmVxdWFscyhiYXNpY1VzZXJEVE8uZ2V0Q2VydFR5cGUoKSkpIHsKICAgICAgICAgICAgYmlydGhkYXkgPSBDZXJ0aWZpY2F0ZU5vVXRpbC5nZXRCaXJ0aGRheShiYXNpY1VzZXJEVE8uZ2V0Q2VydGlmaWNhdGVObygpKTsKICAgICAgICAgICAgc2V4ID0gQ2VydGlmaWNhdGVOb1V0aWwuZ2V0U2V4KGJhc2ljVXNlckRUTy5nZXRDZXJ0aWZpY2F0ZU5vKCkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGJpcnRoZGF5ID0gYmFzaWNVc2VyRFRPLmdldEJpcnRoZGF5KCk7CiAgICAgICAgICAgIHNleCA9IGJhc2ljVXNlckRUTy5nZXRTZXgoKSAhPSBudWxsID8gYmFzaWNVc2VyRFRPLmdldFNleCgpIF4gMSA6IG51bGw7IC8v16qzySAwo7rFriAxo7rE0AogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHR5cGVzID0gQXJyYXlzLmFzTGlzdChNZWRhbFR5cGVFbnVtLkVYQ0hBTkdFX0dPT0RTLmdldFR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBamF4UmVzdWx0PE9iamVjdD4gZXJyb3IgPSBBamF4UmVzdWx0LkVSUk9SKEVycm9yRW51bS5NRURBTF9OT1RfRU5PVUdIKTsKICAgICAgICBBamF4UmVzdWx0PE9iamVjdD4gZXJyb3IxID0gQWpheFJlc3VsdC5FUlJPUihFcnJvckVudW0uR0VORVJBTF9FUlJPUiwgIsnMxrfS0bbSu7vN6iIpOwogICAgICAgIEFqYXhSZXN1bHQ8U3RyaW5nPiBzdWNjZXNzID0gQWpheFJlc3VsdC5idWlsZCgic3VjY2VzcyIpOwogICAgICAgIEFqYXhSZXN1bHRbXSByZXN1bHRzID0ge2Vycm9yLCBlcnJvcjEsIHN1Y2Nlc3N9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8QWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8+IGRhdGEgPSBMaXN0cy48QWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8+bmV3QXJyYXlMaXN0KCk7CiAgICAgICAgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8gYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8gPSBuZXcgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8oKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTy5zZXRJZCgxKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTy5zZXRDb25zdW1lTWVkYWxOdW0oMyk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8uc2V0RXhjaGFuZ2VOb3RlKCK20ru7Iik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8uc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTy5zZXRTdG9jaygxMDApOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPLnNldFZpcExldmVsKDEpOwogICAgICAgIEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMSA9IG5ldyBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTygpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRJZCgxKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzEuc2V0Q29uc3VtZU1lZGFsTnVtKDMpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRFeGNoYW5nZU5vdGUoIr+qxvS20ru718q48SIpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXROYW1lKCK4o7Gmw8PDwyIpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRTdG9jaygxMDApOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMS5zZXRWaXBMZXZlbCgxKTsKICAgICAgICBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTyBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzIgPSBuZXcgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8oKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzIuc2V0SWQoMSk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldENvbnN1bWVNZWRhbE51bSgzKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzIuc2V0RXhjaGFuZ2VOb3RlKCK20ru7Iik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldE5hbWUoIrijsabDw8PDIik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldFN0b2NrKDEwMCk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8yLnNldFZpcExldmVsKDEpOwogICAgICAgIEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMyA9IG5ldyBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTygpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMy5zZXRJZCgxKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0Q29uc3VtZU1lZGFsTnVtKDMpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMy5zZXRFeGNoYW5nZU5vdGUoIrbSu7siKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0U3RvY2soMTAwKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzMuc2V0VmlwTGV2ZWwoMSk7CiAgICAgICAgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8gYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80ID0gbmV3IEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPKCk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldElkKDIpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNC5zZXRDb25zdW1lTWVkYWxOdW0oMyk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldEV4Y2hhbmdlTm90ZSgi0tG45vPAIik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldE5hbWUoIrijsabDw8PDIik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk80LnNldFN0b2NrKDApOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNC5zZXRWaXBMZXZlbCgxKTsKICAgICAgICBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTyBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUgPSBuZXcgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8oKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0SWQoMik7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk81LnNldENvbnN1bWVNZWRhbE51bSgzKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0RXhjaGFuZ2VOb3RlKCLS0bjm88AiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzUuc2V0U3RvY2soMCk7CiAgICAgICAgYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk81LnNldFZpcExldmVsKDMpOwogICAgICAgIEFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNiA9IG5ldyBBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTygpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNi5zZXRJZCgyKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0Q29uc3VtZU1lZGFsTnVtKDMpOwogICAgICAgIGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNi5zZXRFeGNoYW5nZU5vdGUoIrbSu7siKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0TmFtZSgiuKOxpsPDw8MiKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0U3RvY2soMjMwKTsKICAgICAgICBhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzYuc2V0VmlwTGV2ZWwoMyk7CgogICAgICAgIGRhdGEuYWRkKGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPKTsKICAgICAgICBkYXRhLmFkZChhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzEpOwogICAgICAgIGRhdGEuYWRkKGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPMik7CiAgICAgICAgZGF0YS5hZGQoYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk8zKTsKICAgICAgICBkYXRhLmFkZChhY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNWTzQpOwogICAgICAgIGRhdGEuYWRkKGFjdGl2aXR5VmlwRXhjaGFuZ2VHb29kc1ZPNSk7CiAgICAgICAgZGF0YS5hZGQoYWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzVk82KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsaTsK</text>
       </register>
     </registers>
     <search>
