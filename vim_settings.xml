@@ -129,7 +129,14 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1508377441992">
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1508565463819">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1508565046651">
+        <mark key="'" line="102" column="41" />
         <mark key="[" line="40" column="47" />
         <mark key="]" line="40" column="64" />
         <mark key="." line="40" column="64" />
@@ -490,6 +497,9 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="11" column="7" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1508565508747">
+        <mark key="'" line="49" column="17" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/impl/StoreServiceImpl.java" timestamp="1506497136508">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="21" />
@@ -800,6 +810,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalExchangeService.java" timestamp="1508565276484">
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/StoreApi.java" timestamp="1506074893945">
         <mark key="[" line="27" column="0" />
@@ -1271,11 +1287,6 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/mapper/ActivityVipExchangeGoodsDOMapper.java" timestamp="1508495397715">
-        <mark key="]" line="11" column="61" />
-        <mark key="^" line="11" column="61" />
-        <mark key="." line="11" column="61" />
-      </file>
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/pom.xml" timestamp="1506318730723">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -1308,8 +1319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="12" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
-      <jump line="156" column="15" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="13" column="0" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="145" column="0" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" />
       <jump line="33" column="179" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/ForumEssenceApiImpl.java" />
@@ -1408,13 +1417,15 @@
       <jump line="80" column="12" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="279" column="65" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="117" column="34" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="102" column="41" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" />
+      <jump line="49" column="17" filename="D:/IDEA-project/medal/medal-facade/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nul</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>nul</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
