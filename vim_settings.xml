@@ -39,14 +39,17 @@
         <mark key="." line="32" column="64" />
         <mark key="^" line="32" column="64" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1508557806185">
-        <mark key="[" line="3" column="33" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1508558792550">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.java" timestamp="1508483536485">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="62" />
-        <mark key="." line="26" column="43" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.java" timestamp="1508558257856">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="25" column="62" />
+        <mark key="." line="25" column="43" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationTypeDoMapper.xml" timestamp="1505984030682">
         <mark key="[" line="150" column="69" />
@@ -192,11 +195,11 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" timestamp="1508557936900">
-        <mark key="[" line="102" column="11" />
-        <mark key="]" line="102" column="17" />
-        <mark key="." line="102" column="17" />
-        <mark key="^" line="102" column="17" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" timestamp="1508558116895">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="123" column="36" />
+        <mark key="^" line="123" column="36" />
+        <mark key="." line="123" column="36" />
       </file>
       <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/mybatis/UserMapper.xml" timestamp="1505902149817">
         <mark key="[" line="4" column="40" />
@@ -781,10 +784,10 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1508557822393">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1508558638724">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/RecruitService.java" timestamp="1506325446218">
         <mark key="[" line="15" column="4" />
@@ -1212,6 +1215,12 @@
         <mark key="^" line="12" column="92" />
         <mark key="." line="12" column="92" />
       </file>
+      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.java" timestamp="1508558272622">
+        <mark key="[" line="12" column="95" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/support/CmsFacadeException.java" timestamp="1506419954181">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="20" column="3" />
@@ -1395,10 +1404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>#{version,jdbcType=INTEGER},</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>#{version,jdbcType=INTEGER},</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1406,29 +1415,35 @@
       <register name="0" type="4">
         <text>所处等级区</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIEJ5dGUgZ2V0Q2FuRXhjaGFuZ2UoKSB7CiAgICAgICAgcmV0dXJuIGNhbkV4Y2hhbmdlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENhbkV4Y2hhbmdlKEJ5dGUgY2FuRXhjaGFuZ2UpIHsKICAgICAgICB0aGlzLmNhbkV4Y2hhbmdlID0gY2FuRXhjaGFuZ2U7CiAgICB9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPC9pZj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9InZlcnNpb24gIT0gbnVsbCIgPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvY2tfdjMgPSBzdG9ja192MyAtMQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCeXRlIGdldElzRGVsZXRlKCkgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InN0b2NrICE9IG51bGwiPgogICAgICAgICAgICA8L2lmPgo=</text>
+      <register name="6" type="4">
+        <text>{
+        return isDelete;
+    }
+
+    public void setIsDelete(Byte isDelete) {
+        this.isDelete = isDelete;
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCeXRlIGdldENhbkV4Y2hhbmdlKCkgewogICAgICAgIHJldHVybiBjYW5FeGNoYW5nZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDYW5FeGNoYW5nZShCeXRlIGNhbkV4Y2hhbmdlKSB7CiAgICAgICAgdGhpcy5jYW5FeGNoYW5nZSA9IGNhbkV4Y2hhbmdlOwogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b2NrID0gc3RvY2sgLSAxCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHVibGljIEJ5dGUgZ2V0Q2FuRXhjaGFuZ2UoKSB7CiAgICAgICAgcmV0dXJuIGNhbkV4Y2hhbmdlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENhbkV4Y2hhbmdlKEJ5dGUgY2FuRXhjaGFuZ2UpIHsKICAgICAgICB0aGlzLmNhbkV4Y2hhbmdlID0gY2FuRXhjaGFuZ2U7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
