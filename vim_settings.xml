@@ -99,11 +99,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1508562318498">
-        <mark key="[" line="45" column="61" />
-        <mark key="]" line="49" column="73" />
-        <mark key="^" line="49" column="73" />
-        <mark key="." line="49" column="73" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1508563592682">
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="37" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="51" column="37" />
       </file>
       <file name="D:/IDEA-project/react-admin/src/components/charts/RechartsSynchronizedLineChart.jsx" timestamp="1506747917699">
         <mark key="[" line="0" column="101" />
@@ -231,12 +231,12 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508561322531">
-        <mark key="'" line="279" column="65" />
-        <mark key="[" line="102" column="18" />
-        <mark key="]" line="102" column="18" />
-        <mark key="." line="102" column="18" />
-        <mark key="^" line="321" column="67" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508564024537">
+        <mark key="'" line="117" column="34" />
+        <mark key="[" line="130" column="32" />
+        <mark key="]" line="131" column="7" />
+        <mark key="." line="131" column="7" />
+        <mark key="^" line="131" column="7" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationNewsDoMapper.xml" timestamp="1505988548548">
         <mark key="[" line="2" column="38" />
@@ -718,11 +718,11 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1508562293927">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="114" column="36" />
-        <mark key="^" line="111" column="30" />
-        <mark key="." line="113" column="0" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1508563548011">
+        <mark key="[" line="123" column="16" />
+        <mark key="]" line="123" column="41" />
+        <mark key="^" line="108" column="52" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/model/CmsRpcResult.java" timestamp="1506334296660">
         <mark key="[" line="28" column="22" />
@@ -1174,11 +1174,11 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1508561385965">
-        <mark key="[" line="109" column="47" />
-        <mark key="]" line="109" column="64" />
-        <mark key="^" line="109" column="64" />
-        <mark key="." line="65" column="48" />
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1508563343609">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/StoreApi.java" timestamp="1506412437717">
         <mark key="[" line="17" column="4" />
@@ -1308,7 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="24" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="91" column="12" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="156" column="15" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
       <jump line="13" column="0" filename="D:/IDEA-project/cms/cms-facade-parent/cms-facade-impl/src/main/java/com/weidai/cms/facade/pc/BannerApiImpl.java" />
@@ -1408,43 +1407,44 @@
       <jump line="172" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="80" column="12" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="279" column="65" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="117" column="34" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIgYnkgZ210X2NyZWF0ZSBkZXNjCiAgICAgICAgICBsaW1pdCAje3BhZ2VOb30sICN7cGFnZVNpemV9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nul</text>
       </register>
       <register name="-" type="4">
-        <text>open=&quot;(&quot;</text>
+        <text>nul</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIgYnkgZ210X2NyZWF0ZSBkZXNjCiAgICAgICAgICBsaW1pdCAje3BhZ2VOb30sICN7cGFnZVNpemV9Cg==</text>
+      <register name="0" type="4">
+        <text>queryRewardFlowByTypeCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZU5vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSBVSUQgPSAje3VpZH0KICAgICAgICAgICAgICBhbmQgaXNfZGVsZXRlID0gMAogICAgICAgICAgICAgIGFuZCB0eXBlIGluICg8Zm9yZWFjaCBjb2xsZWN0aW9uPSJ0eXBlcyIgaXRlbT0iaXRlbSIgc2VwYXJhdG9yPSIsIj4KICAgICAgICAgICAgICAgICAgICAgICAgI3tpdGVtfQogICAgICAgICAgICAgICAgICAgIDwvZm9yZWFjaD4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBScGNXaXRob3V0UmVzdWx0IHJlc3VsdCA9IG5ldyBScGNXaXRob3V0UmVzdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3doZXJlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8d2hlcmU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuaXNUcnVlKE9iamVjdFV0aWwubm9uZU51bGwodWlkLCB2aXBMZXZlbCwgZ29vZHNJZCksICLIscqnsdjSqrLOyv0iKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjaGFuZ2VHb29kc0RPLnNldFN0b2NrKG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9pZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9InZlcnNpb24gIT0gbnVsbCIgPgo=</text>
+        <text encoding="base64">ICAgICAgICBScGNXaXRob3V0UmVzdWx0IHJlc3VsdCA9IG5ldyBScGNXaXRob3V0UmVzdWx0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
