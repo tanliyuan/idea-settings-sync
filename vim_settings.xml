@@ -39,6 +39,9 @@
         <mark key="." line="32" column="64" />
         <mark key="^" line="32" column="64" />
       </file>
+      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1508557806185">
+        <mark key="[" line="3" column="33" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.java" timestamp="1508483536485">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="26" column="43" />
@@ -75,11 +78,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1508495323354">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1508557508356">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="D:/IDEA-project/cms/cms-webapp/src/main/resources/config.properties" timestamp="1505985786966">
         <mark key="[" line="2" column="19" />
@@ -189,6 +192,12 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
+      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" timestamp="1508557936900">
+        <mark key="[" line="102" column="11" />
+        <mark key="]" line="102" column="17" />
+        <mark key="." line="102" column="17" />
+        <mark key="^" line="102" column="17" />
+      </file>
       <file name="D:/IDEA-project/quartz-spring-boot-demo/src/main/resources/mybatis/UserMapper.xml" timestamp="1505902149817">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
@@ -219,12 +228,12 @@
         <mark key="." line="10" column="68" />
         <mark key="^" line="10" column="68" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508556068472">
-        <mark key="'" line="280" column="65" />
-        <mark key="[" line="302" column="11" />
-        <mark key="]" line="302" column="12" />
-        <mark key="." line="302" column="12" />
-        <mark key="^" line="302" column="12" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1508556808923">
+        <mark key="'" line="279" column="65" />
+        <mark key="[" line="303" column="33" />
+        <mark key="]" line="303" column="32" />
+        <mark key="^" line="303" column="32" />
+        <mark key="." line="303" column="32" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/OperationNewsDoMapper.xml" timestamp="1505988548548">
         <mark key="[" line="2" column="38" />
@@ -273,11 +282,6 @@
         <mark key="]" line="44" column="33" />
         <mark key="^" line="44" column="33" />
         <mark key="." line="44" column="33" />
-      </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/MedalBannerController.java" timestamp="1508485068691">
-        <mark key="'" line="75" column="28" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="36" />
       </file>
       <file name="D:/IDEA-project/cms/cms-webapp/src/main/java/com/weidai/cms/web/controller/StoreController.java" timestamp="1506321927926">
         <mark key="[" line="13" column="30" />
@@ -470,6 +474,12 @@
         <mark key="]" line="81" column="22" />
         <mark key="^" line="81" column="22" />
         <mark key="." line="81" column="22" />
+      </file>
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/mapper/ActivityVipExchangeGoodsDOMapperExt.java" timestamp="1508556987437">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/DubboException.java" timestamp="1507626861554">
         <mark key="[" line="26" column="0" />
@@ -771,11 +781,10 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1508483486651">
-        <mark key="[" line="176" column="4" />
-        <mark key="]" line="178" column="3" />
-        <mark key="^" line="178" column="3" />
-        <mark key="." line="178" column="3" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1508557822393">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/RecruitService.java" timestamp="1506325446218">
         <mark key="[" line="15" column="4" />
@@ -1385,11 +1394,11 @@
       <jump line="279" column="65" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUmFuZ2U8SW50ZWdlcj4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>notNull</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1397,32 +1406,32 @@
       <register name="0" type="4">
         <text>所处等级区</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUmFuZ2U8SW50ZWdlcj4oKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIEJ5dGUgZ2V0Q2FuRXhjaGFuZ2UoKSB7CiAgICAgICAgcmV0dXJuIGNhbkV4Y2hhbmdlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENhbkV4Y2hhbmdlKEJ5dGUgY2FuRXhjaGFuZ2UpIHsKICAgICAgICB0aGlzLmNhbkV4Y2hhbmdlID0gY2FuRXhjaGFuZ2U7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhZGRHb29kcyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgcHVibGljIFN0cmluZyBhZGRHb29kcyhBY3Rpdml0eVZpcEV4Y2hhbmdlR29vZHNETyBleGNoYW5nZUdvb2RzRE8sIE1vZGVsIG1vZGVsKSB7CiAgICAgICAgSW50ZWdlciBpbnRlZ2VyID0gbWVkYWxFeGNoYW5nZVNlcnZpY2UuaW5zZXJ0RXhjaGFuZ2VHb29kcyhleGNoYW5nZUdvb2RzRE8pOwoKICAgICAgICByZXR1cm4gIi9tZWRhbEFjdGl2aXR5L3ZpcE1lZGFsRXhjaGFuZ2VHb29kc0xpc3QiOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiI3tjb25maWdiZWFuWydwaWMudXJsJ119IikKICAgIHByaXZhdGUgU3RyaW5nIHBpY1VybD0iaHR0cHM6Ly93ZWlkYWlvc3N0ZXN0Lm9zcy1jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIi9tZWRhbEFjdGl2aXR5L3ZpcE1lZGFsRXhjaGFuZ2VHb29kc0xpc3QiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvY2tfdjMgPSBzdG9ja192MyAtMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcCA9IG1lZGFsQWN0aXZpdHlTZXJ2aWNlLnVwZGF0ZU1lZGFsQWN0aXZpdHkobWVkYWxBY3Rpdml0eURvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InN0b2NrICE9IG51bGwiPgogICAgICAgICAgICA8L2lmPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3cgY2wiIGlkPSJsaW5rIiBuYW1lPSJsaW5rIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWxhYmVsIGNvbC0yIj48c3BhbiBjbGFzcz0iYy1yZWQiPio8L3NwYW4+wbS907XY1rejujwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm1Db250cm9scyBjb2wtNCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LXRleHQiIHZhbHVlPSIkIW9wLmltZ1VybCIgcGxhY2Vob2xkZXI9IiIgaWQ9ImltZ1VybCIgbmFtZT0iaW1nVXJsIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9IlZhbGlkZm9ybV9jaGVja3RpcCI+PC9kaXY+CiAgICAgICAgPC9kaXY+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b2NrID0gc3RvY2sgLSAxCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3M9InJvdyBjbCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCBjb2wtMiI+PHNwYW4gY2xhc3M9ImMtcmVkIj4qPC9zcGFuPsv5tKa1yLy2x/ijujwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm1Db250cm9scyBjb2wtNCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LXRleHQiIHZhbHVlPSIkIW9wLnZpcExldmVsIiBwbGFjZWhvbGRlcj0iIiBpZD0icmFuayIgbmFtZT0idmlwTGV2ZWwiIGRhdGF0eXBlPSJuIiBlcnJvcm1zZz0ix+vK5Mjryv3X1iIgbnVsbG1zZz0iIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9IlZhbGlkZm9ybV9jaGVja3RpcCI+PC9kaXY+CiAgICAgICAgPC9kaXY+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
