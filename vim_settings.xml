@@ -21,6 +21,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1508754030640">
+        <mark key="[" line="110" column="44" />
+        <mark key="]" line="110" column="74" />
+        <mark key="^" line="110" column="74" />
+        <mark key="." line="110" column="74" />
+      </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506410153967">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -108,11 +114,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="28" column="0" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1508741835618">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/IDEA-project/cms/cms-webapp/src/main/resources/config.properties" timestamp="1505985786966">
         <mark key="[" line="2" column="19" />
@@ -678,7 +679,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508751742041">
+      <file name="/Dummy.txt" timestamp="1508753022460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -701,6 +702,12 @@
         <mark key="]" line="47" column="39" />
         <mark key="^" line="47" column="39" />
         <mark key="." line="47" column="39" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/VipExchangeRecordVo.java" timestamp="1508753017972">
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="94" column="36" />
+        <mark key="." line="94" column="36" />
+        <mark key="^" line="94" column="36" />
       </file>
       <file name="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/NewsApi.java" timestamp="1506411058585">
         <mark key="[" line="27" column="14" />
@@ -1098,11 +1105,6 @@
         <mark key="]" line="173" column="44" />
         <mark key="^" line="173" column="43" />
         <mark key="." line="173" column="44" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-db.xml" timestamp="1508734380457">
-        <mark key="[" line="47" column="64" />
-        <mark key="]" line="47" column="64" />
-        <mark key="." line="47" column="64" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/pom.xml" timestamp="1508480982231">
         <mark key="[" line="26" column="33" />
@@ -1566,10 +1568,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>activity_ac_2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>activity_ac_2</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
