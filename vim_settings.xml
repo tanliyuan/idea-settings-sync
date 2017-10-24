@@ -9,7 +9,7 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508826300468">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508827407467">
         <mark key="[" line="134" column="55" />
         <mark key="]" line="134" column="55" />
         <mark key="." line="134" column="55" />
@@ -332,11 +332,11 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1508823817608">
-        <mark key="[" line="160" column="72" />
-        <mark key="]" line="160" column="72" />
-        <mark key="^" line="160" column="90" />
-        <mark key="." line="160" column="72" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1508828959629">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="120" />
+        <mark key="^" line="117" column="63" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
@@ -1557,45 +1557,44 @@
       <jump line="359" column="120" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getUserLevel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFza0RvTWFwcGVyRXh0Lmluc2VydFNlbGVjdGl2ZShidWlsZFJld2FyZFRhc2tEbyh0eXBlLCBBV0FSRF9NRURBTF9OVU0sIHVpZCwgcmVmZXJyZXJVaWQpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>getUserLevel</text>
+        <text>AWARD_MEDAL_NUM</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCIiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIHN0b2NrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFza0RvTWFwcGVyRXh0Lmluc2VydFNlbGVjdGl2ZShidWlsZFJld2FyZFRhc2tEbyh0eXBlLCBBV0FSRF9NRURBTF9OVU0sIHVpZCwgcmVmZXJyZXJVaWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVjb3JkRkxvd0FuZFVwZGF0ZU1lZGFsSW5mbyh0eXBlLCBBV0FSRF9NRURBTF9OVU0sIHVpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2Vxbm8oKSB7IHJldHVybiBzZXFubzsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTZXFubyhTdHJpbmcgc2Vxbm8pIHsKICAgICAgICB0aGlzLnNlcW5vID0gc2Vxbm8gPT0gbnVsbCA/IG51bGwgOiBzZXFuby50cmltKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihNZWRhbFR5cGVFbnVtLlhfUExBTi5lcXVhbHModHlwZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChJbnRlZ2VyIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFVpZCgpIHsKICAgICAgICByZXR1cm4gdWlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFVpZChJbnRlZ2VyIHVpZCkgewogICAgICAgIHRoaXMudWlkID0gdWlkOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAvKiog19a2zjppZCAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIGlkOw==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2Vxbm8oKSB7IHJldHVybiBzZXFubzsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTZXFubyhTdHJpbmcgc2Vxbm8pIHsKICAgICAgICB0aGlzLnNlcW5vID0gc2Vxbm8gPT0gbnVsbCA/IG51bGwgOiBzZXFuby50cmltKCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChJbnRlZ2VyIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldFVpZCgpIHsKICAgICAgICByZXR1cm4gdWlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFVpZChJbnRlZ2VyIHVpZCkgewogICAgICAgIHRoaXMudWlkID0gdWlkOwogICAgfQoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="4">
-        <text>/** 字段:uid */
-    private Integer uid;</text>
+        <text encoding="base64">ICAvKiog19a2zjppZCAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIGlkOw==</text>
       </register>
     </registers>
     <search>
