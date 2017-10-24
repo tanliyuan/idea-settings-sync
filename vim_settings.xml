@@ -9,20 +9,17 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508824926833">
-        <mark key="[" line="14" column="104" />
-        <mark key="]" line="14" column="124" />
-        <mark key="." line="14" column="124" />
-        <mark key="^" line="14" column="124" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1508826300468">
+        <mark key="[" line="134" column="55" />
+        <mark key="]" line="134" column="55" />
+        <mark key="." line="134" column="55" />
+        <mark key="^" line="93" column="70" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/activity/VipExchangeDoMapperExt.xml" timestamp="1508760970093">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1508759940456">
-        <mark key="[" line="98" column="11" />
       </file>
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/facade/pc/EventsApiImpl.java" timestamp="1506410153967">
         <mark key="[" line="133" column="0" />
@@ -677,7 +674,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508824814852">
+      <file name="/Dummy.txt" timestamp="1508826386326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -842,6 +839,7 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/2.0.0/ucenter-common-service-facade-2.0.0-sources.jar!/com/weidai/ucenter/facade/enums/UserLevelEnum.java" timestamp="1508826181898" />
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/ReportDoMapperExt.xml" timestamp="1505987774147">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="68" />
@@ -902,6 +900,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/ucenter/ucenter-common-service-facade/2.0.0/ucenter-common-service-facade-2.0.0-sources.jar!/com/weidai/ucenter/facade/vo/UserVO.java" timestamp="1508826352195" />
       <file name="D:/IDEA-project/cms/cms-facade-parent/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/StoreApi.java" timestamp="1506074893945">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -1147,9 +1146,6 @@
         <mark key="]" line="14" column="99" />
         <mark key="^" line="14" column="169" />
         <mark key="." line="14" column="99" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-dubbo.xml" timestamp="1508811958757">
-        <mark key="[" line="24" column="143" />
       </file>
       <file name="D:/IDEA-project/cms/cms-dal/src/main/resources/META-INF/mybatis/mapper/ReportDoMapper.xml" timestamp="1505984400953">
         <mark key="[" line="190" column="60" />
@@ -1562,10 +1558,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;&quot;).</text>
+        <text>getUserLevel</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;&quot;).</text>
+        <text>getUserLevel</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
