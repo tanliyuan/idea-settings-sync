@@ -147,13 +147,6 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1508824385822">
-        <mark key="'" line="165" column="27" />
-        <mark key="[" line="121" column="38" />
-        <mark key="]" line="121" column="58" />
-        <mark key="." line="121" column="58" />
-        <mark key="^" line="121" column="58" />
-      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/UserRewardInfoVO.java" timestamp="1508571477928">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="37" column="35" />
@@ -196,6 +189,13 @@
         <mark key="." line="45" column="56" />
         <mark key="^" line="45" column="56" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ActivityVipExchangeGoodsVO.java" timestamp="1508913695309">
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="157" column="12" />
+        <mark key="^" line="157" column="12" />
+        <mark key="." line="157" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.1.2.RELEASE/spring-retry-1.1.2.RELEASE-sources.jar!/org/springframework/retry/annotation/Backoff.java" timestamp="1508913431295" />
       <file name="D:/IDEA-project/cms/cms-service/src/main/java/com/weidai/cms/service/ForumEssenceService.java" timestamp="1506323084104">
         <mark key="[" line="15" column="44" />
         <mark key="]" line="15" column="44" />
@@ -333,11 +333,11 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1508911720671">
-        <mark key="[" line="160" column="45" />
-        <mark key="]" line="160" column="60" />
-        <mark key="^" line="160" column="60" />
-        <mark key="." line="160" column="60" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1508913444808">
+        <mark key="[" line="167" column="61" />
+        <mark key="]" line="167" column="48" />
+        <mark key="^" line="167" column="48" />
+        <mark key="." line="167" column="48" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
@@ -1167,6 +1167,7 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="23" column="22" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exception/MedalServiceException.java" timestamp="1508911919214" />
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/exception/ExceptionCatchAspect.java" timestamp="1506414926921">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="40" />
@@ -1203,6 +1204,12 @@
         <mark key="^" line="56" column="46" />
         <mark key="." line="53" column="53" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exception/NeedRetryException.java" timestamp="1508912419731">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+      </file>
       <file name="D:/IDEA-project/recharts/demo/component/CartesianAxis.js" timestamp="1506754887219">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1233,7 +1240,7 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1508911610504">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-context.xml" timestamp="1508912868183">
         <mark key="[" line="64" column="17" />
         <mark key="]" line="64" column="42" />
         <mark key="^" line="64" column="42" />
@@ -1565,29 +1572,29 @@
       <jump line="359" column="120" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhc2tEb01hcHBlckV4dC5pbnNlcnRTZWxlY3RpdmUoYnVpbGRSZXdhcmRUYXNrRG8odHlwZSwgQVdBUkRfTUVEQUxfTlVNLCB1aWQsIHJlZmVycmVyVWlkKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;没有查询到用户首投信息,将重试:&quot; + String.valueOf(uid)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/Nxrz2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFJwY1Jlc3VsdDxVc2VyVHJhbnNJbmZvVk8+IHZvUnBjUmVzdWx0ID0gdGVuZGVyUXVlcnlTZXJ2aWNlRmFjYWRlLnF1ZXJ5VXNlckZpcnN0SW52ZXN0UmVjb3JkKFN0cmluZy52YWx1ZU9mKHVpZCkpOwogICAgICAgICAgICAgICAgYm9vbGVhbiBiZWZvcmUgPSB2b1JwY1Jlc3VsdC5nZXRSZXN1bHQoKS5nZXRUcmFuc1RpbWUoKS5iZWZvcmUodHJhbnNUaW1lKTsKICAgICAgICAgICAgICAgIGlmIChiZWZvcmUpIHsvL7K7ysfK1822CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgTE9HR0VSLmVycm9yKCLRq9XC0PzJzbLp0a/K1822ZHViYm/S7LOjIiwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtZWRhbE51bQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJlZm9yZSkgey8vsrvKx8rXzbYK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1596,13 +1603,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVjb3JkRkxvd0FuZFVwZGF0ZU1lZGFsSW5mbyh0eXBlLCBBV0FSRF9NRURBTF9OVU0sIHVpZCk7IAogICAgICAgICAgICAgICAgICAgICAgICAvLy0tLSC8x8K80PzJzcjOzvEgLS0tXFwKICAgICAgICAgICAgICAgICAgICAgICAgdGFza0RvTWFwcGVyRXh0Lmluc2VydFNlbGVjdGl2ZShidWlsZFJld2FyZFRhc2tEbyh0eXBlLCBBV0FSRF9NRURBTF9OVU0sIHVpZCwgcmVmZXJyZXJVaWQpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0dGVyIG1ldGhvZCBmb3IgcHJvcGVydHkgPHR0PmNvZGU8L3R0Pi4KICAgICAqCiAgICAgKiBAcmV0dXJuIHByb3BlcnR5IHZhbHVlIG9mIGNvZGUKICAgICAqLwogICAgcHVibGljIFN0cmluZyBnZXRDb2RlKCkgewogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoKICAgIC8qKgogICAgICogU2V0dGVyIG1ldGhvZCBmb3IgcHJvcGVydHkgPHR0PmNvZGU8L3R0Pi4KICAgICAqCiAgICAgKiBAcGFyYW0gY29kZSB2YWx1ZSB0byBiZSBhc3NpZ25lZCB0byBwcm9wZXJ0eSBjb2RlCiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIHNldENvZGUoU3RyaW5nIGNvZGUpIHsKICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgfQoKICAgIC8qKgogICAgICogR2V0dGVyIG1ldGhvZCBmb3IgcHJvcGVydHkgPHR0Pm1zZzwvdHQ+LgogICAgICoKICAgICAqIEByZXR1cm4gcHJvcGVydHkgdmFsdWUgb2YgbXNnCiAgICAgKi8KICAgIHB1YmxpYyBTdHJpbmcgZ2V0TXNnKCkgewogICAgICAgIHJldHVybiBtc2c7CiAgICB9CgogICAgLyoqCiAgICAgKiBTZXR0ZXIgbWV0aG9kIGZvciBwcm9wZXJ0eSA8dHQ+bXNnPC90dD4uCiAgICAgKgogICAgICogQHBhcmFtIG1zZyB2YWx1ZSB0byBiZSBhc3NpZ25lZCB0byBwcm9wZXJ0eSBtc2cKICAgICAqLwogICAgcHVibGljIHZvaWQgc2V0TXNnKFN0cmluZyBtc2cpIHsKICAgICAgICB0aGlzLm1zZyA9IG1zZzsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVjb3JkRkxvd0FuZFVwZGF0ZU1lZGFsSW5mbyh0eXBlLCBBV0FSRF9NRURBTF9OVU0sIHVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1zZyA9IG1zZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIG1zZwogICAgICovCg==</text>
       </register>
     </registers>
     <search>
