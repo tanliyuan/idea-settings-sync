@@ -342,12 +342,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1508986472374">
-        <mark key="c" line="177" column="27" />
-        <mark key="[" line="201" column="36" />
-        <mark key="]" line="201" column="35" />
-        <mark key="^" line="201" column="35" />
-        <mark key="." line="201" column="35" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1508988979116">
+        <mark key="c" line="176" column="27" />
+        <mark key="[" line="134" column="21" />
+        <mark key="]" line="135" column="41" />
+        <mark key="^" line="135" column="41" />
+        <mark key="." line="135" column="41" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/facedetect/FaceDetectResult.java" timestamp="1504592008751">
         <mark key="[" line="17" column="29" />
@@ -685,11 +685,11 @@
         <mark key="." line="37" column="102" />
         <mark key="^" line="37" column="102" />
       </file>
-      <file name="D:/IDEA-project/sql_review/ac/20171026_01/DML_20170922_01.sql" timestamp="1508985165060">
-        <mark key="[" line="24" column="205" />
-        <mark key="]" line="0" column="186" />
-        <mark key="." line="0" column="186" />
-        <mark key="^" line="0" column="186" />
+      <file name="D:/IDEA-project/sql_review/ac/20171026_01/DML_20170922_01.sql" timestamp="1508990100633">
+        <mark key="[" line="33" column="179" />
+        <mark key="]" line="33" column="179" />
+        <mark key="." line="33" column="179" />
+        <mark key="^" line="31" column="180" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/UserRewardService.java" timestamp="1508655278073">
         <mark key="[" line="68" column="63" />
@@ -715,7 +715,7 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508986854970">
+      <file name="/Dummy.txt" timestamp="1508989050135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -756,7 +756,7 @@
         <mark key="." line="5" column="75" />
         <mark key="^" line="5" column="75" />
       </file>
-      <file name="/fragment.java" timestamp="1508985816204">
+      <file name="/fragment.java" timestamp="1508988898786">
         <mark key="'" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1193,11 +1193,11 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="51" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/VipMedalExchangeGoodsListtener.java" timestamp="1508988234760">
-        <mark key="[" line="90" column="32" />
-        <mark key="]" line="90" column="35" />
-        <mark key="^" line="90" column="35" />
-        <mark key="." line="90" column="35" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/VipMedalExchangeGoodsListtener.java" timestamp="1508988942341">
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="41" />
+        <mark key="^" line="74" column="41" />
+        <mark key="." line="74" column="41" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalCompensateJob.java" timestamp="1504772118299">
         <mark key="[" line="45" column="87" />
@@ -1591,11 +1591,11 @@
       <jump line="137" column="26" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/AddressVO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzRG8uc2V0QWN0aXZpdHlDb2RlKGFkZHJlc3NWTy5nZXRBY3Rpdml0eUNvZGUoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>MedalTypeEnum typeEnum</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
