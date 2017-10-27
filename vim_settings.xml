@@ -46,7 +46,7 @@
         <mark key="." line="48" column="30" />
         <mark key="^" line="213" column="24" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509070221728">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509073774474">
         <mark key="'" line="445" column="9" />
         <mark key="[" line="429" column="8" />
         <mark key="]" line="407" column="56" />
@@ -140,7 +140,12 @@
         <mark key="^" line="50" column="117" />
         <mark key="." line="50" column="117" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1509072215903" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1509074176277">
+        <mark key="[" line="204" column="28" />
+        <mark key="]" line="204" column="50" />
+        <mark key="^" line="204" column="50" />
+        <mark key="." line="204" column="50" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/address/impl/AddressServiceImpl.java" timestamp="1508986761437">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
@@ -278,31 +283,35 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TelephoneChargeApi.class</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>TelephoneChargeApi.class</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vLS0tILzHwrzQ/MnNyM7O8bHtIC0tLVxcCg==</text>
+      <register name="0" type="4">
+        <text>sex == 0 ? 2 : 1</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+      <register name="1" type="4">
+        <text>2 : 1);
+        personInfo.setEmail(null);
+        personInfo.setMobile(basicUserDTO.getMobile());
+        personInfo.setName(ObjectUtils.firstNonNull(basicUserDTO.getUserName(), basicUserDTO.getLoginName()));
+        personInfo.setSrc(src);</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuaXNUcnVlKE9iamVjdFV0aWwubm9uZU51bGwoYmFzaWNVc2VyRFRPLCBiYXNpY1VzZXJEVE8uZ2V0QmlydGhkYXkoKSwgYmFzaWNVc2VyRFRPLmdldFNleCgpKSwgItPDu6e1x8K80MXPotbQw7vT0LLptb3Q1LHwo6zJ+sjVo6zO3reot6K3xbGjz9UiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -313,27 +322,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66662', 'wd111117870', '1', '17800002654', '投资6个月以上项目', '2017-10-27 08:01:15', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66663', 'wd111117870', '1', '13400002762', '投资6个月以上项目', '2017-10-27 09:44:36', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66664', 'wd111117870', '1', '14700002000', '投资6个月以上项目', '2017-10-27 09:26:01', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66665', 'wd111117870', '1', '13200002192', '投资6个月以上项目', '2017-10-27 09:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66666', 'wd111117870', '1', '18600002738', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66667', 'wd111117870', '1', '18600003853', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66668', 'wd111117870', '1', '15900000348', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66669', 'wd111117870', '1', '18600004871', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66670', 'wd111117870', '1', '13900002019', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66671', 'wd111117870', '1', '13400009822', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66672', 'wd111117870', '1', '18600002289', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66673', 'wd111117870', '1', '13800000092', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66674', 'wd111117870', '1', '13800002293', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66675', 'wd111117870', '1', '18600002738', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66676', 'wd111117870', '1', '18600002738', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66677', 'wd111117870', '1', '13000009382', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66678', 'wd111117870', '1', '18600000222', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66679', 'wd111117870', '1', '13600002291', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66680', 'wd111117870', '1', '18600009223', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');
-INSERT INTO `activity`.`o_activity_vip_exchange` (`uid`, `name`, `is_receive_insurance`, `mobile`, `reason`, `gmt_created`, `gmt_modified`) VALUES ('66681', 'wd111117870', '1', '18600003392', '投资6个月以上项目', '2017-10-27 10:44:46', '2017-10-27 11:28:00');</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
