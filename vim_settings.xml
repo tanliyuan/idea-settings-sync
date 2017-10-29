@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1509247102553">
-        <mark key="[" line="218" column="38" />
-        <mark key="]" line="218" column="46" />
-        <mark key="^" line="93" column="70" />
-        <mark key="." line="210" column="0" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1509251432427">
+        <mark key="[" line="136" column="98" />
+        <mark key="]" line="138" column="25" />
+        <mark key="^" line="138" column="25" />
+        <mark key="." line="138" column="25" />
       </file>
       <file name="D:/IDEA-project/medal/medal-webapp/pom.xml" timestamp="1508732902394">
         <mark key="[" line="30" column="37" />
@@ -45,12 +45,8 @@
         <mark key="." line="48" column="30" />
         <mark key="^" line="213" column="24" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509250499870">
-        <mark key="'" line="463" column="9" />
-        <mark key="[" line="432" column="35" />
-        <mark key="]" line="432" column="35" />
-        <mark key="^" line="430" column="75" />
-        <mark key="." line="432" column="35" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509251605113">
+        <mark key="'" line="452" column="9" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/address/AddressDoMapper.xml" timestamp="1508981535583">
         <mark key="[" line="19" column="21" />
@@ -86,8 +82,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/noob/NoobGetDoMapperExt.xml" timestamp="1509248633768" />
-      <file name="/Dummy.txt" timestamp="1509250590659">
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/noob/NoobGetDoMapperExt.xml" timestamp="1509251975939" />
+      <file name="/Dummy.txt" timestamp="1509251821531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -110,7 +106,13 @@
         <mark key="^" line="8" column="73" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/job/noob/NoobChargeRetryJob.java" timestamp="1509247186713" />
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/noob/impl/NoobInnerServiceImpl.java" timestamp="1509250867949" />
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/activity/VipExchangeRecordDo.java" timestamp="1509252440594">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="113" column="31" />
+        <mark key="^" line="113" column="31" />
+        <mark key="." line="113" column="31" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/noob/impl/NoobInnerServiceImpl.java" timestamp="1509252178415" />
       <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171026_01/DDL_20171026_01.sql" timestamp="1508991921675">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -152,12 +154,18 @@
         <mark key="^" line="189" column="29" />
         <mark key="." line="189" column="29" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1509252284538">
+        <mark key="[" line="113" column="119" />
+        <mark key="]" line="114" column="34" />
+        <mark key="^" line="114" column="34" />
+        <mark key="." line="114" column="34" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/address/impl/AddressServiceImpl.java" timestamp="1509082733014">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.1/generalize-facade-1.0.1-sources.jar!/com/weidai/channel/generalize/facade/api/charge/TelephoneChargeApi.java" timestamp="1509250032378" />
+      <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.1/generalize-facade-1.0.1-sources.jar!/com/weidai/channel/generalize/facade/api/charge/TelephoneChargeApi.java" timestamp="1509251816418" />
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/address/AddressDo.java" timestamp="1508981585288">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -292,16 +300,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDo.getSerialNumber()</text>
+        <text>uid</text>
       </register>
       <register name="-" type="4">
-        <text>getDo.getSerialNumber()</text>
+        <text>uid</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>addressVO</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vxbm8gPSBuZXcgU3RyaW5nQnVpbGRlcigiRVgiKS5hcHBlbmQodWlkKS5hcHBlbmQoRGF0ZVRpbWUubm93KCkuZ2V0TWlsbGlzKCkpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vLS0tILzHwrzQ/MnNyM7O8bHtIC0tLVxcCg==</text>
