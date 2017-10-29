@@ -30,6 +30,9 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/noob/NoobController.java" timestamp="1509249098185">
+        <mark key="'" line="70" column="0" />
+      </file>
       <file name="D:/IDEA-project/medal/medal-service/pom.xml" timestamp="1509068006628">
         <mark key="[" line="200" column="20" />
         <mark key="]" line="203" column="35" />
@@ -42,12 +45,12 @@
         <mark key="." line="48" column="30" />
         <mark key="^" line="213" column="24" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509073774474">
-        <mark key="'" line="445" column="9" />
-        <mark key="[" line="429" column="8" />
-        <mark key="]" line="407" column="56" />
-        <mark key="^" line="407" column="56" />
-        <mark key="." line="407" column="56" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509250499870">
+        <mark key="'" line="463" column="9" />
+        <mark key="[" line="432" column="35" />
+        <mark key="]" line="432" column="35" />
+        <mark key="^" line="430" column="75" />
+        <mark key="." line="432" column="35" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/address/AddressDoMapper.xml" timestamp="1508981535583">
         <mark key="[" line="19" column="21" />
@@ -66,6 +69,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1509250368637">
+        <mark key="[" line="109" column="48" />
+        <mark key="]" line="109" column="62" />
+        <mark key="^" line="109" column="62" />
+        <mark key="." line="109" column="62" />
+      </file>
       <file name="D:/IDEA-project/sql_review/ac/20171026_01/DML_20170922_01.sql" timestamp="1509087719355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="26" column="193" />
@@ -77,7 +86,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509247133699">
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/noob/NoobGetDoMapperExt.xml" timestamp="1509248633768" />
+      <file name="/Dummy.txt" timestamp="1509250590659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -100,6 +110,7 @@
         <mark key="^" line="8" column="73" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/job/noob/NoobChargeRetryJob.java" timestamp="1509247186713" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/noob/impl/NoobInnerServiceImpl.java" timestamp="1509250867949" />
       <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171026_01/DDL_20171026_01.sql" timestamp="1508991921675">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -146,18 +157,20 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.1/generalize-facade-1.0.1-sources.jar!/com/weidai/channel/generalize/facade/api/charge/TelephoneChargeApi.java" timestamp="1509250032378" />
       <file name="D:/IDEA-project/ac/ac-dal/src/main/java/com/weidai/ac/model/address/AddressDo.java" timestamp="1508981585288">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="^" line="149" column="36" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/noob/impl/NoobServiceImpl.java" timestamp="1509247216832" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/noob/impl/NoobServiceImpl.java" timestamp="1509250070746" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ActivityRewardTaskVO.java" timestamp="1508817299924">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/model/AjaxResult.java" timestamp="1509248790812" />
       <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-db.xml" timestamp="1508734380457">
         <mark key="[" line="47" column="64" />
         <mark key="]" line="47" column="64" />
@@ -176,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="D:/IDEA-project/cms/cms-facade/src/main/java/com/weidai/cms/facade/api/pc/RecruitApi.java" />
-      <jump line="83" column="7" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/BannerController.java" />
       <jump line="121" column="14" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/BannerController.java" />
       <jump line="132" column="35" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/BannerController.java" />
       <jump line="0" column="0" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/BannerController.java" />
@@ -276,13 +287,15 @@
       <jump line="0" column="26" filename="/fragment.java" />
       <jump line="137" column="26" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/address/AddressVO.java" />
       <jump line="443" column="9" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="71" column="13" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/noob/NoobController.java" />
+      <jump line="70" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/noob/NoobController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addressVO</text>
+        <text>getDo.getSerialNumber()</text>
       </register>
       <register name="-" type="4">
-        <text>MedalTypeEnum.X_PLAN.getType()</text>
+        <text>getDo.getSerialNumber()</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
