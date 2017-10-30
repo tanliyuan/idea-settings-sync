@@ -29,11 +29,6 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalService.java" timestamp="1509255390936">
-        <mark key="]" line="56" column="55" />
-        <mark key="^" line="56" column="55" />
-        <mark key="." line="56" column="55" />
-      </file>
       <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1509010348060">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="50" />
@@ -67,6 +62,7 @@
         <mark key="." line="497" column="123" />
         <mark key="^" line="497" column="123" />
       </file>
+      <file name="D:/IDEA-project/sql_review/ac/20171030_01/DML_20171030_01.sql" timestamp="1509345318772" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1509085176962">
         <mark key="[" line="189" column="26" />
         <mark key="]" line="189" column="29" />
@@ -104,6 +100,17 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171030_01/DDL_20171026_01.sql" timestamp="1509343538006">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171030_01/DML_20171030_01.sql" timestamp="1509345148366">
+        <mark key="[" line="26" column="91" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+      </file>
       <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1508993085279">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
@@ -119,11 +126,10 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="D:/IDEA-project/sql_review/ac/20171030_01/DML_20170922_01.sql" timestamp="1509342952026">
-        <mark key="[" line="2" column="118" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+      <file name="D:/IDEA-project/sql_review/ac/20171030_01/DML_20170922_01.sql" timestamp="1509343485301">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/noob/NoobController.java" timestamp="1509249098185">
         <mark key="'" line="70" column="0" />
@@ -176,7 +182,7 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/UserRegistListener.java" timestamp="1509341006931" />
-      <file name="/Dummy.txt" timestamp="1509341267225">
+      <file name="/Dummy.txt" timestamp="1509345153001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -321,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSAtLT4=</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCEtLSAtLT4=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -332,33 +338,33 @@
       <register name="0" type="4">
         <text>new String(messageExt.getBody())</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IzMwusXWrsewtcS7sLfR1MvTqtLRvq3K1ravt6K3xbn9CnVwZGF0ZSBvX2FjdGl2aXR5X3ZpcF9leGNoYW5nZV9yZWNvcmQgc2V0IHN0YXR1cyA9IDIgd2hlcmUgZ29vZHNfaWQgaW4gKDIsIDYpIGFuZCBnbXRfY3JlYXRlZCA8ICcyMDE3LTEwLTMwIDAwOjAwOjAwJzs=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>DROP COLUMN `status`,
   DROP COLUMN `order_id`,</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYGFjdHZpdHlgLmBvX2FjdGl2aXR5X3ZpcF9leGNoYW5nZV9yZWNvcmRgICggYHVpZGAsIGBnb29kc19pZGAsIGBnb29kc19uYW1lYCwgYGNvbnN1bWVfbWVkYWxfbnVtYCwgYGdtdF9jcmVhdGVkYCwgYGlzX2RlbGV0ZWApIFZBTFVFUyAoICc2NjY2NCcsICcxMycsICc11Kq7sLfRJywgJzInLCAnMjAxNy0xMC0yNyAwODozMjo0NicsIDApOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0RFRPLnNldFNlcmlhbE51bWJlcihzZXFubyk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vxbm8gPSBuZXcgU3RyaW5nQnVpbGRlcigiRVgiKS5hcHBlbmQocmVjb3JkRG8uZ2V0VWlkKCkpLmFwcGVuZChyZWNvcmREby5nZXRHb29kc0lkKCkpLmFwcGVuZChEYXRlVGltZS5ub3coKS5nZXRNaWxsaXMoKSkudG9TdHJpbmcoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kIG9yZGVyX2lkID0gI3tvcmRlcklkfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2lmPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aWYgdGVzdD0ib3JkZXJJZCAhPSBudWxsIGFuZCBvcmRlcklkICE9JycgIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kIG9yZGVyX2lkID0gI3tvcmRlcklkfQo=</text>
       </register>
     </registers>
     <search>
