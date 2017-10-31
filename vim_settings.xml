@@ -19,6 +19,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/META-INF/spring/medal-rocketmq.xml" timestamp="1509439265371" />
+      <file name="D:/IDEA-project/tanliyuan.top/_layouts/post.html" timestamp="1509439976646">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="55" column="40" />
+        <mark key="^" line="55" column="40" />
+        <mark key="." line="55" column="40" />
+      </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1509341177146">
         <mark key="'" line="456" column="9" />
         <mark key="[" line="80" column="0" />
@@ -36,7 +43,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509435741975">
+      <file name="/Dummy.txt" timestamp="1509440010387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -47,6 +54,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/activity/VipExchangeRecordDoMapperExt.xml" timestamp="1509414086292" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/CapitalListener.java" timestamp="1509439252499" />
       <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171026_01/DDL_20171026_01.sql" timestamp="1508991921675">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -118,9 +126,6 @@
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
-      </file>
-      <file name="/fragment.java" timestamp="1509332155495">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -227,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLUdpdG1lbnQtLT4KICAgICAgPGRpdiBpZD0iY29udGFpbmVyIj48L2Rpdj4KICAgICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2ltc3VuLmdpdGh1Yi5pby9naXRtZW50L3N0eWxlL2RlZmF1bHQuY3NzIj4KICAgICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vaW1zdW4uZ2l0aHViLmlvL2dpdG1lbnQvZGlzdC9naXRtZW50LmJyb3dzZXIuanMiPjwvc2NyaXB0PgogICAgICA8c2NyaXB0PgogICAgICAgIHZhciBnaXRtZW50ID0gbmV3IEdpdG1lbnQoewogICAgICAgICAgaWQ6IHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSwgCiAgICAgICAgICBvd25lcjogJ21hb3hpYW9rZScsCiAgICAgICAgICByZXBvOiAnbWFveGlhb2tlLmdpdGh1Yi5pbycsCiAgICAgICAgICBvYXV0aDogewogICAgICAgICAgY2xpZW50X2lkOiAnYTg4NGQ5MzM2MWMwOWQ1YzAzYjMnLAogICAgICAgICAgY2xpZW50X3NlY3JldDogJzczZjFkZTc4OTUyMWRiNDI3ZDQzMWU5Zjg0ODhkYjJmOTc0ZWUwYmEnLAogICAgICAgICAgfSwKICAgICAgICB9KQogICAgICAgIGdpdG1lbnQucmVuZGVyKCdjb250YWluZXInKQogICAgICA8L3NjcmlwdD4=</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>theme_</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
