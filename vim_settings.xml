@@ -43,7 +43,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509440010387">
+      <file name="D:/IDEA-project/tanliyuan.top/styles/js/application.min.js" timestamp="1509446722649">
+        <mark key="[" line="0" column="391" />
+        <mark key="]" line="0" column="391" />
+        <mark key="^" line="0" column="391" />
+        <mark key="." line="0" column="391" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509446764215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -64,6 +70,13 @@
         <mark key="[" line="38" column="6" />
         <mark key="]" line="38" column="6" />
         <mark key="." line="38" column="6" />
+      </file>
+      <file name="D:/IDEA-project/tanliyuan.top/styles/js/lessismore.js" timestamp="1509446255034">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="20" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1509362859938">
         <mark key="'" line="369" column="14" />
@@ -129,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/RecruitController.java" />
       <jump line="34" column="23" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/RecruitController.java" />
       <jump line="34" column="13" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/ReportController.java" />
       <jump line="89" column="19" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/ReportController.java" />
@@ -229,13 +241,14 @@
       <jump line="113" column="38" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" />
       <jump line="34" column="4" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/enums/NoobEnum.java" />
       <jump line="369" column="14" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" />
+      <jump line="0" column="14" filename="D:/IDEA-project/tanliyuan.top/styles/js/lessismore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>请将此处替换为配置SourceID的语句</text>
+        <text>(window)</text>
       </register>
       <register name="-" type="4">
-        <text>请将此处替换为配置SourceID的语句</text>
+        <text>(window)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
