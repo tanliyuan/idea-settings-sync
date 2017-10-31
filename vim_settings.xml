@@ -35,7 +35,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509362978899">
+      <file name="/Dummy.txt" timestamp="1509413944743">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -45,6 +45,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-dal/src/main/resources/com/weidai/ac/dao/mapper/activity/VipExchangeRecordDoMapperExt.xml" timestamp="1509414086292" />
       <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171026_01/DDL_20171026_01.sql" timestamp="1508991921675">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -62,7 +63,12 @@
         <mark key="." line="497" column="123" />
         <mark key="^" line="497" column="123" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1509412227075" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1509413924345">
+        <mark key="[" line="166" column="54" />
+        <mark key="]" line="166" column="66" />
+        <mark key="^" line="166" column="66" />
+        <mark key="." line="166" column="66" />
+      </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/address/impl/AddressServiceImpl.java" timestamp="1509082733014">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
@@ -208,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>STATE_ACTIVATE_NOT</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>STATE_ACTIVATE_NOT</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
