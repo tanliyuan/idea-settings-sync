@@ -73,6 +73,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/IDEA-project/microgateway/sample_1.0.0.yaml" timestamp="1509603338541">
+        <mark key="[" line="20" column="47" />
+      </file>
       <file name="D:/IDEA-project/sql_review/wdw/ac_medal/20171026_01/DDL_20171026_01.sql" timestamp="1508991921675">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -100,7 +103,6 @@
         <mark key="." line="497" column="123" />
         <mark key="^" line="497" column="123" />
       </file>
-      <file name="E:/software/node-server/package.json" timestamp="1509523076789" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeServiceImpl.java" timestamp="1509413924345">
         <mark key="[" line="166" column="54" />
         <mark key="]" line="166" column="66" />
@@ -117,6 +119,12 @@
         <mark key="]" line="49" column="84" />
         <mark key="." line="49" column="84" />
         <mark key="^" line="49" column="84" />
+      </file>
+      <file name="D:/IDEA-project/microgateway/sample.js" timestamp="1509603215156">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="E:/software/node/app.js" timestamp="1509503753805">
         <mark key="[" line="23" column="13" />
@@ -278,11 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// 创建 application/x-www-form-urlencoded 编码解析
-var urlencodedParser = bodyParser.urlencoded({ extended: false })</text>
+        <text>+ '/definitions/myapp'</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>+ '/definitions/myapp'</text>
       </register>
       <register name="/" type="4">
         <text>error</text>

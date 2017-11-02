@@ -5,6 +5,7 @@
       <mapping ext="mustache" type="HTML" />
       <removed_mapping ext="mustache" type="Handlebars/Mustache" />
       <mapping pattern="RechartsSynchronizedLineChart.jsx" type="PLAIN_TEXT" />
+      <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping pattern="ReactSelect" type="TypeScript JSX" />
     </extensionMap>
   </component>
