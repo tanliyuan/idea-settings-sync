@@ -4,13 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="D:/IDEA-project/tanliyuan.top/_includes/header.html" timestamp="1509454700178">
-        <mark key="'" line="1032" column="308" />
         <mark key="[" line="37" column="8" />
-        <mark key="]" line="1036" column="13" />
-        <mark key="^" line="1036" column="13" />
-        <mark key="." line="1036" column="13" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" timestamp="1509627184634" />
       <file name="D:/IDEA-project/medal/medal-webapp/pom.xml" timestamp="1508732902394">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="38" />
@@ -32,8 +27,6 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="D:/IDEA-project/nodeclub/controllers/site.js" timestamp="1509611447701" />
-      <file name="D:/IDEA-project/nodeclub/models/index.js" timestamp="1509612153576" />
       <file name="D:/IDEA-project/tanliyuan.top/_layouts/post.html" timestamp="1509444974225">
         <mark key="[" line="55" column="30" />
         <mark key="]" line="55" column="38" />
@@ -60,15 +53,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/IDEA-project/nodeclub/common/tools.js" timestamp="1509612998295" />
       <file name="D:/IDEA-project/tanliyuan.top/styles/js/application.min.js" timestamp="1509446722649">
         <mark key="[" line="0" column="391" />
         <mark key="]" line="0" column="391" />
         <mark key="^" line="0" column="391" />
         <mark key="." line="0" column="391" />
       </file>
-      <file name="D:/IDEA-project/nodeclub/models/user.js" timestamp="1509613749920" />
-      <file name="/Dummy.txt" timestamp="1509519362190">
+      <file name="/Dummy.txt" timestamp="1509679199356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,7 +105,6 @@
         <mark key="^" line="166" column="66" />
         <mark key="." line="166" column="66" />
       </file>
-      <file name="D:/IDEA-project/nodeclub/proxy/topic.js" timestamp="1509612077047" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/address/impl/AddressServiceImpl.java" timestamp="1509082733014">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
@@ -170,11 +160,11 @@
         <mark key="]" line="47" column="64" />
         <mark key="." line="47" column="64" />
       </file>
-      <file name="D:/IDEA-project/tanliyuan.top/_includes/footer.html" timestamp="1509454975753">
-        <mark key="[" line="14" column="85" />
-        <mark key="]" line="3" column="89" />
-        <mark key="^" line="4" column="157" />
-        <mark key="." line="3" column="89" />
+      <file name="D:/IDEA-project/tanliyuan.top/_includes/footer.html" timestamp="1509678964684">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1508993085279">
         <mark key="[" line="7" column="18" />
@@ -291,11 +281,11 @@
       <jump line="1032" column="308" filename="D:/IDEA-project/tanliyuan.top/_includes/header.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+ '/definitions/myapp'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>+ '/definitions/myapp'</text>
+        <text encoding="base64">PGltZyBzcmM9Int7Jy9zdHlsZS9pbWFnZXMvYmVpYW4ucG5nJyB8IHByZXNlbmQ6IHNpdGUuYmFzZXVybH19IiAvPg==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -303,11 +293,17 @@
       <register name="0" type="2">
         <text encoding="base64">CTxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJ7e3BhZ2Uua2V5d29yZHN9fSIgLz4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJPGEgc3R5bGU9Im1hcmdpbi1sZWZ0OiAxMHB4IiBocmVmPSJodHRwOi8vd3d3Lm1paWJlaWFuLmdvdi5jbi8iIHRhcmdldD0iX2JsYW5rIj7V40lDULG4MTcwNDczNji6xS0xPC9hPgo=</text>
+      </register>
+      <register name="3" type="4">
         <text>// 创建 application/x-www-form-urlencoded 编码解析
 var urlencodedParser = bodyParser.urlencoded({ extended: false })</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>&quot;at&quot;: {
         &quot;atMobiles&quot;: [
             &quot;156xxxx8827&quot;,
@@ -316,26 +312,20 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })</text>
         &quot;isAtAll&quot;: false
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJlcU5ldy53cml0ZShjb250ZW50cyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwb3J0OiA4MCwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzLm9uKCdlcnJvcicsZnVuY3Rpb24oZGF0YSl7IGNvbnNvbGUubG9nKCJkYXRhOiIsZGF0YSk7ICAgLy/Su7bOaHRtbLT6wusKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXMuc2V0RW5jb2RpbmcoJ3V0ZjgnKTsKICAgICAgICByZXMub24oJ2RhdGEnLGZ1bmN0aW9uKGRhdGEpewogICAgICAgICAgICBjb25zb2xlLmxvZygiZGF0YToiLGRhdGEpOyAgIC8v0ru2zmh0bWy0+sLrCiAgICAgICAgfSk7CiAgICAgICAgcmVzLm9uKCdlcnJvcicsZnVuY3Rpb24oZGF0YSl7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJkYXRhOiIsZGF0YSk7ICAgLy/Su7bOaHRtbLT6wusKICAgICAgICB9KTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NvbnRlbnQtTGVuZ3RoJzpjb250ZW50cy5sZW5ndGgK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcy5lbmQoKTsK</text>
+        <text encoding="base64">ICAgIGRhdGEgPSAK</text>
       </register>
     </registers>
     <search>
