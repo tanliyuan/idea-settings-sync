@@ -6,12 +6,11 @@
       <file name="D:/IDEA-project/tanliyuan.top/_includes/header.html" timestamp="1509454700178">
         <mark key="[" line="37" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509950388505">
+      <file name="/Dummy.txt" timestamp="1510221271876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-rocketmq.xml" timestamp="1510126354366" />
       <file name="D:/IDEA-project/medal/medal-webapp/pom.xml" timestamp="1508732902394">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="38" />
@@ -21,6 +20,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/MedalTypeEnum.java" timestamp="1510221394205">
+        <mark key="'" line="24" column="45" />
       </file>
       <file name="D:/IDEA-project/microgateway/sample_1.0.0.yaml" timestamp="1509603338541">
         <mark key="[" line="20" column="47" />
@@ -99,7 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/ReportController.java" />
       <jump line="89" column="19" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/ReportController.java" />
       <jump line="101" column="35" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/StoreController.java" />
       <jump line="24" column="28" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/ForumEssenceController.java" />
@@ -199,6 +200,7 @@
       <jump line="369" column="14" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" />
       <jump line="0" column="14" filename="D:/IDEA-project/tanliyuan.top/styles/js/lessismore.js" />
       <jump line="1032" column="308" filename="D:/IDEA-project/tanliyuan.top/_includes/header.html" />
+      <jump line="24" column="45" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/MedalTypeEnum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
