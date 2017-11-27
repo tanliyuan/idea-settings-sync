@@ -21,7 +21,12 @@
         <mark key="." line="103" column="68" />
         <mark key="^" line="103" column="68" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" timestamp="1511771487179" />
+      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" timestamp="1511775016737">
+        <mark key="[" line="156" column="31" />
+        <mark key="]" line="156" column="34" />
+        <mark key="." line="156" column="34" />
+        <mark key="^" line="156" column="34" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1511765069322" />
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/PrefectureService.java" timestamp="1511759863820" />
       <file name="D:/IDEA-project/sql_review/ac/20171030_01/DML_20170922_01.sql" timestamp="1509343485301">
@@ -69,7 +74,7 @@
         <mark key="^" line="102" column="44" />
         <mark key="." line="102" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511766729955">
+      <file name="/Dummy.txt" timestamp="1511774415579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -251,11 +256,11 @@
       <jump line="180" column="42" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0ibWVkYWxTdGF0dXMiIG5hbWU9Im1lZGFsU3RhdHVzIiB2YWx1ZT0iJCFvcC5tZWRhbFN0YXR1cyI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>banner</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
