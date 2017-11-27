@@ -82,6 +82,7 @@
           <option name="name" value="log4j-1.2" />
         </LogFramework>
         <LogFramework>
+          <option name="defaultLoggerFieldName" value="logger" />
           <option name="enabledGetterMethod">
             <map>
               <entry key="trace" value="isLoggable(&quot;MyTag&quot;, android.util.Log.VERBOSE)" />
@@ -158,14 +159,13 @@
         </LogFramework>
         <LogFramework>
           <option name="annotation" value="org.springframework.beans.factory.annotation.Autowired" />
+          <option name="defaultLoggerFieldName" value="logger" />
           <option name="logMessageFormatType" value="custom" />
           <option name="logMessagesCanUsePlaceholders" value="true" />
           <option name="loggerClass" value="org.slf4j.Logger" />
           <option name="name" value="spring-slf4j" />
           <option name="placeholderCustomFormat" value="\{\}" />
           <option name="useAnnotation" value="true" />
-          <option name="useFinalLogger" value="false" />
-          <option name="useStaticLogger" value="false" />
         </LogFramework>
         <LogFramework>
           <option name="annotation" value="javax.inject.Inject" />

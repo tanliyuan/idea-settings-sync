@@ -1,6 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="BuildArtifact">
@@ -31,14 +30,10 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt b" />
-  </action>
-  <action id="Git.Stash">
-    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="alt u" />
@@ -47,6 +42,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="Gsonformat" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
@@ -64,6 +60,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta s" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -78,6 +75,10 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
