@@ -166,11 +166,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/medal/MedalExchangeMallApiImpl.java" timestamp="1511944250748">
-        <mark key="[" line="59" column="158" />
-        <mark key="]" line="60" column="15" />
-        <mark key="." line="60" column="15" />
-        <mark key="^" line="60" column="15" />
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/medal/MedalExchangeMallApiImpl.java" timestamp="1511944893150">
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="24" />
+        <mark key="." line="72" column="24" />
+        <mark key="^" line="72" column="24" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeRegionMapperExt.xml" timestamp="1511787069948">
         <mark key="[" line="6" column="33" />
@@ -510,43 +510,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GoodsDTO</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>GoodsDTO</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8c2VsZWN0IGlkPSJxdWVyeVJlZ2lvbkdvb2RzTGlzdEJ5UmVnaW9uSWQiIHJlc3VsdE1hcD0icmVnaW9uR29vZHMiIHBhcmFtZXRlclR5cGU9IkludGVnZXIiPgogICAgICBTRUxFQ1QKICAgICAgICA8aW5jbHVkZSByZWZpZD0icmVnaW9uX2dvb2RzX2ZpZWxkIiAvPgogICAgICBGUk9NIG9fYWN0aXZpdHlfZXhjaGFuZ2VfcmVnaW9uX2dvb2RzIHIKICAgICAgTEVGVCBKT0lOIG9fYWN0aXZpdHlfZXhjaGFuZ2VfZ29vZHMgZwogICAgICBvbiByLmdvb2RzX2lkID0gZy5pZAogICAgICBXSEVSRSByLnJlZ2lvbl9pZCA9ICN7cmVnaW9uSWR9CiAgICAgIG9yZGVyIGJ5IHByaW9yaXR5IGRlc2MKICA8L3NlbGVjdD4K</text>
+      <register name="0" type="4">
+        <text>ActivityExchangeRegionGoodsExtDo</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZWdpb25Hb29kc0RvTWFwcGVyRXh0Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsaW1pdAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IDxzZWxlY3QgaWQ9InNlbGVjdExpc3RBcGkiIHJlc3VsdE1hcD0iQmFzZVJlc3VsdE1hcCIgcGFyYW1ldGVyVHlwZT0iY29tLndlaWRhaS5vcGVyYXRpb25zLmRhby5tZWRhbC5BY3Rpdml0eUV4Y2hhbmdlUmVnaW9uRG8iPgogICAgU0VMRUNUIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgZnJvbSBvX2FjdGl2aXR5X2V4Y2hhbmdlX3JlZ2lvbgogICAgT1JERVIgQlkgcHJpb3JpdHkgREVTQwogIDwvc2VsZWN0Pg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB3aGVyZSB2YWwgaW4gKHNlbGVjdCB0b3AgI3t0b3B9IHZhbCBmcm9tIHRiIHdoZXJlIG5hbWU9YS5uYW1lIG9yZGVyIGJ5IHZhbCBkZXNjKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkLCB1aWQsIG5hbWUsIG1vYmlsZSwgZ29vZHNfaWQsIGdvb2RzX25hbWUsIHR5cGUsIGNvbnN1bWVfbWVkYWxfbnVtLCByZWNlaXZlcl9uYW1lLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlzX2RlbGV0ZQo=</text>
+        <text encoding="base64">ICAgIGlkLCB1aWQsIG5hbWUsIG1vYmlsZSwgZ29vZHNfaWQsIGdvb2RzX25hbWUsIHR5cGUsIGNvbnN1bWVfbWVkYWxfbnVtLCByZWNlaXZlcl9uYW1lLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX2RlbGV0ZQo=</text>
       </register>
     </registers>
     <search>
