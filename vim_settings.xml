@@ -275,6 +275,9 @@
         <mark key="^" line="20" column="62" />
         <mark key="." line="18" column="31" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1511951406698">
+        <mark key="'" line="292" column="34" />
+      </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="20" column="3" />
@@ -414,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/address/AddressController.java" />
       <jump line="208" column="4" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/VipExchangeGoodsController.java" />
       <jump line="77" column="21" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/address/impl/AddressServiceImpl.java" />
       <jump line="367" column="33" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
@@ -514,6 +516,7 @@
       <jump line="123" column="8" filename="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/PojoConvertUtil.java" />
       <jump line="81" column="30" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/medal/MedalExchangeMallApiImpl.java" />
       <jump line="108" column="23" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/medal/MedalExchangeMallApiImpl.java" />
+      <jump line="292" column="34" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
