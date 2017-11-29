@@ -169,12 +169,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/medal/MedalExchangeMallApiImpl.java" timestamp="1511948140408">
-        <mark key="'" line="108" column="23" />
-        <mark key="[" line="117" column="8" />
-        <mark key="]" line="117" column="11" />
-        <mark key="." line="117" column="11" />
-        <mark key="^" line="117" column="11" />
+      <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/facade/api/medal/MedalExchangeMallApiImpl.java" timestamp="1511952169791">
+        <mark key="'" line="109" column="23" />
+        <mark key="[" line="127" column="37" />
+        <mark key="]" line="131" column="26" />
+        <mark key="." line="131" column="26" />
+        <mark key="^" line="131" column="26" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeRegionMapperExt.xml" timestamp="1511787069948">
         <mark key="[" line="6" column="33" />
@@ -520,43 +520,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJwY1Jlc3VsdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>convert</text>
+        <text>兑换商品不存在或已下架</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBScGNSZXN1bHQ8QWN0aXZpdHlFeGNoYW5nZUdvb2RzRFRPPiBycGNSZXN1bHQgPSBuZXcgUnBjUmVzdWx0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnBjUmVzdWx0LnNldEZhaWwoIm5vdF9leGlzdF91bnNoZWxmIiwgIrbSu7vJzMa3sru05tTau/LS0c/CvNwiKS5zZXRSZXN1bHQoQm9vbGVhbi5GQUxTRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJwY1Jlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpb25Hb29kc0RvTWFwcGVyRXh0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaW1pdAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxzZWxlY3QgaWQ9InNlbGVjdExpc3RBcGkiIHJlc3VsdE1hcD0iQmFzZVJlc3VsdE1hcCIgcGFyYW1ldGVyVHlwZT0iY29tLndlaWRhaS5vcGVyYXRpb25zLmRhby5tZWRhbC5BY3Rpdml0eUV4Y2hhbmdlUmVnaW9uRG8iPgogICAgU0VMRUNUIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgZnJvbSBvX2FjdGl2aXR5X2V4Y2hhbmdlX3JlZ2lvbgogICAgT1JERVIgQlkgcHJpb3JpdHkgREVTQwogIDwvc2VsZWN0Pg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSB2YWwgaW4gKHNlbGVjdCB0b3AgI3t0b3B9IHZhbCBmcm9tIHRiIHdoZXJlIG5hbWU9YS5uYW1lIG9yZGVyIGJ5IHZhbCBkZXNjKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZWdpb25Hb29kc0RvTWFwcGVyRXh0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsaW1pdAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IDxzZWxlY3QgaWQ9InNlbGVjdExpc3RBcGkiIHJlc3VsdE1hcD0iQmFzZVJlc3VsdE1hcCIgcGFyYW1ldGVyVHlwZT0iY29tLndlaWRhaS5vcGVyYXRpb25zLmRhby5tZWRhbC5BY3Rpdml0eUV4Y2hhbmdlUmVnaW9uRG8iPgogICAgU0VMRUNUIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgZnJvbSBvX2FjdGl2aXR5X2V4Y2hhbmdlX3JlZ2lvbgogICAgT1JERVIgQlkgcHJpb3JpdHkgREVTQwogIDwvc2VsZWN0Pg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSB2YWwgaW4gKHNlbGVjdCB0b3AgI3t0b3B9IHZhbCBmcm9tIHRiIHdoZXJlIG5hbWU9YS5uYW1lIG9yZGVyIGJ5IHZhbCBkZXNjKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlkLCB1aWQsIG5hbWUsIG1vYmlsZSwgZ29vZHNfaWQsIGdvb2RzX25hbWUsIHR5cGUsIGNvbnN1bWVfbWVkYWxfbnVtLCByZWNlaXZlcl9uYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
