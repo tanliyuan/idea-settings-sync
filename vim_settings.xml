@@ -15,11 +15,11 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" timestamp="1512011103702">
-        <mark key="[" line="133" column="15" />
-        <mark key="]" line="133" column="33" />
-        <mark key="." line="133" column="33" />
-        <mark key="^" line="133" column="33" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" timestamp="1512013085716">
+        <mark key="[" line="108" column="96" />
+        <mark key="]" line="108" column="96" />
+        <mark key="." line="108" column="96" />
+        <mark key="^" line="108" column="114" />
       </file>
       <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1511962521774">
         <mark key="[" line="21" column="16" />
@@ -605,11 +605,11 @@
       <jump line="133" column="20" filename="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/dataobject/reward/ActivityVipExchangeGoodsDO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, paramType = &quot;form&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>medalExchangeService</text>
+        <text>, paramType = &quot;form&quot;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
