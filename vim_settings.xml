@@ -101,11 +101,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="D:/IDEA-project/SpringBootAdmin/src/main/resources/application-dev.properties" timestamp="1512629702129">
+      <file name="D:/IDEA-project/SpringBootAdmin/src/main/resources/application-dev.properties" timestamp="1512637289923">
         <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="13" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeRegionMapperExt.xml" timestamp="1511787069948">
         <mark key="[" line="6" column="33" />
@@ -128,6 +128,12 @@
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="38" />
         <mark key="." line="30" column="38" />
+      </file>
+      <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/m1688/typehandler/AliObjToJsonStrHandler.java" timestamp="1512638763576">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="25" />
+        <mark key="^" line="48" column="25" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.xml" timestamp="1512018639470">
         <mark key="[" line="34" column="53" />
@@ -220,6 +226,7 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/1688/ocean.client.java.biz-sources.jar!/com/alibaba/trade/param/AlibabaTradeGetSellerOrderListResult.java" timestamp="1512639003318" />
       <file name="D:/IDEA-project/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml" timestamp="1512630871670" />
       <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/dataobject/reward/ExchangeRecordDo.java" timestamp="1511963446024">
         <mark key="[" line="4" column="29" />
@@ -257,11 +264,6 @@
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
-      </file>
-      <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/geekcattle/service/console/AdminRoleService.java" timestamp="1512625946959">
-        <mark key="]" line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="24" column="3" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDo.java" timestamp="1511835921588">
         <mark key="[" line="22" column="27" />
@@ -373,11 +375,6 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="56" />
-      </file>
-      <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/geekcattle/core/ProxyConfig.java" timestamp="1512626585298">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/ExchangeRecordServiceImpl.java" timestamp="1512456339715">
         <mark key="[" line="36" column="15" />
@@ -559,6 +556,12 @@
         <mark key="^" line="82" column="85" />
         <mark key="." line="82" column="85" />
       </file>
+      <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/m1688/mapper/OrderMapper.java" timestamp="1512639007878">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="88" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="51" />
+      </file>
       <file name="E:/software/node/app.js" timestamp="1509503753805">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="13" />
@@ -706,48 +709,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xxl-job-admin</text>
+        <text>AlibabaTradeGetSellerOrderListResult</text>
       </register>
       <register name="-" type="4">
-        <text>xxl-job-admin</text>
+        <text>AlibabaTradeGetSellerOrderListResult</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>new LocalDate(2016, 12, 1).toDate()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gcnMuZ2V0U3RyaW5nKGNvbHVtbkluZGV4KTsKCiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocmVzdWx0KSkgewogICAgICAgICAgICByZXR1cm4gSlNPTi5wYXJzZU9iamVjdChyZXN1bHQsIG5ldyBUeXBlUmVmZXJlbmNlPFQ+KCl7fSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTi50eXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtyZXN0LlJlYWRUaW1lb3V0fSIpCiAgICBwcml2YXRlIGludCByZWFkVGltZW91dDsKICAgIEBWYWx1ZSgiJHtyZXN0LkNvbm5lY3RUaW1lb3V0fSIpCiAgICBwcml2YXRlIGludCBjb25uZWN0aW9uVGltZW91dDsKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUHJveHlDb25maWcgcHJveHlDb25maWc7CgogICAgQEJlYW4KICAgIHB1YmxpYyBTaW1wbGVDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnkgaHR0cENsaWVudEZhY3RvcnkoKSB7CiAgICAgICAgU2ltcGxlQ2xpZW50SHR0cFJlcXVlc3RGYWN0b3J5IGh0dHBSZXF1ZXN0RmFjdG9yeSA9IG5ldyBTaW1wbGVDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnkoKTsKICAgICAgICBodHRwUmVxdWVzdEZhY3Rvcnkuc2V0UmVhZFRpbWVvdXQocmVhZFRpbWVvdXQpOwogICAgICAgIGh0dHBSZXF1ZXN0RmFjdG9yeS5zZXRDb25uZWN0VGltZW91dChjb25uZWN0aW9uVGltZW91dCk7CgogICAgICAgIGlmIChwcm94eUNvbmZpZy5nZXRFbmFibGVkKCkpIHsKICAgICAgICAgICAgU29ja2V0QWRkcmVzcyBhZGRyZXNzID0gbmV3IEluZXRTb2NrZXRBZGRyZXNzKHByb3h5Q29uZmlnLmdldEhvc3QoKSwgcHJveHlDb25maWcuZ2V0UG9ydCgpKTsKICAgICAgICAgICAgUHJveHkgcHJveHkgPSBuZXcgUHJveHkoUHJveHkuVHlwZS5IVFRQLCBhZGRyZXNzKTsKICAgICAgICAgICAgaHR0cFJlcXVlc3RGYWN0b3J5LnNldFByb3h5KHByb3h5KTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBodHRwUmVxdWVzdEZhY3Rvcnk7CiAgICB9CgogICAgQEJlYW4KICAgIHB1YmxpYyBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlKFNpbXBsZUNsaWVudEh0dHBSZXF1ZXN0RmFjdG9yeSBodHRwQ2xpZW50RmFjdG9yeSkgewogICAgICAgIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKGh0dHBDbGllbnRGYWN0b3J5KTsKICAgICAgICByZXR1cm4gcmVzdFRlbXBsYXRlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIE9iamVjdCBnZXROdWxsYWJsZVJlc3VsdChSZXN1bHRTZXQgcmVzdWx0U2V0LCBTdHJpbmcgcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JqZWN0IGdldE51bGxhYmxlUmVzdWx0KFJlc3VsdFNldCByZXN1bHRTZXQsIGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPYmplY3QgZ2V0TnVsbGFibGVSZXN1bHQoQ2FsbGFibGVTdGF0ZW1lbnQgY2FsbGFibGVTdGF0ZW1lbnQsIGludCBpKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYW9wLmZyYW1ld29yay5Qcm94eUNvbmZpZzsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0Tm9uTnVsbFBhcmFtZXRlcihQcmVwYXJlZFN0YXRlbWVudCBwcmVwYXJlZFN0YXRlbWVudCwgaW50IGksIE9iamVjdCBvLCBKZGJjVHlwZSBqZGJjVHlwZSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgVCBnZXROdWxsYWJsZVJlc3VsdChSZXN1bHRTZXQgcmVzdWx0U2V0LCBTdHJpbmcgcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgVCBnZXROdWxsYWJsZVJlc3VsdChSZXN1bHRTZXQgcmVzdWx0U2V0LCBpbnQgaSkgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgVCBnZXROdWxsYWJsZVJlc3VsdChDYWxsYWJsZVN0YXRlbWVudCBjYWxsYWJsZVN0YXRlbWVudCwgaW50IGkpIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJlc3RDb25maWd1cmF0aW9uIHsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0Tm9uTnVsbFBhcmFtZXRlcihQcmVwYXJlZFN0YXRlbWVudCBwcmVwYXJlZFN0YXRlbWVudCwgaW50IGksIFQgdCwgSmRiY1R5cGUgamRiY1R5cGUpIHRocm93cyBTUUxFeGNlcHRpb24gewoKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xNi4xODwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtyZXN0LlJlYWRUaW1lb3V0fSIpCiAgICBwcml2YXRlIGludCByZWFkVGltZW91dDsKICAgIEBWYWx1ZSgiJHtyZXN0LkNvbm5lY3RUaW1lb3V0fSIpCiAgICBwcml2YXRlIGludCBjb25uZWN0aW9uVGltZW91dDsKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUHJveHlDb25maWcgcHJveHlDb25maWc7CgogICAgQEJlYW4KICAgIHB1YmxpYyBTaW1wbGVDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnkgaHR0cENsaWVudEZhY3RvcnkoKSB7CiAgICAgICAgU2ltcGxlQ2xpZW50SHR0cFJlcXVlc3RGYWN0b3J5IGh0dHBSZXF1ZXN0RmFjdG9yeSA9IG5ldyBTaW1wbGVDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnkoKTsKICAgICAgICBodHRwUmVxdWVzdEZhY3Rvcnkuc2V0UmVhZFRpbWVvdXQocmVhZFRpbWVvdXQpOwogICAgICAgIGh0dHBSZXF1ZXN0RmFjdG9yeS5zZXRDb25uZWN0VGltZW91dChjb25uZWN0aW9uVGltZW91dCk7CgogICAgICAgIGlmIChwcm94eUNvbmZpZy5nZXRFbmFibGVkKCkpIHsKICAgICAgICAgICAgU29ja2V0QWRkcmVzcyBhZGRyZXNzID0gbmV3IEluZXRTb2NrZXRBZGRyZXNzKHByb3h5Q29uZmlnLmdldEhvc3QoKSwgcHJveHlDb25maWcuZ2V0UG9ydCgpKTsKICAgICAgICAgICAgUHJveHkgcHJveHkgPSBuZXcgUHJveHkoUHJveHkuVHlwZS5IVFRQLCBhZGRyZXNzKTsKICAgICAgICAgICAgaHR0cFJlcXVlc3RGYWN0b3J5LnNldFByb3h5KHByb3h5KTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBodHRwUmVxdWVzdEZhY3Rvcnk7CiAgICB9CgogICAgQEJlYW4KICAgIHB1YmxpYyBSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlKFNpbXBsZUNsaWVudEh0dHBSZXF1ZXN0RmFjdG9yeSBodHRwQ2xpZW50RmFjdG9yeSkgewogICAgICAgIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKGh0dHBDbGllbnRGYWN0b3J5KTsKICAgICAgICByZXR1cm4gcmVzdFRlbXBsYXRlOwogICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
- * 网络代理设置
- *
- * @author yangzhilong
- *
- */</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYW9wLmZyYW1ld29yay5Qcm94eUNvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlFeGVjdXRvciA9IAo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJlc3RDb25maWd1cmF0aW9uIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL8no1sNhcHBrZXm6zcPc1L8oc2Vja2V5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xNi4xODwvdmVyc2lvbj4K</text>
       </register>
     </registers>
     <search>
