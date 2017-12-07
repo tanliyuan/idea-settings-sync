@@ -107,6 +107,12 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="D:/IDEA-project/SpringBootAdmin/src/main/resources/mapper/1688/order.xml" timestamp="1512641910018">
+        <mark key="[" line="3" column="100" />
+        <mark key="]" line="3" column="100" />
+        <mark key="." line="3" column="100" />
+        <mark key="^" line="3" column="100" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeRegionMapperExt.xml" timestamp="1511787069948">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="38" />
@@ -226,7 +232,7 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/1688/ocean.client.java.biz-sources.jar!/com/alibaba/trade/param/AlibabaTradeGetSellerOrderListResult.java" timestamp="1512639003318" />
+      <file name="$USER_HOME$/Documents/1688/ocean.client.java.biz-sources.jar!/com/alibaba/trade/param/AlibabaTradeGetSellerOrderListResult.java" timestamp="1512641804258" />
       <file name="D:/IDEA-project/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml" timestamp="1512630871670" />
       <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/dataobject/reward/ExchangeRecordDo.java" timestamp="1511963446024">
         <mark key="[" line="4" column="29" />
@@ -556,11 +562,11 @@
         <mark key="^" line="82" column="85" />
         <mark key="." line="82" column="85" />
       </file>
-      <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/m1688/mapper/OrderMapper.java" timestamp="1512639007878">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="88" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="51" />
+      <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/m1688/mapper/OrderMapper.java" timestamp="1512641899762">
+        <mark key="[" line="11" column="93" />
+        <mark key="]" line="11" column="90" />
+        <mark key="." line="11" column="90" />
+        <mark key="^" line="11" column="90" />
       </file>
       <file name="E:/software/node/app.js" timestamp="1509503753805">
         <mark key="[" line="23" column="13" />
@@ -709,10 +715,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AlibabaTradeGetSellerOrderListResult</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>AlibabaTradeGetSellerOrderListResult</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
