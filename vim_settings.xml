@@ -166,6 +166,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="D:/IDEA-project/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/service/jobhandler/DemoJobHandler.java" timestamp="1512633162858" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.java" timestamp="1512018334556">
         <mark key="[" line="17" column="102" />
         <mark key="]" line="17" column="109" />
@@ -239,10 +240,10 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="16" column="82" />
       </file>
-      <file name="D:/IDEA-project/xxl-job/xxl-job-admin/src/main/resources/xxl-job-admin.properties" timestamp="1512631008275">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
+      <file name="D:/IDEA-project/xxl-job/xxl-job-admin/src/main/resources/xxl-job-admin.properties" timestamp="1512632547403">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
         <mark key="^" line="9" column="32" />
       </file>
       <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeRecordList.vm" timestamp="1512381054150">
@@ -332,6 +333,11 @@
         <mark key="]" line="25" column="54" />
         <mark key="^" line="25" column="54" />
         <mark key="." line="25" column="54" />
+      </file>
+      <file name="D:/IDEA-project/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/resources/application.properties" timestamp="1512632820192">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/OrderRecordStatusEnum.java" timestamp="1512442061176">
         <mark key="[" line="22" column="5" />
@@ -530,7 +536,7 @@
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512630905750">
+      <file name="/Dummy.txt" timestamp="1512632498025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -700,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ovono802302</text>
+        <text>xxl-job-admin</text>
       </register>
       <register name="-" type="4">
-        <text>ovono802302</text>
+        <text>xxl-job-admin</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
