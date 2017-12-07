@@ -42,7 +42,9 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
-  <action id="Gsonformat" />
+  <action id="Gsonformat">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
