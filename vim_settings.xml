@@ -42,7 +42,7 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/AbstractDistributeGoods.java" timestamp="1512703503576">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/AbstractDistributeGoods.java" timestamp="1512705373715">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="16" column="103" />
@@ -373,11 +373,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" timestamp="1512704929962">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" timestamp="1512705322816">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="23" column="21" />
       </file>
       <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/geekcattle/core/RestConfiguration.java" timestamp="1512628733907">
         <mark key="[" line="13" column="56" />
@@ -557,11 +557,11 @@
         <mark key="^" line="24" column="76" />
         <mark key="." line="24" column="76" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeMobileFare.java" timestamp="1512703433446">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="24" />
-        <mark key="^" line="33" column="24" />
-        <mark key="." line="33" column="24" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeMobileFare.java" timestamp="1512705519864">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="44" />
+        <mark key="^" line="59" column="44" />
+        <mark key="." line="59" column="44" />
       </file>
       <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/m1688/mapper/OrderMapper.java" timestamp="1512641899762">
         <mark key="[" line="11" column="93" />
@@ -715,10 +715,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Service</text>
+        <text>money</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>money</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -727,31 +727,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkU2VydmljZS5mYWlsZWQoZGlzdHJpYnV0ZUdvb2RzLmdldFJlY29yZERvKCkuZ2V0VWlkKCksIGRpc3RyaWJ1dGVHb29kcy5nZXRSZWNvcmREbygpLmdldE9yZGVySWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBc3luYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vINfTwOC/ydLU1tjQtCBwdWJsaWMgdm9pZCBwcmVQcm9jZXNzKCkgewoKICAgIH0KCiAgICAvLyDX08Dgv8nS1NbY0LQKICAgIHB1YmxpYyB2b2lkIHBvc3RQcm9jZXNzKCkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBBc3luYwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzRE9NYXBwZXJFeHQgZ29vZHNET01hcHBlckV4dDsK</text>
+        <text encoding="base64">ICAgIC8vINfTwOC/ydLU1tjQtCBwdWJsaWMgdm9pZCBwcmVQcm9jZXNzKCkgewoKICAgIH0KCiAgICAvLyDX08Dgv8nS1NbY0LQKICAgIHB1YmxpYyB2b2lkIHBvc3RQcm9jZXNzKCkgewoKICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQWN0aXZpdHlWaXBFeGNoYW5nZUdvb2RzRE9NYXBwZXJFeHQgZ29vZHNET01hcHBlckV4dDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKEdvb2RzVHlwZUVudW0uZ2V0RW51bShnb29kc0lkLmdldFR5cGUoKSkpIHsKICAgICAgICAgICAgY2FzZSBNT0JJTEVfRkVFOgogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgYm9vbGVhbiBkaXN0cmlidXRlKE9iamVjdCBnb29kcykgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKEdvb2RzVHlwZUVudW0uZ2V0RW51bShnb29kc0lkLmdldFR5cGUoKSkpIHsKICAgICAgICAgICAgY2FzZSBNT0JJTEVfRkVFOgogICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
