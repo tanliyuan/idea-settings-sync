@@ -224,8 +224,8 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512720989513">
-        <mark key="'" line="258" column="30" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512724911510">
+        <mark key="'" line="244" column="0" />
         <mark key="[" line="408" column="54" />
         <mark key="]" line="408" column="68" />
         <mark key="." line="408" column="68" />
@@ -258,6 +258,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeRedPackage.java" timestamp="1512724697141">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/dataobject/reward/ExchangeRecordDo.java" timestamp="1511963446024">
         <mark key="[" line="4" column="29" />
@@ -417,12 +423,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" timestamp="1512722737083">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" timestamp="1512724148835">
         <mark key="'" line="73" column="4" />
-        <mark key="[" line="64" column="60" />
-        <mark key="]" line="64" column="60" />
-        <mark key="." line="64" column="60" />
-        <mark key="^" line="64" column="52" />
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="19" />
       </file>
       <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/geekcattle/core/RestConfiguration.java" timestamp="1512628733907">
         <mark key="[" line="13" column="56" />
@@ -667,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="15" filename="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" />
       <jump line="95" column="26" filename="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDO.java" />
       <jump line="82" column="19" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
       <jump line="261" column="8" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
@@ -767,10 +772,11 @@
       <jump line="69" column="8" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" />
       <jump line="57" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" />
       <jump line="72" column="4" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" />
+      <jump line="244" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>DistributeRedPackage</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -779,7 +785,7 @@
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>DefaultDistributeGoods</text>
+        <text>DistributeRedPackage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBiZWFuCg==</text>
