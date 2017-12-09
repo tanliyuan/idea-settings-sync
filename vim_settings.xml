@@ -224,12 +224,12 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512799234751">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="366" column="0" />
-        <mark key="]" line="366" column="0" />
-        <mark key="." line="366" column="0" />
-        <mark key="^" line="403" column="68" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512800295347">
+        <mark key="'" line="239" column="0" />
+        <mark key="[" line="389" column="73" />
+        <mark key="]" line="389" column="73" />
+        <mark key="." line="389" column="73" />
+        <mark key="^" line="428" column="50" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
@@ -620,7 +620,7 @@
         <mark key="^" line="24" column="76" />
         <mark key="." line="24" column="76" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeMobileFare.java" timestamp="1512721822500">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeMobileFare.java" timestamp="1512799836678">
         <mark key="'" line="75" column="1" />
         <mark key="[" line="27" column="10" />
         <mark key="]" line="27" column="12" />
@@ -778,11 +778,11 @@
       <jump line="244" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.getUid()</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>.getUid()</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -794,28 +794,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vttK7u7zHwrwKLy8gICAgICAgIFZpcEV4Y2hhbmdlUmVjb3JkRG8gcmVjb3JkID0gYnVpbGRSZWNvcmREbyh1c2VyLCBnb29kc0RUTyk7Ci8vICAgICAgICBtZWRhbEV4Y2hhbmdlTWFsbEFwaS4ocmVjb3JkKTsKLy8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRXhjaGFuZ2VSZWNvcmREbyBidWlsZE9yZGVyUmVjb3JkKEludGVnZXIgdWlkICkgewogICAgICAgIEV4Y2hhbmdlUmVjb3JkRG8gcmVjb3JkRG8gPSBuZXcgRXhjaGFuZ2VSZWNvcmREbygpOwogICAgICAgIHJlY29yZERvLnNldFVpZCh1aWQpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJpZCIsIGV4Y2hhbmdlR29vZHNETy5nZXRJZCgpKTsKICAgICAgICBwYXJhbXMucHV0KCJ2ZXJzaW9uIiwgZXhjaGFuZ2VHb29kc0RPLmdldFZlcnNpb24oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjb3VudFRwbEZhY2FkZS5zZW5kQnlUZW1wbGF0ZSgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC8vttK7u7zHwrwKLy8gICAgICAgIFZpcEV4Y2hhbmdlUmVjb3JkRG8gcmVjb3JkID0gYnVpbGRSZWNvcmREbyh1c2VyLCBnb29kc0RUTyk7Ci8vICAgICAgICBtZWRhbEV4Y2hhbmdlTWFsbEFwaS4ocmVjb3JkKTsKLy8K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXJhbXMucHV0KCJpZCIsIGV4Y2hhbmdlR29vZHNETy5nZXRJZCgpKTsKICAgICAgICBwYXJhbXMucHV0KCJ2ZXJzaW9uIiwgZXhjaGFuZ2VHb29kc0RPLmdldFZlcnNpb24oKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNjb3VudFRwbEZhY2FkZS5zZW5kQnlUZW1wbGF0ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBiZWFuCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgICBwdWJsaWMgQ2xhc3M8RGVmYXVsdERpc3RyaWJ1dGVHb29kcz4gZ2V0RGlzdHJpYnV0ZUNsYXNzKCkgewogICAgICAgICAgICByZXR1cm4gRGVmYXVsdERpc3RyaWJ1dGVHb29kcy5jbGFzczsKICAgICAgICB9CiAgICB9</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHsKICAgICAgICBwdWJsaWMgQ2xhc3M8RGlzdHJpYnV0ZU1vYmlsZUZhcmU+IGdldERpc3RyaWJ1dGVDbGFzcygpIHsKICAgICAgICAgICAgcmV0dXJuIERpc3RyaWJ1dGVNb2JpbGVGYXJlLmNsYXNzOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IHsKICAgICAgICBwdWJsaWMgQ2xhc3M8RGVmYXVsdERpc3RyaWJ1dGVHb29kcz4gZ2V0RGlzdHJpYnV0ZUNsYXNzKCkgewogICAgICAgICAgICByZXR1cm4gRGVmYXVsdERpc3RyaWJ1dGVHb29kcy5jbGFzczsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICBwdWJsaWMgQ2xhc3M8RGlzdHJpYnV0ZUppYVhpQ291cG9uPiBnZXREaXN0cmlidXRlQ2xhc3MoKSB7CiAgICAgICAgICAgIHJldHVybiBEaXN0cmlidXRlSmlhWGlDb3Vwb24uY2xhc3M7CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">IHsKICAgICAgICBwdWJsaWMgQ2xhc3M8RGlzdHJpYnV0ZU1vYmlsZUZhcmU+IGdldERpc3RyaWJ1dGVDbGFzcygpIHsKICAgICAgICAgICAgcmV0dXJuIERpc3RyaWJ1dGVNb2JpbGVGYXJlLmNsYXNzOwogICAgICAgIH0KICAgIH0=</text>
       </register>
     </registers>
     <search>
