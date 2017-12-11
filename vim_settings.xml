@@ -69,12 +69,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1512981156492">
-        <mark key="'" line="23" column="109" />
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="74" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1512984351439">
+        <mark key="'" line="44" column="26" />
+        <mark key="[" line="252" column="37" />
+        <mark key="]" line="252" column="40" />
+        <mark key="." line="252" column="40" />
+        <mark key="^" line="252" column="40" />
       </file>
       <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/mapper/ExchangeRecordDoMapper.java" timestamp="1511963690742">
         <mark key="[" line="11" column="39" />
@@ -110,11 +110,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1512979992742">
-        <mark key="[" line="61" column="66" />
-        <mark key="]" line="61" column="66" />
-        <mark key="^" line="61" column="66" />
-        <mark key="." line="61" column="66" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1512984408087">
+        <mark key="[" line="63" column="136" />
+        <mark key="]" line="63" column="136" />
+        <mark key="." line="63" column="136" />
+        <mark key="^" line="63" column="136" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1512962039653">
         <mark key="'" line="487" column="39" />
@@ -246,12 +246,12 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512981323221">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512985437120">
         <mark key="'" line="514" column="4" />
-        <mark key="[" line="510" column="8" />
-        <mark key="]" line="510" column="7" />
-        <mark key="^" line="510" column="7" />
-        <mark key="." line="510" column="7" />
+        <mark key="[" line="539" column="14" />
+        <mark key="]" line="539" column="14" />
+        <mark key="^" line="539" column="14" />
+        <mark key="." line="539" column="14" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
@@ -335,11 +335,11 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/dto/UserRewardFlowDTO.java" timestamp="1512981271018">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="58" column="35" />
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/dto/UserRewardFlowDTO.java" timestamp="1512983814689">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="33" />
       </file>
       <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeRecordList.vm" timestamp="1512381054150">
         <mark key="[" line="34" column="19" />
@@ -465,11 +465,11 @@
         <mark key="." line="20" column="163" />
         <mark key="^" line="20" column="163" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/dataobject/reward/UserRewardFlowDO.java" timestamp="1512981265581">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="6" />
-        <mark key="^" line="43" column="35" />
-        <mark key="." line="43" column="35" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/dataobject/reward/UserRewardFlowDO.java" timestamp="1512983786656">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="16" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionMapperExt.xml" timestamp="1511943487433">
         <mark key="[" line="20" column="35" />
@@ -746,8 +746,6 @@
       <file name="$MAVEN_REPOSITORY$/com/weidai/medal-facade/1.6.0-SNAPSHOT/medal-facade-1.6.0-SNAPSHOT-sources.jar!/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1512975146339" />
     </filemarks>
     <jumps>
-      <jump line="153" column="57" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/ZeroBuyPrefectureController.java" />
-      <jump line="122" column="29" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
       <jump line="102" column="21" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
       <jump line="400" column="40" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" />
       <jump line="216" column="0" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
@@ -846,48 +844,48 @@
       <jump line="16" column="30" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
       <jump line="23" column="109" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
       <jump line="514" column="4" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="152" column="0" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
+      <jump line="44" column="26" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog1eK49iDX1rbO1rvT0LPJs6TIzs7x09CjrLTTIHJlcXVlc3Rfc2VxX25vILXa0ru49tfWts7M4cihCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvd0RPUy4K</text>
       </register>
       <register name="-" type="4">
-        <text>VARCHAR</text>
+        <text>for</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog1eK49iDX1rbO1rvT0LPJs6TIzs7x09CjrLTTIHJlcXVlc3Rfc2VxX25vILXa0ru49tfWts7M4cihCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBScGNSZXN1bHQ8TGlzdDxVc2VyUmV3YXJkRmxvd0RUTz4+IGdyb3dUYXNrTGlzdChJbnRlZ2VyIHVpZCkgewogICAgICAgIFVzZXJSZXdhcmRJbmZvRE8gaW5mb0RPID0gdXNlclJld2FyZEluZm9EQU8ucXVlcnlVc2VyUmV3YXJkSW5mbyh1aWQpOwoKCiAgICAgICAgUnBjUmVzdWx0PFVzZXJSZXdhcmRGbG93RFRPPiBycGNSZXN1bHQgPSBuZXcgUnBjUmVzdWx0PD4oKTsKCiAgICAgICAgTGlzdDxVc2VyUmV3YXJkRmxvd0RPPiBmbG93RE9TID0gdXNlclJld2FyZEZsb3dEQU8uZ3Jvd1Rhc2tMaXN0KHVpZCk7CgoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRGbG93REFPLmluc2VydFNlbGVjdCh1c2VyUmV3YXJkRmxvd0RPKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvd0RPUy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUmV3YXJkRmxvd0RBTy5iYXRjaFJlY29yZFVzZXJSZXdhcmRGbG93KGZsb3dET1MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vvMfCvMH3y64KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZXJSZXdhcmRGbG93RE8gdXNlclJld2FyZEZsb3dETyA9IG5ldyBVc2VyUmV3YXJkRmxvd0RPKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldFVpZCh1aWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRTdWJqZWN0KFJld2FyZFN1YmplY3RUeXBlRW51bS5PQlRBSU4uZ2V0Q29kZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0VHlwZShNZWRhbFR5cGVFbnVtLkdST1dfVEFTSy5nZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRTdGF0dXMoMyk7IC8vtP3B7MihCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IG5vd1JlYWNoZWRHb2FsID0gcHJlUmVhY2hlZEdvYWwgKyBtZWRhbE51bTsgLy/QwrXEvLax8AogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBkZXNjID0gbmV3IFN0cmluZ0J1aWxkZXIoIrTvtb0iKS5hcHBlbmQoTWVkYWxUeXBlRW51bS5HUk9XX1RBU0suZ2V0RGVzY3JpYmUoKSkuYXBwZW5kKE1lZGFsVGFza0NvbnN0YW50LkdPQUxfTU9ORVlbbm93UmVhY2hlZEdvYWwgLSAxXSkuYXBwZW5kKCLUqrvxyKEiKS5hcHBlbmQobWVkYWxOdW0pLmFwcGVuZCgiw7bRq9XCIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldERlc2NyaXB0aW9uKGRlc2MudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldEdtdENyZWF0ZShuZXcgRGF0ZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0TWVkYWxOdW1iZXIobWVkYWxOdW0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJlcXVlc3RTZXFObyA9ICJtZWRhbEFjdGl2aXR5fCIgKyB1aWQgKyAifGdyb3dUYXNrIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRSZXF1ZXN0U2VxTm8ocmVxdWVzdFNlcU5vKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogs8mzpMjOzvHRq9XCwezIocqxvOQKICAgICAqLwogICAgcHJpdmF0ZSBEYXRlIHJlY2VpdmVUaW1lOwogICAgCgogICAgcHJpdmF0ZSBTdHJpbmcgcmVxdWVzdFNlcU5vOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL7zHwrzB98uuCiAgICAgICAgVXNlclJld2FyZEZsb3dETyB1c2VyUmV3YXJkRmxvd0RPID0gbmV3IFVzZXJSZXdhcmRGbG93RE8oKTsKICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldFVpZCh1aWQpOwogICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0U3ViamVjdChSZXdhcmRTdWJqZWN0VHlwZUVudW0uT0JUQUlOLmdldENvZGUoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRUeXBlKE1lZGFsVHlwZUVudW0uR1JPV19UQVNLLmdldFR5cGUoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRTdGF0dXMoMyk7IC8vtP3B7MihCgogICAgICAgIGludCBub3dSZWFjaGVkR29hbCA9IHByZVJlYWNoZWRHb2FsICsgbWVkYWxOdW07IC8v0MK1xLy2sfAKICAgICAgICBTdHJpbmdCdWlsZGVyIGRlc2MgPSBuZXcgU3RyaW5nQnVpbGRlcigitO+1vSIpLmFwcGVuZChNZWRhbFR5cGVFbnVtLkdST1dfVEFTSy5nZXREZXNjcmliZSgpKS5hcHBlbmQoTWVkYWxUYXNrQ29uc3RhbnQuR09BTF9NT05FWVtub3dSZWFjaGVkR29hbCAtIDFdKS5hcHBlbmQoItSqu/HIoSIpLmFwcGVuZChtZWRhbE51bSkuYXBwZW5kKCLDttGr1cIiKTsKICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldERlc2NyaXB0aW9uKGRlc2MudG9TdHJpbmcoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRHbXRDcmVhdGUobmV3IERhdGUoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRNZWRhbE51bWJlcihtZWRhbE51bSk7CiAgICAgICAgU3RyaW5nIHJlcXVlc3RTZXFObyA9ICJtZWRhbEFjdGl2aXR5fCIgKyB1aWQgKyAifGdyb3dUYXNrIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0UmVxdWVzdFNlcU5vKHJlcXVlc3RTZXFObyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRGbG93REFPLmluc2VydFNlbGVjdCh1c2VyUmV3YXJkRmxvd0RPKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUmV3YXJkRmxvd0RBTy5iYXRjaFJlY29yZFVzZXJSZXdhcmRGbG93KGZsb3dET1MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vvMfCvMH3y64KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZXJSZXdhcmRGbG93RE8gdXNlclJld2FyZEZsb3dETyA9IG5ldyBVc2VyUmV3YXJkRmxvd0RPKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldFVpZCh1aWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRTdWJqZWN0KFJld2FyZFN1YmplY3RUeXBlRW51bS5PQlRBSU4uZ2V0Q29kZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0VHlwZShNZWRhbFR5cGVFbnVtLkdST1dfVEFTSy5nZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRTdGF0dXMoMyk7IC8vtP3B7MihCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IG5vd1JlYWNoZWRHb2FsID0gcHJlUmVhY2hlZEdvYWwgKyBtZWRhbE51bTsgLy/QwrXEvLax8AogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBkZXNjID0gbmV3IFN0cmluZ0J1aWxkZXIoIrTvtb0iKS5hcHBlbmQoTWVkYWxUeXBlRW51bS5HUk9XX1RBU0suZ2V0RGVzY3JpYmUoKSkuYXBwZW5kKE1lZGFsVGFza0NvbnN0YW50LkdPQUxfTU9ORVlbbm93UmVhY2hlZEdvYWwgLSAxXSkuYXBwZW5kKCLUqrvxyKEiKS5hcHBlbmQobWVkYWxOdW0pLmFwcGVuZCgiw7bRq9XCIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldERlc2NyaXB0aW9uKGRlc2MudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldEdtdENyZWF0ZShuZXcgRGF0ZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0TWVkYWxOdW1iZXIobWVkYWxOdW0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJlcXVlc3RTZXFObyA9ICJtZWRhbEFjdGl2aXR5fCIgKyB1aWQgKyAifGdyb3dUYXNrIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRSZXF1ZXN0U2VxTm8ocmVxdWVzdFNlcU5vKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>tx.execute(new TransactionCallbackWithoutResult() {
-                        @Override
-                        protected void doInTransactionWithoutResult(TransactionStatus transactionStatus) {</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvL7zHwrzB98uuCiAgICAgICAgVXNlclJld2FyZEZsb3dETyB1c2VyUmV3YXJkRmxvd0RPID0gbmV3IFVzZXJSZXdhcmRGbG93RE8oKTsKICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldFVpZCh1aWQpOwogICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0U3ViamVjdChSZXdhcmRTdWJqZWN0VHlwZUVudW0uT0JUQUlOLmdldENvZGUoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRUeXBlKE1lZGFsVHlwZUVudW0uR1JPV19UQVNLLmdldFR5cGUoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRTdGF0dXMoMyk7IC8vtP3B7MihCgogICAgICAgIGludCBub3dSZWFjaGVkR29hbCA9IHByZVJlYWNoZWRHb2FsICsgbWVkYWxOdW07IC8v0MK1xLy2sfAKICAgICAgICBTdHJpbmdCdWlsZGVyIGRlc2MgPSBuZXcgU3RyaW5nQnVpbGRlcigitO+1vSIpLmFwcGVuZChNZWRhbFR5cGVFbnVtLkdST1dfVEFTSy5nZXREZXNjcmliZSgpKS5hcHBlbmQoTWVkYWxUYXNrQ29uc3RhbnQuR09BTF9NT05FWVtub3dSZWFjaGVkR29hbCAtIDFdKS5hcHBlbmQoItSqu/HIoSIpLmFwcGVuZChtZWRhbE51bSkuYXBwZW5kKCLDttGr1cIiKTsKICAgICAgICB1c2VyUmV3YXJkRmxvd0RPLnNldERlc2NyaXB0aW9uKGRlc2MudG9TdHJpbmcoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRHbXRDcmVhdGUobmV3IERhdGUoKSk7CiAgICAgICAgdXNlclJld2FyZEZsb3dETy5zZXRNZWRhbE51bWJlcihtZWRhbE51bSk7CiAgICAgICAgU3RyaW5nIHJlcXVlc3RTZXFObyA9ICJtZWRhbEFjdGl2aXR5fCIgKyB1aWQgKyAifGdyb3dUYXNrIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgIHVzZXJSZXdhcmRGbG93RE8uc2V0UmVxdWVzdFNlcU5vKHJlcXVlc3RTZXFObyk7Cg==</text>
       </register>
     </registers>
     <search>
