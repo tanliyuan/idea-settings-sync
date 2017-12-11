@@ -69,11 +69,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1512977152514">
-        <mark key="[" line="113" column="21" />
-        <mark key="]" line="113" column="22" />
-        <mark key="." line="113" column="22" />
-        <mark key="^" line="213" column="23" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1512979939628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="228" column="29" />
+        <mark key="]" line="228" column="63" />
+        <mark key="." line="228" column="63" />
+        <mark key="^" line="228" column="63" />
       </file>
       <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/mapper/ExchangeRecordDoMapper.java" timestamp="1511963690742">
         <mark key="[" line="11" column="39" />
@@ -109,11 +110,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1512976600097">
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="28" column="55" />
-        <mark key="^" line="28" column="55" />
-        <mark key="." line="28" column="55" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/java/com/weidai/medal/dao/reward/UserRewardFlowDAO.java" timestamp="1512979992742">
+        <mark key="[" line="61" column="66" />
+        <mark key="]" line="61" column="66" />
+        <mark key="^" line="61" column="66" />
+        <mark key="." line="61" column="66" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1512962039653">
         <mark key="'" line="487" column="39" />
@@ -245,12 +246,12 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512974703896">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1512980090900">
         <mark key="'" line="193" column="6" />
-        <mark key="[" line="365" column="45" />
-        <mark key="]" line="365" column="79" />
-        <mark key="^" line="365" column="79" />
-        <mark key="." line="365" column="79" />
+        <mark key="[" line="511" column="77" />
+        <mark key="]" line="511" column="76" />
+        <mark key="^" line="511" column="76" />
+        <mark key="." line="511" column="76" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
@@ -745,9 +746,6 @@
       <file name="$MAVEN_REPOSITORY$/com/weidai/medal-facade/1.6.0-SNAPSHOT/medal-facade-1.6.0-SNAPSHOT-sources.jar!/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1512975146339" />
     </filemarks>
     <jumps>
-      <jump line="105" column="33" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/MedalExchangeServiceImpl.java" />
-      <jump line="108" column="25" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/MedalExchangeServiceImpl.java" />
-      <jump line="32" column="89" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/MedalExchangeServiceImpl.java" />
       <jump line="95" column="33" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/MedalExchangeServiceImpl.java" />
       <jump line="37" column="53" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/MedalExchangeServiceImpl.java" />
       <jump line="102" column="24" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/MedalExchangeController.java" />
@@ -845,6 +843,9 @@
       <jump line="0" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" />
       <jump line="486" column="39" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" />
       <jump line="192" column="6" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="228" column="63" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
+      <jump line="232" column="0" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
+      <jump line="0" column="0" filename="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
