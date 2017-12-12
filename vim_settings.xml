@@ -246,12 +246,12 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1513063527630">
-        <mark key="'" line="553" column="16" />
-        <mark key="[" line="521" column="41" />
-        <mark key="]" line="521" column="41" />
-        <mark key="." line="521" column="41" />
-        <mark key="^" line="521" column="41" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1513065530785">
+        <mark key="'" line="577" column="16" />
+        <mark key="[" line="580" column="11" />
+        <mark key="]" line="580" column="72" />
+        <mark key="." line="553" column="0" />
+        <mark key="^" line="552" column="24" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
@@ -640,11 +640,11 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1512974164552">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="124" column="21" />
-        <mark key="." line="124" column="21" />
-        <mark key="^" line="124" column="21" />
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" timestamp="1513065763865">
+        <mark key="[" line="124" column="66" />
+        <mark key="]" line="124" column="66" />
+        <mark key="." line="124" column="66" />
+        <mark key="^" line="124" column="66" />
       </file>
       <file name="D:/IDEA-project/SpringBootAdmin/src/main/resources/ac-resttemplate.xml" timestamp="1512629077284">
         <mark key="[" line="89" column="11" />
@@ -845,43 +845,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAsIGxlZnQocmVxdWVzdF9zZXFfbm8sIDEpIGFzIGFycml2ZUdvYWwK</text>
+        <text encoding="base64">ICAgIFJwY1Jlc3VsdDxMaXN0PFVzZXJSZXdhcmRGbG93RFRPPj4gbGljYWlUYXNrTGlzdChJbnRlZ2VyIHVpZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>is_del</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImlzRGVsICE9IG51bGwiPgogICAgICAgICAgICAgICAgaXNfZGVsLAogICAgICAgICAgICA8L2lmPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">UnBjUmVzdWx0PExpc3Q8VXNlclJld2FyZEZsb3dEVE8+PiByZXdhcmRUYXNrTGlzdChJbnRlZ2VyIHVpZCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsIGxlZnQocmVxdWVzdF9zZXFfbm8sIDEpIGFzIGFycml2ZUdvYWwK</text>
+        <text encoding="base64">ICAgIFJwY1Jlc3VsdDxMaXN0PFVzZXJSZXdhcmRGbG93RFRPPj4gbGljYWlUYXNrTGlzdChJbnRlZ2VyIHVpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlciBieSB0eXBlIGFzYwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaW1pdCAxCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpID0gdXNlclJld2FyZEZsb3dETy5nZXRBcnJpdmVHb2FsKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyUmV3YXJkSW5mb0RPIGluZm9ETyA9IHVzZXJSZXdhcmRJbmZvREFPLnF1ZXJ5VXNlclJld2FyZEluZm8odWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAsIGxlZnQocmVxdWVzdF9zZXFfbm8sIDEpIGFzIGFycml2ZUdvYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVXNlclJld2FyZEZsb3dEVE8gY29udmVydCA9IFBvam9Db252ZXJ0VXRpbC5jb252ZXJ0KHVzZXJSZXdhcmRGbG93RE8sIFVzZXJSZXdhcmRGbG93RFRPLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlciBieSB0eXBlIGFzYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVXNlclJld2FyZEZsb3dEVE8gY29udmVydCA9IFBvam9Db252ZXJ0VXRpbC5jb252ZXJ0KHVzZXJSZXdhcmRGbG93RE8sIFVzZXJSZXdhcmRGbG93RFRPLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBsaW1pdCAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVXNlclJld2FyZEZsb3dEVE8gY29udmVydCA9IFBvam9Db252ZXJ0VXRpbC5jb252ZXJ0KHVzZXJSZXdhcmRGbG93RE8sIFVzZXJSZXdhcmRGbG93RFRPLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
     </registers>
     <search>
