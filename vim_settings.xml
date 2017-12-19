@@ -86,11 +86,11 @@
         <mark key="^" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeRecordAdd.vm" timestamp="1513322322021">
-        <mark key="[" line="114" column="102" />
-        <mark key="]" line="114" column="112" />
-        <mark key="^" line="114" column="112" />
-        <mark key="." line="114" column="112" />
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeRecordAdd.vm" timestamp="1513650128824">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="227" column="87" />
+        <mark key="^" line="227" column="87" />
+        <mark key="." line="227" column="87" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/ExchangeRecommendService.java" timestamp="1513583618290">
         <mark key="[" line="18" column="56" />
@@ -125,6 +125,7 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/zeroBuy/add.vm" timestamp="1513650087173" />
       <file name="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/PojoConvertUtil.java" timestamp="1511928727955">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -629,7 +630,7 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513648058894">
+      <file name="/Dummy.txt" timestamp="1513648763243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -838,10 +839,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDo7IiBvbmNsaWNrPSJyb3dzZGVsKCkiIGNsYXNzPSJidG4gYnRuLWRhbmdlciByYWRpdXMiPjxpIGNsYXNzPSJIdWktaWNvbmZvbnQiPiYjeGU2ZTI7PC9pPiDF+sG/yb6z/TwvYT4=</text>
+        <text>expressNum</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDo7IiBvbmNsaWNrPSJyb3dzZGVsKCkiIGNsYXNzPSJidG4gYnRuLWRhbmdlciByYWRpdXMiPjxpIGNsYXNzPSJIdWktaWNvbmZvbnQiPiYjeGU2ZTI7PC9pPiDF+sG/yb6z/TwvYT4=</text>
+        <text>expressNum</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -850,28 +851,28 @@
         <text>o_activity_exchange_recommend</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3M9InJvdyBjbCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCBjb2wtMiI+PHNwYW4gY2xhc3M9ImMtcmVkIj4qPC9zcGFuPsv50OhWSVC1yLy2o7o8L2xhYmVsPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtQ29udHJvbHMgY29sLTQiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QtYm94Ij4=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3M9InJvdyBjbCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwgY29sLTIiPjxzcGFuIGNsYXNzPSJjLXJlZCI+Kjwvc3Bhbj62zNDFxKOw5brFo7o8L2xhYmVsPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybUNvbnRyb2xzIGNvbC00Ij4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImlucHV0LXRleHQiIHZhbHVlPSIkIW9wLnNtc1RlbXBsYXRlIiBwbGFjZWhvbGRlcj0iIiBpZD0ic21zVGVtcGxhdGUiIG5hbWU9InNtc1RlbXBsYXRlIiBkYXRhdHlwZT0iKiIgZXJyb3Jtc2c9IiIgbnVsbG1zZz0iIiBpZ25vcmU9Imlnbm9yZSIvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJWYWxpZGZvcm1fY2hlY2t0aXAiPjwvZGl2PgogICAgICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3M9InJvdyBjbCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCBjb2wtMiI+PHNwYW4gY2xhc3M9ImMtcmVkIj4qPC9zcGFuPsv50OhWSVC1yLy2o7o8L2xhYmVsPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtQ29udHJvbHMgY29sLTQiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QtYm94Ij4=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgY2wiPgogICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwgY29sLTIiPjxzcGFuIGNsYXNzPSJjLXJlZCI+Kjwvc3Bhbj7XtMyso7o8L2xhYmVsPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtQ29udHJvbHMgY29sLTQiPgoJCQkJPHNwYW4gY2xhc3M9InNlbGVjdC1ib3giPgoJCQkJPHNlbGVjdCBpZD0ic3RhdHVzIiBuYW1lPSJzdGF0dXMiIGNsYXNzPSJzZWxlY3QiIGRhdGF0eXBlPSIqIiBudWxsbXNnPSLH69Gh1PHXtMysIj4KICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIwIiAjaWYoJCFvcC5zdGF0dXMgID09MCkgc2VsZWN0ZWQKICAgICAgICAgICAgICAgICAgICAjZW5kPs/Uyr48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIiAjaWYoJCFvcC5zdGF0dXMgPT0gMSkgc2VsZWN0ZWQKICAgICAgICAgICAgICAgICAgICAjZW5kPtL+stg8L29wdGlvbj4KICAgICAgICAgICAgICAgIDwvc2VsZWN0PgoJCQkJPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iVmFsaWRmb3JtX2NoZWNrdGlwIj48L2Rpdj4KICAgICAgICA8L2Rpdj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
