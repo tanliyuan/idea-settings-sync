@@ -324,11 +324,12 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeRecordList.vm" timestamp="1513602691137">
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeRecordList.vm" timestamp="1513648000586">
         <mark key="'" line="167" column="32" />
-        <mark key="[" line="166" column="23" />
-        <mark key="]" line="166" column="24" />
-        <mark key="." line="166" column="24" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/MedalExchangeGoodsServiceImpl.java" timestamp="1513601188572">
         <mark key="[" line="117" column="8" />
@@ -628,7 +629,7 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513603611091">
+      <file name="/Dummy.txt" timestamp="1513648058894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -639,6 +640,12 @@
         <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="60" />
         <mark key="^" line="5" column="60" />
+      </file>
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" timestamp="1513647897815">
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DefaultDistributeGoods.java" timestamp="1512721785316">
         <mark key="[" line="13" column="3" />
@@ -728,7 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="41" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
       <jump line="148" column="37" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
       <jump line="187" column="0" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
       <jump line="123" column="33" filename="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ExchangeRecommendDTO.java" />
@@ -828,13 +834,14 @@
       <jump line="160" column="6" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRegionController.java" />
       <jump line="175" column="39" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRegionController.java" />
       <jump line="75" column="34" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecommendController.java" />
+      <jump line="21" column="14" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>专区名字</text>
+        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDo7IiBvbmNsaWNrPSJyb3dzZGVsKCkiIGNsYXNzPSJidG4gYnRuLWRhbmdlciByYWRpdXMiPjxpIGNsYXNzPSJIdWktaWNvbmZvbnQiPiYjeGU2ZTI7PC9pPiDF+sG/yb6z/TwvYT4=</text>
       </register>
       <register name="-" type="4">
-        <text>专区名字</text>
+        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDo7IiBvbmNsaWNrPSJyb3dzZGVsKCkiIGNsYXNzPSJidG4gYnRuLWRhbmdlciByYWRpdXMiPjxpIGNsYXNzPSJIdWktaWNvbmZvbnQiPiYjeGU2ZTI7PC9pPiDF+sG/yb6z/TwvYT4=</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
