@@ -15,11 +15,11 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" timestamp="1513564954421">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" timestamp="1513739996600">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="140" column="83" />
-        <mark key="." line="7" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1512713034568">
         <mark key="[" line="10" column="21" />
@@ -125,7 +125,6 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/zeroBuy/add.vm" timestamp="1513651184379" />
       <file name="D:/IDEA-project/operations/common-util/src/main/java/com/weidai/operations/util/PojoConvertUtil.java" timestamp="1511928727955">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -852,7 +851,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiLS0tLWZhbHNlIikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -864,31 +863,31 @@
         <text>$(curform).find('#consumeMedalNum').val()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiLS0tLWZhbHNlIikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiBnZXRzLGdldHMsJChjdXJmb3JtKS5maW5kKCcjY29uc3VtZU1lZGFsTnVtJykudmFsKCkgLGdldHMgPiAoJChjdXJmb3JtKS5maW5kKCcjY29uc3VtZU1lZGFsTnVtJykudmFsKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiLS0tLWZhbHNlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGdldHMsb2JqLGN1cmZvcm0scmVneHApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiBnZXRzLGdldHMsJChjdXJmb3JtKS5maW5kKCcjY29uc3VtZU1lZGFsTnVtJykudmFsKCkgLGdldHMgPiAoJChjdXJmb3JtKS5maW5kKCcjY29uc3VtZU1lZGFsTnVtJykudmFsKCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGdldHMsb2JqLGN1cmZvcm0scmVneHApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbVJlcS5zZXRNb3VsZENvZGUoc21zVGVtcGxhdGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIr6ptqsiLmVxdWFscyhyZWdpb24uZ2V0U21zVGVtcGxhdGUoKSkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbVJlcS5zZXRNb3VsZENvZGUoc21zVGVtcGxhdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIr6ptqsiLmVxdWFscyhyZWdpb24uZ2V0U21zVGVtcGxhdGUoKSkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
