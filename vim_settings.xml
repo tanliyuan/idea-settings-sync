@@ -642,7 +642,7 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513774165748">
+      <file name="/Dummy.txt" timestamp="1513820074531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -695,12 +695,12 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1513774153137">
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1513820067851">
         <mark key="'" line="303" column="33" />
-        <mark key="[" line="93" column="75" />
-        <mark key="]" line="93" column="76" />
-        <mark key="^" line="93" column="113" />
-        <mark key="." line="93" column="76" />
+        <mark key="[" line="268" column="28" />
+        <mark key="]" line="268" column="29" />
+        <mark key="^" line="268" column="54" />
+        <mark key="." line="268" column="29" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeGoodsDOMapper.xml" timestamp="1513587607840">
         <mark key="'" line="232" column="36" />
@@ -855,16 +855,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>抵扣红包</text>
+        <text>$(this).val() == 5</text>
       </register>
       <register name="-" type="4">
-        <text>抵扣红包</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IHVwZGF0ZShJbnRlZ2VyIGlkLCBJbnRlZ2VyIHN0YXR1cykgewogICAgICAgIGludCBpID0gcmVnaW9uU2VydmljZS51cGRhdGVTdGF0dXMoaWQsIHN0YXR1cyk7CgogICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gcmVzdWx0ID0gbmV3IEhhc2hNYXA8PigpOwoKICAgICAgICBpZiAoaSA9PSAwKSB7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoInJlc3VsdCIsICJmYWlsIik7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoIm1zZyIsICK4/NDCyqew3CIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoInJlc3VsdCIsICJzdWNjZXNzIik7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoIm1zZyIsICK4/NDCs8m5piIpOwoKICAgICAgICB9CgogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>$(this).val() == 5</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
