@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,17 +14,11 @@
       <mask>*.mxml</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.pom</mask>
-      <mask>*.po</mask>
-      <mask>*.p</mask>
       <mask>*</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>p.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
@@ -33,9 +28,15 @@
       <mask>*.java</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.v</mask>
       <mask>*.vm</mask>
+      <mask>*.pom</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
