@@ -107,11 +107,11 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="40" column="33" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1514191179109">
-        <mark key="[" line="127" column="104" />
-        <mark key="]" line="127" column="117" />
-        <mark key="^" line="127" column="117" />
-        <mark key="." line="127" column="117" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/MedalTaskController.java" timestamp="1514195272044">
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="55" column="5" />
+        <mark key="^" line="51" column="38" />
+        <mark key="." line="55" column="5" />
       </file>
       <file name="D:/IDEA-project/SpringBootAdmin/src/main/resources/application-dev.properties" timestamp="1512637289923">
         <mark key="[" line="15" column="22" />
@@ -466,6 +466,7 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/insurance/impl/WanZhangRestAPIImpl.java" timestamp="1514194482334" />
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/ExchangeRecordService.java" timestamp="1513168200482">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -513,7 +514,7 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1514191080892">
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1514194271840">
         <mark key="[" line="7" column="43" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" timestamp="1513927243176">
@@ -535,11 +536,11 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="15" />
       </file>
-      <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1514192786212">
+      <file name="D:/IDEA-project/disconf/dailytest/ac/config.properties" timestamp="1514194227672">
         <mark key="[" line="8" column="12" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="9" column="54" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/META-INF/spring/ac-mvc.xml" timestamp="1514188485078" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/generatorConfig.xml" timestamp="1511857957892">
@@ -590,7 +591,7 @@
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/UserRewardFlowVO.java" timestamp="1514191241640">
         <mark key="'" line="131" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514192808470">
+      <file name="/Dummy.txt" timestamp="1514195165204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -775,11 +776,11 @@
       <jump line="159" column="27" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Field</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
