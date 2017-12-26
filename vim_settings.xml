@@ -65,12 +65,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514272873975">
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514274022358">
         <mark key="'" line="16" column="35" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="230" column="22" />
-        <mark key="." line="192" column="0" />
+        <mark key="[" line="143" column="21" />
+        <mark key="]" line="143" column="33" />
+        <mark key="." line="143" column="33" />
+        <mark key="^" line="143" column="33" />
       </file>
       <file name="D:/IDEA-project/operations/common-util/pom.xml" timestamp="1511866810482">
         <mark key="[" line="133" column="21" />
@@ -202,13 +202,6 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/constant/MedalTaskConstant.java" timestamp="1514171794182">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-      </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeJiaXiCoupon.java" timestamp="1513824801965">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="37" column="0" />
@@ -239,7 +232,7 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514272710540">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514273454269">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
@@ -590,7 +583,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514273020723">
+      <file name="/Dummy.txt" timestamp="1514273436121">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -774,7 +767,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSB1aWQgPSAje3VpZCxqZGJjVHlwZT1JTlRFR0VSfQogICAgICAgIGFuZCBzdWJqZWN0ID0gI3tzdWJqZWN0LGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgICAgYW5kIGlzX2RlbCA9IDAK</text>
       </register>
       <register name="-" type="4">
         <text>count(1)</text>
@@ -782,38 +775,35 @@
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>查询待领取勋章数dubbo异常</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBXSEVSRSB1aWQgPSAje3VpZCxqZGJjVHlwZT1JTlRFR0VSfQogICAgICAgIEFORCBzdWJqZWN0ID0gI3tzdWJqZWN0LGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgICAgQU5EIGlzX2RlbCA9IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSB1aWQgPSAje3VpZCxqZGJjVHlwZT1JTlRFR0VSfQogICAgICAgIGFuZCBzdWJqZWN0ID0gI3tzdWJqZWN0LGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgICAgYW5kIGlzX2RlbCA9IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSB1aWQgPSAje3VpZCxqZGJjVHlwZT1JTlRFR0VSfQogICAgICAgIEFORCBzdWJqZWN0ID0gI3tzdWJqZWN0LGpkYmNUeXBlPUlOVEVHRVJ9CiAgICAgICAgQU5EIGlzX2RlbCA9IDAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDwhLS2y6dGv08O7p9D8yc3Izs7xzeqzycfpv/YgLS0+CiAgICA8c2VsZWN0IGlkPSJxdWVyeVJld2FyZFRhc2tTdGF0dXMiIHBhcmFtZXRlclR5cGU9ImphdmEudXRpbC5MaXN0IiByZXN1bHRNYXA9IlVzZXJSZXdhcmRGbG93UmVzdWx0TWFwIj4KICAgICAgICBTRUxFQ1QKICAgICAgICA8aW5jbHVkZSByZWZpZD0iQmFzZV9Db2x1bW5fTGlzdCIvPgogICAgICAgIGZyb20gdV9yZXdhcmRfZmxvdwogICAgICAgIHdoZXJlIHJlcXVlc3Rfc2VxX25vIGluCiAgICAgICAgPGZvcmVhY2ggY29sbGVjdGlvbj0ibGlzdCIgaXRlbT0iaXRlbSIgc2VwYXJhdG9yPSIsIiBvcGVuPSIoIiBjbG9zZT0iKSI+CiAgICAgICAgICAgICN7aXRlbX0KICAgICAgICA8L2ZvcmVhY2g+CiAgICA8L3NlbGVjdD4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8d2hlcmU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3doZXJlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>@Autowired
-    private RestTemplate restTemplate;
-    @Autowired
-    private CustomPropertyPlaceholderConfigurer configurer;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
