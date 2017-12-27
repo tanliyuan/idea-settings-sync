@@ -272,8 +272,12 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514383590265">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514385433987">
         <mark key="'" line="174" column="22" />
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="^" line="255" column="26" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeMallServiceImpl.java" timestamp="1513822185571">
         <mark key="[" line="61" column="160" />
@@ -794,11 +798,11 @@
       <jump line="51" column="6" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>AndUpdateMedalInfo</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -807,32 +811,34 @@
         <text>发送勋章领取通知失败</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRTZXJ2aWNlLm1lZGFsUmVjZWl2ZVNtc05vdGlmeSh1aWQsICLRq9XC0PzJzcjOzvEiLCAxLCBNZWRhbFRhc2tDb25zdGFudC5NRURBTF9SRUNFSVZFX05PVElGWV9DT0RFKTsK</text>
+      <register name="2" type="4">
+        <text>if (uids.length == 2) {
+            //格式 referrerUid|yyyyMM|type|referredUid 唯一索引，保证每个人每个月每种悬赏任务只能领取一次
+            requestSeqNo += &quot;|&quot; + uids[1];
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAqINa709Ag0fvH67rD09HA4NDNIHNlcW5vINDo0qqxu83GvPbIyyi1scewzbbXysjLKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludGVnZXIgaW5jTWVkYWxOdW0gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAqIMO/1MLWu9PQyte49rG7zca89rrD09HK17TOzbbXygo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>@Autowired
-    private MsgSendFacade msgSendFacade;</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmIChyZWZlcnJlclVpZCAhPSBudWxsKSB7CiAgICAgICAgICAgIHJld2FyZFRhc2tEby5zZXRTZXFubyhyZXdhcmRUYXNrRG8uZ2V0U2Vxbm8oKSArICJ8IiArIHJlZmVycmVkKTsKICAgICAgICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRTZXJ2aWNlLm1lZGFsUmVjZWl2ZVNtc05vdGlmeSh1aWQsICLRq9XC0PzJzcjOzvEiLCAxLCBNZWRhbFRhc2tDb25zdGFudC5NRURBTF9SRUNFSVZFX05PVElGWV9DT0RFKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
     </registers>
     <search>
