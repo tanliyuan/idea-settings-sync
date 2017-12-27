@@ -248,11 +248,11 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514381167883">
-        <mark key="[" line="418" column="50" />
-        <mark key="]" line="418" column="51" />
-        <mark key="^" line="458" column="24" />
-        <mark key="." line="418" column="51" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514382179741">
+        <mark key="[" line="701" column="149" />
+        <mark key="]" line="701" column="149" />
+        <mark key="^" line="701" column="140" />
+        <mark key="." line="701" column="149" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
@@ -272,12 +272,8 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514381134792">
-        <mark key="'" line="165" column="22" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="145" column="29" />
-        <mark key="." line="145" column="29" />
-        <mark key="^" line="145" column="29" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514382723608">
+        <mark key="'" line="174" column="22" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeMallServiceImpl.java" timestamp="1513822185571">
         <mark key="[" line="61" column="160" />
@@ -615,7 +611,7 @@
         <mark key="^" line="70" column="95" />
         <mark key="." line="70" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514378800522">
+      <file name="/Dummy.txt" timestamp="1514382727814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -682,7 +678,7 @@
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1514378954888">
+      <file name="/fragment.java" timestamp="1514381596092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -798,11 +794,11 @@
       <jump line="51" column="6" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>insertSelect</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -811,32 +807,32 @@
         <text>发送勋章领取通知失败</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRTZXJ2aWNlLm1lZGFsUmVjZWl2ZVNtc05vdGlmeSh1aWQsICLRq9XC0PzJzcjOzvEiLCAxLCBNZWRhbFRhc2tDb25zdGFudC5NRURBTF9SRUNFSVZFX05PVElGWV9DT0RFKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludGVnZXIgaW5jTWVkYWxOdW0gPSAwOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>@Autowired
     private MsgSendFacade msgSendFacade;</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuYWRkKHRhc2tEZXNjKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRG91YmxlLnZhbHVlT2YoQ29va2llVXRpbC5nZXRDb29raWVCeU5hbWUocmVxdWVzdCwgInN0YXJ0Q2FwaXRhbCIpLmdldFZhbHVlKCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
