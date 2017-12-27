@@ -102,12 +102,11 @@
         <mark key="^" line="83" column="118" />
         <mark key="." line="83" column="118" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1514341897282">
-        <mark key="'" line="544" column="51" />
-        <mark key="[" line="641" column="12" />
-        <mark key="]" line="642" column="17" />
-        <mark key="^" line="642" column="17" />
-        <mark key="." line="642" column="17" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1514344063609">
+        <mark key="[" line="633" column="46" />
+        <mark key="]" line="633" column="47" />
+        <mark key="^" line="633" column="44" />
+        <mark key="." line="633" column="47" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecommendVo.java" timestamp="1512010520568">
         <mark key="[" line="38" column="36" />
@@ -198,13 +197,6 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/constant/MedalTaskConstant.java" timestamp="1514171794182">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeJiaXiCoupon.java" timestamp="1513824801965">
         <mark key="[" line="18" column="3" />
@@ -587,12 +579,8 @@
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/UserRewardFlowVO.java" timestamp="1514292947022">
         <mark key="'" line="174" column="4" />
-        <mark key="[" line="73" column="36" />
-        <mark key="]" line="75" column="34" />
-        <mark key="." line="75" column="34" />
-        <mark key="^" line="75" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514342540783">
+      <file name="/Dummy.txt" timestamp="1514344082741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -775,10 +763,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>predictKeepTaskMedalNum</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>predictKeepTaskMedalNum</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
