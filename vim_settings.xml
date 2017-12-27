@@ -64,7 +64,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514376406055">
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514378134885">
         <mark key="'" line="16" column="35" />
         <mark key="[" line="294" column="40" />
         <mark key="]" line="294" column="73" />
@@ -272,12 +272,12 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514375728652">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514379051961">
         <mark key="'" line="165" column="22" />
-        <mark key="[" line="20" column="80" />
-        <mark key="]" line="20" column="81" />
-        <mark key="." line="20" column="81" />
-        <mark key="^" line="20" column="81" />
+        <mark key="[" line="243" column="26" />
+        <mark key="]" line="243" column="46" />
+        <mark key="." line="243" column="46" />
+        <mark key="^" line="243" column="46" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeMallServiceImpl.java" timestamp="1513822185571">
         <mark key="[" line="61" column="160" />
@@ -475,7 +475,7 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/CapitalListener.java" timestamp="1514375711465">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/CapitalListener.java" timestamp="1514377642432">
         <mark key="'" line="74" column="23" />
         <mark key="[" line="100" column="91" />
         <mark key="]" line="102" column="92" />
@@ -615,7 +615,7 @@
         <mark key="^" line="70" column="95" />
         <mark key="." line="70" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514376818135">
+      <file name="/Dummy.txt" timestamp="1514378800522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -682,7 +682,7 @@
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1514357797964">
+      <file name="/fragment.java" timestamp="1514378954888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -798,11 +798,11 @@
       <jump line="51" column="6" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>insertSelect</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>insertSelect</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
