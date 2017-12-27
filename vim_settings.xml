@@ -218,7 +218,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/constant/MedalTaskConstant.java" timestamp="1514365246902">
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/constant/MedalTaskConstant.java" timestamp="1514366781714">
         <mark key="'" line="15" column="0" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeJiaXiCoupon.java" timestamp="1513824801965">
@@ -379,17 +379,18 @@
         <mark key="." line="5" column="65" />
         <mark key="^" line="5" column="65" />
       </file>
+      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecordController.java" timestamp="1514367308832" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeGoodsVO.java" timestamp="1512368491168">
         <mark key="[" line="39" column="25" />
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" timestamp="1514365293074">
-        <mark key="[" line="281" column="25" />
-        <mark key="]" line="281" column="67" />
-        <mark key="." line="281" column="67" />
-        <mark key="^" line="281" column="67" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" timestamp="1514367364746">
+        <mark key="[" line="290" column="47" />
+        <mark key="]" line="290" column="47" />
+        <mark key="." line="290" column="47" />
+        <mark key="^" line="290" column="47" />
       </file>
       <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/config.properties" timestamp="1514200526845">
         <mark key="[" line="2" column="21" />
@@ -618,10 +619,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/UserRewardFlowVO.java" timestamp="1514292947022">
-        <mark key="'" line="174" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1514365317531">
+      <file name="/Dummy.txt" timestamp="1514367375942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -805,10 +803,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;cgktjl01&quot;</text>
+        <text>asyncS</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;cgktjl01&quot;</text>
+        <text>asyncS</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
