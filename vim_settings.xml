@@ -328,6 +328,12 @@
         <mark key="^" line="35" column="59" />
         <mark key="." line="35" column="59" />
       </file>
+      <file name="D:/IDEA-project/sql_review/ac/20171228_01/DDL_20171221_01.sql" timestamp="1514436607666">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
+      </file>
       <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/OrderStatusEnum.java" timestamp="1512715190444">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="15" />
@@ -375,6 +381,12 @@
         <mark key="]" line="28" column="47" />
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
+      </file>
+      <file name="D:/IDEA-project/sql_review/ac/20171228_01/DML_20171228_01.sql" timestamp="1514436709689">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/GoodsTypeEnum.java" timestamp="1513750076113">
         <mark key="[" line="23" column="23" />
@@ -551,7 +563,7 @@
         <mark key="^" line="223" column="43" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/medal/UserRewardFlowVO.java" timestamp="1514432455053" />
-      <file name="/Dummy.txt" timestamp="1514429323105">
+      <file name="/Dummy.txt" timestamp="1514437094618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -740,7 +752,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>goodsId</text>
+        <text>INSERT INTO `o_activity_config` VALUES ('1', '文件上传', 'file_url', '{\&quot;url1\&quot;:\&quot;http://oss.weidai.com.cn/\&quot;,\&quot;bucket1\&quot;:\&quot;weidaiosstest\&quot;,url0:\&quot;https://www.weidai.com.cn/\&quot;,bucket0:\&quot;\&quot;}', 'file', '0', '2017-12-01 19:21:19', '2017-12-01 19:21:19', null, null);
+COMMIT;</text>
       </register>
       <register name="-" type="4">
         <text>goodsId</text>
@@ -751,35 +764,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCK3osvN0avVwsHsyKHKsbLp0a/Tw7un0MXPomR1YmJv0uyzoyIsIGUpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>INSERT INTO `o_activity_config` VALUES ('1', '文件上传', 'file_url', '{\&quot;url1\&quot;:\&quot;http://oss.weidai.com.cn/\&quot;,\&quot;bucket1\&quot;:\&quot;weidaiosstest\&quot;,url0:\&quot;https://www.weidai.com.cn/\&quot;,bucket0:\&quot;\&quot;}', 'file', '0', '2017-12-01 19:21:19', '2017-12-01 19:21:19', null, null);
+COMMIT;</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if (uids.length == 2) {
             //格式 referrerUid|yyyyMM|type|referredUid 唯一索引，保证每个人每个月每种悬赏任务只能领取一次
             requestSeqNo += &quot;|&quot; + uids[1];
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAqINa709Ag0fvH67rD09HA4NDNIHNlcW5vINDo0qqxu83GvPbIyyi1scewzbbXysjLKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIMO/1MLWu9PQyte49rG7zca89rrD09HK17TOzbbXygo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGlmIChyZWZlcnJlclVpZCAhPSBudWxsKSB7CiAgICAgICAgICAgIHJld2FyZFRhc2tEby5zZXRTZXFubyhyZXdhcmRUYXNrRG8uZ2V0U2Vxbm8oKSArICJ8IiArIHJlZmVycmVkKTsKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRTZXJ2aWNlLm1lZGFsUmVjZWl2ZVNtc05vdGlmeSh1aWQsICLRq9XC0PzJzcjOzvEiLCAxLCBNZWRhbFRhc2tDb25zdGFudC5NRURBTF9SRUNFSVZFX05PVElGWV9DT0RFKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRTZXJ2aWNlLm1lZGFsUmVjZWl2ZVNtc05vdGlmeSh1aWQsICLRq9XC0PzJzcjOzvEiLCAxLCBNZWRhbFRhc2tDb25zdGFudC5NRURBTF9SRUNFSVZFX05PVElGWV9DT0RFKTsK</text>
       </register>
     </registers>
     <search>
