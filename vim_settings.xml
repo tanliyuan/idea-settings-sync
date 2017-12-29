@@ -81,7 +81,6 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="50" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/MedalTypeEnum.java" timestamp="1514442279843" />
       <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeRecordAdd.vm" timestamp="1513822905961">
         <mark key="[" line="69" column="29" />
         <mark key="]" line="69" column="31" />
@@ -100,7 +99,7 @@
         <mark key="^" line="83" column="118" />
         <mark key="." line="83" column="118" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1514458208938" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1514513041828" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecommendVo.java" timestamp="1512010520568">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="40" column="33" />
@@ -221,11 +220,11 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514382179741">
-        <mark key="[" line="1245" column="149" />
-        <mark key="]" line="1245" column="149" />
-        <mark key="^" line="1245" column="140" />
-        <mark key="." line="1245" column="149" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514515236840">
+        <mark key="[" line="636" column="9" />
+        <mark key="]" line="634" column="29" />
+        <mark key="^" line="634" column="29" />
+        <mark key="." line="634" column="29" />
       </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
@@ -509,7 +508,6 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/resources/config.properties" timestamp="1514461595360" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeGoodsDO.java" timestamp="1513321349452">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="84" column="35" />
@@ -581,7 +579,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514464368551">
+      <file name="/Dummy.txt" timestamp="1514515150399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -764,10 +762,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-SNAPSHOT</text>
+        <text>i - 1</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>i - 1</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -775,36 +773,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCK3osvN0avVwsHsyKHKsbLp0a/Tw7un0MXPomR1YmJv0uyzoyIsIGUpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IGN1ckdvYWw7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>INSERT INTO `o_activity_config` VALUES ('1', '文件上传', 'file_url', '{\&quot;url1\&quot;:\&quot;http://oss.weidai.com.cn/\&quot;,\&quot;bucket1\&quot;:\&quot;weidaiosstest\&quot;,url0:\&quot;https://www.weidai.com.cn/\&quot;,bucket0:\&quot;\&quot;}', 'file', '0', '2017-12-01 19:21:19', '2017-12-01 19:21:19', null, null);
 COMMIT;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if (uids.length == 2) {
             //格式 referrerUid|yyyyMM|type|referredUid 唯一索引，保证每个人每个月每种悬赏任务只能领取一次
             requestSeqNo += &quot;|&quot; + uids[1];
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqINa709Ag0fvH67rD09HA4NDNIHNlcW5vINDo0qqxu83GvPbIyyi1scewzbbXysjLKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIMO/1MLWu9PQyte49rG7zca89rrD09HK17TOzbbXygo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmIChyZWZlcnJlclVpZCAhPSBudWxsKSB7CiAgICAgICAgICAgIHJld2FyZFRhc2tEby5zZXRTZXFubyhyZXdhcmRUYXNrRG8uZ2V0U2Vxbm8oKSArICJ8IiArIHJlZmVycmVkKTsKICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJSZXdhcmRTZXJ2aWNlLm1lZGFsUmVjZWl2ZVNtc05vdGlmeSh1aWQsICLRq9XC0PzJzcjOzvEiLCAxLCBNZWRhbFRhc2tDb25zdGFudC5NRURBTF9SRUNFSVZFX05PVElGWV9DT0RFKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
