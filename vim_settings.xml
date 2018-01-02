@@ -63,11 +63,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514857249739">
-        <mark key="[" line="302" column="8" />
-        <mark key="]" line="302" column="8" />
-        <mark key="^" line="302" column="40" />
-        <mark key="." line="302" column="8" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514858019626">
+        <mark key="[" line="143" column="59" />
+        <mark key="]" line="143" column="59" />
+        <mark key="^" line="143" column="59" />
+        <mark key="." line="143" column="59" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalService.java" timestamp="1514348718095">
         <mark key="[" line="13" column="64" />
@@ -365,7 +365,7 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" timestamp="1514531537339">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" timestamp="1514857540075">
         <mark key="[" line="186" column="46" />
         <mark key="]" line="186" column="53" />
         <mark key="^" line="186" column="53" />
@@ -591,7 +591,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514857170382">
+      <file name="/Dummy.txt" timestamp="1514857522348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -774,10 +774,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>request_seq_no 第一位为达到的目标</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>request_seq_no 第一位为达到的目标</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
