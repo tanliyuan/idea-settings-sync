@@ -105,7 +105,7 @@
         <mark key="^" line="83" column="118" />
         <mark key="." line="83" column="118" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalReceiveNotifyJob.java" timestamp="1514857157601" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalReceiveNotifyJob.java" timestamp="1514858252289" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecommendVo.java" timestamp="1512010520568">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="40" column="33" />
@@ -226,7 +226,7 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514531887743">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514858301745">
         <mark key="[" line="636" column="9" />
         <mark key="]" line="634" column="29" />
         <mark key="^" line="634" column="29" />
@@ -365,11 +365,11 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" timestamp="1514857540075">
-        <mark key="[" line="186" column="46" />
-        <mark key="]" line="186" column="53" />
-        <mark key="^" line="186" column="53" />
-        <mark key="." line="186" column="53" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" timestamp="1514858404095">
+        <mark key="[" line="336" column="9" />
+        <mark key="]" line="337" column="7" />
+        <mark key="^" line="337" column="7" />
+        <mark key="." line="337" column="7" />
       </file>
       <file name="D:/IDEA-project/medal/medal-webapp/src/main/resources/config.properties" timestamp="1514200526845">
         <mark key="[" line="2" column="21" />
@@ -591,7 +591,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514857522348">
+      <file name="/Dummy.txt" timestamp="1514858252993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -774,10 +774,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request_seq_no 第一位为达到的目标</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>request_seq_no 第一位为达到的目标</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
