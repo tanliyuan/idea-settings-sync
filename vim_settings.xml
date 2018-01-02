@@ -105,11 +105,11 @@
         <mark key="^" line="83" column="118" />
         <mark key="." line="83" column="118" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalReceiveNotifyJob.java" timestamp="1514879754094">
-        <mark key="[" line="32" column="83" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="30" column="8" />
-        <mark key="." line="30" column="8" />
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalReceiveNotifyJob.java" timestamp="1514881129768">
+        <mark key="[" line="6" column="87" />
+        <mark key="]" line="6" column="94" />
+        <mark key="^" line="6" column="94" />
+        <mark key="." line="6" column="94" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1514876266566" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecommendVo.java" timestamp="1512010520568">
@@ -233,7 +233,7 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514879849083">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1514880671963">
         <mark key="[" line="420" column="25" />
         <mark key="]" line="420" column="34" />
         <mark key="^" line="420" column="34" />
@@ -504,12 +504,7 @@
         <mark key="^" line="48" column="58" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalExpireJob.java" timestamp="1514879581952">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
-      </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalExpireJob.java" timestamp="1514879581952" />
       <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1514879650369">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="26" />
@@ -570,11 +565,10 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="D:/IDEA-project/medal/pom.xml" timestamp="1514879663083">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="28" />
-        <mark key="^" line="274" column="11" />
-        <mark key="." line="48" column="28" />
+      <file name="D:/IDEA-project/medal/pom.xml" timestamp="1514880592053">
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapper.java" timestamp="1511844444219">
         <mark key="[" line="18" column="31" />
@@ -606,7 +600,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514879716655">
+      <file name="/Dummy.txt" timestamp="1514881162391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -789,10 +783,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>date</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
