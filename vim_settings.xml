@@ -63,11 +63,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514882231562">
-        <mark key="[" line="143" column="59" />
-        <mark key="]" line="143" column="59" />
-        <mark key="^" line="143" column="59" />
-        <mark key="." line="143" column="59" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1514882892786">
+        <mark key="[" line="232" column="28" />
+        <mark key="]" line="233" column="7" />
+        <mark key="^" line="233" column="7" />
+        <mark key="." line="233" column="7" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/MedalService.java" timestamp="1514348718095">
         <mark key="[" line="13" column="64" />
@@ -505,10 +505,10 @@
         <mark key="." line="48" column="58" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/MedalExpireJob.java" timestamp="1514879581952" />
-      <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1514879650369">
+      <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1514883057103">
         <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="26" />
       </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeGoodsDO.java" timestamp="1511924337641">
@@ -529,10 +529,10 @@
         <mark key="." line="84" column="35" />
         <mark key="^" line="84" column="35" />
       </file>
-      <file name="D:/IDEA-project/ac/pom.xml" timestamp="1514879723800">
+      <file name="D:/IDEA-project/ac/pom.xml" timestamp="1514883003059">
         <mark key="[" line="202" column="30" />
-        <mark key="]" line="202" column="34" />
-        <mark key="." line="202" column="34" />
+        <mark key="]" line="202" column="30" />
+        <mark key="." line="202" column="30" />
         <mark key="^" line="202" column="34" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ExchangeRecommendDoMapperExt.xml" timestamp="1513845240193">
@@ -565,10 +565,11 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="D:/IDEA-project/medal/pom.xml" timestamp="1514880592053">
-        <mark key="]" line="46" column="35" />
+      <file name="D:/IDEA-project/medal/pom.xml" timestamp="1514883048882">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="30" />
         <mark key="^" line="46" column="35" />
-        <mark key="." line="46" column="35" />
+        <mark key="." line="48" column="30" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapper.java" timestamp="1511844444219">
         <mark key="[" line="18" column="31" />
@@ -600,7 +601,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514881162391">
+      <file name="/Dummy.txt" timestamp="1514883240611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -783,10 +784,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
