@@ -119,6 +119,12 @@
         <mark key="." line="20" column="48" />
         <mark key="^" line="20" column="48" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/vo/IntegralFlowVO.java" timestamp="1515047291685">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="." line="45" column="23" />
+        <mark key="^" line="39" column="26" />
+      </file>
       <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeRecommendAdd.vm" timestamp="1513839034320">
         <mark key="[" line="83" column="116" />
         <mark key="]" line="83" column="118" />
@@ -620,12 +626,12 @@
         <mark key="." line="202" column="30" />
         <mark key="^" line="202" column="34" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1515044513588">
-        <mark key="'" line="100" column="18" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="55" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="108" column="7" />
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1515047505828">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="114" column="4" />
+        <mark key="." line="114" column="4" />
+        <mark key="^" line="114" column="4" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ExchangeRecommendDoMapperExt.xml" timestamp="1513845240193">
         <mark key="[" line="37" column="16" />
@@ -705,7 +711,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515040825835">
+      <file name="/Dummy.txt" timestamp="1515047774311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -772,7 +778,7 @@
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1515044663595">
+      <file name="/fragment.java" timestamp="1515047224724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -786,8 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="34" filename="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ExchangeRecordDTO.java" />
-      <jump line="165" column="34" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecordVo.java" />
       <jump line="64" column="44" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecordController.java" />
       <jump line="38" column="19" filename="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/ExchangeRecordServiceImpl.java" />
       <jump line="137" column="33" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecordController.java" />
@@ -886,13 +890,15 @@
       <jump line="102" column="4" filename="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" />
       <jump line="223" column="4" filename="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" />
       <jump line="100" column="18" filename="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" />
+      <jump line="109" column="7" filename="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" />
+      <jump line="0" column="0" filename="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">19a2zjpyZWNlaXZlcl9uYW1lIA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">19a2zjpyZWNlaXZlcl9uYW1lIA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
