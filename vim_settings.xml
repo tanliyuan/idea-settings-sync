@@ -27,18 +27,17 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="D:/IDEA-project/mbbs/pom.xml" timestamp="1515040097224">
-        <mark key="'" line="199" column="23" />
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="36" column="70" />
-        <mark key="^" line="36" column="70" />
-        <mark key="." line="36" column="70" />
+      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/generatorConfig.xml" timestamp="1515044868187">
+        <mark key="[" line="64" column="74" />
+        <mark key="]" line="64" column="79" />
+        <mark key="." line="64" column="79" />
+        <mark key="^" line="64" column="79" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/generatorConfig.xml" timestamp="1515038397069">
-        <mark key="[" line="64" column="59" />
-        <mark key="]" line="64" column="66" />
-        <mark key="." line="64" column="66" />
-        <mark key="^" line="64" column="66" />
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/mall/impl/ExchangeGoodsServiceImpl.java" timestamp="1515045098787">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1511847574664">
         <mark key="[" line="10" column="9" />
@@ -71,7 +70,7 @@
         <mark key="^" line="120" column="35" />
         <mark key="." line="120" column="35" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/pom.xml" timestamp="1515041053833" />
+      <file name="D:/IDEA-project/ac/ac-service/pom.xml" timestamp="1515042761690" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/VipExchangeRecordDoMapperExt.xml" timestamp="1511858657467">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="10" />
@@ -192,7 +191,6 @@
         <mark key="." line="48" column="25" />
         <mark key="^" line="48" column="25" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/test/java/com/weidai/mbbs/web/AppTest.java" timestamp="1515033946987" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.xml" timestamp="1513764732186">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="23" column="20" />
@@ -272,11 +270,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1515038432593">
-        <mark key="[" line="51" column="60" />
-        <mark key="]" line="52" column="59" />
-        <mark key="^" line="52" column="59" />
-        <mark key="." line="52" column="59" />
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1515044266099">
+        <mark key="'" line="225" column="4" />
+        <mark key="[" line="53" column="60" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+        <mark key="." line="54" column="59" />
       </file>
       <file name="D:/IDEA-project/ac/ac-webapp/pom.xml" timestamp="1515040289607" />
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionGoodsDTO.java" timestamp="1511932271735">
@@ -296,13 +295,6 @@
         <mark key="]" line="32" column="36" />
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514455190409">
-        <mark key="'" line="322" column="29" />
-        <mark key="[" line="198" column="52" />
-        <mark key="]" line="198" column="62" />
-        <mark key="^" line="198" column="62" />
-        <mark key="." line="198" column="62" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeMallServiceImpl.java" timestamp="1513822185571">
         <mark key="[" line="61" column="160" />
@@ -364,6 +356,12 @@
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/IntegralService.java" timestamp="1515044148540">
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="74" column="94" />
+        <mark key="^" line="74" column="94" />
+        <mark key="." line="74" column="94" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDo.java" timestamp="1511835921588">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="24" column="23" />
@@ -382,6 +380,7 @@
         <mark key="^" line="80" column="21" />
         <mark key="." line="80" column="21" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/java/com/weidai/mbbs/model/ExchangeRecordDo.java" timestamp="1515044911077" />
       <file name="D:/IDEA-project/tanliyuan.top/_includes/footer.html" timestamp="1509678964684">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="35" />
@@ -405,6 +404,11 @@
         <mark key="]" line="14" column="15" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
+      </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-common/src/main/java/com/weidai/mbbs/common/utils/PojoConvertUtil.java" timestamp="1515042834657">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionGoodsDo.java" timestamp="1511924306220">
         <mark key="[" line="5" column="43" />
@@ -460,6 +464,12 @@
         <mark key="^" line="55" column="21" />
         <mark key="." line="55" column="22" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/mall/ExchangeMallController.java" timestamp="1515045118540">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="59" column="23" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="D:/IDEA-project/sql_review/ac/20171228_01/DML_20171228_01.sql" timestamp="1514436709689">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="11" />
@@ -508,17 +518,29 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="16" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/vo/ExchangeGoodsVO.java" timestamp="1515043827427">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionMapperExt.xml" timestamp="1513763870141">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="14" column="22" />
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/vo/IntegralVO.java" timestamp="1515041215283">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="24" />
-        <mark key="." line="52" column="24" />
-        <mark key="^" line="25" column="23" />
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/mall/ExchangeGoodsService.java" timestamp="1515045085668">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/vo/IntegralVO.java" timestamp="1515042893161">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/DistributeManagerService.java" timestamp="1513843089109">
         <mark key="[" line="35" column="7" />
@@ -598,11 +620,12 @@
         <mark key="." line="202" column="30" />
         <mark key="^" line="202" column="34" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1515041737890">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="46" column="24" />
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1515044513588">
+        <mark key="'" line="100" column="18" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="55" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="108" column="7" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ExchangeRecommendDoMapperExt.xml" timestamp="1513845240193">
         <mark key="[" line="37" column="16" />
@@ -651,6 +674,12 @@
         <mark key="]" line="18" column="31" />
         <mark key="^" line="20" column="62" />
         <mark key="." line="18" column="31" />
+      </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/vo/ExchangeRecordVO.java" timestamp="1515044931685">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="137" column="44" />
+        <mark key="^" line="137" column="44" />
+        <mark key="." line="137" column="44" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsExtDo.java" timestamp="1511931189915">
         <mark key="[" line="13" column="36" />
@@ -743,7 +772,7 @@
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1515040978025">
+      <file name="/fragment.java" timestamp="1515044663595">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -757,10 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="7" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecordController.java" />
-      <jump line="44" column="0" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecordController.java" />
-      <jump line="143" column="0" filename="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ExchangeRecordDTO.java" />
-      <jump line="82" column="28" filename="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ExchangeRecordDTO.java" />
       <jump line="162" column="34" filename="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ExchangeRecordDTO.java" />
       <jump line="165" column="34" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecordVo.java" />
       <jump line="64" column="44" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecordController.java" />
@@ -857,13 +882,17 @@
       <jump line="51" column="6" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacade.java" />
       <jump line="320" column="29" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" />
       <jump line="197" column="23" filename="D:/IDEA-project/mbbs/pom.xml" />
+      <jump line="194" column="22" filename="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" />
+      <jump line="102" column="4" filename="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" />
+      <jump line="223" column="4" filename="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" />
+      <jump line="100" column="18" filename="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text encoding="base64">SW50ZWdlciBleGNoYW5nZSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -875,28 +904,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldENvbnN1bWVNZWRhbE51bSgpIHsKICAgICAgICByZXR1cm4gY29uc3VtZU1lZGFsTnVtOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvbnN1bWVNZWRhbE51bShJbnRlZ2VyIGNvbnN1bWVNZWRhbE51bSkgewogICAgICAgIHRoaXMuY29uc3VtZU1lZGFsTnVtID0gY29uc3VtZU1lZGFsTnVtOwogICAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBAUmVzcG9uc2VCb2R5CiAgICBAUmVxdWVzdE1hcHBpbmcoImludGVncmFsX2luZm8iKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QEFwaSgiyefH+CIpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog1eK49re9t6hkb3plcsq1z9Ysyc/D5sbky/u3vbeoQmVhbkNvcHnKtc/WCiAgICAgKiBAcGFyYW0gc291cmNlCiAgICAgKiBAcGFyYW0gdGFyZ2V0Q2xhc3MKICAgICAqIEBwYXJhbSBtYXBwZXIKICAgICAqIEBwYXJhbSA8RT4KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyA8RSwgVD4gTGlzdDxFPiBtYXBEb3plcihMaXN0PFQ+IHNvdXJjZSwgQ2xhc3M8RT4gdGFyZ2V0Q2xhc3MsIE1hcHBlciBtYXBwZXIpIHsKICAgICAgICBpZihzb3VyY2U9PW51bGwpewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgaWYoc291cmNlLmlzRW1wdHkoKSl7CiAgICAgICAgICAgICAgICByZXR1cm4gc291cmNlLmdldENsYXNzKCkubmV3SW5zdGFuY2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBMaXN0IHJlc3VsdCA9IHNvdXJjZS5nZXRDbGFzcygpLm5ld0luc3RhbmNlKCk7CgogICAgICAgICAgICBmb3IoVCBlYWNoOiBzb3VyY2UpewogICAgICAgICAgICAgICAgcmVzdWx0LmFkZChtYXBwZXIubWFwKGVhY2gsdGFyZ2V0Q2xhc3MpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIrbUz/O/vbG0yqew3Cx7fSIsZSk7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCK21M/zv72xtMqnsNwiK3NvdXJjZSsiXyIrdGFyZ2V0Q2xhc3MpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMuY29tbW9uLnN1cHBvcnQuRW5jcnlwdERCUGFzc3dvcmRGYWN0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMuY29tbW9uLnN1cHBvcnQuRW5jcnlwdERCUGFzc3dvcmRGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgQEFwaU1vZGVsUHJvcGVydHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY29tbW9ucy5zdXBwb3J0LkVuY3J5cHREQlBhc3N3b3JkRmFjdG9yeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
