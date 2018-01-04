@@ -21,6 +21,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/generatorConfig.xml" timestamp="1515037126804">
+        <mark key="[" line="64" column="65" />
+        <mark key="]" line="64" column="65" />
+        <mark key="." line="64" column="65" />
+        <mark key="^" line="64" column="68" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeGoodsDOMapperExt.xml" timestamp="1511847574664">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="16" />
@@ -245,6 +251,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1515037305551" />
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionGoodsDTO.java" timestamp="1511932271735">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -256,13 +263,6 @@
         <mark key="]" line="32" column="36" />
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" timestamp="1514455190409">
-        <mark key="'" line="322" column="29" />
-        <mark key="[" line="198" column="52" />
-        <mark key="]" line="198" column="62" />
-        <mark key="^" line="198" column="62" />
-        <mark key="." line="198" column="62" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeMallServiceImpl.java" timestamp="1513822185571">
         <mark key="[" line="61" column="160" />
@@ -606,7 +606,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515033963310">
+      <file name="/Dummy.txt" timestamp="1515037153999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -789,11 +789,11 @@
       <jump line="320" column="29" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMuY29tbW9uLnN1cHBvcnQuRW5jcnlwdERCUGFzc3dvcmRGYWN0b3J5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>Integral</text>
       </register>
       <register name="-" type="4">
-        <text>= 1</text>
+        <text>Integral</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
