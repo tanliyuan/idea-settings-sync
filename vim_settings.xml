@@ -87,7 +87,6 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="50" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/MedalTypeEnum.java" timestamp="1514969928403" />
       <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeRecordAdd.vm" timestamp="1513822905961">
         <mark key="[" line="69" column="29" />
         <mark key="]" line="69" column="31" />
@@ -172,6 +171,9 @@
         <mark key="." line="48" column="25" />
         <mark key="^" line="48" column="25" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/test/java/com/weidai/mbbs/web/AppTest.java" timestamp="1515032672710">
+        <mark key="[" line="35" column="54" />
+      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.xml" timestamp="1513764732186">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="23" column="20" />
@@ -196,6 +198,7 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/resources/jdbc.properties" timestamp="1515032498243" />
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeManager.java" timestamp="1512384115639">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="8" column="31" />
@@ -335,7 +338,6 @@
         <mark key="^" line="80" column="21" />
         <mark key="." line="80" column="21" />
       </file>
-      <file name="D:/IDEA-project/disconf/dailytest/medal/jdbc.properties" timestamp="1514968123900" />
       <file name="D:/IDEA-project/tanliyuan.top/_includes/footer.html" timestamp="1509678964684">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="35" />
@@ -420,7 +422,6 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="35" />
       </file>
-      <file name="D:/IDEA-project/disconf/wdaitest/ac/jdbc.properties" timestamp="1514967899549" />
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeGoodsService.java" timestamp="1513580426942">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="48" />
@@ -486,6 +487,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="20" column="13" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/IDEA-project/ac/ac-webapp/src/test/java/com/weidai/ac/web/AppTest.java" timestamp="1515032745617">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="59" column="15" />
+        <mark key="^" line="59" column="15" />
+        <mark key="." line="59" column="15" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/rocketmq/Test.java" timestamp="1512052225883">
         <mark key="[" line="17" column="8" />
@@ -783,8 +790,8 @@
       <jump line="320" column="29" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/RewardTaskListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>= 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMuY29tbW9uLnN1cHBvcnQuRW5jcnlwdERCUGFzc3dvcmRGYWN0b3J5Owo=</text>
       </register>
       <register name="-" type="4">
         <text>= 1</text>
@@ -796,32 +803,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCK3osvN0avVwsHsyKHKsbLp0a/Tw7un0MXPomR1YmJv0uyzoyIsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMuY29tbW9uLnN1cHBvcnQuRW5jcnlwdERCUGFzc3dvcmRGYWN0b3J5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuYWMuY29tbW9uLnN1cHBvcnQuRW5jcnlwdERCUGFzc3dvcmRGYWN0b3J5Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKGRhdGUgIT0gbnVsbCkgewogICAgICAgICAgICBub3cgPSBuZXcgRGF0ZVRpbWUoZGF0ZSk7CiAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkuY29tbW9ucy5zdXBwb3J0LkVuY3J5cHREQlBhc3N3b3JkRmFjdG9yeTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0uZXJyLnByaW50bG4oIEpTT04udG9KU09OU3RyaW5nKCAiIiApICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBub3cgPSBEYXRlVGltZS5wYXJzZSgieXl5eU1NZGQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IGN1ckdvYWw7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGRhdGUgIT0gbnVsbCkgewogICAgICAgICAgICBub3cgPSBuZXcgRGF0ZVRpbWUoZGF0ZSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text>INSERT INTO `o_activity_config` VALUES ('1', '文件上传', 'file_url', '{\&quot;url1\&quot;:\&quot;http://oss.weidai.com.cn/\&quot;,\&quot;bucket1\&quot;:\&quot;weidaiosstest\&quot;,url0:\&quot;https://www.weidai.com.cn/\&quot;,bucket0:\&quot;\&quot;}', 'file', '0', '2017-12-01 19:21:19', '2017-12-01 19:21:19', null, null);
-COMMIT;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
     </registers>
     <search>
