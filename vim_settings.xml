@@ -228,12 +228,6 @@
         <mark key="." line="48" column="25" />
         <mark key="^" line="48" column="25" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/mbbs/ExchangeGoodsController.java" timestamp="1515556226213">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="133" column="31" />
-      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.xml" timestamp="1513764732186">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="23" column="20" />
@@ -802,7 +796,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515566739693">
+      <file name="/Dummy.txt" timestamp="1515569965534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -998,10 +992,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:8880</text>
+        <text encoding="base64">Pj4oKSB7CiAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>:8880</text>
+        <text encoding="base64">bmV3IFR5cGVSZWZlcmVuY2U8TGlzdDw=</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1009,10 +1003,13 @@
       <register name="0" type="4">
         <text>mbbsUrl + &quot;/ops/mall/update&quot;</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Pj4oKSB7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>#restTemplate 默认值，之后可以根据具体情况调整
 connectTimeout=5000
 readTimeout=10000
@@ -1021,26 +1018,23 @@ maxTotal=1000
 #每个主机的并发
 defaultMaxPerRoute=1000</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0ID0gSHR0cEtpdC5wb3N0KG1iYnNVcmwgKyAiL29wcy9tYWxsL3VwZGF0ZSIsIG9iamVjdDJNYXAoZXhjaGFuZ2VHb29kc0RPKSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
