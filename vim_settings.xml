@@ -398,6 +398,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
+      <file name="D:/IDEA-project/disconf/wdaitest/operations/config.properties" timestamp="1515566706528">
+        <mark key="[" line="74" column="29" />
+        <mark key="]" line="74" column="33" />
+        <mark key="^" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+      </file>
       <file name="D:/IDEA-project/disconf/wdaitest/ac/config.properties" timestamp="1514195701319">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="9" column="54" />
@@ -699,9 +705,9 @@
         <mark key="." line="202" column="30" />
         <mark key="^" line="202" column="34" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1515306224449">
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1515567541076">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="124" column="0" />
+        <mark key="[" line="124" column="5" />
         <mark key="]" line="124" column="0" />
         <mark key="^" line="119" column="129" />
         <mark key="." line="124" column="0" />
@@ -729,12 +735,6 @@
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
-      </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/resources/generatorConfig.xml" timestamp="1515307004136">
-        <mark key="[" line="48" column="53" />
-        <mark key="]" line="56" column="76" />
-        <mark key="." line="56" column="76" />
-        <mark key="^" line="56" column="76" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityVipExchangeRegionMapperExt.java" timestamp="1511787174787">
         <mark key="[" line="14" column="9" />
@@ -772,11 +772,11 @@
         <mark key="^" line="130" column="92" />
         <mark key="." line="130" column="92" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/resources/config.properties" timestamp="1515313692828">
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="81" column="29" />
-        <mark key="^" line="81" column="29" />
-        <mark key="." line="81" column="29" />
+      <file name="D:/IDEA-project/operations/webapp/src/main/resources/config.properties" timestamp="1515566878955">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="74" column="29" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsExtDo.java" timestamp="1511931189915">
         <mark key="[" line="13" column="36" />
@@ -802,7 +802,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515550732978">
+      <file name="/Dummy.txt" timestamp="1515566739693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -838,12 +838,6 @@
         <mark key="]" line="11" column="90" />
         <mark key="." line="11" column="90" />
         <mark key="^" line="11" column="90" />
-      </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1515555599338">
-        <mark key="[" line="97" column="58" />
-        <mark key="]" line="97" column="59" />
-        <mark key="." line="97" column="59" />
-        <mark key="^" line="97" column="22" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/bigdata/InvestorReceivingMonthDTO.java" timestamp="1514425925722">
         <mark key="[" line="92" column="35" />
@@ -1004,10 +998,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isDelete</text>
+        <text>:8880</text>
       </register>
       <register name="-" type="4">
-        <text>isDelete</text>
+        <text>:8880</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1016,10 +1010,16 @@
         <text>mbbsUrl + &quot;/ops/mall/update&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
+      <register name="2" type="4">
+        <text>#restTemplate 默认值，之后可以根据具体情况调整
+connectTimeout=5000
+readTimeout=10000
+#整个连接池的并发
+maxTotal=1000
+#每个主机的并发
+defaultMaxPerRoute=1000</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
@@ -1028,19 +1028,19 @@
         <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0ID0gSHR0cEtpdC5wb3N0KG1iYnNVcmwgKyAiL29wcy9tYWxsL3VwZGF0ZSIsIG9iamVjdDJNYXAoZXhjaGFuZ2VHb29kc0RPKSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAjaWYoJCFvcC50eXBlID09IDUgfHwgJCFvcC50eXBlID09IDYgfHwgJCFvcC50eXBlID09IDcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+My4zLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwb3N0ID0gSHR0cEtpdC5wb3N0KG1iYnNVcmwgKyAiL29wcy9tYWxsL3VwZGF0ZSIsIG9iamVjdDJNYXAoZXhjaGFuZ2VHb29kc0RPKSwgZmFsc2UpOwo=</text>
       </register>
     </registers>
     <search>
