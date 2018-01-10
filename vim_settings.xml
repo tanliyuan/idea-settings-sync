@@ -226,11 +226,11 @@
         <mark key="." line="48" column="25" />
         <mark key="^" line="48" column="25" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/mbbs/ExchangeGoodsController.java" timestamp="1515490601314">
-        <mark key="[" line="121" column="17" />
-        <mark key="]" line="121" column="17" />
-        <mark key="." line="121" column="17" />
-        <mark key="^" line="122" column="33" />
+      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/mbbs/ExchangeGoodsController.java" timestamp="1515550644221">
+        <mark key="[" line="148" column="72" />
+        <mark key="]" line="148" column="72" />
+        <mark key="." line="148" column="72" />
+        <mark key="^" line="148" column="97" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.xml" timestamp="1513764732186">
         <mark key="[" line="22" column="37" />
@@ -323,7 +323,6 @@
         <mark key="^" line="327" column="67" />
         <mark key="." line="327" column="67" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/MedalExchangeController.java" timestamp="1515485744006" />
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionGoodsDTO.java" timestamp="1511932271735">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -615,7 +614,6 @@
         <mark key="." line="166" column="91" />
         <mark key="^" line="166" column="91" />
       </file>
-      <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/mbbs/ExchangeGoodsDo.java" timestamp="1515487418678" />
       <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/java/com/weidai/mbbs/dao/mapper/ExchangeRecordDoMapperExt.java" timestamp="1515466736595">
         <mark key="[" line="30" column="3" />
         <mark key="]" line="27" column="0" />
@@ -797,7 +795,7 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515489306202">
+      <file name="/Dummy.txt" timestamp="1515550732978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -999,10 +997,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NoSuchAlgorithm</text>
+        <text>, &quot;UTF-8&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>NoSuchAlgorithm</text>
+        <text>, &quot;UTF-8&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1011,31 +1009,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgicmVzdWx0IiwiZmFpbCIpOwogICAgICAgICAgICBtYXAucHV0KCJtc2ciLGVycm9yTXNnKTsKICAgICAgICAgICAgcmV0dXJuIG1hcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNhdGNoIChOb1N1Y2hQcm92aWRlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEtleU1hbmFnZW1lbnRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dChlbnRyeS5nZXRLZXkoKSwgU3RyaW5nLnZhbHVlT2YoZW50cnkuZ2V0VmFsdWUoKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0iZ29vZHNJY29uVXJsIiBuYW1lPSJnb29kc0ljb25VcmwiIHZhbHVlPSIkIW9wLmdvb2RzSWNvblVybCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0iZGV0YWlsSW1nVXJsIiBuYW1lPSJkZXRhaWxJbWdVcmwiIHZhbHVlPSIkIW9wLmRldGFpbEltZ1VybCI+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGNhdGNoIChOb1N1Y2hQcm92aWRlckV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKEtleU1hbmFnZW1lbnRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0iZ29vZHNJY29uVXJsIiBuYW1lPSJnb29kc0ljb25VcmwiIHZhbHVlPSIkIW9wLmdvb2RzSWNvblVybCI+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhZGQiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgICBATm9OZWVkTG9naW4KICAgIHB1YmxpYyBJbnRlZ2VyIGFkZChFeGNoYW5nZUdvb2RzRG8gZ29vZHNEbykgewogICAgICAgIEludGVnZXIgaW50ZWdlciA9IGdvb2RzU2VydmljZS5hZGRHb29kcyhnb29kc0RvKTsKICAgICAgICByZXR1cm4gaW50ZWdlcjsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0iZGV0YWlsSW1nVXJsIiBuYW1lPSJkZXRhaWxJbWdVcmwiIHZhbHVlPSIkIW9wLmRldGFpbEltZ1VybCI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ29vZHNEb01hcHBlckV4dC51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmVWZXJzaW9uKGdvb2RzRG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJhZGQiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgICBATm9OZWVkTG9naW4KICAgIHB1YmxpYyBJbnRlZ2VyIGFkZChFeGNoYW5nZUdvb2RzRG8gZ29vZHNEbykgewogICAgICAgIEludGVnZXIgaW50ZWdlciA9IGdvb2RzU2VydmljZS5hZGRHb29kcyhnb29kc0RvKTsKICAgICAgICByZXR1cm4gaW50ZWdlcjsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ29vZHNEb01hcHBlckV4dC51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmVWZXJzaW9uKGdvb2RzRG8pOwo=</text>
       </register>
     </registers>
     <search>
