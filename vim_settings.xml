@@ -318,8 +318,8 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1515489101978">
-        <mark key="'" line="264" column="99" />
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1515565200670">
+        <mark key="'" line="203" column="4" />
         <mark key="[" line="327" column="42" />
         <mark key="]" line="327" column="67" />
         <mark key="^" line="327" column="67" />
@@ -901,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="6" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRegionController.java" />
       <jump line="175" column="39" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRegionController.java" />
       <jump line="75" column="34" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRecommendController.java" />
       <jump line="21" column="14" filename="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/vipMedalExchangeGoodsList.vm" />
@@ -1001,6 +1000,7 @@
       <jump line="264" column="99" filename="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" />
       <jump line="52" column="24" filename="D:/IDEA-project/operations/pom.xml" />
       <jump line="92" column="30" filename="D:/IDEA-project/operations/common-util/pom.xml" />
+      <jump line="203" column="4" filename="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
