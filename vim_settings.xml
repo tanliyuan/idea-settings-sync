@@ -28,9 +28,6 @@
         <mark key="^" line="43" column="59" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" timestamp="1516073113054">
-        <mark key="'" line="61" column="8" />
-      </file>
       <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1512713034568">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="8" column="19" />
@@ -61,6 +58,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
+      </file>
+      <file name="D:/IDEA-project/sql_review/ac/20180116_01/DML_20180116_01.sql" timestamp="1516093680261">
+        <mark key="[" line="5" column="95" />
+        <mark key="]" line="3" column="88" />
+        <mark key="." line="3" column="88" />
+        <mark key="^" line="3" column="88" />
       </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionDTO.java" timestamp="1511932314435">
         <mark key="[" line="25" column="29" />
@@ -296,6 +299,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/constant/MedalTaskConstant.java" timestamp="1516094103155" />
       <file name="D:/IDEA-project/mbbs/mbbs-service/pom.xml" timestamp="1515319185693">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
@@ -856,7 +860,7 @@
         <mark key="^" line="83" column="53" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516091705124">
+      <file name="/Dummy.txt" timestamp="1516094347119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1073,10 +1077,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o_activity</text>
+        <text>都</text>
       </register>
       <register name="-" type="4">
-        <text>o_activity</text>
+        <text>都</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1084,32 +1088,32 @@
       <register name="0" type="4">
         <text>integralNum</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">YGAK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IHB1YmxpYyBCb29sZWFuIGdldFRodW1iVXAoKSB7CiAgICAgICAgcmV0dXJuIGlzVGh1bWJVcDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaHVtYlVwKEJvb2xlYW4gdGh1bWJVcCkgewogICAgICAgIGlzVGh1bWJVcCA9IHRodW1iVXA7CiAgICB9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBtZXNzYWdlRG9NYXBwZXJFeHQuaW5zZXJ0KGJ1aWxkTGlrZUFuc3dlck1lc3NhZ2VEbyhhbnN3ZXJJZCwgdXNlcklkKSk7CiAgICAgICAgICAgIG1lc3NhZ2VDZW50ZXJTZXJ2aWNlLnNlbmRNZXNzYWdlKGJ1aWxkTGlrZUFuc3dlck1lc3NhZ2VMaXN0KGFuc3dlcklkLHVzZXJJZCkpOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigibGlrZSBhbnN3ZXIgZXhjZXB0aW9uISBhbnN3ZXJJZDogIiArIGFuc3dlcklkICsgInVzZXJJZKO6ICIgKyB1c2VySWQsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KICAgICAgICAgICA8Z3JvdXBJZD5jb20ud2VpZGFpPC9ncm91cElkPgogICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXNwbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PGNsYXNzUGF0aEVudHJ5CgkJbG9jYXRpb249Ii9Vc2Vycy94dWthaXl1Ly5tMi9yZXBvc2l0b3J5L215c3FsL215c3FsLWNvbm5lY3Rvci1qYXZhLzUuMS4zNS9teXNxbC1jb25uZWN0b3ItamF2YS01LjEuMzUuamFyIiAvPg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihxdWVzdGlvbkRUT0J5UXVlc3Rpb25JZC5nZXRSZXN1bHQoKS5nZXQpCg==</text>
       </register>
     </registers>
     <search>
