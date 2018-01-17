@@ -47,7 +47,7 @@
         <mark key="." line="64" column="64" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/mall/impl/ExchangeGoodsServiceImpl.java" timestamp="1516160736754">
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/mall/impl/ExchangeGoodsServiceImpl.java" timestamp="1516175231983">
         <mark key="[" line="80" column="32" />
         <mark key="]" line="80" column="70" />
         <mark key="." line="80" column="70" />
@@ -180,11 +180,6 @@
         <mark key="]" line="6" column="94" />
         <mark key="^" line="6" column="94" />
         <mark key="." line="6" column="94" />
-      </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" timestamp="1516090137671">
-        <mark key="[" line="653" column="14" />
-        <mark key="]" line="653" column="14" />
-        <mark key="." line="653" column="14" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecommendVo.java" timestamp="1512010520568">
         <mark key="[" line="38" column="36" />
@@ -348,12 +343,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1516005408310">
-        <mark key="'" line="327" column="108" />
-        <mark key="[" line="366" column="71" />
-        <mark key="]" line="366" column="71" />
-        <mark key="." line="366" column="71" />
-        <mark key="^" line="366" column="71" />
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1516176572694">
+        <mark key="'" line="328" column="108" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
+        <mark key="^" line="389" column="15" />
       </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionGoodsDTO.java" timestamp="1511932271735">
         <mark key="[" line="29" column="0" />
@@ -530,11 +525,11 @@
         <mark key="." line="33" column="60" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/META-INF/mybatis/mapper/IntegralDoMapperExt.xml" timestamp="1515652687774">
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="48" column="25" />
-        <mark key="." line="48" column="25" />
-        <mark key="^" line="48" column="25" />
+      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/META-INF/mybatis/mapper/IntegralDoMapperExt.xml" timestamp="1516175786309">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ActivityExchangeRegionVo.java" timestamp="1511957040767">
         <mark key="[" line="26" column="43" />
@@ -590,11 +585,6 @@
         <mark key="]" line="32" column="4" />
         <mark key="." line="32" column="4" />
         <mark key="^" line="32" column="4" />
-      </file>
-      <file name="D:/IDEA-project/community/community-dal/pom.xml" timestamp="1516007601706">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
       </file>
       <file name="D:/IDEA-project/community/community-service/src/main/java/com/weidai/community/facade/CommunityAnswerApiImpl.java" timestamp="1516169148845" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ExchangeRecommendDo.java" timestamp="1511928050279">
@@ -756,7 +746,7 @@
         <mark key="." line="202" column="30" />
         <mark key="^" line="202" column="34" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1516004274334">
+      <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/controller/user/MineController.java" timestamp="1516176052416">
         <mark key="'" line="35" column="28" />
         <mark key="[" line="120" column="61" />
         <mark key="]" line="120" column="65" />
@@ -860,7 +850,7 @@
         <mark key="^" line="83" column="53" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516169302511">
+      <file name="/Dummy.txt" timestamp="1516176575759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1074,11 +1064,11 @@
       <jump line="61" column="8" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>都</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZWdyYWxEb01hcHBlckV4dC51cGRhdGVBZGRJbnRlZ3JhbEJ5VWlkKHVpZCwgMUwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>都</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1087,31 +1077,31 @@
         <text>integralNum</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZWdyYWxEb01hcHBlckV4dC51cGRhdGVBZGRJbnRlZ3JhbEJ5VWlkKHVpZCwgMUwpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">YGAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHB1YmxpYyBCb29sZWFuIGdldFRodW1iVXAoKSB7CiAgICAgICAgcmV0dXJuIGlzVGh1bWJVcDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaHVtYlVwKEJvb2xlYW4gdGh1bWJVcCkgewogICAgICAgIGlzVGh1bWJVcCA9IHRodW1iVXA7CiAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBtZXNzYWdlRG9NYXBwZXJFeHQuaW5zZXJ0KGJ1aWxkTGlrZUFuc3dlck1lc3NhZ2VEbyhhbnN3ZXJJZCwgdXNlcklkKSk7CiAgICAgICAgICAgIG1lc3NhZ2VDZW50ZXJTZXJ2aWNlLnNlbmRNZXNzYWdlKGJ1aWxkTGlrZUFuc3dlck1lc3NhZ2VMaXN0KGFuc3dlcklkLHVzZXJJZCkpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigibGlrZSBhbnN3ZXIgZXhjZXB0aW9uISBhbnN3ZXJJZDogIiArIGFuc3dlcklkICsgInVzZXJJZKO6ICIgKyB1c2VySWQsIGUpOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KICAgICAgICAgICA8Z3JvdXBJZD5jb20ud2VpZGFpPC9ncm91cElkPgogICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXNwbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGNsYXNzUGF0aEVudHJ5CgkJbG9jYXRpb249Ii9Vc2Vycy94dWthaXl1Ly5tMi9yZXBvc2l0b3J5L215c3FsL215c3FsLWNvbm5lY3Rvci1qYXZhLzUuMS4zNS9teXNxbC1jb25uZWN0b3ItamF2YS01LjEuMzUuamFyIiAvPg==</text>
       </register>
     </registers>
     <search>
