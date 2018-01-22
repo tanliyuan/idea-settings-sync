@@ -189,7 +189,7 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeYouKu.java" timestamp="1516593072021">
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeYouKu.java" timestamp="1516602823354">
         <mark key="[" line="32" column="58" />
         <mark key="]" line="34" column="55" />
         <mark key="^" line="34" column="55" />
@@ -873,11 +873,11 @@
         <mark key="." line="11" column="90" />
         <mark key="^" line="11" column="90" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1516524373611">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="172" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="111" column="7" />
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1516603042320">
+        <mark key="[" line="315" column="9" />
+        <mark key="]" line="316" column="11" />
+        <mark key="^" line="316" column="11" />
+        <mark key="." line="316" column="11" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/dto/bigdata/InvestorReceivingMonthDTO.java" timestamp="1514425925722">
         <mark key="[" line="92" column="35" />
@@ -1046,11 +1046,11 @@
       <jump line="9" column="27" filename="D:/IDEA-project/mbbs/mbbs-common/src/main/java/com/weidai/mbbs/common/constant/CommonConstant.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hide</text>
       </register>
       <register name="-" type="4">
-        <text>keepSignDays = 21</text>
+        <text>hide</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1059,31 +1059,31 @@
         <text>调用欧飞提取卡密接口失败参数{}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxMDAiICNpZigkIW9wLm1vYmlsZUZhcmUgPT0gJzEwMCcpIHNlbGVjdGVkICNlbmQ+MTAw1Ko8L29wdGlvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI1MCIgI2lmKCQhb3AubW9iaWxlRmFyZSA9PSAnNTAnKSBzZWxlY3RlZCAjZW5kPjUw1Ko8L29wdGlvbj4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8v1f2zo7K7u+Gz9s/W1eLW1sfpv/YKICAgICAgICBpZiAoa2VlcFNpZ25EYXlzID49IDIxKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIzMCIgI2lmKCQhb3AubW9iaWxlRmFyZSA9PSAnMzAnKSBzZWxlY3RlZCAjZW5kPjMw1Ko8L29wdGlvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL9futuDBrND4x6m1vTIxzOwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tINLRwazQ+Meptb0yMczstNPNt7+qyrwgLS0+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IC8v1f2zo7K7u+Gz9s/W1eLW1sfpv/YKICAgICAgICBpZiAoa2VlcFNpZ25EYXlzID49IDIxKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL9futuDBrND4x6m1vTIxzOwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAoCg==</text>
       </register>
     </registers>
     <search>
