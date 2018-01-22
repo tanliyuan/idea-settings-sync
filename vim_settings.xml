@@ -189,11 +189,11 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeYouKu.java" timestamp="1516589918854">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="43" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="32" column="43" />
+      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeYouKu.java" timestamp="1516590836581">
+        <mark key="[" line="51" column="71" />
+        <mark key="]" line="52" column="11" />
+        <mark key="^" line="52" column="11" />
+        <mark key="." line="52" column="11" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityVipExchangeRegionMapperExt.xml" timestamp="1511787069948">
         <mark key="[" line="6" column="33" />
@@ -691,7 +691,7 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/rocketmq/AuthenticationListener.java" timestamp="1516588508717" />
+      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/rocketmq/AuthenticationListener.java" timestamp="1516590862446" />
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/ExchangeRecommendServiceImpl.java" timestamp="1513583796633">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="58" />
@@ -839,11 +839,11 @@
         <mark key="." line="110" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.3/generalize-facade-1.0.3.jar!/META-INF/maven/com.weidai.channel/generalize-facade/pom.xml" timestamp="1516588262575" />
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1516590022283">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="38" />
+      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1516590385085">
+        <mark key="[" line="230" column="49" />
+        <mark key="]" line="230" column="49" />
+        <mark key="." line="230" column="49" />
+        <mark key="^" line="230" column="48" />
       </file>
       <file name="D:/IDEA-project/community/community-facade/src/main/java/com/weidai/community/facade/CommunityOpertionsApi.java" timestamp="1516008460848">
         <mark key="[" line="79" column="14" />
@@ -1063,44 +1063,44 @@
       <jump line="9" column="27" filename="D:/IDEA-project/mbbs/mbbs-common/src/main/java/com/weidai/mbbs/common/constant/CommonConstant.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>logger</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;1240607&quot;</text>
+        <text>logger</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iaW5wdXQtdGV4dCIgdmFsdWU9IiQhb3AuY291cG9uQ29kZSIgcGxhY2Vob2xkZXI9IiIgaWQ9ImNvdXBvbkNvZGUiIG5hbWU9ImNvdXBvbkNvZGUiIGRhdGF0eXBlPSIqMS0zMCIgZXJyb3Jtc2c9IsfryuTI68r919YiIG51bGxtc2c9IiI+Cg==</text>
+      <register name="0" type="4">
+        <text>调用欧飞提取卡密接口失败参数{}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdERUTy5zZXRDYXJkVHlwZSgiMTI0MDQxMyIpOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdERUTy5zZXRDYXJkVHlwZSgiMTI0MDYxMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdERUTy5zZXRDYXJkVHlwZSgiMTI0MDQxMyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZih0YXN0ZVRlc3REby5nZXRQcml6ZU5hbWUoKS5lcXVhbHMoItPFv+HNwba5u8a98Lvh1LHUwr+oIikpewo=</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZih0YXN0ZVRlc3REby5nZXRQcml6ZU5hbWUoKS5lcXVhbHMoItPFv+HNwba5u8a98Lvh1LHW3L+oIikpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdERUTy5zZXRDYXJkVHlwZSgiMTI0MDYxMiIpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGlmKHRhc3RlVGVzdERvLmdldFByaXplTmFtZSgpLmVxdWFscygisK7G5tLVVklQu+HUsbvGvfDUwr+oIikpewogICAgICAgICAgICByZXF1ZXN0RFRPLnNldENhcmRUeXBlKCIxMjQwNDExIik7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9ZWxzZSBpZih0YXN0ZVRlc3REby5nZXRQcml6ZU5hbWUoKS5lcXVhbHMoItPFv+HNwba5u8a98Lvh1LHUwr+oIikpewo=</text>
       </register>
     </registers>
     <search>
