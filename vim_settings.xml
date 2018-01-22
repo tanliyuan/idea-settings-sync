@@ -333,6 +333,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1516601960176">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="114" column="19" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeRegionGoodsDTO.java" timestamp="1511932271735">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -513,10 +519,10 @@
         <mark key="." line="33" column="60" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/META-INF/mybatis/mapper/IntegralDoMapperExt.xml" timestamp="1516514531614">
-        <mark key="[" line="71" column="28" />
-        <mark key="]" line="63" column="3" />
-        <mark key="." line="63" column="3" />
+      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/resources/META-INF/mybatis/mapper/IntegralDoMapperExt.xml" timestamp="1516601019548">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
         <mark key="^" line="63" column="3" />
       </file>
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ActivityExchangeRegionVo.java" timestamp="1511957040767">
@@ -621,7 +627,6 @@
         <mark key="^" line="39" column="65" />
         <mark key="." line="39" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.3/generalize-facade-1.0.3-sources.jar!/com/weidai/channel/generalize/facade/dto/extract/CardPasswordExtractRequestDTO.java" timestamp="1516588304092" />
       <file name="D:/IDEA-project/SpringBootAdmin/src/main/java/com/geekcattle/core/RestConfiguration.java" timestamp="1512628733907">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="56" />
@@ -676,7 +681,6 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/rocketmq/AuthenticationListener.java" timestamp="1516592437801" />
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/ExchangeRecommendServiceImpl.java" timestamp="1513583796633">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="58" />
@@ -707,7 +711,6 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.3/generalize-facade-1.0.3-sources.jar!/com/weidai/channel/generalize/facade/api/extract/CardPasswordExtractApi.java" timestamp="1516588614941" />
       <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/exchangemall/DistributeShanZhen.java" timestamp="1516523475580">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="37" />
@@ -816,7 +819,6 @@
         <mark key="^" line="147" column="50" />
         <mark key="." line="110" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weidai/channel/generalize-facade/1.0.3/generalize-facade-1.0.3.jar!/META-INF/maven/com.weidai.channel/generalize-facade/pom.xml" timestamp="1516588262575" />
       <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ActivityVipExchangeGoodsDOMapper.xml" timestamp="1516590385085">
         <mark key="[" line="230" column="49" />
         <mark key="]" line="230" column="49" />
@@ -829,7 +831,7 @@
         <mark key="^" line="83" column="53" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516592287727">
+      <file name="/Dummy.txt" timestamp="1516601977017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1045,10 +1047,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tasteTestDo.getPrizeName(),responseDTO.getData()</text>
+        <text>keepSignDays = 21</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -1057,33 +1059,31 @@
         <text>调用欧飞提取卡密接口失败参数{}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYil7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>}else{
-                return OrderStatusEnum.FAILED;
-            }</text>
+        <text encoding="base64">IC8v1f2zo7K7u+Gz9s/W1eLW1sfpv/YKICAgICAgICBpZiAoa2VlcFNpZ25EYXlzID49IDIxKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCK199PDxbe3yczhyKG/qMPcvdO/2sqnsNyyzsr9e30st7W72Na1e30iLHJlcXVlc3REVE8scnBjUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL9futuDBrND4x6m1vTIxzOwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3JkZXJTdGF0dXNFbnVtLlNVQ0NFU1M7Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzdGVUZXN0RG8uc2V0U2VuZFRpbWUobmV3IERhdGUoKSk7CiAgICAgICAgICAgIGludCB0ID0gYWN0aXZpdHlUYXN0ZVRlc3REb01hcHBlckV4dC51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUodGFzdGVUZXN0RG8pOwogICAgICAgICAgICBpZih0PjApewogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIrj80MLIz9akt6LLzbbM0MXK/b7ds8m5piIrdWlkKyIsIitiKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIrj80MLIz9akyv2+3bbM0MXKp7DcIit1aWQrIiwiK2IpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc3RlVGVzdERvLnNldElzU2VuZCgyKTsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigidWlkOiIrdWlkKyIsbW9iaWxlIit0YXN0ZVRlc3REby5nZXRNb2JpbGUoKSsit6LLzb+ow9y2zNDFzajWqrPJuabKp7DcIisiLCIrdGFzdGVUZXN0RG8uZ2V0UHJpemVOYW1lKCkrIiwiK3Jlc3BvbnNlRFRPLmdldERhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tINLRwazQ+Meptb0yMczstNPNt7+qyrwgLS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc3RlVGVzdERvLnNldElzU2VuZCgxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
