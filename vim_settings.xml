@@ -886,11 +886,11 @@
         <mark key="." line="11" column="90" />
         <mark key="^" line="11" column="90" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1516610723111">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="66" />
-        <mark key="^" line="7" column="66" />
-        <mark key="." line="7" column="66" />
+      <file name="D:/IDEA-project/operations/webapp/src/main/webapp/WEB-INF/views/medalActivity/exchangeGoodsAdd.vm" timestamp="1516614420153">
+        <mark key="[" line="329" column="40" />
+        <mark key="]" line="329" column="46" />
+        <mark key="^" line="329" column="46" />
+        <mark key="." line="329" column="46" />
       </file>
       <file name="D:/IDEA-project/operations/test/pom.xml" timestamp="1516613047141">
         <mark key="[" line="77" column="0" />
@@ -1072,10 +1072,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;distributeChildPhoto&quot;</text>
+        <text>couponCode</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;distributeChildPhoto&quot;</text>
+        <text>couponCode</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
