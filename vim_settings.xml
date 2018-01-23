@@ -99,6 +99,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="28" column="21" />
       </file>
+      <file name="D:/IDEA-project/sql_review/mbbs/20180123_01/mario-ops_ddl.sql" timestamp="1516700378865">
+        <mark key="[" line="100" column="49" />
+        <mark key="]" line="100" column="54" />
+        <mark key="^" line="100" column="54" />
+        <mark key="." line="100" column="54" />
+      </file>
       <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/UserRewardFlowDAO.xml" timestamp="1516090300178">
         <mark key="[" line="270" column="9" />
         <mark key="]" line="275" column="23" />
@@ -807,7 +813,7 @@
         <mark key="^" line="498" column="48" />
         <mark key="." line="498" column="48" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/resources/config.properties" timestamp="1515566878955">
+      <file name="D:/IDEA-project/operations/webapp/src/main/resources/config.properties" timestamp="1516700868709">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="^" line="74" column="29" />
@@ -843,7 +849,7 @@
         <mark key="^" line="83" column="53" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516699115847">
+      <file name="/Dummy.txt" timestamp="1516700443369">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1069,11 +1075,11 @@
       <jump line="198" column="23" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWlkYWkub3BlcmF0aW9ucy5mYWNhZGUuZHRvLm1lZGFsLkdvb2RzVHlwZUVudW07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ddd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ddd</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
