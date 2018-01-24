@@ -28,7 +28,7 @@
         <mark key="^" line="236" column="7" />
         <mark key="." line="236" column="7" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1516758517028">
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1516758803818">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="19" />
         <mark key="^" line="17" column="19" />
@@ -249,6 +249,12 @@
         <mark key="]" line="48" column="25" />
         <mark key="." line="48" column="25" />
         <mark key="^" line="48" column="25" />
+      </file>
+      <file name="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/mbbs/ExchangeGoodsController.java" timestamp="1516759711521">
+        <mark key="[" line="76" column="51" />
+        <mark key="]" line="76" column="57" />
+        <mark key="." line="76" column="57" />
+        <mark key="^" line="76" column="57" />
       </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/resources/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDoMapperExt.xml" timestamp="1513764732186">
         <mark key="[" line="22" column="37" />
@@ -835,12 +841,6 @@
         <mark key="^" line="498" column="48" />
         <mark key="." line="498" column="48" />
       </file>
-      <file name="D:/IDEA-project/operations/webapp/src/main/resources/config.properties" timestamp="1516708318240">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="74" column="29" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsExtDo.java" timestamp="1511931189915">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="15" column="33" />
@@ -871,7 +871,7 @@
         <mark key="^" line="83" column="53" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516711394194">
+      <file name="/Dummy.txt" timestamp="1516759838552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1104,10 +1104,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09IDE=</text>
+        <text>Array</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IDE=</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
