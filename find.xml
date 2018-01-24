@@ -3,6 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
@@ -24,7 +26,6 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.v</mask>
@@ -36,6 +37,7 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

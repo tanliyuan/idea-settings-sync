@@ -21,13 +21,6 @@
         <mark key="." line="31" column="45" />
         <mark key="^" line="31" column="45" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" timestamp="1516709816144">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="239" column="10" />
-        <mark key="]" line="236" column="7" />
-        <mark key="^" line="236" column="7" />
-        <mark key="." line="236" column="7" />
-      </file>
       <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1516758803818">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="19" />
@@ -40,7 +33,7 @@
         <mark key="." line="64" column="64" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/mall/impl/ExchangeGoodsServiceImpl.java" timestamp="1516773254966">
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/mall/impl/ExchangeGoodsServiceImpl.java" timestamp="1516779875287">
         <mark key="[" line="124" column="46" />
         <mark key="]" line="125" column="34" />
         <mark key="." line="125" column="34" />
@@ -340,20 +333,13 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="29" column="53" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" timestamp="1516710401695">
-        <mark key="'" line="280" column="30" />
-        <mark key="[" line="445" column="36" />
-        <mark key="]" line="445" column="49" />
-        <mark key="^" line="445" column="49" />
-        <mark key="." line="445" column="49" />
-      </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/MedalExchangeService.java" timestamp="1511866249231">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="20" column="3" />
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1516711373991">
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/impl/IntegralServiceImpl.java" timestamp="1516780943858">
         <mark key="[" line="172" column="81" />
         <mark key="]" line="172" column="81" />
         <mark key="^" line="172" column="80" />
@@ -392,13 +378,7 @@
       <file name="D:/IDEA-project/disconf/dailytest/operations/config.properties" timestamp="1516762341637">
         <mark key="[" line="70" column="38" />
       </file>
-      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalExchangeMallServiceImpl.java" timestamp="1516709869611">
-        <mark key="'" line="147" column="4" />
-        <mark key="[" line="161" column="58" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="49" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/weidai/community-facade/1.0.4/community-facade-1.0.4.jar!/com/weidai/community/facade/CommunityAnswerApi.class" timestamp="1516779327486" />
       <file name="D:/IDEA-project/mbbs/mbbs-webapp/src/main/java/com/weidai/mbbs/web/config/Swagger2Config.java" timestamp="1515040357537">
         <mark key="[" line="38" column="24" />
         <mark key="]" line="38" column="27" />
@@ -459,6 +439,7 @@
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/user/IntegralService.java" timestamp="1516779919763" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsDo.java" timestamp="1511835921588">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="24" column="23" />
@@ -604,6 +585,7 @@
         <mark key="." line="32" column="4" />
         <mark key="^" line="32" column="4" />
       </file>
+      <file name="D:/IDEA-project/community/community-service/src/main/java/com/weidai/community/facade/CommunityAnswerApiImpl.java" timestamp="1516780911675" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ExchangeRecommendDo.java" timestamp="1511928050279">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -664,6 +646,12 @@
         <mark key="." line="13" column="56" />
         <mark key="^" line="13" column="56" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/impl/AnswerServiceImpl.java" timestamp="1516780879409">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="180" column="65" />
+        <mark key="^" line="180" column="65" />
+        <mark key="." line="180" column="65" />
+      </file>
       <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/java/com/weidai/mbbs/dao/mapper/ExchangeRecordDoMapperExt.java" timestamp="1516258023092">
         <mark key="[" line="30" column="3" />
         <mark key="]" line="27" column="0" />
@@ -723,13 +711,6 @@
         <mark key="]" line="39" column="32" />
         <mark key="^" line="39" column="32" />
         <mark key="." line="39" column="32" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-facade/pom.xml" timestamp="1516710108433">
-        <mark key="'" line="16" column="16" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
       </file>
       <file name="D:/IDEA-project/operations/common-service-facade/src/main/java/com/weidai/operations/facade/dto/medal/ActivityExchangeGoodsDO.java" timestamp="1511924337641">
         <mark key="[" line="38" column="0" />
@@ -797,6 +778,7 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="D:/IDEA-project/mbbs/mbbs-dal/src/main/java/com/weidai/mbbs/dao/mapper/IntegralFlowDoMapper.java" timestamp="1516780348368" />
       <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/vo/activity/ExchangeRecordVo.java" timestamp="1516707719983">
         <mark key="[" line="54" column="29" />
         <mark key="]" line="49" column="27" />
@@ -839,7 +821,7 @@
         <mark key="^" line="51" column="27" />
         <mark key="." line="51" column="27" />
       </file>
-      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/impl/QuestionServiceImpl.java" timestamp="1516779017469" />
+      <file name="D:/IDEA-project/mbbs/mbbs-service/src/main/java/com/weidai/mbbs/service/community/impl/QuestionServiceImpl.java" timestamp="1516779805496" />
       <file name="D:/IDEA-project/operations/common-dal/src/main/java/com/weidai/operations/dao/medal/ActivityExchangeRegionGoodsExtDo.java" timestamp="1511931189915">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="15" column="33" />
@@ -870,7 +852,7 @@
         <mark key="^" line="83" column="53" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516774481949">
+      <file name="/Dummy.txt" timestamp="1516780901229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -973,13 +955,6 @@
         <mark key="]" line="53" column="38" />
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="38" />
-      </file>
-      <file name="D:/IDEA-project/medal/medal-dal/src/main/resources/com/weidai/medal/dao/reward/ExchangeRecordDoMapper.xml" timestamp="1516709510309">
-        <mark key="'" line="174" column="22" />
-        <mark key="[" line="130" column="23" />
-        <mark key="]" line="130" column="24" />
-        <mark key="." line="130" column="24" />
-        <mark key="^" line="130" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1516696793413">
         <mark key="[" line="0" column="0" />
