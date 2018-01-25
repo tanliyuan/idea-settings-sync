@@ -28,7 +28,8 @@
         <mark key="^" line="236" column="7" />
         <mark key="." line="236" column="7" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1516758803818">
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" timestamp="1516858153608">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="19" />
         <mark key="^" line="17" column="19" />
@@ -361,7 +362,7 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/dto/ExchangeRecordDTO.java" timestamp="1516709577389">
+      <file name="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/dto/ExchangeRecordDTO.java" timestamp="1516858034097">
         <mark key="[" line="44" column="29" />
         <mark key="]" line="46" column="36" />
         <mark key="^" line="46" column="36" />
@@ -996,7 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="543" column="51" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/impl/MedalServiceImpl.java" />
       <jump line="388" column="13" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" />
       <jump line="426" column="11" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" />
       <jump line="61" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/medal/MedalController.java" />
@@ -1096,6 +1096,7 @@
       <jump line="214" column="34" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" />
       <jump line="50" column="0" filename="D:/IDEA-project/ac/ac-webapp/src/main/java/com/weidai/ac/web/controller/activity/ExchangeMallController.java" />
       <jump line="459" column="12" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
+      <jump line="27" column="0" filename="D:/IDEA-project/medal/medal-facade/src/main/java/com/weidai/medal/facade/enums/GoodsTypeEnum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
