@@ -608,6 +608,9 @@
         <mark key="^" line="32" column="48" />
         <mark key="." line="32" column="48" />
       </file>
+      <file name="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/OrderCompensateJob.java" timestamp="1518098306710">
+        <mark key="'" line="140" column="27" />
+      </file>
       <file name="D:/IDEA-project/operations/biz-service/src/main/java/com/weidai/operations/biz/service/medal/impl/ExchangeRegionServiceImpl.java" timestamp="1517204339993">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="53" />
@@ -1026,7 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="12" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/biz/service/impl/UserRewardServiceImpl.java" />
       <jump line="434" column="8" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="408" column="0" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="74" column="23" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/rocketmq/CapitalListener.java" />
@@ -1126,6 +1128,7 @@
       <jump line="453" column="24" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="598" column="41" filename="D:/IDEA-project/medal/medal-service/src/main/java/com/weidai/medal/facade/api/UserRewardServiceFacadeImpl.java" />
       <jump line="181" column="34" filename="D:/IDEA-project/operations/webapp/src/main/java/com/weidai/operations/mvc/controller/medal/ExchangeRegionController.java" />
+      <jump line="140" column="27" filename="D:/IDEA-project/ac/ac-service/src/main/java/com/weidai/ac/service/medal/job/OrderCompensateJob.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
