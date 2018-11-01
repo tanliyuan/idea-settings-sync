@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcyBackCategoryController.java" timestamp="1541068756671" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/cache/PropertyCache.java" timestamp="1540988613706">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="43" column="49" />
         <mark key="." line="43" column="49" />
         <mark key="^" line="43" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacade.java" timestamp="1541061481136" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-salesarea/src/main/java/com/dtdream/vanyar/supplier/salesarea/dao/AgreementDetailDao.java" timestamp="1541073502707" />
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-salesarea-api/1.6.2-SNAPSHOT/zcy-salesarea-api-1.6.2-20181101.102811-349.jar!/com/dtdream/vanyar/supplier/salesarea/service/SalesAreaReadService.class" timestamp="1541073308741" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1541052808832">
         <mark key="'" line="16" column="4" />
       </file>
@@ -20,11 +20,9 @@
         <mark key="^" line="196" column="67" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/file/service/impl/ZcyUserFileServiceImpl.java" timestamp="1541063443973" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/CategoryFrontTagEnum.java" timestamp="1540875796745">
         <mark key="[" line="25" column="35" />
       </file>
-      <file name="/Sku.java" timestamp="1541036946731" />
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1540977858309">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="31" />
@@ -73,26 +71,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1541059251696" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ItemAuditManager.java" timestamp="1541059780988">
-        <mark key="'" line="339" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/user/service/agent/SalesAreaReadServiceAgentImpl.java" timestamp="1541073246991" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ItemAuditManager.java" timestamp="1541073202345">
+        <mark key="'" line="281" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-salesarea/src/main/java/com/dtdream/vanyar/supplier/salesarea/service/SalesAreaReadServiceImpl.java" timestamp="1541073385769" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1541068577494">
         <mark key="[" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/LeaderExecJob.java" timestamp="1541048430205" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1540962541853">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
         <mark key="^" line="163" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-extra-api/1.5.8-SNAPSHOT/zcy-extra-api-1.5.8-20180709.124417-479.jar!/cn/gov/zcy/extra/spu/dto/AliSpuSearchParamsDTO.class" timestamp="1541042608420" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.4-SNAPSHOT/parana-item-5.3.4-20181030.060209-11.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1541062879473" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" timestamp="1541068973600">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" timestamp="1541071848068">
         <mark key="'" line="67" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1541056474860" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice.yml" timestamp="1540796928373">
         <mark key="[" line="109" column="159" />
       </file>
@@ -101,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="48" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminFrontCategories.java" />
       <jump line="83" column="57" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminFrontCategories.java" />
       <jump line="61" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" />
       <jump line="53" column="33" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" />
@@ -201,6 +195,7 @@
       <jump line="339" column="53" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ItemAuditManager.java" />
       <jump line="0" column="34" filename="/Dummy.txt" />
       <jump line="67" column="29" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" />
+      <jump line="281" column="6" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ItemAuditManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -324,6 +319,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
