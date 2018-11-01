@@ -1,3 +1,0 @@
-/**
- * @author tanliyuan ${DATE} - ${TIME}.
- */
