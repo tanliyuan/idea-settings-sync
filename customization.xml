@@ -1,0 +1,22 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Maven.BaseProjectMenu" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Maven" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="maven.ReIndex" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Maven" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="maven.AddDependency" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Maven" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>

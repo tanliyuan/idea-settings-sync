@@ -1,0 +1,14 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://116.196.107.61:2375/info" />
+      </configuration>
+    </remote-server>
+    <remote-server name="JD_Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://116.196.107.61:2375/info" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Module 'item-microservice-api'" />
+    <option name="defaultScopeName" value="Module 'item-microservice-api'" />
+    <option name="SEARCH_SCOPE" value="Module 'item-microservice-api'" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
+  </component>
+</application>
