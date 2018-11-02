@@ -31,11 +31,11 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1540962541853">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="163" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1541141168514">
+        <mark key="[" line="211" column="253" />
+        <mark key="]" line="212" column="86" />
+        <mark key="." line="212" column="86" />
+        <mark key="^" line="212" column="86" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice.yml" timestamp="1540796928373">
         <mark key="[" line="109" column="159" />
@@ -88,11 +88,18 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541136517546">
+      <file name="/Dummy.txt" timestamp="1541141947884">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nginx-pg/conf.d/zcy-web.conf.j2" timestamp="1541142330179">
+        <mark key="'" line="595" column="31" />
+        <mark key="[" line="593" column="31" />
+        <mark key="]" line="593" column="31" />
+        <mark key="." line="593" column="31" />
+        <mark key="^" line="593" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1541132403755">
         <mark key="[" line="20" column="38" />
@@ -112,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="49" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" />
       <jump line="83" column="79" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuAuditController.java" />
       <jump line="29" column="17" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacade.java" />
       <jump line="80" column="25" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuAuditController.java" />
@@ -212,13 +218,14 @@
       <jump line="74" column="20" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" />
       <jump line="78" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" />
       <jump line="831" column="0" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
+      <jump line="595" column="31" filename="$USER_HOME$/IdeaProjects/nginx-pg/conf.d/zcy-web.conf.j2" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>category/backCategories/categoriesByLayer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>category/backCategories/categoriesByLayer</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
