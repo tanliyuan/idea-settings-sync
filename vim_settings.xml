@@ -26,6 +26,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/mysql/dao/MyBatisDao.class" timestamp="1541146729572" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-vaccine-api/src/main/java/cn/gov/zcy/vaccine/plan/dto/SkuSelectionDto.java" timestamp="1541144878446" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/warehouse/service/WarehouseReadServiceImpl.java" timestamp="1541151842270" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1541134638339" />
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/files/back_config.yaml" timestamp="1541149488553" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" timestamp="1541083250261">
@@ -69,7 +70,11 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/warehouse/web/controller/WarehouseController.java" timestamp="1541150386643" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/warehouse/web/controller/WarehouseController.java" timestamp="1541152469873">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/BrandReadServiceImpl.java" timestamp="1540966716254">
         <mark key="[" line="247" column="7" />
         <mark key="]" line="247" column="22" />
@@ -77,13 +82,14 @@
         <mark key="^" line="247" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/warehouse/dao/WarehouseDao.java" timestamp="1541148605071" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/warehouse/facade/WarehouseReadServiceFacadeImpl.java" timestamp="1541152124761" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" timestamp="1541049787389">
         <mark key="[" line="98" column="45" />
         <mark key="]" line="98" column="37" />
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541146954874">
+      <file name="/Dummy.txt" timestamp="1541152140934">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -225,8 +231,8 @@
       <jump line="92" column="5" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -238,31 +244,31 @@
         <text>StringUtils.isBlank(updateTime)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMg6LCD55Sod2ViYWdn5qOA5p+l5LuT5bqT55qE6YWN6YCB5Yy65Z+f5piv5ZCm5pyJ5pWICg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uIC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzIHsKICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3pjeV93ZWJfYWdncmVnYXRlZC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzOwogICAgICAgcHJveHlfc2V0X2hlYWRlciAgICAgICAgWC1SZWFsLUlQICRyZW1vdGVfYWRkcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIEhvc3QgJGh0dHBfaG9zdDsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIHJlcXVlc3RJZCAkcmVxdWVzdF9pZDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3YXJlaG91c2VSZWFkQ3JpdGVyaWFEVE8uc2V0V2FyZWhvdXNlQ29kZXMoTGlzdHMubmV3QXJyYXlMaXN0KHdhcmVob3VzZUNvZGUpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uIC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzIHsKICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3pjeV93ZWJfYWdncmVnYXRlZC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzOwogICAgICAgcHJveHlfc2V0X2hlYWRlciAgICAgICAgWC1SZWFsLUlQICRyZW1vdGVfYWRkcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIEhvc3QgJGh0dHBfaG9zdDsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIHJlcXVlc3RJZCAkcmVxdWVzdF9pZDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICMg6LCD55Sod2ViYWdn5qOA5p+l5LuT5bqT55qE6YWN6YCB5Yy65Z+f5piv5ZCm5pyJ5pWICg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGxvY2F0aW9uIC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzIHsKICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3pjeV93ZWJfYWdncmVnYXRlZC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzOwogICAgICAgcHJveHlfc2V0X2hlYWRlciAgICAgICAgWC1SZWFsLUlQICRyZW1vdGVfYWRkcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIEhvc3QgJGh0dHBfaG9zdDsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIHJlcXVlc3RJZCAkcmVxdWVzdF9pZDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzIHsKICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3pjeV93ZWJfYWdncmVnYXRlZC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzOwogICAgICAgcHJveHlfc2V0X2hlYWRlciAgICAgICAgWC1SZWFsLUlQICRyZW1vdGVfYWRkcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIEhvc3QgJGh0dHBfaG9zdDsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIHJlcXVlc3RJZCAkcmVxdWVzdF9pZDsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzIHsKICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3pjeV93ZWJfYWdncmVnYXRlZC9hcGkvbWljcm8vd2FyZWhvdXNlL2NoZWNrUmVnaW9uRXhpc3RzOwogICAgICAgcHJveHlfc2V0X2hlYWRlciAgICAgICAgWC1SZWFsLUlQICRyZW1vdGVfYWRkcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIFgtRm9yd2FyZGVkLUZvciAkcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvcjsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIEhvc3QgJGh0dHBfaG9zdDsKICAgICAgIHByb3h5X3NldF9oZWFkZXIgICAgICAgIHJlcXVlc3RJZCAkcmVxdWVzdF9pZDsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFNrdURUTyBza3VEVE8gOiBpdGVtU2VsZkZ1bGxEZXRhaWxEVE8uZ2V0U2t1cygpKSB7CiAgICAgICAgICAgIFNrdU1ham9yRFRPIHNrdU1ham9yRFRPID0gbmV3IFNrdU1ham9yRFRPKCk7CiAgICAgICAgICAgIHNrdU1ham9yRFRPLnNldElkKHNrdURUTy5nZXRJZCgpKTsKICAgICAgICAgICAgc2t1TWFqb3JEVE8uc2V0U2t1Q29kZShza3VEVE8uZ2V0U2t1Q29kZSgpKTsKICAgICAgICAgICAgc2t1TWFqb3JEVE8uc2V0QXR0cnMoc2t1RFRPLmdldEF0dHJzKCkpOwogICAgICAgICAgICBza3VNYWpvckRUTy5zZXRGdWxsUHJpY2Uoc2t1RFRPLmdldEZ1bGxQcmljZSgpKTsKCiAgICAgICAgICAgIHNrdXMuYWRkKHNrdU1ham9yRFRPKTsKICAgICAgICB9CiAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
