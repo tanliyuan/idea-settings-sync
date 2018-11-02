@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1541052808832">
         <mark key="'" line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1541133019217">
+        <mark key="[" line="70" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/CategoryController.java" timestamp="1540978756034">
         <mark key="[" line="70" column="82" />
         <mark key="]" line="70" column="99" />
@@ -39,11 +42,12 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1541141168514">
-        <mark key="[" line="211" column="253" />
-        <mark key="]" line="212" column="86" />
-        <mark key="." line="212" column="86" />
-        <mark key="^" line="212" column="86" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.5-SNAPSHOT/parana-item-5.3.5-SNAPSHOT.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1541157953629" />
+      <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice.yml" timestamp="1540796928373">
+        <mark key="[" line="109" column="159" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1541086561101">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1541135129389" />
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/files/front_config.yaml.erb" timestamp="1541149490430" />
@@ -52,6 +56,9 @@
         <mark key="]" line="195" column="0" />
         <mark key="^" line="196" column="67" />
         <mark key="." line="195" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/CategoryFrontTagEnum.java" timestamp="1540875796745">
+        <mark key="[" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/pom.xml" timestamp="1541145363369">
         <mark key="[" line="84" column="68" />
@@ -81,8 +88,14 @@
         <mark key="." line="247" column="22" />
         <mark key="^" line="247" column="22" />
       </file>
+      <file name="/db_item.parana_item_details [db_item@dev_wc]" timestamp="1540989909852">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/warehouse/dao/WarehouseDao.java" timestamp="1541148605071" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/warehouse/facade/WarehouseReadServiceFacadeImpl.java" timestamp="1541152124761" />
+      <file name="/dummy.sql" timestamp="1540990098900">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" timestamp="1541049787389">
         <mark key="[" line="98" column="45" />
         <mark key="]" line="98" column="37" />
@@ -117,10 +130,14 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541128055690">
         <mark key="'" line="831" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1541157945873" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" timestamp="1541071848068">
         <mark key="'" line="67" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1541156014741" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1541157766596" />
+      <file name="/fragment.java" timestamp="1541157524654">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1541126247488">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="13" />
