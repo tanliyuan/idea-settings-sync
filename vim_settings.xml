@@ -79,6 +79,9 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" timestamp="1541083250261">
         <mark key="'" line="78" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541128055690">
+        <mark key="'" line="831" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminFrontCategories.java" timestamp="1541083754541">
         <mark key="[" line="53" column="21" />
         <mark key="]" line="53" column="21" />
@@ -108,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="33" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" />
       <jump line="77" column="49" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" />
       <jump line="83" column="79" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuAuditController.java" />
       <jump line="29" column="17" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacade.java" />
@@ -208,6 +210,7 @@
       <jump line="281" column="6" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ItemAuditManager.java" />
       <jump line="74" column="20" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" />
       <jump line="78" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeGroupController.java" />
+      <jump line="831" column="0" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
