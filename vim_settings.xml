@@ -3,9 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1541133019217">
+        <mark key="[" line="70" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/convers/ItemDTOConverter.java" timestamp="1541125804419">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1541132306726" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1541132308362" />
-      <file name="/Dummy.txt" timestamp="1541131630573">
+      <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice.yml" timestamp="1540796928373">
+        <mark key="[" line="109" column="159" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1541086561101">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/CategoryFrontTagEnum.java" timestamp="1540875796745">
+        <mark key="[" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/pom.xml" timestamp="1541133332778">
+        <mark key="[" line="433" column="0" />
+        <mark key="]" line="433" column="0" />
+        <mark key="." line="433" column="0" />
+      </file>
+      <file name="/db_item.parana_item_details [db_item@dev_wc]" timestamp="1540989909852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1540990098900">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541133093023">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -15,6 +43,9 @@
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
+      </file>
+      <file name="/fragment.java" timestamp="1540998926123">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -120,8 +151,8 @@
       <jump line="831" column="0" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -133,31 +164,31 @@
         <text>StringUtils.isBlank(updateTime)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFNrdURUTyBza3VEVE8gOiBpdGVtU2VsZkZ1bGxEZXRhaWxEVE8uZ2V0U2t1cygpKSB7CiAgICAgICAgICAgIFNrdU1ham9yRFRPIHNrdU1ham9yRFRPID0gbmV3IFNrdU1ham9yRFRPKCk7CiAgICAgICAgICAgIHNrdU1ham9yRFRPLnNldElkKHNrdURUTy5nZXRJZCgpKTsKICAgICAgICAgICAgc2t1TWFqb3JEVE8uc2V0U2t1Q29kZShza3VEVE8uZ2V0U2t1Q29kZSgpKTsKICAgICAgICAgICAgc2t1TWFqb3JEVE8uc2V0QXR0cnMoc2t1RFRPLmdldEF0dHJzKCkpOwogICAgICAgICAgICBza3VNYWpvckRUTy5zZXRGdWxsUHJpY2Uoc2t1RFRPLmdldEZ1bGxQcmljZSgpKTsKCiAgICAgICAgICAgIHNrdXMuYWRkKHNrdU1ham9yRFRPKTsKICAgICAgICB9CiAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">W+S/ruWkjXNrdV3muKDpgZPlsYJmdWxscHJpY2XkuK3mlrDlop5rZXnml7bvvIzljY/orq7lsYLkuI3kvJrlkIzmraXmlrDlop4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQnJhbmRSZWFkU2VydmljZSBicmFuZFJlYWRTZXJ2aWNlOwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBaY3lDYXRlZ29yeVJlYWRTZXJ2aWNlIHpjeUNhdGVnb3J5UmVhZFNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFNrdURUTyBza3VEVE8gOiBpdGVtU2VsZkZ1bGxEZXRhaWxEVE8uZ2V0U2t1cygpKSB7CiAgICAgICAgICAgIFNrdU1ham9yRFRPIHNrdU1ham9yRFRPID0gbmV3IFNrdU1ham9yRFRPKCk7CiAgICAgICAgICAgIHNrdU1ham9yRFRPLnNldElkKHNrdURUTy5nZXRJZCgpKTsKICAgICAgICAgICAgc2t1TWFqb3JEVE8uc2V0U2t1Q29kZShza3VEVE8uZ2V0U2t1Q29kZSgpKTsKICAgICAgICAgICAgc2t1TWFqb3JEVE8uc2V0QXR0cnMoc2t1RFRPLmdldEF0dHJzKCkpOwogICAgICAgICAgICBza3VNYWpvckRUTy5zZXRGdWxsUHJpY2Uoc2t1RFRPLmdldEZ1bGxQcmljZSgpKTsKCiAgICAgICAgICAgIHNrdXMuYWRkKHNrdU1ham9yRFRPKTsKICAgICAgICB9CiAgICAgICAgZnVsbEJhc2VJdGVtRFRPLnNldFNrdXMoc2t1cyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">W+S/ruWkjXNrdV3muKDpgZPlsYJmdWxscHJpY2XkuK3mlrDlop5rZXnml7bvvIzljY/orq7lsYLkuI3kvJrlkIzmraXmlrDlop4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQnJhbmRSZWFkU2VydmljZSBicmFuZFJlYWRTZXJ2aWNlOwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBaY3lDYXRlZ29yeVJlYWRTZXJ2aWNlIHpjeUNhdGVnb3J5UmVhZFNlcnZpY2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZmFpbHVyZUNvdW50Kys7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
