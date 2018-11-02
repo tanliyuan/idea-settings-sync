@@ -15,6 +15,7 @@
         <mark key="." line="43" column="49" />
         <mark key="^" line="43" column="49" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.5-SNAPSHOT/parana-item-api-5.3.5-SNAPSHOT-sources.jar!/io/terminus/parana/item/model/Item.java" timestamp="1541162076818" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1541052808832">
         <mark key="'" line="16" column="4" />
       </file>
@@ -134,8 +135,8 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" timestamp="1541071848068">
         <mark key="'" line="67" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1541160832028">
-        <mark key="'" line="760" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1541162152782">
+        <mark key="'" line="785" column="26" />
         <mark key="[" line="749" column="16" />
         <mark key="]" line="749" column="16" />
         <mark key="." line="749" column="16" />
@@ -152,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="21" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
       <jump line="53" column="53" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
       <jump line="269" column="62" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
       <jump line="104" column="32" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryAttributeWriteServiceFacadeImpl.java" />
@@ -252,6 +252,7 @@
       <jump line="92" column="5" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
       <jump line="844" column="24" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" />
       <jump line="767" column="12" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" />
+      <jump line="785" column="26" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
