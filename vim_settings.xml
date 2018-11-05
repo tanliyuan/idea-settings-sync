@@ -295,11 +295,11 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/ShrioConfig.java" timestamp="1541343646317">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="38" column="13" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/ShrioConfig.java" timestamp="1541344568218">
+        <mark key="[" line="125" column="43" />
+        <mark key="]" line="125" column="43" />
+        <mark key="." line="125" column="43" />
+        <mark key="^" line="125" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/service/RoleService.java" timestamp="1541253685619">
         <mark key="[" line="2" column="0" />
@@ -580,7 +580,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541343850592">
+      <file name="/Dummy.txt" timestamp="1541344619722">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -669,11 +669,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/RedisInfo.java" timestamp="1541343630566">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/RedisInfo.java" timestamp="1541344502829">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/entity/QuartzTask.java" timestamp="1541253822191">
         <mark key="[" line="2" column="0" />
@@ -793,10 +792,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFJlZGlzSW5mby5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Configuration</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -805,25 +804,25 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNoaXJvPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2hpcm8tZWhjYWNoZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7c2hpcm8udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFJlZGlzSW5mby5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFJlZGlzSW5mby5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUmVkaXNJbmZvIHJlZGlzSW5mbzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">QENvbXBvbmVudApAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInNwcmluZy5yZWRpcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFJlZGlzSW5mby5jbGFzcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFJlZGlzSW5mby5jbGFzcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8v5Y+WcmVkaXPov57mjqXphY3nva4KICAgIEBWYWx1ZSgiJHtzcHJpbmcucmVkaXMuaG9zdH0iKQogICAgcHJpdmF0ZSBTdHJpbmcgaG9zdCA9ICIxMTEuMjMxLjgzLjEyNyI7CiAgICBAVmFsdWUoIiR7c3ByaW5nLnJlZGlzLnBvcnR9IikKICAgIHByaXZhdGUgaW50IHBvcnQgPSA3Mzc5OwogICAgQFZhbHVlKCIke3NwcmluZy5yZWRpcy50aW1lb3V0fSIpCiAgICBwcml2YXRlIGludCB0aW1lb3V0ID0gMzAwMDsKICAgIEBWYWx1ZSgiJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlfSIpCiAgICBwcml2YXRlIFN0cmluZyBwYXNzd29yZCA9ICI3MWY3ZDg4MzhlZGVjNjNiIjsK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
