@@ -70,6 +70,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="meta f" />
