@@ -70,6 +70,12 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice.yml" timestamp="1540796928373">
+        <mark key="[" line="109" column="159" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" timestamp="1541086561101">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/freemark/ChannelDirective.java" timestamp="1541257925448">
         <mark key="[" line="48" column="42" />
         <mark key="]" line="48" column="42" />
@@ -95,6 +101,12 @@
         <mark key="^" line="149" column="60" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/java/me/hrps/aas/core/config/RedisInfo.java" timestamp="1541340643452" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1541409729333">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/service/impl/QiniuUploadServiceImpl.java" timestamp="1541255630256">
         <mark key="[" line="120" column="29" />
         <mark key="]" line="120" column="39" />
@@ -124,6 +136,10 @@
         <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditReadServiceImpl.java" timestamp="1541397444946" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/controller/IndexController.java" timestamp="1541248781216">
+        <mark key="[" line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/cn/gov/zcy/extra/spu/service/AliSpuServiceImpl.java" timestamp="1541409516032" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/util/GenEntityMySql.java" timestamp="1541258474631">
         <mark key="[" line="45" column="48" />
         <mark key="]" line="45" column="61" />
@@ -155,6 +171,9 @@
         <mark key="^" line="31" column="20" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1541133019217">
+        <mark key="[" line="70" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/service/QuartzTaskService.java" timestamp="1541258380940">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
@@ -163,6 +182,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/mysql/dao/MyBatisDao.class" timestamp="1541386176332" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1541387262178" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra-api/src/main/java/cn/gov/zcy/extra/spu/dto/AliSpuKeyPropertyDTO.java" timestamp="1541409763789" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/service/impl/BlogTagsServiceImpl.java" timestamp="1541258633176">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="74" column="8" />
@@ -229,6 +249,12 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
+      <file name="/db_item.parana_item_details [db_item@dev_wc]" timestamp="1540989909852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1540990098900">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1541404098201">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
@@ -280,6 +306,9 @@
         <mark key="^" line="83" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1541401838426" />
+      <file name="/fragment.java" timestamp="1541409909605">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="30" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuAuditReadServiceFacadeImpl.java" />
