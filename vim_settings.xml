@@ -9,6 +9,7 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="205" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/user/service/agent/SupplierInfoReadServiceAgentImpl.java" timestamp="1541396860454" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/service/DictService.java" timestamp="1541253693648">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -89,7 +90,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/events/item/listener/ItemListener.java" timestamp="1541387915224">
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/events/item/listener/ItemListener.java" timestamp="1541395458455">
         <mark key="'" line="175" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/dao/LogDao.java" timestamp="1541254693447">
@@ -137,6 +138,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1541398667898" />
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/java/me/hrps/aas/core/config/RedisInfo.java" timestamp="1541340643452" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/warehouse/web/controller/WarehouseController.java" timestamp="1541152469873">
         <mark key="[" line="56" column="0" />
@@ -144,6 +146,7 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/resources/mapper/ItemAuditMapper.xml" timestamp="1541386446076" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-salesarea/src/main/java/com/dtdream/vanyar/supplier/salesarea/service/SalesAreaReadServiceImpl.java" timestamp="1541397222701" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/entity/Menu.java" timestamp="1541253641941">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -158,6 +161,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/PropertyBusinessTagEnum.java" timestamp="1541398661922">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/dao/BlogTagsDao.java" timestamp="1541254957249">
         <mark key="[" line="3" column="0" />
@@ -179,6 +188,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" timestamp="1541398699637">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="33" />
+        <mark key="^" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditReadServiceImpl.java" timestamp="1541397444946" />
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.5-SNAPSHOT/zcy-item-api-1.6.5-SNAPSHOT-sources.jar!/cn/gov/zcy/audit/service/ItemAuditReadService.java" timestamp="1541395479352" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/resources/mapper/QuartzTaskDao.xml" timestamp="1541260779195">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="45" />
@@ -329,7 +346,7 @@
         <mark key="]" line="110" column="47" />
         <mark key="." line="110" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/item/netsuper/ZcyNetSuperItemController.java" timestamp="1541387479607" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/item/netsuper/ZcyNetSuperItemController.java" timestamp="1541395082505" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/entity/Log.java" timestamp="1541253747095">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -401,7 +418,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541382888329">
+      <file name="/Dummy.txt" timestamp="1541398729261">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -422,11 +439,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1541146442275">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/java/me/hrps/aas/Application.java" timestamp="1541340151428" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/entity/BlogTags.java" timestamp="1541253617939">
@@ -564,11 +576,11 @@
       <jump line="175" column="23" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/events/item/listener/ItemListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnpjeS13ZWI8L21vZHVsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>CHANNEL_</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>CHANNEL_</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
