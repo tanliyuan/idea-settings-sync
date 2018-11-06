@@ -96,6 +96,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="46" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-external-api/1.0.17-stockProxy-open-SNAPSHOT/item-microservice-external-api-1.0.17-stockProxy-open-20181026.084939-1.jar!/META-INF/maven/cn.gov.zcy.service/item-microservice-external-api/pom.xml" timestamp="1541474034391" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadService.java" timestamp="1541411091057">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="30" />
@@ -219,6 +220,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="149" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-external-api/1.0.17-stockProxy-open-SNAPSHOT/item-microservice-external-api-1.0.17-stockProxy-open-20181026.084939-1.jar!/cn/gov/zcy/service/external/stock/facade/OpenStockWriteServiceFacade.class" timestamp="1541473870129" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1541410041203">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -237,6 +239,7 @@
       <file name="/dummy.sql" timestamp="1540990098900">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/pom.xml" timestamp="1541474046532" />
       <file name="/Dummy.txt" timestamp="1541470077181">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
@@ -249,7 +252,6 @@
         <mark key="." line="108" column="8" />
         <mark key="^" line="48" column="83" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/kevinsawicki/http-request/6.0/http-request-6.0.jar!/com/github/kevinsawicki/http/HttpRequest.class" timestamp="1541418840855" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1541411521723">
         <mark key="[" line="27" column="73" />
         <mark key="]" line="29" column="0" />
@@ -304,6 +306,9 @@
         <mark key="." line="375" column="82" />
         <mark key="^" line="375" column="67" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" timestamp="1541473748953">
+        <mark key="'" line="543" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/com/taobao/api/request/SpuSearchRequest.java" timestamp="1541410856139">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="74" column="24" />
@@ -316,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuAuditReadServiceFacadeImpl.java" />
-      <jump line="23" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryWriteServiceFacadeImpl.java" />
       <jump line="26" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacadeImpl.java" />
       <jump line="17" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryBindingWriteServiceFacadeImpl.java" />
       <jump line="26" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryBindingReadServiceFacadeImpl.java" />
@@ -416,6 +419,8 @@
       <jump line="41" column="8" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/PropertyBusinessTagEnum.java" />
       <jump line="30" column="17" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
       <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
+      <jump line="578" column="119" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" />
+      <jump line="543" column="30" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
