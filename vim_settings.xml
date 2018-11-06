@@ -6,6 +6,12 @@
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.4-SNAPSHOT/parana-category-5.3.4-SNAPSHOT.jar!/io/terminus/parana/category/impl/dao/PropertyBusinessTypeDao.class" timestamp="1541479740912" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/CategoryAttributeSyncAgent.java" timestamp="1541475460542" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1541482473655" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/BackCategoryLayerEnum.java" timestamp="1541484112003">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="21" />
+        <mark key="." line="60" column="21" />
+        <mark key="^" line="60" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-external-api/1.0.17-stockProxy-open-SNAPSHOT/item-microservice-external-api-1.0.17-stockProxy-open-20181026.084939-1.jar!/META-INF/maven/cn.gov.zcy.service/item-microservice-external-api/pom.xml" timestamp="1541474034391" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1541482057187" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.6-netsuperProtocol-SNAPSHOT/zcy-item-api-1.6.6-netsuperProtocol-20181106.023837-26.jar!/cn/gov/zcy/category/service/PropertyBusinessTypeWriteService.class" timestamp="1541479746964" />
@@ -19,6 +25,12 @@
         <mark key="]" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1541484089178">
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="25" />
+        <mark key="^" line="83" column="25" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-external-api/1.0.17-stockProxy-open-SNAPSHOT/item-microservice-external-api-1.0.17-stockProxy-open-20181026.084939-1.jar!/cn/gov/zcy/service/external/stock/facade/OpenStockWriteServiceFacade.class" timestamp="1541473870129" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1541476211389" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/pom.xml" timestamp="1541474046532" />
@@ -28,9 +40,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/stock/facade/StockWriteServiceFacadeImpl.java" timestamp="1541473748953">
-        <mark key="'" line="543" column="30" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" timestamp="1541484128141" />
     </filemarks>
     <jumps>
       <jump line="26" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacadeImpl.java" />
