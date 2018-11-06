@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.4-SNAPSHOT/parana-category-5.3.4-SNAPSHOT.jar!/io/terminus/parana/category/impl/dao/PropertyBusinessTypeDao.class" timestamp="1541485273327" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/CategoryAttributeSyncAgent.java" timestamp="1541475460542" />
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/resources/spring/dubbo-consumer.xml" timestamp="1541507666543" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1541482473655" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/resources/spring/cloud-web-trade-dubbo-consumer.xml" timestamp="1541487758207">
         <mark key="'" line="15" column="79" />
@@ -41,11 +42,17 @@
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-external-api/1.0.17-stockProxy-open-SNAPSHOT/item-microservice-external-api-1.0.17-stockProxy-open-20181026.084939-1.jar!/cn/gov/zcy/service/external/stock/facade/OpenStockWriteServiceFacade.class" timestamp="1541473870129" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1541476211389" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/pom.xml" timestamp="1541474046532" />
-      <file name="/Dummy.txt" timestamp="1541487766157">
+      <file name="/Dummy.txt" timestamp="1541508703614">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacadeImpl.java" timestamp="1541508683116">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" timestamp="1541484128141" />
     </filemarks>
@@ -152,11 +159,11 @@
       <jump line="15" column="79" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/resources/spring/cloud-web-trade-dubbo-consumer.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>Access</text>
       </register>
       <register name="-" type="4">
-        <text>商</text>
+        <text>Access</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
