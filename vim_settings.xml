@@ -57,6 +57,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="33" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/StockLogMapper.xml" timestamp="1541577843285" />
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/controller/system/TableController.java" timestamp="1541291418352">
         <mark key="[" line="251" column="56" />
         <mark key="]" line="251" column="56" />
@@ -137,11 +138,11 @@
         <mark key="." line="125" column="29" />
         <mark key="^" line="125" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/SpuAliMapper.xml" timestamp="1541577722202">
-        <mark key="[" line="86" column="89" />
-        <mark key="]" line="86" column="115" />
-        <mark key="^" line="86" column="115" />
-        <mark key="." line="86" column="115" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/SpuAliMapper.xml" timestamp="1541579441160">
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="79" column="9" />
+        <mark key="^" line="79" column="9" />
+        <mark key="." line="79" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/model/SpuAli.java" timestamp="1541571143687">
         <mark key="[" line="48" column="28" />
@@ -288,11 +289,11 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1541576806865">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1541578417153">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="54" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mysiteforme/src/main/java/com/mysiteforme/admin/controller/BlogTagsController.java" timestamp="1541258158705">
         <mark key="[" line="70" column="24" />
@@ -300,11 +301,11 @@
         <mark key="." line="70" column="24" />
         <mark key="^" line="76" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1541572336759">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="21" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1541578379150">
+        <mark key="[" line="82" column="27" />
+        <mark key="]" line="80" column="38" />
+        <mark key="." line="80" column="38" />
+        <mark key="^" line="80" column="38" />
       </file>
       <file name="/mp_huodong.user_token [huodong]" timestamp="1541559230490">
         <mark key="[" line="0" column="0" />
@@ -458,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>listSpus</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>listSpus</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
