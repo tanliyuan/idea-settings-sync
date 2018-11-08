@@ -9,7 +9,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/spring/cloud-item-dubbo-provider.xml" timestamp="1541647857984">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/spring/cloud-item-dubbo-provider.xml" timestamp="1541663171403">
         <mark key="[" line="50" column="28" />
         <mark key="]" line="50" column="29" />
         <mark key="." line="50" column="29" />
@@ -33,6 +33,11 @@
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/service/BackCategoryReadService.java" timestamp="1541644174802" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/shop/impl/service/ShopReadServiceImpl.java" timestamp="1541576473008" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ShopSyncAgent.java" timestamp="1541576437996" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/BackCategoryReadService.java" timestamp="1541599203604">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-trade/src/main/resources/spring/cloud-trade-dubbo-consumer.xml" timestamp="1541644137606" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.6-netsuperProtocol-SNAPSHOT/zcy-item-api-1.6.6-netsuperProtocol-20181106.023837-26.jar!/cn/gov/zcy/item/service/ZcyItemReadService.class" timestamp="1541659649115" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1541572206268">
@@ -48,6 +53,11 @@
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
         <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/BrandReadServiceImpl.java" timestamp="1541599291754">
+        <mark key="[" line="364" column="41" />
+        <mark key="]" line="364" column="41" />
+        <mark key="." line="364" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditWriteServiceImpl.java" timestamp="1541581618866" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1541662086020">
@@ -68,18 +78,14 @@
         <mark key="'" line="97" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/cn/gov/zcy/extra/spu/service/AliSpuServiceImpl.java" timestamp="1541574964129" />
-      <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1541577557371">
+      <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1541663190142">
         <mark key="[" line="10" column="201" />
         <mark key="]" line="10" column="202" />
         <mark key="." line="10" column="202" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1541663144091" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/StockLogMapper.xml" timestamp="1541577843285" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-api/1.0.21-SNAPSHOT/item-microservice-api-1.0.21-SNAPSHOT-sources.jar!/cn/gov/zcy/service/category/service/parana/FrontCategoryReadService.java" timestamp="1541644210150" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1541561316062">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/category/service/SupplierAuthItemReadServiceImpl.java" timestamp="1541654865272">
         <mark key="'" line="29" column="7" />
       </file>
