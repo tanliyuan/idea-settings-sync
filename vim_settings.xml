@@ -35,6 +35,13 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ShopSyncAgent.java" timestamp="1541576437996" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-trade/src/main/resources/spring/cloud-trade-dubbo-consumer.xml" timestamp="1541644137606" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.6-netsuperProtocol-SNAPSHOT/zcy-item-api-1.6.6-netsuperProtocol-20181106.023837-26.jar!/cn/gov/zcy/item/service/ZcyItemReadService.class" timestamp="1541659649115" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1541572206268">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="75" column="44" />
+        <mark key="." line="75" column="44" />
+        <mark key="^" line="75" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/supplier/supplier-api/1.0.4.RELEASE/supplier-api-1.0.4.RELEASE.jar!/cn/gov/zcy/supplier/information/util/DateFormatUtil.class" timestamp="1541588561625" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1541582028438">
         <mark key="[" line="46" column="33" />
@@ -43,8 +50,12 @@
         <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditWriteServiceImpl.java" timestamp="1541581618866" />
-      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1541654338989">
-        <mark key="'" line="222" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1541662086020">
+        <mark key="'" line="102" column="69" />
+        <mark key="[" line="253" column="48" />
+        <mark key="]" line="253" column="59" />
+        <mark key="." line="253" column="59" />
+        <mark key="^" line="253" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1541578379150">
         <mark key="[" line="82" column="27" />
@@ -52,7 +63,10 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="80" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541659667489" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541661525988" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-vaccine/src/main/java/cn/gov/zcy/vaccine/batch/service/ItemBatchWriteServiceImpl.java" timestamp="1541661591962">
+        <mark key="'" line="97" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/cn/gov/zcy/extra/spu/service/AliSpuServiceImpl.java" timestamp="1541574964129" />
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1541577557371">
         <mark key="[" line="10" column="201" />
@@ -120,8 +134,6 @@
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/item/dto/ItemDistrictRelationDto.java" timestamp="1541581478712" />
     </filemarks>
     <jumps>
-      <jump line="113" column="45" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" />
-      <jump line="137" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" />
       <jump line="64" column="96" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ViewController.java" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ViewController.java" />
       <jump line="166" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/CustomerPampasAutoCOnfiguration.java" />
@@ -220,13 +232,15 @@
       <jump line="222" column="65" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
       <jump line="29" column="7" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/category/service/SupplierAuthItemReadServiceImpl.java" />
       <jump line="88" column="111" filename="$MAVEN_REPOSITORY$/io/terminus/parana/parana-file/4.0-SNAPSHOT/parana-file-4.0-20160407.035052-10.jar!/io/terminus/parana/file/service/UserFolderServiceImpl.class" />
+      <jump line="97" column="12" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-vaccine/src/main/java/cn/gov/zcy/vaccine/batch/service/ItemBatchWriteServiceImpl.java" />
+      <jump line="102" column="69" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>((ZcyUser) user).getShopId()</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>((ZcyUser) user).getShopId()</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -235,31 +249,31 @@
         <text>category.find.fail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJpdGVtQ29kZSAhPSBudWxsIj4KICAgICAgY29kZSA9ICN7aXRlbUNvZGV9LAogICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJjcmVhdGVkQXQgIT0gbnVsbCI+CiAgICAgIGNyZWF0ZWRfYXQgPSAje2NyZWF0ZWRBdCxqZGJjVHlwZT1USU1FU1RBTVB9LAogICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJpdGVtQ29kZSAhPSBudWxsIj4KICAgICAgY29kZSA9ICN7aXRlbUNvZGV9LAogICAgPC9pZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJjcmVhdGVkQXQgIT0gbnVsbCI+CiAgICAgIGNyZWF0ZWRfYXQgPSAje2NyZWF0ZWRBdCxqZGJjVHlwZT1USU1FU1RBTVB9LAogICAgPC9pZj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWxpc3RSZXNwb25zZS5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICBsb2cuZXJyb3IoIuexu+ebruWIl+ihqOafpeivouWksei0pe+8jGlkczp7fSIsIGxlYWZDYXRlZ29yeUlkcyk7CiAgICAgICAgICAgIHRocm93IG5ldyBKc29uUmVzcG9uc2VFeGNlcHRpb24obGlzdFJlc3BvbnNlLmdldEVycm9yKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmZhaWwoImNhdGVnb3J5LmZpbmQuZmFpbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGJ5SWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWxpc3RSZXNwb25zZS5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICBsb2cuZXJyb3IoIuexu+ebruWIl+ihqOafpeivouWksei0pe+8jGlkczp7fSIsIGxlYWZDYXRlZ29yeUlkcyk7CiAgICAgICAgICAgIHRocm93IG5ldyBKc29uUmVzcG9uc2VFeGNlcHRpb24obGlzdFJlc3BvbnNlLmdldEVycm9yKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBieUlkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmZhaWwoImNhdGVnb3J5LmZpbmQuZmFpbCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
