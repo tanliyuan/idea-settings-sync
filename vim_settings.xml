@@ -33,23 +33,14 @@
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/service/BackCategoryReadService.java" timestamp="1541644174802" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/shop/impl/service/ShopReadServiceImpl.java" timestamp="1541576473008" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ShopSyncAgent.java" timestamp="1541576437996" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/BackCategoryReadService.java" timestamp="1541599203604">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-trade/src/main/resources/spring/cloud-trade-dubbo-consumer.xml" timestamp="1541644137606" />
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.6-netsuperProtocol-SNAPSHOT/zcy-item-api-1.6.6-netsuperProtocol-20181106.023837-26.jar!/cn/gov/zcy/item/service/ZcyItemReadService.class" timestamp="1541659649115" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/supplier/supplier-api/1.0.4.RELEASE/supplier-api-1.0.4.RELEASE.jar!/cn/gov/zcy/supplier/information/util/DateFormatUtil.class" timestamp="1541588561625" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1541582028438">
         <mark key="[" line="46" column="33" />
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
         <mark key="^" line="45" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/BrandReadServiceImpl.java" timestamp="1541599291754">
-        <mark key="[" line="364" column="41" />
-        <mark key="]" line="364" column="41" />
-        <mark key="." line="364" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditWriteServiceImpl.java" timestamp="1541581618866" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1541654338989">
@@ -61,6 +52,7 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="80" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541659667489" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/cn/gov/zcy/extra/spu/service/AliSpuServiceImpl.java" timestamp="1541574964129" />
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1541577557371">
         <mark key="[" line="10" column="201" />
@@ -100,7 +92,7 @@
         <mark key="." line="84" column="137" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541658313310">
+      <file name="/Dummy.txt" timestamp="1541660119594">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -118,7 +110,12 @@
         <mark key="^" line="54" column="52" />
         <mark key="." line="54" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541652973255" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541660089494">
+        <mark key="[" line="419" column="22" />
+        <mark key="]" line="419" column="23" />
+        <mark key="." line="419" column="23" />
+        <mark key="^" line="419" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Multimaps.java" timestamp="1541574762510" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/item/dto/ItemDistrictRelationDto.java" timestamp="1541581478712" />
     </filemarks>
@@ -226,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tinyint</text>
+        <text>((ZcyUser) user).getShopId()</text>
       </register>
       <register name="-" type="4">
-        <text>tinyint</text>
+        <text>((ZcyUser) user).getShopId()</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
