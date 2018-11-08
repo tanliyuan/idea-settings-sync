@@ -62,10 +62,10 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditWriteServiceImpl.java" timestamp="1541581618866" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1541662086020">
         <mark key="'" line="102" column="69" />
-        <mark key="[" line="253" column="48" />
-        <mark key="]" line="253" column="59" />
-        <mark key="." line="253" column="59" />
-        <mark key="^" line="253" column="59" />
+        <mark key="[" line="200" column="48" />
+        <mark key="]" line="200" column="59" />
+        <mark key="." line="200" column="59" />
+        <mark key="^" line="200" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1541578379150">
         <mark key="[" line="82" column="27" />
@@ -130,7 +130,8 @@
         <mark key="^" line="54" column="52" />
         <mark key="." line="54" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541660089494">
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1541665363005">
+        <mark key="'" line="457" column="32" />
         <mark key="[" line="419" column="22" />
         <mark key="]" line="419" column="23" />
         <mark key="." line="419" column="23" />
@@ -140,8 +141,6 @@
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/item/dto/ItemDistrictRelationDto.java" timestamp="1541581478712" />
     </filemarks>
     <jumps>
-      <jump line="64" column="96" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ViewController.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ViewController.java" />
       <jump line="166" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/CustomerPampasAutoCOnfiguration.java" />
       <jump line="89" column="261" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/CustomerPampasAutoCOnfiguration.java" />
       <jump line="168" column="79" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
@@ -240,6 +239,8 @@
       <jump line="88" column="111" filename="$MAVEN_REPOSITORY$/io/terminus/parana/parana-file/4.0-SNAPSHOT/parana-file-4.0-20160407.035052-10.jar!/io/terminus/parana/file/service/UserFolderServiceImpl.class" />
       <jump line="97" column="12" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-vaccine/src/main/java/cn/gov/zcy/vaccine/batch/service/ItemBatchWriteServiceImpl.java" />
       <jump line="102" column="69" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
+      <jump line="428" column="0" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
+      <jump line="457" column="32" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
