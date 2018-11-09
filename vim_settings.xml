@@ -8,7 +8,11 @@
         <mark key="]" line="10" column="202" />
         <mark key="." line="10" column="202" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/fiscal/OpenCarController.java" timestamp="1541750203847">
+        <mark key="'" line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" timestamp="1541732000904" />
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/resources/spring/dubbo-consumer.xml" timestamp="1541749248324" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1541731621078">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -48,16 +52,19 @@
         <mark key="]" line="364" column="41" />
         <mark key="." line="364" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541743298361">
+      <file name="/Dummy.txt" timestamp="1541749940912">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1541745117147" />
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/pom.xml" timestamp="1541749825943" />
+      <file name="/fragment.java" timestamp="1541749940893">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="261" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/CustomerPampasAutoCOnfiguration.java" />
       <jump line="168" column="79" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
       <jump line="30" column="9" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeReadService.java" />
       <jump line="48" column="5" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeReadService.java" />
@@ -157,6 +164,7 @@
       <jump line="428" column="0" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
       <jump line="457" column="32" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
       <jump line="42" column="93" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/converters/ItemConvert.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/fiscal/OpenCarController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
