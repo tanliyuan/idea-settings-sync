@@ -11,21 +11,21 @@
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/fiscal/OpenCarController.java" timestamp="1541750203847">
         <mark key="'" line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" timestamp="1541732000904" />
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/resources/spring/dubbo-consumer.xml" timestamp="1541749248324" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1541731621078">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1541750884866">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/service/facade/CategoryReadServiceFacadeTest.java" timestamp="1541757397267" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1541757601125">
         <mark key="[" line="174" column="37" />
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacade.java" timestamp="1541735713511" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1541736004689" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1541755314956" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/SpuAliMapper.xml" timestamp="1541647503013">
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
@@ -37,12 +37,14 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/BackCategory.java" timestamp="1541756209474" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1541743295269">
         <mark key="[" line="94" column="33" />
         <mark key="]" line="94" column="34" />
         <mark key="." line="94" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/service/FrontCategoryReadService.java" timestamp="1541735254079" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcyAdminBackCategories.java" timestamp="1541757612118" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/BackCategoryReadService.java" timestamp="1541599203604">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="21" />
@@ -53,13 +55,13 @@
         <mark key="]" line="364" column="41" />
         <mark key="." line="364" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541749940912">
+      <file name="/Dummy.txt" timestamp="1541755669848">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/pom.xml" timestamp="1541745117147" />
+      <file name="/pom.xml" timestamp="1541755327147" />
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/pom.xml" timestamp="1541749825943" />
       <file name="/fragment.java" timestamp="1541749940893">
         <mark key="[" line="0" column="0" />
