@@ -7,7 +7,7 @@
         <mark key="'" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/logback-spring.xml" timestamp="1541768257990" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/mysql/FrontCategoryDao.java" timestamp="1541762591904">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/mysql/FrontCategoryDao.java" timestamp="1541771457707">
         <mark key="[" line="34" column="49" />
         <mark key="]" line="34" column="64" />
         <mark key="^" line="34" column="64" />
@@ -43,7 +43,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/BackCategory.java" timestamp="1541756209474" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/service/FrontCategoryReadService.java" timestamp="1541735254079" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacadeImpl.java" timestamp="1541763128408">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacadeImpl.java" timestamp="1541771812050">
         <mark key="[" line="71" column="31" />
         <mark key="]" line="71" column="43" />
         <mark key="." line="71" column="43" />
@@ -67,11 +67,11 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryReadServiceImpl.java" timestamp="1541763023026">
-        <mark key="[" line="103" column="86" />
-        <mark key="]" line="104" column="31" />
-        <mark key="." line="104" column="31" />
-        <mark key="^" line="104" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryReadServiceImpl.java" timestamp="1541772056548">
+        <mark key="[" line="101" column="69" />
+        <mark key="]" line="101" column="69" />
+        <mark key="." line="101" column="69" />
+        <mark key="^" line="101" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/frontCategoryMapper.xml" timestamp="1541762797826">
         <mark key="[" line="37" column="63" />
@@ -79,7 +79,7 @@
         <mark key="^" line="50" column="52" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541764263296">
+      <file name="/Dummy.txt" timestamp="1541772058493">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -113,7 +113,7 @@
       </file>
       <file name="/pom.xml" timestamp="1541755327147" />
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/pom.xml" timestamp="1541749825943" />
-      <file name="/fragment.java" timestamp="1541749940893">
+      <file name="/fragment.java" timestamp="1541771853369">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -221,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
