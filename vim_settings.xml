@@ -21,11 +21,11 @@
         <mark key="^" line="34" column="64" />
         <mark key="." line="34" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/realm/ShiroDbRealm.java" timestamp="1541919070185">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/realm/ShiroDbRealm.java" timestamp="1541921676007">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="51" />
+        <mark key="." line="39" column="51" />
+        <mark key="^" line="39" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/resources/templates/entity.java.vm" timestamp="1541918727568" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/model/pom.xml" timestamp="1541916538711">
@@ -227,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;test&quot;</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;test&quot;</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
