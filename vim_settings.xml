@@ -17,11 +17,11 @@
         <mark key="^" line="34" column="64" />
         <mark key="." line="34" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/ShrioConfig.java" timestamp="1541936472163">
-        <mark key="[" line="52" column="62" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="56" column="50" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/ShrioConfig.java" timestamp="1541942841758">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="50" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/realm/ShiroDbRealm.java" timestamp="1541933896181">
         <mark key="[" line="44" column="0" />
@@ -106,7 +106,7 @@
         <mark key="." line="45" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/java/me/hrps/aas/web/sys/controller/AccountController.java" timestamp="1541931461065" />
-      <file name="/Dummy.txt" timestamp="1541930287926">
+      <file name="/Dummy.txt" timestamp="1541945124268">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,11 +124,11 @@
         <mark key="^" line="54" column="52" />
         <mark key="." line="54" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyLogoutFilter.java" timestamp="1541935621358">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="19" />
-        <mark key="^" line="30" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyLogoutFilter.java" timestamp="1541944852661">
+        <mark key="[" line="22" column="81" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1541578379150">
         <mark key="[" line="82" column="27" />
@@ -136,10 +136,11 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="80" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/KickoutSessionControlFilter.java" timestamp="1541941602356">
-        <mark key="[" line="75" column="25" />
-        <mark key="]" line="75" column="25" />
-        <mark key="." line="75" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/WebConfigure.java" timestamp="1541943798970" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/KickoutSessionControlFilter.java" timestamp="1541944876199">
+        <mark key="[" line="66" column="86" />
+        <mark key="]" line="66" column="86" />
+        <mark key="." line="66" column="86" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/java/com/qifoon/code/generate/GenteratorCode.java" timestamp="1541918497152">
         <mark key="[" line="83" column="0" />
@@ -147,24 +148,34 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyFormAuthenticationFilter.java" timestamp="1541941756744">
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyFormAuthenticationFilter.java" timestamp="1541944778227">
         <mark key="'" line="30" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="20" column="5" />
+        <mark key="[" line="70" column="86" />
+        <mark key="]" line="70" column="86" />
+        <mark key="." line="70" column="86" />
+        <mark key="^" line="70" column="86" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/support/exception/RestExceptionHandler.java" timestamp="1541925247353" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/filter/HttpContextFilter.java" timestamp="1541944022616">
+        <mark key="[" line="25" column="74" />
+        <mark key="]" line="25" column="79" />
+        <mark key="^" line="25" column="79" />
+        <mark key="." line="25" column="79" />
+      </file>
       <file name="/fragment.java" timestamp="1541941708908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyUserFilter.java" timestamp="1541925897237" />
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/controller/IndexController.java" timestamp="1541934853015">
-        <mark key="[" line="60" column="43" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyUserFilter.java" timestamp="1541944908646">
+        <mark key="[" line="40" column="86" />
+        <mark key="]" line="40" column="86" />
+        <mark key="." line="40" column="86" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/controller/IndexController.java" timestamp="1541942802046">
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="29" />
         <mark key="^" line="60" column="43" />
       </file>
     </filemarks>
@@ -271,11 +282,11 @@
       <jump line="28" column="8" filename="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyFormAuthenticationFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ViamVjdC5nZXRQcmluY2lwYWwoKS5nZXRDbGFzcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(ShiroUser)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -284,31 +295,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCkucHJpbnQoCiAgICAgICAgICAgICAgICAgICAgSlNPTi50b0pTT04obmV3IEFwaVJlc3BvbnNlPD4oMSwgIuWksei0pSIpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ViamVjdC5nZXRQcmluY2lwYWwoKS5nZXRDbGFzcygpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzdXBlci5vbkFjY2Vzc0RlbmllZChyZXF1ZXN0LCByZXNwb25zZSwgbWFwcGVkVmFsdWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaWZvb24ud2ViLnNoaXJvLmRvbWFpbi5TaGlyb1VzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc2V0Q29udGVudFR5cGUoImFwcGxpY2F0aW9uL2pzb247Y2hhcnNldD1VVEYtOCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmnYPpmZDmjqfliLbmlL7lnKjliY3nq6/pobXpnaIK</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbHRlckNoYWluRGVmaW5pdGlvbk1hcHBpbmcucHV0KCIvdXNlciIsICJhbm9uIik7Ci8vICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXBwaW5nLnB1dCgiL2xvZ2luIiwgImFub24iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">c3ViamVjdC5nZXRQcmluY2lwYWwoKS5nZXRDbGFzcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySW5mby5zCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaWZvb24ud2ViLnNoaXJvLmRvbWFpbi5TaGlyb1VzZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBuZXcgU3RyaW5nKHVzZXJuYW1lUGFzc3dvcmRUb2tlbi5nZXRQYXNzd29yZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmnYPpmZDmjqfliLbmlL7lnKjliY3nq6/pobXpnaIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlyb1VzZXIuc2V0UGFzc3dvcmQoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdWJqZWN0IHN1YmplY3QgPSBTZWN1cml0eVV0aWxzLmdldFN1YmplY3QoKTsKICAgICAgICBVc2VybmFtZVBhc3N3b3JkVG9rZW4gdXNlcm5hbWVQYXNzd29yZFRva2VuID0gbmV3IFVzZXJuYW1lUGFzc3dvcmRUb2tlbih1c2VybmFtZSwgcGFzc3dvcmQpOwogICAgICAgIHN1YmplY3QubG9naW4odXNlcm5hbWVQYXNzd29yZFRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySW5mby5zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzdXBlci5vbkFjY2Vzc0RlbmllZChyZXF1ZXN0LCByZXNwb25zZSwgbWFwcGVkVmFsdWUpOwogICAgICAgIHJlc3BvbnNlLnNldENvbnRlbnRUeXBlKCJhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9VVRGLTgiKTsKICAgICAgICAvL+i+k+WHuiBKU09OIOWtl+espuS4sgogICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLnByaW50KAogICAgICAgICAgICAgICAgSlNPTi50b0pTT04obmV3IEFwaVJlc3BvbnNlPD4oMSwgIuacqueZu+mZhiIpKSk7CiAgICAgICAgLy/kuK3mraLor7fmsYLvvIzkuI3lho3kvKDnu5nkuIvkuIDkuKpGaWx0ZXIKICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBuZXcgU3RyaW5nKHVzZXJuYW1lUGFzc3dvcmRUb2tlbi5nZXRQYXNzd29yZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
