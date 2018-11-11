@@ -21,6 +21,13 @@
         <mark key="^" line="34" column="64" />
         <mark key="." line="34" column="64" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/realm/ShiroDbRealm.java" timestamp="1541919070185">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/resources/templates/entity.java.vm" timestamp="1541918727568" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/model/pom.xml" timestamp="1541916538711">
         <mark key="[" line="17" column="67" />
         <mark key="]" line="18" column="25" />
@@ -92,9 +99,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryReadService.java" timestamp="1541763840741">
-        <mark key="[" line="44" column="60" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/pom.xml" timestamp="1541916207628">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -105,14 +109,17 @@
         <mark key="]" line="219" column="56" />
         <mark key="." line="219" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/java/com/qifoon/code/generate/GenteratorCode.java" timestamp="1541918497152">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="64" column="16" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacadeImpl.java" timestamp="1541771812050">
         <mark key="[" line="71" column="31" />
         <mark key="]" line="71" column="43" />
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
-      </file>
-      <file name="/fragment.java" timestamp="1541771853369">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -218,11 +225,11 @@
       <jump line="37" column="13" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/fiscal/OpenCarController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;test&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;test&quot;</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -231,31 +238,31 @@
         <text>前台类目搜索异常</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaWZvb24uc2VydmljZS5JVXNlckluZm9TZXJ2aWNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+My4wLjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQoImVudGl0eUxvbWJva01vZGVsIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmJhb21pZG91PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5teWJhdGlzLXBsdXMtYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dAo=</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+My4wLjU8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnl7Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmJhb21pZG91PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5teWJhdGlzLXBsdXMtYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoKEV4Y2VwdGlvbiBlKXsgbG9nLmVycm9yKCJmaW5kIGJ5IG5hbWUgZnV6enkgZmFpbGVkOiBuYW1le30sIGNhdXNle30iLCBuYW1lLCBUaHJvd2FibGVzLmdldFN0YWNrVHJhY2VBc1N0cmluZyhlKSk7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCJjYXRlZ29yeS5mdXp6eS5uYW1lLmZhaWxlZCIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoKEV4Y2VwdGlvbiBlKXsgbG9nLmVycm9yKCJmaW5kIGJ5IG5hbWUgZnV6enkgZmFpbGVkOiBuYW1le30sIGNhdXNle30iLCBuYW1lLCBUaHJvd2FibGVzLmdldFN0YWNrVHJhY2VBc1N0cmluZyhlKSk7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCJjYXRlZ29yeS5mdXp6eS5uYW1lLmZhaWxlZCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cuZXJyb3IoIuWJjeWPsOexu+ebruaQnOe0ouWksei0pSxwYXJhbTp7fSxjYXVzZTp7fSIsIHNlYXJjaENyaXRlcmlhLCBUaHJvd2FibGVzLmdldFN0YWNrVHJhY2VBc1N0cmluZyhlKSk7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCLliY3lj7Dnsbvnm67mkJzntKLlpLHotKUiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
