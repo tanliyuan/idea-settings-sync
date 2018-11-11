@@ -5,25 +5,93 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2.jar!/org/apache/shiro/web/filter/authc/UserFilter.class" timestamp="1541925390005" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/model/src/main/java/com/qifoon/entity/UserInfo.java" timestamp="1541917023923" />
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/ShrioConfig.java" timestamp="1541929625913">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/mysql/FrontCategoryDao.java" timestamp="1541771457707">
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="64" />
+        <mark key="^" line="34" column="64" />
+        <mark key="." line="34" column="64" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/configure/ShrioConfig.java" timestamp="1541932010471">
         <mark key="[" line="57" column="49" />
         <mark key="]" line="57" column="49" />
         <mark key="^" line="57" column="50" />
         <mark key="." line="57" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/realm/ShiroDbRealm.java" timestamp="1541926108679">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="51" />
-        <mark key="." line="39" column="51" />
-        <mark key="^" line="39" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/realm/ShiroDbRealm.java" timestamp="1541932661766">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="49" />
+        <mark key="." line="40" column="49" />
+        <mark key="^" line="40" column="49" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/model/pom.xml" timestamp="1541916538711">
+        <mark key="[" line="17" column="67" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dbchange/rollback/V128__商品中心_db_item_spu渠道字段类型变更.sql" timestamp="1541655808020">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/pom.xml" timestamp="1541932205481" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1541669284934">
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="51" column="57" />
+        <mark key="." line="51" column="57" />
+        <mark key="^" line="51" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1541757601125">
+        <mark key="[" line="174" column="37" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" timestamp="1541931776494" />
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/java/me/hrps/aas/core/shiro/realm/ShiroDbRealm.java" timestamp="1541920144843" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" timestamp="1541929408001" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" timestamp="1541932117888" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/common/pom.xml" timestamp="1541932224983">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryReadServiceFacadeImpl.java" timestamp="1541771812050">
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="43" />
+        <mark key="." line="71" column="43" />
+        <mark key="^" line="71" column="43" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar!/org/apache/commons/codec/binary/Hex.class" timestamp="1541922427299" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1541678815967">
+        <mark key="[" line="84" column="136" />
+        <mark key="]" line="84" column="137" />
+        <mark key="." line="84" column="137" />
+        <mark key="^" line="30" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/interceptor/TokenInterceptor.java" timestamp="1541924974951" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/resources/templates/entity.java.vm" timestamp="1541918727568" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/resources/application.yml" timestamp="1541929760034">
         <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1541582028438">
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryReadServiceImpl.java" timestamp="1541811196233">
+        <mark key="[" line="101" column="50" />
+        <mark key="]" line="101" column="50" />
+        <mark key="." line="101" column="50" />
+        <mark key="^" line="101" column="69" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/frontCategoryMapper.xml" timestamp="1541811051734">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="50" column="52" />
+        <mark key="." line="45" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/java/me/hrps/aas/web/sys/controller/AccountController.java" timestamp="1541931461065" />
       <file name="/Dummy.txt" timestamp="1541930287926">
@@ -31,6 +99,24 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacadeImpl.java" timestamp="1541764259399">
+        <mark key="[" line="182" column="73" />
+        <mark key="]" line="182" column="73" />
+        <mark key="." line="182" column="73" />
+        <mark key="^" line="191" column="106" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1541578417153">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="54" column="52" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1541578379150">
+        <mark key="[" line="82" column="27" />
+        <mark key="]" line="80" column="38" />
+        <mark key="." line="80" column="38" />
+        <mark key="^" line="80" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryReadService.java" timestamp="1541763840741">
         <mark key="[" line="44" column="60" />
@@ -41,26 +127,26 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyFormAuthenticationFilter.java" timestamp="1541931121619">
-        <mark key="[" line="52" column="50" />
-        <mark key="]" line="52" column="50" />
-        <mark key="." line="52" column="50" />
-        <mark key="^" line="48" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyFormAuthenticationFilter.java" timestamp="1541932292241">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/support/exception/RestExceptionHandler.java" timestamp="1541925247353" />
       <file name="/fragment.java" timestamp="1541930287919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyUserFilter.java" timestamp="1541925897237" />
-      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/controller/IndexController.java" timestamp="1541931522921">
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="61" column="39" />
-        <mark key="." line="61" column="39" />
-        <mark key="^" line="61" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/controller/IndexController.java" timestamp="1541932360214">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="52" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="79" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
       <jump line="30" column="9" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeReadService.java" />
       <jump line="48" column="5" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeReadService.java" />
       <jump line="80" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeWriteServiceImpl.java" />
@@ -160,13 +246,14 @@
       <jump line="457" column="32" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
       <jump line="42" column="93" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/converters/ItemConvert.java" />
       <jump line="37" column="13" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/fiscal/OpenCarController.java" />
+      <jump line="28" column="8" filename="$USER_HOME$/IdeaProjects/mp-huodong/web/src/main/java/com/qifoon/web/shiro/filter/MyFormAuthenticationFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>败</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>败</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -175,31 +262,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0V3JpdGVyKCkucHJpbnQoCiAgICAgICAgICAgICAgICAgICAgSlNPTi50b0pTT04obmV3IEFwaVJlc3BvbnNlPD4oMSwgIuWksei0pSIpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+WPluiiq+imgeaxgueahOadg+mZkAo=</text>
+        <text encoding="base64">ICAgICAgICBzaGlyb1VzZXIuc2V0UGFzc3dvcmQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBwZXJtcyA9IChTdHJpbmdbXSkgbWFwcGVkVmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdWJqZWN0IHN1YmplY3QgPSBTZWN1cml0eVV0aWxzLmdldFN1YmplY3QoKTsKICAgICAgICBVc2VybmFtZVBhc3N3b3JkVG9rZW4gdXNlcm5hbWVQYXNzd29yZFRva2VuID0gbmV3IFVzZXJuYW1lUGFzc3dvcmRUb2tlbih1c2VybmFtZSwgcGFzc3dvcmQpOwogICAgICAgIHN1YmplY3QubG9naW4odXNlcm5hbWVQYXNzd29yZFRva2VuKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlc3BvbnNlIHJlcyA9IFByb2plY3Quc2VydmxldFJlc3BvbnNlUHJvY2VzcyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzdXBlci5vbkFjY2Vzc0RlbmllZChyZXF1ZXN0LCByZXNwb25zZSwgbWFwcGVkVmFsdWUpOwogICAgICAgIHJlc3BvbnNlLnNldENvbnRlbnRUeXBlKCJhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9VVRGLTgiKTsKICAgICAgICAvL+i+k+WHuiBKU09OIOWtl+espuS4sgogICAgICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLnByaW50KAogICAgICAgICAgICAgICAgSlNPTi50b0pTT04obmV3IEFwaVJlc3BvbnNlPD4oMSwgIuacqueZu+mZhiIpKSk7CiAgICAgICAgLy/kuK3mraLor7fmsYLvvIzkuI3lho3kvKDnu5nkuIvkuIDkuKpGaWx0ZXIKICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuZ2V0V3JpdGVyKCkucHJpbnQoCiAgICAgICAgICAgICAgICBKU09OLnRvSlNPTigKICAgICAgICAgICAgICAgICAgICAgICAgUmVzdWx0LnJldHVybkVycm9yKFByb2plY3QuTk9fQVVUSF9DT0RFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3QuTk9fQVVUSF9NRVNTQUdFICsgQXJyYXlzLnRvU3RyaW5nKHBlcm1zKSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVJlcXVlc3RBbmRSZWRpcmVjdFRvTG9naW4ocmVxdWVzdCwgcmVzcG9uc2UpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChsb2cuaXNUcmFjZUVuYWJsZWQoKSkgewogICAgICAgICAgICAgICAgICAgIGxvZy50cmFjZSgiTG9naW4gcGFnZSB2aWV3LiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy9hbGxvdyB0aGVtIHRvIHNlZSB0aGUgbG9naW4gcGFnZSA7KQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJpwb21lcl9odWFuZwogICAg5p2l5rqQ77yaQ1NETgogICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbWVyX2h1YW5nL2FydGljbGUvZGV0YWlscy83OTkzMzc5NyAKICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9uTG9naW5GYWlsdXJlKHRva2VuLCBlLCByZXF1ZXN0LCByZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICAgICAg5L2c6ICF77yacG9tZXJfaHVhbmcKICAgICAgICAgICAg5p2l5rqQ77yaQ1NETgogICAgICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvcG9tZXJfaHVhbmcvYXJ0aWNsZS9kZXRhaWxzLzc5OTMzNzk3IAogICAgICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
+        <text encoding="base64">ICAgICAgICAvL+iOt+WPluiiq+imgeaxgueahOadg+mZkAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3dlIGhhbmRsZWQgdGhlIHN1Y2Nlc3MgcmVkaXJlY3QgZGlyZWN0bHksIHByZXZlbnQgdGhlIGNoYWluIGZyb20gY29udGludWluZzoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBwZXJtcyA9IChTdHJpbmdbXSkgbWFwcGVkVmFsdWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
