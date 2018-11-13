@@ -22,7 +22,8 @@
         <mark key="^" line="325" column="134" />
         <mark key="." line="325" column="134" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/CategoryAttributeSyncAgent.java" timestamp="1542086431001" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/CategoryAttributeSyncAgent.java" timestamp="1542090248278" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/spring/cloud-item-dubbo-provider.xml" timestamp="1542093550695" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.java" timestamp="1542031427332" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542063799838">
         <mark key="[" line="157" column="28" />
@@ -34,6 +35,7 @@
         <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/service/ItemReadService.java" timestamp="1542065533961" />
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" timestamp="1542089951764" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1542024124952">
         <mark key="[" line="49" column="35" />
         <mark key="]" line="49" column="48" />
@@ -49,9 +51,11 @@
         <mark key="." line="686" column="31" />
         <mark key="^" line="686" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/mysql/PropertyDao.java" timestamp="1542087042175" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/service/ItemReadService.java" timestamp="1542067612666">
         <mark key="[" line="131" column="72" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/LeaderExecJob.java" timestamp="1542092909756" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.5-SNAPSHOT/parana-item-5.3.5-SNAPSHOT.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1542064861859" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/filter/OtherAttributeFilterByCategoryExecutor.java" timestamp="1542073976157" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ChannelSwitchSyncAgent.java" timestamp="1542078498468" />
@@ -61,6 +65,15 @@
         <mark key="^" line="286" column="6" />
         <mark key="." line="286" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" timestamp="1542091865079">
+        <mark key="[" line="51" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" timestamp="1542087194536">
+        <mark key="[" line="146" column="35" />
+        <mark key="]" line="146" column="51" />
+        <mark key="^" line="146" column="51" />
+        <mark key="." line="146" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/rule/dto/BaseInput.java" timestamp="1542074200517" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/service/spu/AliSpuServiceImplTest.java" timestamp="1542077929335">
         <mark key="[" line="26" column="23" />
@@ -68,17 +81,17 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542086168385">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542093179519">
         <mark key="[" line="51" column="25" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="26" />
-        <mark key="^" line="157" column="53" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
+        <mark key="^" line="50" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/pom.xml" timestamp="1542024315305">
-        <mark key="[" line="85" column="68" />
-        <mark key="]" line="85" column="22" />
-        <mark key="^" line="85" column="22" />
-        <mark key="." line="85" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542092105827">
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="101" column="1" />
+        <mark key="^" line="101" column="1" />
+        <mark key="." line="101" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1541990541401">
         <mark key="[" line="38" column="58" />
@@ -87,7 +100,7 @@
         <mark key="." line="38" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1542038623752" />
-      <file name="/Dummy.txt" timestamp="1542085050646">
+      <file name="/Dummy.txt" timestamp="1542093396399">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -108,7 +121,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/boot/spring-boot-starter-redis/1.0.0-SNAPSHOT/spring-boot-starter-redis-1.0.0-20171208.015035-9-sources.jar!/cn/gov/zcy/spring/boot/redis/ms/RedisJedisPool.java" timestamp="1542081562248" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1542064501768" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542083904716">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542092533514">
         <mark key="[" line="149" column="64" />
         <mark key="]" line="149" column="76" />
         <mark key="^" line="149" column="76" />
@@ -121,7 +134,7 @@
         <mark key="." line="863" column="22" />
         <mark key="^" line="863" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1542079837188">
+      <file name="/fragment.java" timestamp="1542093396393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -231,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
