@@ -38,6 +38,12 @@
         <mark key="^" line="65" column="82" />
         <mark key="." line="65" column="82" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542103635827">
+        <mark key="[" line="168" column="42" />
+        <mark key="]" line="173" column="53" />
+        <mark key="." line="173" column="53" />
+        <mark key="^" line="173" column="53" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542095052341">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="101" column="1" />
@@ -92,6 +98,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/service/ItemReadService.java" timestamp="1542067612666">
         <mark key="[" line="131" column="72" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/LeaderExecJob.java" timestamp="1542102199333" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542097507928">
         <mark key="[" line="137" column="28" />
         <mark key="]" line="137" column="32" />
@@ -224,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>boolean</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -236,31 +243,31 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJsaW1pdCIsIHBhZ2VJbmZvLmdldExpbWl0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyUGFnZU51bSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJQYWdlTnVtID0gaXRlbXMuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydU51bS5nZXQoKSsrOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2VOdW0rKzsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZih1cGRhdGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyUGFnZU51bSA9IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWx1cmVDb3VudCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJQYWdlTnVtID0gaXRlbXMuc2l6ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGZhaWx1cmVDb3VudCA9IDBMOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZih1cGRhdGVMaXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
