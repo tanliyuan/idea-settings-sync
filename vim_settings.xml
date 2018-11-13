@@ -65,12 +65,6 @@
         <mark key="^" line="65" column="82" />
         <mark key="." line="65" column="82" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542106298425">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="117" column="18" />
-        <mark key="." line="117" column="18" />
-        <mark key="^" line="117" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542095052341">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="101" column="1" />
@@ -92,7 +86,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542108374046" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.5-SNAPSHOT/parana-item-5.3.5-SNAPSHOT.jar!/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.class" timestamp="1542108417985" />
-      <file name="/Dummy.txt" timestamp="1542110862516">
+      <file name="/Dummy.txt" timestamp="1542113619534">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -241,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>[spu dum改为15分钟执行一次]</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>[spu dum改为15分钟执行一次]</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -253,31 +247,31 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJsaW1pdCIsIHBhZ2VJbmZvLmdldExpbWl0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydU51bS5nZXQoKSsrOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2VOdW0rKzsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyUGFnZU51bSA9IDA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJQYWdlTnVtID0gaXRlbXMuc2l6ZSgpOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHJ5RXhlY2VwdGlvbi0tOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL+W8guW4uOi/h+WkmuWwseayoeW/heimgeWGjee7p+e7reS6hgogICAgICAgIGludCByZXRyeUV4ZWNlcHRpb24gPSAxMDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL+W8guW4uOi/h+WkmuWwseayoeW/heimgeWGjee7p+e7reS6hgogICAgICAgIGludCByZXRyeUV4ZWNlcHRpb24gPSAxMDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc0V4ZWNlcHRpb24gPSB0cnVlOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGFzRXhlY2VwdGlvbiA9IGZhbHNlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYUxvbmcgPT0gbnVsbCB8fCBhTG9uZyA8IDEpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZih1cGRhdGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygi6KaB5L+u5aSN5pWw5o2u5pWw6YeP77yae30iLCBhTG9uZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
