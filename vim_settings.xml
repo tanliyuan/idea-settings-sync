@@ -42,7 +42,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemSelectParamDTO.java" timestamp="1542035009009" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/spuMapper.xml" timestamp="1542067295414" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1542081295479">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1542083923928">
         <mark key="'" line="33" column="38" />
         <mark key="[" line="704" column="24" />
         <mark key="]" line="704" column="24" />
@@ -68,11 +68,11 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542081841176">
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="79" column="11" />
-        <mark key="." line="79" column="11" />
-        <mark key="^" line="79" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542083888257">
+        <mark key="[" line="170" column="110" />
+        <mark key="]" line="170" column="110" />
+        <mark key="." line="170" column="110" />
+        <mark key="^" line="100" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/pom.xml" timestamp="1542024315305">
         <mark key="[" line="85" column="68" />
@@ -108,7 +108,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/boot/spring-boot-starter-redis/1.0.0-SNAPSHOT/spring-boot-starter-redis-1.0.0-20171208.015035-9-sources.jar!/cn/gov/zcy/spring/boot/redis/ms/RedisJedisPool.java" timestamp="1542081562248" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1542064501768" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542075108851">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542083904716">
         <mark key="[" line="149" column="64" />
         <mark key="]" line="149" column="76" />
         <mark key="^" line="149" column="76" />
@@ -231,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -243,31 +243,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0U3FsU2Vzc2lvbigpLnNlbGVjdE9uZShzcWxJZCgiY291bnRLZXlBdHRyc0JyaWVmSXNOdWxsIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W2Vz5pCc57Si5Y+C5pWw5aKe5YqgbG9nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWx1cmVDb3VudCsrOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwdVBhZ2VObysrOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGZhaWx1cmVDb3VudCA9IDBMOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1EYW8uYmF0Y2hVcGRhdGVLZXlBdHRyc0JyaWVmKCk7Cg==</text>
+        <text encoding="base64">W2Vz5pCc57Si5Y+C5pWw5aKe5YqgbG9nXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8SXRlbT4gb2JqZWN0cyA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrmta7nlJ/mnKrlpK7ov7nmta7okI0KICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3h5amF3cTEvYXJ0aWNsZS9kZXRhaWxzLzc0MTI5MzE2CiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwdVBhZ2VObysrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrmta7nlJ/mnKrlpK7ov7nmta7okI0KICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3h5amF3cTEvYXJ0aWNsZS9kZXRhaWxzLzc0MTI5MzE2CiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1EYW8uYmF0Y2hVcGRhdGVLZXlBdHRyc0JyaWVmKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKEFsaVNwdURUTyBhbGlTcHVEVE8gOiBhbGlTcHVEVE9QYWdpbmcuZ2V0RGF0YSgpKSB7CgogICAgICAgICAgICAgICAgICAgICAgICBTcHVBbGkgc3B1QWxpID0gUG9qb0NvbnZlcnRVdGlsLmNvbnZlcnQoYWxpU3B1RFRPLCBTcHVBbGkuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgICAgICBzcHVBbGkuc2V0Q2hhbm5lbCgxKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3B1QWxpLnNldEl0ZW1Db2RlKFN0cmluZy52YWx1ZU9mKHNwdUFsaS5nZXRTcHVJZCgpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNwdUFsaVdyaXRlU2VydmljZS5pbnNlcnRFeGlzdFVwZGF0ZUR1cGxpY2F0ZUtleShzcHVBbGkpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgLy/ov5nml7bor7TmmI41MDAw5LmL5YaF55qE5pWw5o2u5bey57uP6YGN5Y6G5a6M77yM5LmL5aSW55qE5pWw5o2u5p+l6K+i5LiN5Ye65p2l77yM6KaB6YCa6L+H57K+56Gu5pCc57Si5p2h5Lu25p2l6L+b5LiA5q2l5p+l6K+iCiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5nZXRSZXN1bHQoKS5nZXRUb3RhbCgpID4gVE9UQUxfU0laRV9QRVJfQ09ORElUSU9OICYmIFRPVEFMX1NJWkVfUEVSX0NPTkRJVElPTi5lcXVhbHMoc3B1UGFnZU5vICogUEFHRV9TSVpFKSkgewogICAgICAgICAgICAgICAgICAgICAgICAvL2FsaXNwdXNlcnZpY2Ug6YeM6Z2i5YaZ5q275LqG5qC55o2uc3B1aWQg6ZmN5bqP77yM562J5ZCMY3JlYXRlX2F06ZmN5bqP77yM5omA5Lul6L+Z6YeM55SoY3JlYXRlZGVuZAogICAgICAgICAgICAgICAgICAgICAgICAvL+W+gOWJjTEw56eS77yM6YG/5YWN5LiL5qyh5p+l6K+i5oqK5ZCM5pe26Ze055qE5ryP5o6J77yMIOmHjeWkjeafpeWHuui/meacn+mXtOeahOayoeWFs+ezuwogICAgICAgICAgICAgICAgICAgICAgICBhbGlTcHVTZWFyY2hQYXJhbXNEVE8xLnNldENyZWF0ZWRFbmQobmV3IERhdGVUaW1lKGFsaVNwdURUT1BhZ2luZy5nZXREYXRhKCkuZ2V0KFBBR0VfU0laRSAtIDEpLmdldENyZWF0ZWRBdCgpLmdldFRpbWUoKSkucGx1c1NlY29uZHMoMTApLnRvRGF0ZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaXNDb250aW51ZSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHNwdVBhZ2VObyA9IDE7CgogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYWxpU3B1RFRPUGFnaW5nLmdldERhdGEoKS5zaXplKCkgPCBQQUdFX1NJWkUgfHwgKHJlc3VsdC5nZXRSZXN1bHQoKS5nZXRUb3RhbCgpLmVxdWFscyhzcHVQYWdlTm8gKiBQQUdFX1NJWkUpKSkgeyAvL+mBjeWOhuWIsOacgOWQjuS4gOmhteS6hgogICAgICAgICAgICAgICAgICAgICAgICBpc0NvbnRpbnVlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgaXNDb250aW51ZSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIHNwdVBhZ2VObysrOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8SXRlbT4gb2JqZWN0cyA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v57un57ut5LiL5LiA6aG1ZHVtcAo=</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrmta7nlJ/mnKrlpK7ov7nmta7okI0KICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3h5amF3cTEvYXJ0aWNsZS9kZXRhaWxzLzc0MTI5MzE2CiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
