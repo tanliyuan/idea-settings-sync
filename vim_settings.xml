@@ -22,6 +22,7 @@
         <mark key="^" line="325" column="134" />
         <mark key="." line="325" column="134" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/CategoryAttributeSyncAgent.java" timestamp="1542086431001" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.java" timestamp="1542031427332" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542063799838">
         <mark key="[" line="157" column="28" />
@@ -30,7 +31,6 @@
         <mark key="." line="157" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/ServiceConfiguration.java" timestamp="1542079724064">
-        <mark key="[" line="98" column="5" />
         <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/service/ItemReadService.java" timestamp="1542065533961" />
@@ -42,12 +42,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemSelectParamDTO.java" timestamp="1542035009009" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/spuMapper.xml" timestamp="1542067295414" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1542083923928">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1542086291144">
         <mark key="'" line="33" column="38" />
-        <mark key="[" line="704" column="24" />
-        <mark key="]" line="704" column="24" />
-        <mark key="." line="704" column="24" />
-        <mark key="^" line="702" column="31" />
+        <mark key="[" line="686" column="31" />
+        <mark key="]" line="686" column="31" />
+        <mark key="." line="686" column="31" />
+        <mark key="^" line="686" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/service/ItemReadService.java" timestamp="1542067612666">
         <mark key="[" line="131" column="72" />
@@ -68,11 +68,11 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542083888257">
-        <mark key="[" line="170" column="110" />
-        <mark key="]" line="170" column="110" />
-        <mark key="." line="170" column="110" />
-        <mark key="^" line="100" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542086168385">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="26" />
+        <mark key="^" line="157" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/pom.xml" timestamp="1542024315305">
         <mark key="[" line="85" column="68" />
@@ -87,7 +87,7 @@
         <mark key="." line="38" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1542038623752" />
-      <file name="/Dummy.txt" timestamp="1542081330899">
+      <file name="/Dummy.txt" timestamp="1542085050646">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
