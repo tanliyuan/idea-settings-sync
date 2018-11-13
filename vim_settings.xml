@@ -44,12 +44,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemSelectParamDTO.java" timestamp="1542035009009" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/spuMapper.xml" timestamp="1542067295414" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1542086291144">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1542097546956">
         <mark key="'" line="33" column="38" />
-        <mark key="[" line="686" column="31" />
-        <mark key="]" line="686" column="31" />
-        <mark key="." line="686" column="31" />
-        <mark key="^" line="686" column="30" />
+        <mark key="[" line="705" column="54" />
+        <mark key="]" line="706" column="24" />
+        <mark key="." line="706" column="24" />
+        <mark key="^" line="706" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/mysql/PropertyDao.java" timestamp="1542087042175" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/service/ItemReadService.java" timestamp="1542067612666">
@@ -87,11 +87,11 @@
         <mark key="^" line="65" column="82" />
         <mark key="." line="65" column="82" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542097190969">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542098845186">
+        <mark key="[" line="86" column="50" />
+        <mark key="]" line="102" column="41" />
+        <mark key="." line="102" column="41" />
+        <mark key="^" line="102" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542095052341">
         <mark key="[" line="33" column="48" />
@@ -127,11 +127,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/boot/spring-boot-starter-redis/1.0.0-SNAPSHOT/spring-boot-starter-redis-1.0.0-20171208.015035-9-sources.jar!/cn/gov/zcy/spring/boot/redis/ms/RedisJedisPool.java" timestamp="1542081562248" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1542064501768" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542092533514">
-        <mark key="[" line="149" column="64" />
-        <mark key="]" line="149" column="76" />
-        <mark key="^" line="149" column="76" />
-        <mark key="." line="149" column="76" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542097507928">
+        <mark key="[" line="137" column="28" />
+        <mark key="]" line="137" column="32" />
+        <mark key="^" line="137" column="32" />
+        <mark key="." line="137" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1542066739026">
         <mark key="'" line="844" column="0" />
@@ -140,7 +140,7 @@
         <mark key="." line="863" column="22" />
         <mark key="^" line="863" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1542095173904">
+      <file name="/fragment.java" timestamp="1542098846731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -250,43 +250,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyUGFnZU51bSA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMA==</text>
+        <text>spuPageNo</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0U3FsU2Vzc2lvbigpLnNlbGVjdE9uZShzcWxJZCgiY291bnRLZXlBdHRyc0JyaWVmSXNOdWxsIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJsaW1pdCIsIHBhZ2VJbmZvLmdldExpbWl0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyUGFnZU51bSA9IDA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZih1cGRhdGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJQYWdlTnVtID0gaXRlbXMuc2l6ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWx1cmVDb3VudCsrOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZih1cGRhdGVMaXN0KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGZhaWx1cmVDb3VudCA9IDBMOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bSA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W2Vz5pCc57Si5Y+C5pWw5aKe5YqgbG9nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWx1cmVDb3VudCsrOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwdVBhZ2VObysrOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGZhaWx1cmVDb3VudCA9IDBMOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
