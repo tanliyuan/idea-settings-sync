@@ -87,11 +87,11 @@
         <mark key="^" line="65" column="82" />
         <mark key="." line="65" column="82" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542093179519">
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="50" column="6" />
-        <mark key="." line="50" column="6" />
-        <mark key="^" line="50" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542097190969">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542095052341">
         <mark key="[" line="33" column="48" />
@@ -249,11 +249,11 @@
       <jump line="33" column="38" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">ID0gMA==</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -262,31 +262,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0U3FsU2Vzc2lvbigpLnNlbGVjdE9uZShzcWxJZCgiY291bnRLZXlBdHRyc0JyaWVmSXNOdWxsIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWx1cmVDb3VudCsrOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZih1cGRhdGVMaXN0KTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGZhaWx1cmVDb3VudCA9IDBMOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY3VyUGFnZU51bSA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W2Vz5pCc57Si5Y+C5pWw5aKe5YqgbG9nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWx1cmVDb3VudCsrOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwdVBhZ2VObysrOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGZhaWx1cmVDb3VudCA9IDBMOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1EYW8uYmF0Y2hVcGRhdGVLZXlBdHRyc0JyaWVmKCk7Cg==</text>
+        <text encoding="base64">W2Vz5pCc57Si5Y+C5pWw5aKe5YqgbG9nXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8SXRlbT4gb2JqZWN0cyA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrmta7nlJ/mnKrlpK7ov7nmta7okI0KICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3h5amF3cTEvYXJ0aWNsZS9kZXRhaWxzLzc0MTI5MzE2CiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwdVBhZ2VObysrOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
