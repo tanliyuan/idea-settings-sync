@@ -26,8 +26,14 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/ZcyPipelineConfigurer.java" timestamp="1542109536215" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/rule/dto/BaseInput.java" timestamp="1542109840334" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/item/service/ItemWriteService.java" timestamp="1542107954843" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/service/ItemReadService.java" timestamp="1542067612666">
+        <mark key="[" line="131" column="72" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/LeaderExecJob.java" timestamp="1542102199333" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/filter/OtherAttributeFilterByCategoryExecutor.java" timestamp="1542119264611" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" timestamp="1542091865079">
+        <mark key="[" line="51" column="56" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/ItemOtherAttributeFilterByCategoryExecutor.java" timestamp="1542116703597">
         <mark key="[" line="72" column="9" />
         <mark key="]" line="73" column="7" />
@@ -36,6 +42,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542162978179" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/cacher/ShopCacher.java" timestamp="1542108109824" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1542171135238">
+        <mark key="[" line="21" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" timestamp="1542163182126">
         <mark key="[" line="45" column="28" />
         <mark key="]" line="45" column="28" />
@@ -44,7 +53,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542108374046" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.5-SNAPSHOT/parana-item-5.3.5-SNAPSHOT.jar!/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.class" timestamp="1542108417985" />
-      <file name="/Dummy.txt" timestamp="1542165457610">
+      <file name="/Dummy.txt" timestamp="1542171714546">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -187,11 +196,11 @@
       <jump line="298" column="56" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W+e6v+S4iuaVsOaNrui/h+Wkml3kuI3og71jb3VudOaAuwo=</text>
+      <register name="&quot;" type="4">
+        <text>[打release]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[打release]</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
