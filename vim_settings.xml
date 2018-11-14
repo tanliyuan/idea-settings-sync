@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/resources/mapper/itemMapper.xml" timestamp="1542008909604">
-        <mark key="]" line="37" column="84" />
-        <mark key="." line="37" column="84" />
-        <mark key="^" line="37" column="84" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1542003689771">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.5-SNAPSHOT/parana-item-api-5.3.5-SNAPSHOT-sources.jar!/io/terminus/parana/item/model/Item.java" timestamp="1542118410619" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542038516286">
         <mark key="[" line="325" column="94" />
@@ -63,11 +53,6 @@
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/ItemOtherAttributeFilterByCategoryExecutor.java" timestamp="1542116703597">
-        <mark key="]" line="63" column="7" />
-        <mark key="^" line="63" column="7" />
-        <mark key="." line="63" column="7" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" timestamp="1542095575598">
         <mark key="[" line="65" column="34" />
         <mark key="]" line="65" column="82" />
@@ -116,25 +101,12 @@
         <mark key="." line="207" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1542107695540" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/OtherAttributeFilterByCategoryExecutor.java" timestamp="1542119262850">
-        <mark key="[" line="62" column="77" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1542024432372">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/item/ZcyCommonItemController.java" timestamp="1542109575583" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542097507928">
         <mark key="[" line="137" column="28" />
         <mark key="]" line="137" column="32" />
         <mark key="^" line="137" column="32" />
         <mark key="." line="137" column="32" />
-      </file>
-      <file name="/fragment.java" timestamp="1542118102216">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.5-SNAPSHOT/parana-item-api-5.3.5-SNAPSHOT-sources.jar!/io/terminus/parana/item/dto/FullItem.java" timestamp="1542118374474" />
     </filemarks>
