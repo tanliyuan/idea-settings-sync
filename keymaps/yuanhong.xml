@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -100,9 +103,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="meta h" />
-  </action>
+  <action id="HideActiveWindow" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
