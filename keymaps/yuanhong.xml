@@ -104,6 +104,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="HideActiveWindow" />
+  <action id="HideSideWindows">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
