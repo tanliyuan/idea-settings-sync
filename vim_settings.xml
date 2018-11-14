@@ -8,6 +8,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.5-SNAPSHOT/parana-item-api-5.3.5-SNAPSHOT-sources.jar!/io/terminus/parana/item/model/Item.java" timestamp="1542118410619" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/manager/ZcyItemManager.java" timestamp="1542108180227" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" timestamp="1542107566047" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/stock/dto/ZcyRichStock.java" timestamp="1542114649547">
@@ -16,16 +17,28 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/SpuOtherAttributeFilterByCategoryExecutor.java" timestamp="1542109194536" />
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1542117106561">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="48" />
+        <mark key="." line="49" column="48" />
+        <mark key="^" line="49" column="48" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/ZcyPipelineConfigurer.java" timestamp="1542109536215" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/rule/dto/BaseInput.java" timestamp="1542109840334" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/item/service/ItemWriteService.java" timestamp="1542107954843" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/LeaderExecJob.java" timestamp="1542102199333" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/filter/OtherAttributeFilterByCategoryExecutor.java" timestamp="1542119264611" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/dto/FullItem.java" timestamp="1542109777972" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/ItemOtherAttributeFilterByCategoryExecutor.java" timestamp="1542109101841" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/ItemOtherAttributeFilterByCategoryExecutor.java" timestamp="1542116703597">
+        <mark key="[" line="72" column="9" />
+        <mark key="]" line="73" column="7" />
+        <mark key="^" line="73" column="7" />
+        <mark key="." line="73" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/cacher/ShopCacher.java" timestamp="1542108109824" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542108374046" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.5-SNAPSHOT/parana-item-5.3.5-SNAPSHOT.jar!/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.class" timestamp="1542108417985" />
-      <file name="/Dummy.txt" timestamp="1542115344360">
+      <file name="/Dummy.txt" timestamp="1542119289311">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -39,11 +52,11 @@
         <mark key="^" line="216" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1542107695540" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/OtherAttributeFilterByCategoryExecutor.java" timestamp="1542109241067">
-        <mark key="[" line="71" column="54" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/component/ruleEngines/attribute/OtherAttributeFilterByCategoryExecutor.java" timestamp="1542119262850">
+        <mark key="[" line="62" column="77" />
+        <mark key="]" line="64" column="111" />
+        <mark key="^" line="64" column="111" />
+        <mark key="." line="64" column="111" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1542024432372">
         <mark key="[" line="9" column="18" />
@@ -58,11 +71,12 @@
         <mark key="." line="851" column="15" />
         <mark key="^" line="851" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1542109195497">
+      <file name="/fragment.java" timestamp="1542118102216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.5-SNAPSHOT/parana-item-api-5.3.5-SNAPSHOT-sources.jar!/io/terminus/parana/item/dto/FullItem.java" timestamp="1542118374474" />
     </filemarks>
     <jumps>
       <jump line="131" column="58" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryAttributeWriteServiceFacadeImpl.java" />
@@ -167,44 +181,44 @@
       <jump line="33" column="38" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Long.parseLong(itemIdCondition)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W+W6k+WtmOeuoeeQhumhtV3lupPlrZjnrqHnkIbpobXmkJzntKJhZ3JlZW1lbnRJdGVtSWTml7bvvIzlm57loavov5nkuKrlrZfmrrXnu5nliY3nq6/vvIzpgb/lhY3lm6Dov5Tlm57nmoTmmK9jaGFubmVsSXRlbUlkIOW8lei1t+WbsOaDkQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Long.parseLong(itemIdCondition)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="4">
-        <text>agreementItemId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W+W6k+WtmOeuoeeQhumhtV3lupPlrZjnrqHnkIbpobXmkJzntKJhZ3JlZW1lbnRJdGVtSWTml7bvvIzlm57loavov5nkuKrlrZfmrrXnu5nliY3nq6/vvIzpgb/lhY3lm6Dov5Tlm57nmoTmmK9jaGFubmVsSXRlbUlkIOW8lei1t+WbsOaDkQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6Y3lTdG9ja0RldGFpbC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYWdyZWVtZW50SXRlbUlkICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgemN5Umlja1N0b2NrLnNldEFncmVlbWVudEl0ZW1JZCgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOW9k+WJjeerr+aQnOe0oueahOaYr+WNj+iuruWVhuWTgUlE5pe277yM5a6e6ZmF5Lya6L+U5Zue5Y2P6K6u5a+55bqU5rig6YGT5ZWG5ZOB55qE5bqT5a2Y5L+h5oGv77yM5Li66YG/5YWN5pCc55qE5pivYWdyZWVtZW50SXRlbUlk77yM6L+U5Zue55qE5Y205pivCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6Y3lTdG9ja0RldGFpbC4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYWdyZWVtZW50SXRlbUlkICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgemN5Umlja1N0b2NrLnNldEFncmVlbWVudEl0ZW1JZCgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJQYWdlTnVtID0gaXRlbXMuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHJ5RXhlY2VwdGlvbi0tOwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
