@@ -8,7 +8,8 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" timestamp="1542087194536">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" timestamp="1542213052748">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="146" column="35" />
         <mark key="]" line="146" column="51" />
         <mark key="^" line="146" column="51" />
@@ -32,6 +33,7 @@
         <mark key="^" line="65" column="82" />
         <mark key="." line="65" column="82" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542214195426" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542095052341">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="101" column="1" />
@@ -56,7 +58,7 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="14" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542192766988">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542212863549">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="173" column="42" />
         <mark key="^" line="173" column="42" />
@@ -68,7 +70,7 @@
         <mark key="." line="45" column="28" />
         <mark key="^" line="44" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542200882754">
+      <file name="/Dummy.txt" timestamp="1542213072397">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -100,7 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="58" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/LocaleConfig.java" />
       <jump line="23" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/DistrictCategoryPrice.java" />
       <jump line="18" column="18" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/DistrictCategorySearchCriteria.java" />
       <jump line="257" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/extension/OutOfControlAttributeExecutor.java" />
@@ -200,6 +201,7 @@
       <jump line="1215" column="45" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" />
       <jump line="298" column="56" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" />
       <jump line="204" column="15" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacadeImpl.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
