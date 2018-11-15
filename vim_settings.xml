@@ -8,6 +8,7 @@
         <mark key="." line="37" column="84" />
         <mark key="^" line="37" column="84" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/solrock/app/files/front_config.yaml.erb" timestamp="1542259186443" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" timestamp="1542213052748">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="146" column="35" />
@@ -15,12 +16,8 @@
         <mark key="^" line="146" column="51" />
         <mark key="." line="146" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542038516286">
-        <mark key="[" line="325" column="94" />
-        <mark key="]" line="325" column="134" />
-        <mark key="^" line="325" column="134" />
-        <mark key="." line="325" column="134" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/solrock/app/files/back_config.yaml.erb" timestamp="1542260050760" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542261234386" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/service/spu/AliSpuServiceImplTest.java" timestamp="1542077929335">
         <mark key="[" line="26" column="23" />
         <mark key="]" line="27" column="35" />
@@ -40,6 +37,12 @@
         <mark key="^" line="101" column="1" />
         <mark key="." line="101" column="1" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/service/AdminItemReadService.java" timestamp="1542259760087">
+        <mark key="[" line="101" column="146" />
+        <mark key="]" line="101" column="160" />
+        <mark key="." line="101" column="160" />
+        <mark key="^" line="101" column="160" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1541990541401">
         <mark key="[" line="38" column="58" />
         <mark key="]" line="38" column="58" />
@@ -58,12 +61,7 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="14" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542212863549">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="173" column="42" />
-        <mark key="^" line="173" column="42" />
-        <mark key="." line="173" column="42" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542212863549" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" timestamp="1542163182126">
         <mark key="[" line="45" column="28" />
         <mark key="]" line="45" column="28" />
@@ -71,17 +69,11 @@
         <mark key="^" line="44" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/dao/ItemDao.java" timestamp="1542215635754" />
-      <file name="/Dummy.txt" timestamp="1542213072397">
+      <file name="/Dummy.txt" timestamp="1542261361955">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacadeImpl.java" timestamp="1542177655283">
-        <mark key="[" line="207" column="29" />
-        <mark key="]" line="207" column="35" />
-        <mark key="^" line="207" column="35" />
-        <mark key="." line="207" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacade.java" timestamp="1542200786015" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1542188739976">
@@ -89,12 +81,20 @@
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542260091755">
+        <mark key="[" line="203" column="47" />
+        <mark key="]" line="203" column="128" />
+        <mark key="^" line="203" column="128" />
+        <mark key="." line="203" column="128" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1542097507928">
         <mark key="[" line="137" column="28" />
         <mark key="]" line="137" column="32" />
         <mark key="^" line="137" column="32" />
         <mark key="." line="137" column="32" />
       </file>
+      <file name="/ItemController.java" timestamp="1542261720079" />
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/model/Item.java" timestamp="1542260264365" />
     </filemarks>
     <jumps>
       <jump line="23" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/DistrictCategoryPrice.java" />
@@ -199,35 +199,35 @@
       <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W+aUvuW8gOmdnuagh+WTgeexu+ebrl3kuZ/mj5Dlj5blhbPplK7lsZ7mgKflkoznu5HlrprlsZ7mgKcK</text>
+      <register name="&quot;" type="4">
+        <text>[增加手动调用数据订正的接口]</text>
       </register>
       <register name="-" type="4">
-        <text>exec</text>
+        <text>[增加手动调用数据订正的接口]</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
+      <register name="0" type="4">
+        <text>isContainProtocol</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W+aUvuW8gOmdnuagh+WTgeexu+ebrl3kuZ/mj5Dlj5blhbPplK7lsZ7mgKflkoznu5HlrprlsZ7mgKcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDb250YWluUHJvdG9jb2wgPyByZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCkgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W+e6v+S4iuaVsOaNrui/h+Wkml3kuI3og71jb3VudOaAuwo=</text>
+        <text encoding="base64">W+aUvuW8gOmdnuagh+WTgeexu+ebrl3kuZ/mj5Dlj5blhbPplK7lsZ7mgKflkoznu5HlrprlsZ7mgKcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W+W6k+WtmOeuoeeQhumhtV3lupPlrZjnrqHnkIbpobXmkJzntKJhZ3JlZW1lbnRJdGVtSWTml7bvvIzlm57loavov5nkuKrlrZfmrrXnu5nliY3nq6/vvIzpgb/lhY3lm6Dov5Tlm57nmoTmmK9jaGFubmVsSXRlbUlkIOW8lei1t+WbsOaDkQo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
+        <text encoding="base64">W+e6v+S4iuaVsOaNrui/h+Wkml3kuI3og71jb3VudOaAuwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W+W6k+WtmOeuoeeQhumhtV3lupPlrZjnrqHnkIbpobXmkJzntKJhZ3JlZW1lbnRJdGVtSWTml7bvvIzlm57loavov5nkuKrlrZfmrrXnu5nliY3nq6/vvIzpgb/lhY3lm6Dov5Tlm57nmoTmmK9jaGFubmVsSXRlbUlkIOW8lei1t+WbsOaDkQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
@@ -236,7 +236,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6Y3lTdG9ja0RldGFpbC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
