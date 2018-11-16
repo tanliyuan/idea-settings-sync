@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" timestamp="1542372626377">
         <mark key="'" line="655" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542373214152">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542405569599">
         <mark key="[" line="180" column="107" />
         <mark key="]" line="181" column="69" />
         <mark key="^" line="181" column="69" />
@@ -58,7 +58,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542333401247">
         <mark key="[" line="64" column="35" />
       </file>
-      <file name="/ItemSearchFromEsSyncAgent.java" timestamp="1542333434075" />
+      <file name="/ItemSearchFromEsSyncAgent.java" timestamp="1542405611827" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1542095052341">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="101" column="1" />
@@ -93,7 +93,7 @@
         <mark key="^" line="44" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542265093270" />
-      <file name="/Dummy.txt" timestamp="1542373226537">
+      <file name="/Dummy.txt" timestamp="1542406600107">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -119,10 +119,17 @@
         <mark key="^" line="137" column="32" />
         <mark key="." line="137" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1542358438058" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1542407093725" />
       <file name="/pom.xml" timestamp="1542278703002" />
       <file name="/ItemController.java" timestamp="1542261720079" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1542406595913">
+        <mark key="[" line="854" column="13" />
+        <mark key="]" line="855" column="11" />
+        <mark key="^" line="855" column="11" />
+        <mark key="." line="855" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.5-SNAPSHOT/parana-item-5.3.5-SNAPSHOT.jar!/io/terminus/parana/search/impl/ItemSearchReadServiceImpl.class" timestamp="1542276145380" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.6-SNAPSHOT/parana-item-api-5.3.6-20181115.153648-2.jar!/io/terminus/parana/item/common/ItemTagEnum.class" timestamp="1542405873987" />
     </filemarks>
     <jumps>
       <jump line="470" column="52" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" />
@@ -228,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W+WinuWKoOiwg+eUqOaWueazqOmHil0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>[升级parana版本]</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -240,31 +247,31 @@
         <text>isContainProtocol</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W+WinuWKoOiwg+eUqOaWueazqOmHil0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W2FwaeayoeacieWPmF3kuI3ljYfniYjmnKwK</text>
+        <text encoding="base64">W+WinuWKoOiwg+eUqOaWueazqOmHil0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDb250YWluUHJvdG9jb2wgPyByZQo=</text>
+        <text encoding="base64">W2FwaeayoeacieWPmF3kuI3ljYfniYjmnKwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDb250YWluUHJvdG9jb2wgPyByZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W+aUvuW8gOmdnuagh+WTgeexu+ebrl3kuZ/mj5Dlj5blhbPplK7lsZ7mgKflkoznu5HlrprlsZ7mgKcK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCkgCg==</text>
+        <text encoding="base64">W+aUvuW8gOmdnuagh+WTgeexu+ebrl3kuZ/mj5Dlj5blhbPplK7lsZ7mgKflkoznu5HlrprlsZ7mgKcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W+e6v+S4iuaVsOaNrui/h+Wkml3kuI3og71jb3VudOaAuwo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCkgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W+W6k+WtmOeuoeeQhumhtV3lupPlrZjnrqHnkIbpobXmkJzntKJhZ3JlZW1lbnRJdGVtSWTml7bvvIzlm57loavov5nkuKrlrZfmrrXnu5nliY3nq6/vvIzpgb/lhY3lm6Dov5Tlm57nmoTmmK9jaGFubmVsSXRlbUlkIOW8lei1t+WbsOaDkQo=</text>
+        <text encoding="base64">W+e6v+S4iuaVsOaNrui/h+Wkml3kuI3og71jb3VudOaAuwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzkuI3mmK/moIflh4bnsbvnm67vvIzkuI3nrqHmjqfvvIzkuI3og73lhbPogZTku7vkvZVzcHUKICAgICAgICAgICAgaW5wdXQuc2V0U3B1SWQobnVsbCk7Cg==</text>
+        <text encoding="base64">W+W6k+WtmOeuoeeQhumhtV3lupPlrZjnrqHnkIbpobXmkJzntKJhZ3JlZW1lbnRJdGVtSWTml7bvvIzlm57loavov5nkuKrlrZfmrrXnu5nliY3nq6/vvIzpgb/lhY3lm6Dov5Tlm57nmoTmmK9jaGFubmVsSXRlbUlkIOW8lei1t+WbsOaDkQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
