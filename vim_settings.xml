@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542350079868" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/dao/ItemDao.java" timestamp="1542215635754" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/common/ItemTagEnum.java" timestamp="1542284502057" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/domain/Sku.java" timestamp="1542352716076" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacadeImpl.java" timestamp="1542268250346" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1542285883197" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542260091755" />
@@ -38,6 +39,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-20181114.171830-11.jar!/cn/gov/zcy/audit/service/ItemAuditWriteService.class" timestamp="1542347293730" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/model/Item.java" timestamp="1542260264365" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/skuTemplateMapper.xml" timestamp="1542352141121" />
       <file name="$USER_HOME$/IdeaProjects/solrock/app/files/back_config.yaml.erb" timestamp="1542265777934" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/service/spu/AliSpuServiceImplTest.java" timestamp="1542077929335">
         <mark key="[" line="26" column="23" />
