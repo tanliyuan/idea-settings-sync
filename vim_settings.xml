@@ -15,7 +15,7 @@
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.7-SNAPSHOT/zcy-item-api-1.6.7-20181106.032606-1.jar!/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.class" timestamp="1542276663544" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/CategoryController.java" timestamp="1542357281252" />
       <file name="/OpenItemController.java" timestamp="1542284729202" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542447339998">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1542459386923">
         <mark key="[" line="188" column="7" />
         <mark key="]" line="188" column="20" />
         <mark key="^" line="188" column="20" />
@@ -31,12 +31,12 @@
         <mark key="^" line="463" column="21" />
         <mark key="." line="463" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1542456053642">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1542460772337">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="1397" column="0" />
-        <mark key="]" line="1397" column="0" />
-        <mark key="^" line="1387" column="23" />
-        <mark key="." line="1397" column="0" />
+        <mark key="[" line="1399" column="33" />
+        <mark key="]" line="1398" column="49" />
+        <mark key="^" line="1398" column="49" />
+        <mark key="." line="1398" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/model/Item.java" timestamp="1542260264365" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/skuTemplateMapper.xml" timestamp="1542352141121" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542261234386" />
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/components/seller/stock_manage/view.es6" timestamp="1542410082519" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/resources/mapper/ItemAuditMapper.xml" timestamp="1542336507593" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/ItemAttributeMapper.xml" timestamp="1542443717384">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/ItemAttributeMapper.xml" timestamp="1542460672812">
         <mark key="[" line="120" column="55" />
         <mark key="]" line="120" column="54" />
         <mark key="." line="120" column="54" />
@@ -112,7 +112,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/service/facade/CategoryReadServiceFacadeTest.java" timestamp="1542357640553" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/dao/ItemDao.java" timestamp="1542215635754" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/domain/Sku.java" timestamp="1542352716076" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/domain/Sku.java" timestamp="1542459266691" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1542285883197" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/dao/SkuDao.java" timestamp="1542443764058">
         <mark key="[" line="165" column="8" />
@@ -146,7 +146,7 @@
         <mark key="." line="106" column="50" />
       </file>
       <file name="/ItemSearchFromEsSyncAgent.java" timestamp="1542405611827" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" timestamp="1542458329295">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" timestamp="1542460620083">
         <mark key="'" line="164" column="0" />
         <mark key="[" line="36" column="44" />
         <mark key="]" line="36" column="45" />
@@ -159,8 +159,9 @@
         <mark key="^" line="38" column="58" />
         <mark key="." line="38" column="58" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAttributeDao.java" timestamp="1542460689672" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542265093270" />
-      <file name="/Dummy.txt" timestamp="1542456058945">
+      <file name="/Dummy.txt" timestamp="1542460237959">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -201,7 +202,7 @@
         <mark key="^" line="271" column="20" />
         <mark key="." line="271" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1542447758274">
+      <file name="/fragment.java" timestamp="1542458970717">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -308,11 +309,11 @@
       <jump line="66" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>skus</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>skus</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -324,28 +325,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbUF0dHIgPSBpdGVtQXR0cmlidXRlRGFvLm1pZ3JhdGUoaXRlbUF0dHJpYnV0ZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHNrdSA9IHNrdURhby5taWdyYXRlKHNrdXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIucmVhZFZhbHVlKCwgSmFja3NvblR5cGUuTUFQX09GX0lOVEVHRVIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtID0gaXRlbURhby5iYXRjaFVwZGF0ZUl0ZW1NaWdyYXRlKGl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGl0ZW1BdHRyID0gaXRlbUF0dHJpYnV0ZURhby5taWdyYXRlKGl0ZW1BdHRyaWJ1dGVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluSWQgPSBpZExpc3QuZ2V0KGlkTGlzdC5zaXplKCkgLSAxKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHNrdSA9IHNrdURhby5taWdyYXRlKHNrdXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
