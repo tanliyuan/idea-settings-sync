@@ -139,13 +139,19 @@
         <mark key="^" line="65" column="82" />
         <mark key="." line="65" column="82" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542452969541">
+        <mark key="[" line="106" column="40" />
+        <mark key="]" line="106" column="50" />
+        <mark key="^" line="106" column="50" />
+        <mark key="." line="106" column="50" />
+      </file>
       <file name="/ItemSearchFromEsSyncAgent.java" timestamp="1542405611827" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" timestamp="1542447717579">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="74" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" timestamp="1542452997189">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="157" column="28" />
+        <mark key="." line="157" column="28" />
+        <mark key="^" line="157" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1541990541401">
         <mark key="[" line="38" column="58" />
@@ -154,7 +160,7 @@
         <mark key="." line="38" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542265093270" />
-      <file name="/Dummy.txt" timestamp="1542447758284">
+      <file name="/Dummy.txt" timestamp="1542453003163">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -303,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>paramDTO.getItemId() == null</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>paramDTO.getItemId() == null</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -315,31 +321,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gIGdldFNxbFNlc3Npb24oKS5zZWxlY3RMaXN0KHNxbElkKCJmaW5kU2t1c0J5SXRlbUlkcyIpLCBpdGVtSWRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbURUTy5nZXRJdGVtSWRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUl0ZW1BdHRyTGlzdC5hZGQoaXRlbUF0dHJpYnV0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbURUTy5nZXRJdGVtSWRzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpcGxldC5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUl0ZW1BdHRyTGlzdC5hZGQoaXRlbUF0dHJpYnV0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJpcGxldC5nZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtTWFuYWdlci5taWdyYXRlSXRlbSgpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LCAKICAgICAgICA8Zm9yZWFjaCBjb2xsZWN0aW9uPSJsaXN0IiBpdGVtPSJpdGVtIiBpbmRleD0iaW5kZXgiCiAgICAgICAgICAgICAgICAgc2VwYXJhdG9yPSIgIiBvcGVuPSJjYXNlIGlkIiBjbG9zZT0iZW5kIj4KICAgICAgICAgICAgd2hlbiAje2l0ZW0uaWR9IHRoZW4gI3tpdGVtLn0KICAgICAgICA8L2ZvcmVhY2g+</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtTWFuYWdlci5taWdyYXRlSXRlbSgpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LCAKICAgICAgICA8Zm9yZWFjaCBjb2xsZWN0aW9uPSJsaXN0IiBpdGVtPSJpdGVtIiBpbmRleD0iaW5kZXgiCiAgICAgICAgICAgICAgICAgc2VwYXJhdG9yPSIgIiBvcGVuPSJjYXNlIGlkIiBjbG9zZT0iZW5kIj4KICAgICAgICAgICAgd2hlbiAje2l0ZW0uaWR9IHRoZW4gI3tpdGVtLn0KICAgICAgICA8L2ZvcmVhY2g+</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtRGFvLmJhdGNoVXBkYXRlS2V5QXR0cnNCcmllZigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
