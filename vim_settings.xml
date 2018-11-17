@@ -5,17 +5,24 @@
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/solrock/app/files/front_config.yaml.erb" timestamp="1542259186443" />
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/components/seller/stock_manage/view.hbs" timestamp="1542409539976" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/contants/CompatibilityContant.java" timestamp="1542438759882" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.6-SNAPSHOT/parana-category-5.3.6-20181115.153653-2.jar!/io/terminus/parana/category/impl/service/attribute/CategoryAttributeReadServiceImpl.class" timestamp="1542435178968" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542261234386" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.3.7-SNAPSHOT/zcy-item-api-1.3.7-20170303.115602-2.jar!/cn/gov/zcy/rule/attribute/OtherAttributeRuleByCategoryExecutor.class" timestamp="1542265302832" />
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/components/seller/stock_manage/view.es6" timestamp="1542410082519" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542435163863">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542436069752">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="68" />
         <mark key="^" line="171" column="27" />
         <mark key="." line="171" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/resources/mapper/ItemAuditMapper.xml" timestamp="1542336507593" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/ItemAttributeMapper.xml" timestamp="1542439615321">
+        <mark key="[" line="127" column="70" />
+        <mark key="]" line="127" column="88" />
+        <mark key="." line="124" column="37" />
+        <mark key="^" line="124" column="37" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.7-SNAPSHOT/zcy-item-api-1.6.7-20181106.032606-1.jar!/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.class" timestamp="1542276663544" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/CategoryController.java" timestamp="1542357281252" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/service/facade/CategoryReadServiceFacadeTest.java" timestamp="1542357640553" />
@@ -39,16 +46,18 @@
         <mark key="^" line="11" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-20181114.171830-11.jar!/cn/gov/zcy/audit/service/ItemAuditWriteService.class" timestamp="1542347293730" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1542438613733" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/model/Item.java" timestamp="1542260264365" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/skuTemplateMapper.xml" timestamp="1542352141121" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/CategoryBackTagEnum.java" timestamp="1542429722895" />
       <file name="$USER_HOME$/IdeaProjects/solrock/app/files/back_config.yaml.erb" timestamp="1542265777934" />
       <file name="/ItemSearchFromEsSyncAgent.java" timestamp="1542405611827" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" timestamp="1542435755860">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="35" column="26" />
-        <mark key="^" line="35" column="26" />
-        <mark key="." line="35" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" timestamp="1542439093146">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="109" column="51" />
+        <mark key="." line="109" column="51" />
+        <mark key="^" line="109" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/item/service/AdminItemReadService.java" timestamp="1542259760087">
         <mark key="[" line="101" column="146" />
@@ -56,13 +65,13 @@
         <mark key="." line="101" column="160" />
         <mark key="^" line="101" column="160" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542265093270" />
-      <file name="/Dummy.txt" timestamp="1542409054017">
-        <mark key="'" line="0" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAttributeDao.java" timestamp="1542439360773">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="16" />
+        <mark key="." line="53" column="16" />
+        <mark key="^" line="53" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.4-SNAPSHOT/parana-item-api-5.3.4-SNAPSHOT-sources.jar!/io/terminus/parana/component/item/component/ItemWriter.java" timestamp="1542265093270" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacadeImpl.java" timestamp="1542434996117">
         <mark key="[" line="219" column="21" />
       </file>
@@ -76,15 +85,16 @@
         <mark key="^" line="44" column="17" />
         <mark key="." line="44" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/domain/ItemAttribute.java" timestamp="1542438641515" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item-api/src/main/java/io/terminus/parana/category/enums/PropertyBusinessTagEnum.java" timestamp="1542429856638" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/java/com/qifoon/code/generate/GenteratorCode.java" timestamp="1542287896052">
         <mark key="[" line="19" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemStatus.java" timestamp="1542389286854" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-category/src/main/java/io/terminus/parana/category/impl/service/attribute/CategoryAttributeReadServiceImpl.java" timestamp="1542430379726" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.6-SNAPSHOT/parana-item-5.3.6-20181115.153659-2.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1542435826656" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.6-SNAPSHOT/parana-item-5.3.6-20181115.153659-2.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1542437135121" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" timestamp="1542435312082" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1542417641579">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1542435869599">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="0" />
         <mark key="^" line="177" column="50" />
@@ -92,6 +102,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1542407093725" />
       <file name="/pom.xml" timestamp="1542278703002" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/OpenItemReadServiceImpl.java" timestamp="1542437172995" />
       <file name="/ItemController.java" timestamp="1542261720079" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" timestamp="1542428810783" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1542415044733">
@@ -107,8 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="52" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" />
-      <jump line="150" column="45" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/audit/service/SpuAuditWriteServiceImpl.java" />
       <jump line="73" column="13" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-vaccine/src/main/java/cn/gov/zcy/vaccine/stock/service/VaccineSaleStockReadServiceImpl.java" />
       <jump line="1158" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Map.java" />
       <jump line="47" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" />
@@ -207,46 +216,48 @@
       <jump line="1250" column="8" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemReadServiceImpl.java" />
       <jump line="655" column="11" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" />
       <jump line="166" column="7" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/manager/ItemManager.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/CommonItemMigrateJob.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>#{channelAttrsJson}</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>ItemAttribute</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQmFja0l0ZW1TZWFyY2hTZXJ2aWNlRmFjYWRlIGJhY2tJdGVtU2VhcmNoU2VydmljZUZhY2FkZTsK</text>
+      <register name="0" type="4">
+        <text>#{channelAttrsJson}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSBpdGVtX2lkPSN7aXRlbUlkfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InNrdUF0dHJzSnNvbiAhPSBudWxsIj4gc2t1X2F0dHJpYnV0ZXMgPSAje3NrdUF0dHJzSnNvbn0sIDwvaWY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ2F0ZWdvcnlBdHRyaWJ1dGVTeW5jQWdlbnQgY2F0ZWdvcnlBdHRyaWJ1dGVTeW5jQWdlbnQ7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEl0ZW1BdHRyaWJ1dGVSZWFkU2VydmljZSBpdGVtQXR0cmlidXRlUmVhZFNlcnZpY2U7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEl0ZW1EYW8gaXRlbURhbzsKCiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBJbnRlZ2VyIFBBR0VfU0laRSA9IDUwMDsKCgogICAgLyoqCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KLy8gICAgQFNjaGVkdWxlZChjcm9uID0gIjAgMCAxIDE0IDExID8iKQogICAgcHVibGljIHZvaWQgZHVtcCgpIHsKICAgICAgICBleGVjKCLlhbPplK7lsZ7mgKfloavlhYXku7vliqEiKTsKICAgIH0KCgogICAgcHVibGljIHZvaWQgd29yaygpIHsKCiAgICAgICAgbG9nLmluZm8oIi0tLS0tLeW8gOWni+WFs+mUruWxnuaAp+Whq+WFheS7u+WKoS0tLS0tIik7CiAgICAgICAgU3RvcFdhdGNoIHN0b3BXYXRjaCA9IG5ldyBTdG9wV2F0Y2goKTsKICAgICAgICBzdG9wV2F0Y2guc3RhcnQoKTsKCiAgICAgICAgZHVtcFBlclBhZ2VCcmFuZCgpOwoKICAgICAgICBsb2cuaW5mbygiLS0tLS0t57uT5p2f5YWz6ZSu5bGe5oCn5aGr5YWF5Lu75YqhLS0tLS0sIOiAl+aXtu+8mnt9Iiwgc3RvcFdhdGNoLmdldFRpbWUoKSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGR1bXBQZXJQYWdlQnJhbmQoKSB7CgogICAgICAgIC8v5LiN6IO96K6h566X5oC75pWw77yM55yf57q/5pWw5o2u6YeP5aSq5aSn77yM5rKh5pyJ57Si5byV5b6I5oWiCi8vICAgICAgICBMb25nIGFMb25nID0gaXRlbURhby5jb3VudEtleUF0dHJzQnJpZWZJc051bGwoKTsKICAgICAgICBMb25nIGFMb25nID0gMEw7CiAgICAgICAgaW50IGZpbGxJdGVtTnVtID0gMDsKCgogICAgICAgIGludCBzcHVQYWdlTm8gPSAxOwogICAgICAgIExvbmcgbWF4SWQgPSAwTDsKICAgICAgICBpbnQgY3VyUGFnZU51bTsKICAgICAgICBkbyB7CiAgICAgICAgICAgIGN1clBhZ2VOdW0gPSAwOwoKICAgICAgICAgICAgTGlzdDxJdGVtPiB1cGRhdGVMaXN0OwogICAgICAgICAgICBMaXN0PEl0ZW0+IGl0ZW1zID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBpdGVtcyA9IGl0ZW1EYW8ucXVlcnlLZXlBdHRyc0JyaWVmSXNOdWxsKDEsIFBBR0VfU0laRSwgbWF4SWQpOwogICAgICAgICAgICAgICAgYUxvbmcgKz0gaXRlbXMuc2l6ZSgpOwogICAgICAgICAgICAgICAgY3VyUGFnZU51bSA9IGl0ZW1zLnNpemUoKTsKCiAgICAgICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoaXRlbXMpKSB7CiAgICAgICAgICAgICAgICAgICAgbWF4SWQgPSBpdGVtcy5nZXQoaXRlbXMuc2l6ZSgpIC0gMSkuZ2V0SWQoKTsKCiAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZUxpc3QgPSBpdGVtcy5zdHJlYW0oKS5wZWVrKHQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBmaWxsS2V5QXR0cnNCcmllZih0KTsKICAgICAgICAgICAgICAgICAgICB9KS5maWx0ZXIodCAtPiBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh0LmdldEtleUF0dHJzQnJpZWYoKSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgICAgICAgICAgICAgIGlmICghdXBkYXRlTGlzdC5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaXRlbURhby5iYXRjaFVwZGF0ZUtleUF0dHJzQnJpZWYodXBkYXRlTGlzdCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGZpbGxJdGVtTnVtICs9IHVwZGF0ZUxpc3Quc2l6ZSgpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi5aGr5YWF5YWz6ZSu5bGe5oCn5byC5bi477yMcGFnZU5POnt9LGl0ZW1zOnt9LGNhdXNlOnt9Iiwgc3B1UGFnZU5vLCBpdGVtcywgVGhyb3dhYmxlcy5nZXRTdGFja1RyYWNlQXNTdHJpbmcoZSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBzcHVQYWdlTm8rKzsKICAgICAgICB9IHdoaWxlIChjdXJQYWdlTnVtID09IFBBR0VfU0laRSk7CgogICAgICAgIGxvZy5pbmZvKCLku7vliqHloavlhYXllYblk4HlhbPplK7lsZ7mgKfjgJB7feOAkeS4qiwg5oC75YWx44CQe33jgJHkuKoiLCBmaWxsSXRlbU51bSwgYUxvbmcpOwoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBmaWxsS2V5QXR0cnNCcmllZihJdGVtIGl0ZW0pIHRocm93cyBJbnZhbGlkRXhjZXB0aW9uIHsKICAgICAgICAvL+aKveWPluexu+ebruS4i+eahOWFs+mUruWxnuaAp+WSjOe7keWumuWxnuaAp+S9nOS4unJ1bGVzCiAgICAgICAgTGlzdDxDYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZT4gY2F0ZWdvcnlBdHRyaWJ1dGVXaXRoUHJvcGVydHlDb21wb3NpdGVzID0KICAgICAgICAgICAgICAgIChMaXN0PENhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlPikgZ2V0UnVsZXMoaXRlbSk7CgogICAgICAgIFJlc3BvbnNlPEl0ZW1BdHRyaWJ1dGU+IGJ5SXRlbUlkID0gaXRlbUF0dHJpYnV0ZVJlYWRTZXJ2aWNlLmZpbmRCeUl0ZW1JZChpdGVtLmdldElkKCkpOwogICAgICAgIGlmICghYnlJdGVtSWQuaXNTdWNjZXNzKCkpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCLllYblk4HlsZ7mgKfmkJzntKLlpLHotKXvvIxpZDp7fSxjYXVzZTp7fSIsIGl0ZW0uZ2V0SWQoKSwgYnlJdGVtSWQuZ2V0RXJyb3IoKSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgLy/mir3lj5blvZPliY1pbnB1dOmHjOmdoueahEdyb3VwZWRPdGhlckF0dHJpYnV0ZXMKICAgICAgICBMaXN0PEdyb3VwZWRPdGhlckF0dHJpYnV0ZT4gZ3JvdXBlZE90aGVyQXR0cmlidXRlcyA9IGJ5SXRlbUlkLmdldFJlc3VsdCgpLmdldE90aGVyQXR0cnMoKTsKICAgICAgICBNYXA8TG9uZywgQ2F0ZWdvcnlBdHRyaWJ1dGVXaXRoUHJvcGVydHlDb21wb3NpdGU+IGlkMlJ1bGVNYXAgPQogICAgICAgICAgICAgICAgbmV3IEhhc2hNYXA8PihjYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZXMuc2l6ZSgpKTsKICAgICAgICBNYXA8U3RyaW5nLCBDYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZT4gYXR0cktleTJSdWxlID0KICAgICAgICAgICAgICAgIG5ldyBIYXNoTWFwPD4oY2F0ZWdvcnlBdHRyaWJ1dGVXaXRoUHJvcGVydHlDb21wb3NpdGVzLnNpemUoKSk7CgogICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShjYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZXMpCiAgICAgICAgICAgICAgICAmJiBDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShncm91cGVkT3RoZXJBdHRyaWJ1dGVzKSkgewogICAgICAgICAgICBjYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZXMuZm9yRWFjaCh0IC0+IHsKICAgICAgICAgICAgICAgIGlmKHQuZ2V0Q2F0ZWdvcnlBdHRyaWJ1dGUoKSAhPSBudWxsICYmIHQuZ2V0Q2F0ZWdvcnlBdHRyaWJ1dGUoKS5nZXRQcm9wZXJ0eSgpICE9IG51bGwpewogICAgICAgICAgICAgICAgICAgIFByb3BlcnR5IHByb3BlcnR5ID0gdC5nZXRDYXRlZ29yeUF0dHJpYnV0ZSgpLmdldFByb3BlcnR5KCk7CiAgICAgICAgICAgICAgICAgICAgaWYocHJvcGVydHkuZ2V0SWQoKSAhPSBudWxsKXsKICAgICAgICAgICAgICAgICAgICAgICAgaWQyUnVsZU1hcC5wdXQocHJvcGVydHkuZ2V0SWQoKSwgdCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmKCFTdHJpbmdVdGlscy5pc0VtcHR5KHByb3BlcnR5LmdldFByb3BLZXkoKSkpewogICAgICAgICAgICAgICAgICAgICAgICBhdHRyS2V5MlJ1bGUucHV0KHByb3BlcnR5LmdldFByb3BLZXkoKSwgdCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIC8v6ZKI5a+5aW5wdXTph4zpnaLnmoRHcm91cGVkT3RoZXJBdHRyaWJ1dGVzLOWJpeemu+WHuumHjOmdoueahGtleUF0dHJz5ZKMYm91bmRBdHRycwogICAgICAgICAgICBMaXN0PE90aGVyQXR0cmlidXRlPiBrZXlBdHRyaWJ1dGVzID0gbmV3IEFycmF5TGlzdDw+KDUpOwogICAgICAgICAgICBncm91cGVkT3RoZXJBdHRyaWJ1dGVzLmZvckVhY2goZ3JvdXBlZE90aGVyQXR0cmlidXRlCiAgICAgICAgICAgICAgICAgICAgLT4gZ3JvdXBlZE90aGVyQXR0cmlidXRlLmdldE90aGVyQXR0cmlidXRlcygpLmZvckVhY2gob3RoZXJBdHRyaWJ1dGUgLT4gewogICAgICAgICAgICAgICAgQ2F0ZWdvcnlBdHRyaWJ1dGVXaXRoUHJvcGVydHlDb21wb3NpdGUgcnVsZTsKICAgICAgICAgICAgICAgIGlmKGlkMlJ1bGVNYXAuY29udGFpbnNLZXkob3RoZXJBdHRyaWJ1dGUuZ2V0UHJvcGVydHlJZCgpKSl7CiAgICAgICAgICAgICAgICAgICAgcnVsZSA9IGlkMlJ1bGVNYXAuZ2V0KG90aGVyQXR0cmlidXRlLmdldFByb3BlcnR5SWQoKSk7CiAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICBydWxlID0gYXR0cktleTJSdWxlLmdldChvdGhlckF0dHJpYnV0ZS5nZXRBdHRyS2V5KCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYocnVsZSAhPSBudWxsKXsKICAgICAgICAgICAgICAgICAgICBpZihydWxlLmdldENhdGVnb3J5QXR0cmlidXRlKCkuanVkZ2VJc0tleUF0dHIoKSl7CiAgICAgICAgICAgICAgICAgICAgICAgIC8v5bGe5oCn6L+H5ruk562b6YCJ55qE5pe25YCZ57uZ5re75Yqg5LiKcHJvcGVydHlJZAogICAgICAgICAgICAgICAgICAgICAgICBvdGhlckF0dHJpYnV0ZS5zZXRQcm9wZXJ0eUlkKHJ1bGUuZ2V0Q2F0ZWdvcnlBdHRyaWJ1dGUoKS5nZXRQcm9wZXJ0eSgpLmdldElkKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBrZXlBdHRyaWJ1dGVzLmFkZChvdGhlckF0dHJpYnV0ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KSk7CgogICAgICAgICAgICBJdGVtQXR0cmlidXRlIGl0ZW1BdHRyaWJ1dGUgPSBuZXcgSXRlbUF0dHJpYnV0ZSgpOwogICAgICAgICAgICBpdGVtQXR0cmlidXRlLnNldEtleUF0dHJzKGtleUF0dHJpYnV0ZXMpOwogICAgICAgICAgICBpZiAob3JnLmFwYWNoZS5jb21tb25zLmxhbmczLlN0cmluZ1V0aWxzLmlzQmxhbmsoaXRlbUF0dHJpYnV0ZS5nZXRLZXlBdHRyc0JyaWVmKCkpKSB7CiAgICAgICAgICAgICAgICBsb2cud2Fybigi5ZWG5ZOBOnt9IOS4jeWtmOWcqOWFs+mUruWxnuaApyIsIGl0ZW0uZ2V0SWQoKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy/loavlhYXlhbPplK7lsZ7mgKcKICAgICAgICAgICAgaXRlbS5zZXRLZXlBdHRyc0JyaWVmKGl0ZW1BdHRyaWJ1dGUuZ2V0S2V5QXR0cnNCcmllZigpKTsKCiAgICAgICAgfQogICAgfQoKICAgIHByb3RlY3RlZCBMaXN0PD8+IGdldFJ1bGVzKEl0ZW0gZGF0YSkgewoKICAgICAgICBMaXN0PENhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlPiBjYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZXMgPQogICAgICAgICAgICAgICAgY2F0ZWdvcnlBdHRyaWJ1dGVTeW5jQWdlbnQuZmluZENhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5QnlDYXRlZ29yeUlkV2l0aG91dENvbXBvc2l0ZShkYXRhLmdldENhdGVnb3J5SWQoKSwgbnVsbCk7CiAgICAgICAgTGlzdDxDYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZT4gbWFpbkNhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlcyA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwogICAgICAgIGlmKGNhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlcyAhPSBudWxsICYmIGNhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlcy5zaXplKCkgPiAwKXsKICAgICAgICAgICAgbWFpbkNhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlcyA9IGNhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoY2F0ZWdvcnlBdHRyaWJ1dGVXaXRoUHJvcGVydHlDb21wb3NpdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+IGNhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Q29tcG9zaXRlLmdldENhdGVnb3J5QXR0cmlidXRlKCkuanVkZ2VJc0tleUF0dHIoKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG1haW5DYXRlZ29yeUF0dHJpYnV0ZVdpdGhQcm9wZXJ0eUNvbXBvc2l0ZXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im90aGVyQXR0cnNKc29uICE9IG51bGwiPiBvdGhlcl9hdHRyaWJ1dGVzID0gI3tvdGhlckF0dHJzSnNvbn0sIDwvaWY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIOWumuaXtmR1bXAKICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImtleUF0dHJzSnNvbiAhPSBudWxsIj4ga2V5X2F0dHJpYnV0ZXMgPSAje2tleUF0dHJzSnNvbn0sIDwvaWY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eShuYW1lID0gImpvYi5hbGktZHVtcC1qb2Itb3BlbiIsIGhhdmluZ1ZhbHVlID0gInRydWUiLCBtYXRjaElmTWlzc2luZyA9IHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImFncmVlbWVudEF0dHJzSnNvbiAhPSBudWxsIj4gYWdyZWVtZW50X2F0dHJpYnV0ZXMgPSAje2FncmVlbWVudEF0dHJzSnNvbn0sIDwvaWY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hDcml0ZXJpYS5zZXRMYXllcihudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImtleUF0dHJzQnJpZWYgIT0gbnVsbCI+IGtleV9hdHRyc19icmllZiA9ICN7a2V5QXR0cnNCcmllZn0sIDwvaWY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoQ3JpdGVyaWEuc2V0TGF5ZXIobGF5ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tV0hFUkUgaWQ9I3tpZH0tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hDcml0ZXJpYS5zZXRMYXllcihudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpZiB0ZXN0PSJhdHRyVmFsICE9IG51bGwiPiBhdHRyX3ZhbCA9ICN7YXR0clZhbH0sIDwvaWY+LS0+CiAgICAgICAgICAgIHVwZGF0ZWRfYXQ9bm93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSXRlbVdyaXRlU2VydmljZSBpdGVtV3JpdGVTZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
