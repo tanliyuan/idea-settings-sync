@@ -44,6 +44,15 @@
         <mark key="." line="101" column="160" />
         <mark key="^" line="101" column="160" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/manager/ItemManager.java" timestamp="1542372730865">
+        <mark key="'" line="166" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" timestamp="1542597570519">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="44" column="6" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/ItemAuditWriteServiceImpl.java" timestamp="1542336586463" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/test/resources/schema.sql.bak" timestamp="1542269322792" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacade.java" timestamp="1542268184679">
@@ -56,6 +65,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemStatus.java" timestamp="1542389286854" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-category/src/main/java/io/terminus/parana/category/impl/service/attribute/CategoryAttributeReadServiceImpl.java" timestamp="1542430379726" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.6-SNAPSHOT/parana-item-5.3.6-20181115.153659-2.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1542437135121" />
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-external-api/1.0.22-netsuperProtocol-SNAPSHOT/item-microservice-external-api-1.0.22-netsuperProtocol-20181112.101630-51.jar!/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacade.class" timestamp="1542597758172" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/skuMapper.xml" timestamp="1542442886193">
         <mark key="[" line="247" column="55" />
         <mark key="]" line="247" column="55" />
@@ -73,6 +83,9 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/contants/CompatibilityContant.java" timestamp="1542438759882" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.6-SNAPSHOT/parana-category-5.3.6-20181115.153653-2.jar!/io/terminus/parana/category/impl/service/attribute/CategoryAttributeReadServiceImpl.class" timestamp="1542435178968" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542261234386" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" timestamp="1542372626377">
+        <mark key="'" line="655" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/components/seller/stock_manage/view.es6" timestamp="1542410082519" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/resources/mapper/ItemAuditMapper.xml" timestamp="1542336507593" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/ItemAttributeMapper.xml" timestamp="1542460672812">
@@ -107,6 +120,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/solrock/app/files/back_config.yaml.erb" timestamp="1542265777934" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1542552399432" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" timestamp="1542597773816">
+        <mark key="'" line="42" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1542452969541">
         <mark key="[" line="106" column="40" />
         <mark key="]" line="106" column="50" />
@@ -178,7 +194,6 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/extension/OutOfControlAttributeExecutor.java" timestamp="1542552730150" />
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" />
       <jump line="23" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryFrontTagEnum.java" />
       <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
       <jump line="32" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
@@ -278,6 +293,7 @@
       <jump line="1386" column="23" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" />
       <jump line="66" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" />
       <jump line="60" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAttributeDao.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
