@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/solrock/app/files/front_config.yaml.erb" timestamp="1542694408204" />
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/utils/src/test/java/com/qifoon/bean/TestBeanUtil.java" timestamp="1542631312270">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="25" />
@@ -34,7 +35,7 @@
         <mark key="^" line="188" column="20" />
         <mark key="." line="188" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1542588481572">
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/pom.xml" timestamp="1542694983919">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="4" />
         <mark key="^" line="7" column="4" />
@@ -46,11 +47,11 @@
         <mark key="." line="165" column="14" />
         <mark key="^" line="165" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542693617569">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="262" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542694721293">
+        <mark key="[" line="242" column="32" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
+        <mark key="^" line="247" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/pom.xml" timestamp="1542287800629">
         <mark key="[" line="10" column="0" />
@@ -58,7 +59,8 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/solrock/app/files/back_config.yaml.erb" timestamp="1542685134964" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.6-SNAPSHOT/parana-item-5.3.6-20181119.012540-4.jar!/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.class" timestamp="1542694348254" />
+      <file name="$USER_HOME$/IdeaProjects/solrock/app/files/back_config.yaml.erb" timestamp="1542694416223" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" timestamp="1542597773816">
         <mark key="'" line="42" column="13" />
       </file>
@@ -94,7 +96,7 @@
         <mark key="." line="45" column="28" />
         <mark key="^" line="44" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542685186459">
+      <file name="/Dummy.txt" timestamp="1542695212737">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -111,6 +113,12 @@
         <mark key="]" line="44" column="17" />
         <mark key="^" line="44" column="17" />
         <mark key="." line="44" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1542695133546">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/java/com/qifoon/code/generate/GenteratorCode.java" timestamp="1542287896052">
         <mark key="[" line="19" column="72" />
@@ -248,7 +256,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3JlbGVhc2VdCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDogU2V0cy5uZXdIYXNoU2V0KCJub0V4aXN0VGFnIik=</text>
@@ -260,31 +268,31 @@
         <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPiBleHRyYQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3JlbGVhc2VdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtRFRPLnNldE9yVGFncyhvclRhZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeUqOeJueauiuWtl+auteadpeWhq+WFhe+8jOS4uuS6huiuqeaQnOe0oue7k+aenOS4uuepugo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IG9yVGFnID0gIFNldHMubmV3SGFzaFNldChsYXllcjJUYWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5LiK6Z2i5p6E6YCg55qEb3JsYXllcnMg5ZKMIG9yVGFncyDkuLrlhajpm4bvvIzmjIflrppsYXllciDmn6Xor6Llj6rog73mmK/ku5bnmoTlrZDpm4bvvIzlvZPkuI3mmK/lrZDpm4blhoXml7bvvIwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIOW+heS8mOWMluWkhOeQhiwg5Lyg5YC85pyJ6Zeu6aKYLCBieSBjaGVud2VueWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5paw5ZWG5ZOB5qih5Z6L5rig6YGT5rKh5pyJ5a+55bqU6ICB55qEdGFnCiAgICAgICAgICAgICAgICBTdHJpbmcgbGF5ZXIyVGFnID0gY29udmVydExheWVyMlRhZyhsYXllcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W+S/ruWkjWF1ZGl0IG51bGxdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShTZWFyY2hUYWdFbnVtLmdldFNlYXJjaFRhZyh0YWcpKS5pZlByZXNlbnQodCAtPiB7CiAgICAgICAgICAgICAgICBzd2l0Y2ggKHQpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIE5FVFNVUEVSOgogICAgICAgICAgICAgICAgICAgICAgICBwYXJhbUJ1aWxkZXIucXVlcnlMYXllcnMoU2V0cy5uZXdIYXNoU2V0KEl0ZW1MYXllckVudW0uQ0hBTk5FTF9ORVRTVVBFUi5nZXRWYWx1ZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEl0ZW1MYXllckVudW0uQUdSRUVNRU5UX05FVFNVUEVSLmdldFZhbHVlKCkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBWQUNDSU5FOgogICAgICAgICAgICAgICAgICAgICAgICBwYXJhbUJ1aWxkZXIudGFncyhuZXcgSGFzaFNldDw+KEl0ZW1UYWdFbnVtLmpvaW5XaXRob3V0VmFsdWUoSXRlbVRhZ0VudW0uVkFDQ0lORSkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W+WNh+e6p3BhcmFuYeeJiOacrF3kv67lpI1pdGVtYXR0cmlidXRlanNvbiAg6Zeu6aKYCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtRFRPLnNldE9yVGFncyhvclRhZyk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dzLmFkZEFsbChub05lZWRBdWRpdExvZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IG9yVGFnID0gIFNldHMubmV3SGFzaFNldChsYXllcjJUYWcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIOW+heS8mOWMluWkhOeQhiwg5Lyg5YC85pyJ6Zeu6aKYLCBieSBjaGVud2VueWUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
