@@ -91,7 +91,7 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542710819410">
+      <file name="/Dummy.txt" timestamp="1542763867696">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -114,12 +114,6 @@
         <mark key="]" line="44" column="17" />
         <mark key="^" line="44" column="17" />
         <mark key="." line="44" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1542695133546">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/src/test/java/com/qifoon/code/generate/GenteratorCode.java" timestamp="1542287896052">
         <mark key="[" line="19" column="72" />
@@ -267,9 +261,8 @@
       <jump line="42" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>multipart.maxFileSize=10MB
-multipart.maxRequestSize=10MB</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W+S/ruWkjV1pdGVtYXR0cmlidXRl6YeM6Z2ic2t1YXR0cmlidXRlanNvbiDlj43luo/liJfljJblvILluLjvvIzljYfnuqdwYXJhbmHniYjmnKzlj7cK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -280,33 +273,33 @@ multipart.maxRequestSize=10MB</text>
       <register name="0" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPiBleHRyYQ==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">W+S/ruWkjV1pdGVtYXR0cmlidXRl6YeM6Z2ic2t1YXR0cmlidXRlanNvbiDlj43luo/liJfljJblvILluLjvvIzljYfnuqdwYXJhbmHniYjmnKzlj7cK</text>
+      </register>
+      <register name="2" type="4">
         <text>multipart.maxFileSize=10MB
 multipart.maxRequestSize=10MB</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">YXBvbGxvLmNhY2hlRGlyPS9Vc2Vycy90YW5saXl1YW4vZGF0YQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFRpbWVvdXQoCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJrpqazkuIHljYrlj6rnnoQKICAgIOadpea6kO+8mkNTRE4KICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9mZW5nbG9uZ21pYW8vYXJ0aWNsZS9kZXRhaWxzLzgxNDYwMjEzIAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">W3JlbGVhc2VdCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeUqOeJueauiuWtl+auteadpeWhq+WFhe+8jOS4uuS6huiuqeaQnOe0oue7k+aenOS4uuepugo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5LiK6Z2i5p6E6YCg55qEb3JsYXllcnMg5ZKMIG9yVGFncyDkuLrlhajpm4bvvIzmjIflrppsYXllciDmn6Xor6Llj6rog73mmK/ku5bnmoTlrZDpm4bvvIzlvZPkuI3mmK/lrZDpm4blhoXml7bvvIwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5paw5ZWG5ZOB5qih5Z6L5rig6YGT5rKh5pyJ5a+55bqU6ICB55qEdGFnCiAgICAgICAgICAgICAgICBTdHJpbmcgbGF5ZXIyVGFnID0gY29udmVydExheWVyMlRhZyhsYXllcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5LiK6Z2i5p6E6YCg55qEb3JsYXllcnMg5ZKMIG9yVGFncyDkuLrlhajpm4bvvIzmjIflrppsYXllciDmn6Xor6Llj6rog73mmK/ku5bnmoTlrZDpm4bvvIzlvZPkuI3mmK/lrZDpm4blhoXml7bvvIwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
