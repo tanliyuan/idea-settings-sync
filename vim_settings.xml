@@ -55,11 +55,11 @@
         <mark key="^" line="101" column="7" />
         <mark key="." line="97" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542892293756">
-        <mark key="[" line="237" column="58" />
-        <mark key="]" line="237" column="148" />
-        <mark key="." line="237" column="148" />
-        <mark key="^" line="237" column="148" />
+      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542894575587">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+        <mark key="^" line="261" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/pom.xml" timestamp="1542287800629">
         <mark key="[" line="10" column="0" />
@@ -93,7 +93,7 @@
         <mark key="." line="45" column="28" />
         <mark key="^" line="44" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542892395378">
+      <file name="/Dummy.txt" timestamp="1542894587327">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -250,8 +250,8 @@
       <jump line="42" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Arrays.stream(ItemStatus.values()).map(ItemStatus::getCode).collect(Collectors.toSet())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Arrays.stream(ItemStatus.values()).map(ItemStatus::getCode).collect(Collectors.toSet())</text>
@@ -263,32 +263,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1CdWlsZGVyLnN0YXR1cyhJbnRlZ2VyLnZhbHVlT2YodCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsLm9mTnVsbGFibGUoc3RhdHVzKS5maWx0ZXIoU3RyaW5nVXRpbHM6Omhhc1RleHQpLmlmUHJlc2VudCh0IC0+IHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBwYXJhbUJ1aWxkZXIuc3RhdHVzKEludGVnZXIudmFsdWVPZih0KSk7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZWQpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8U3RyaW5nPiBvclRhZyA9ICBTZXRzLm5ld0hhc2hTZXQobGF5ZXIyVGFnKTsKICAgICAgICAgICAgICAgICAgICBwYXJhbURUTy5zZXRPclRhZ3Mob3JUYWcpOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/mnI3liqHllYblk4HmnInljZXni6znmoTnrqHnkIbpobXvvIzkuI3lnKjov5nph4znur/kuIoKICAgICAgICAgICAgcGFyYW1CdWlsZGVyLmV4Y2x1ZGVkVGFncyhTZXRzLm5ld0hhc2hTZXQoSXRlbVRhZ0VudW0uU0VSVklDRS5nZXRUYWdOYW1lKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsLm9mTnVsbGFibGUoc3RhdHVzKS5maWx0ZXIoU3RyaW5nVXRpbHM6Omhhc1RleHQpLmlmUHJlc2VudCh0IC0+IHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBwYXJhbUJ1aWxkZXIuc3RhdHVzKEludGVnZXIudmFsdWVPZih0KSk7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZWQpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W+i/geenu+aZrumAmuWVhuWTgV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy/mnI3liqHllYblk4HmnInljZXni6znmoTnrqHnkIbpobXvvIzkuI3lnKjov5nph4znur/kuIoKICAgICAgICAgICAgcGFyYW1CdWlsZGVyLmV4Y2x1ZGVkVGFncyhTZXRzLm5ld0hhc2hTZXQoSXRlbVRhZ0VudW0uU0VSVklDRS5nZXRUYWdOYW1lKCkpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">W+i/geenu+aZrumAmuWVhuWTgV0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">W+S/ruWkjV1pdGVtYXR0cmlidXRl6YeM6Z2ic2t1YXR0cmlidXRlanNvbiDlj43luo/liJfljJblvILluLjvvIzljYfnuqdwYXJhbmHniYjmnKzlj7cK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>multipart.maxFileSize=10MB
 multipart.maxRequestSize=10MB</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBvbGxvLmNhY2hlRGlyPS9Vc2Vycy90YW5saXl1YW4vZGF0YQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFRpbWVvdXQoCg==</text>
+        <text encoding="base64">YXBvbGxvLmNhY2hlRGlyPS9Vc2Vycy90YW5saXl1YW4vZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
