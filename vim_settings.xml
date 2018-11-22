@@ -10,6 +10,12 @@
         <mark key="." line="26" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.8-SNAPSHOT/parana-item-5.3.8-SNAPSHOT.jar!/io/terminus/parana/item/agent/ItemReadServiceFacadeAgent.class" timestamp="1542875838073" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1542880488316">
+        <mark key="[" line="338" column="32" />
+        <mark key="]" line="339" column="40" />
+        <mark key="^" line="339" column="40" />
+        <mark key="." line="339" column="40" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/interceptor/ZcyLoginInterceptor.java" timestamp="1542870447323" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/agent/sync/ItemSearchFromEsSyncAgent.java" timestamp="1542436069752">
         <mark key="[" line="32" column="0" />
@@ -49,9 +55,6 @@
         <mark key="^" line="114" column="14" />
         <mark key="." line="114" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.java" timestamp="1542875912322">
-        <mark key="[" line="239" column="13" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/mp-huodong/dao/pom.xml" timestamp="1542287800629">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="25" />
@@ -88,7 +91,7 @@
         <mark key="." line="45" column="28" />
         <mark key="^" line="44" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542875923226">
+      <file name="/Dummy.txt" timestamp="1542881077757">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -101,7 +104,6 @@
         <mark key="." line="224" column="0" />
         <mark key="^" line="223" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item/5.3.8-SNAPSHOT/parana-item-5.3.8-SNAPSHOT.jar!/io/terminus/parana/item/impl/service/AdminItemReadServiceImpl.class" timestamp="1542875872456" />
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" timestamp="1542879538089" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacade.java" timestamp="1542268184679">
         <mark key="[" line="44" column="14" />
@@ -246,11 +248,11 @@
       <jump line="42" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/mnI3liqHllYblk4HmnInljZXni6znmoTnrqHnkIbpobXvvIzkuI3lnKjov5nph4znur/kuIoKICAgICAgICAgICAgcGFyYW1CdWlsZGVyLmV4Y2x1ZGVkVGFncyhTZXRzLm5ld0hhc2hTZXQoSXRlbVRhZ0VudW0uU0VSVklDRS5nZXRUYWdOYW1lKCkpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>getTag</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
