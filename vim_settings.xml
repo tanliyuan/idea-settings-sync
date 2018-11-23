@@ -34,7 +34,9 @@
         <mark key="." line="261" column="0" />
         <mark key="^" line="261" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ZcyChangeManager.java" timestamp="1542941164937" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ZcyChangeManager.java" timestamp="1542942156578">
+        <mark key="'" line="499" column="9" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-api/1.0.26-SNAPSHOT/item-microservice-api-1.0.26-20181113.125540-19.jar!/cn/gov/zcy/service/item/facade/ItemReadServiceFacade.class" timestamp="1542891956036" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/pom.xml" timestamp="1542817168779" />
       <file name="/Dummy.txt" timestamp="1542939968494">
@@ -56,7 +58,6 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1542852862838" />
     </filemarks>
     <jumps>
-      <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
       <jump line="32" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
       <jump line="17" column="32" filename="$USER_HOME$/IdeaProjects/zcy-paas-doc/商品中心/category/类目属性SPU迁移.md" />
       <jump line="23" column="5" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/PropertyReadServiceFacadeImpl.java" />
@@ -156,6 +157,7 @@
       <jump line="60" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAttributeDao.java" />
       <jump line="42" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/stock/facade/OpenStockReadServiceFacadeImpl.java" />
       <jump line="61" column="13" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/brand/service/ZcyBrandReadServiceImpl.java" />
+      <jump line="499" column="9" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ZcyChangeManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
