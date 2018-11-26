@@ -3,21 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-file/4.0-SNAPSHOT/parana-file-4.0-20160407.035052-10.jar!/mapper/UserFileMapper.xml" timestamp="1543217611750" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/facade/SpuReadServiceFacade.java" timestamp="1543212977909">
         <mark key="[" line="21" column="77" />
         <mark key="]" line="25" column="114" />
         <mark key="." line="25" column="114" />
         <mark key="^" line="25" column="114" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/brand/service/ZcyBrandReadServiceImpl.java" timestamp="1542940713264">
-        <mark key="'" line="61" column="13" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/image/Folders.java" timestamp="1543217727533" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/AliSpuManager.java" timestamp="1543212955697">
         <mark key="[" line="33" column="29" />
         <mark key="]" line="33" column="47" />
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1543217560222" />
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1542818052084">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="32" />
@@ -42,12 +42,7 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/shop/service/ZcyShopCategoryWriteServiceImpl.java" timestamp="1543211889040">
         <mark key="[" line="136" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542939968494">
-        <mark key="'" line="0" column="34" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/impl/service/SpuImageUrlMigrateServiceImpl.java" timestamp="1543217041438" />
       <file name="$USER_HOME$/IdeaProjects/nginx-pg/conf.d/zcy-admin.conf.j2" timestamp="1542884563358">
         <mark key="[" line="97" column="4" />
         <mark key="]" line="97" column="4" />
@@ -60,9 +55,7 @@
         <mark key="." line="261" column="0" />
         <mark key="^" line="261" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ZcyChangeManager.java" timestamp="1542942156578">
-        <mark key="'" line="499" column="9" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/resources/spring/cloud-item-dubbo-provider.xml" timestamp="1543217566899" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemReadServiceFacadeImpl.java" timestamp="1542891914686">
         <mark key="[" line="187" column="12" />
         <mark key="]" line="187" column="56" />
