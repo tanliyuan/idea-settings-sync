@@ -3,25 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1543224476007">
-        <mark key="[" line="94" column="69" />
-        <mark key="]" line="95" column="25" />
-        <mark key="." line="95" column="25" />
-        <mark key="^" line="95" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1543225247476">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="122" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/impl/service/SpuImageUrlMigrateServiceImpl.java" timestamp="1543217041438" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/response/internal/SkuDTO.java" timestamp="1543219788695" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuAuditWriteServiceImpl.java" timestamp="1543224133426" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/ZcySpuAuditManager.java" timestamp="1543222475986" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/service/SpuWriteService.java" timestamp="1543222050634" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1543220790542" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1543225525642" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-file/4.0-SNAPSHOT/parana-file-4.0-20160407.035052-10.jar!/mapper/UserFileMapper.xml" timestamp="1543217611750" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/image/Folders.java" timestamp="1543217727533" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/utils/ZcySpuUtils.java" timestamp="1543223045538">
-        <mark key="[" line="83" column="52" />
-        <mark key="]" line="83" column="57" />
-        <mark key="." line="83" column="57" />
-        <mark key="^" line="83" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/utils/ZcySpuUtils.java" timestamp="1543224682866">
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+        <mark key="^" line="65" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1543217560222" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-extra-api/1.5.8-SNAPSHOT/zcy-extra-api-1.5.8-20180709.124417-479.jar!/cn/gov/zcy/extra/spu/service/AliSpuService.class" timestamp="1543223290991" />
@@ -145,41 +145,41 @@
       <jump line="499" column="9" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/manager/ZcyChangeManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AliSpuDTO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AliSpuDTO</text>
+        <text>aliSpuDTO</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1CdWlsZGVyLnN0YXR1cyhJbnRlZ2VyLnZhbHVlT2YodCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBbGlTcHVEVE8gY29udmVydCA9IFBvam9Db252ZXJ0VXRpbC5jb252ZXJ0KGFsaVNwdURUTywgQWxpU3B1RFRPLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZTxBbGlTcHVEVE8+IHJlc3BvbnNlID0gYWxpU3B1U2VydmljZS5nZXRBbGlTcHUoY2F0ZWdvcnlJZCwga2V5UHJvcGVydGllc1RleHQpOwogICAgICAgIEFzc2VydHMuY2hlY2socmVzcG9uc2UuaXNTdWNjZXNzKCksIHJlc3BvbnNlLmdldEVycm9yKCkpOwogICAgICAgIEFsaVNwdURUTyBhbGlTcHVEVE8gPSByZXNwb25zZS5nZXRSZXN1bHQoKTsKICAgICAgICByZXR1cm4gYWxpU3B1RFRPOwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBbGlTcHVEVE8gYWxpU3B1RFRPID0gcmVzcG9uc2UuZ2V0UmVzdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRzLmNoZWNrKHJlc3BvbnNlLmlzU3VjY2VzcygpLCByZXNwb25zZS5nZXRFcnJvcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcHVBbGlXcml0ZVNlcnZpY2UuaW5zZXJ0RXhpc3RVcGRhdGVEdXBsaWNhdGVLZXkoYWxpU3B1RFRPKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZTxBbGlTcHVEVE8+IHJlc3BvbnNlID0gYWxpU3B1U2VydmljZS5nZXRBbGlTcHUoY2F0ZWdvcnlJZCwga2V5UHJvcGVydGllc1RleHQpOwogICAgICAgIEFzc2VydHMuY2hlY2socmVzcG9uc2UuaXNTdWNjZXNzKCksIHJlc3BvbnNlLmdldEVycm9yKCkpOwogICAgICAgIEFsaVNwdURUTyBhbGlTcHVEVE8gPSByZXNwb25zZS5nZXRSZXN1bHQoKTsKICAgICAgICByZXR1cm4gYWxpU3B1RFRPOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBbGlTcHVEVE8gYWxpU3B1RFRPID0gcmVzcG9uc2UuZ2V0UmVzdWx0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W+i/kOiQpeeuoeeQhumhteWinuWKoOa4oOmBk+mAieaLqV3lop7liqDmma7pgJrllYblk4EK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRzLmNoZWNrKHJlc3BvbnNlLmlzU3VjY2VzcygpLCByZXNwb25zZS5nZXRFcnJvcigpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
