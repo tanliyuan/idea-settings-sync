@@ -81,7 +81,8 @@
         <mark key="^" line="32" column="16" />
       </file>
       <file name="/ZcyAuditWriteService.java" timestamp="1543236109196" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.8-SNAPSHOT/parana-item-api-5.3.8-SNAPSHOT-sources.jar!/io/terminus/parana/cache/CategoryBindingCacher.java" timestamp="1543287595592" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.8-SNAPSHOT/parana-item-api-5.3.8-SNAPSHOT-sources.jar!/io/terminus/parana/cache/CategoryBindingCacher.java" timestamp="1543290045917" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.8-SNAPSHOT/parana-category-5.3.8-SNAPSHOT.jar!/io/terminus/parana/category/impl/dao/CategoryBindingDao.class" timestamp="1543290209882" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/ZcySpuAuditManager.java" timestamp="1543232001984" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadServiceImpl.java" timestamp="1543232155247" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliWriteServiceImpl.java" timestamp="1543281654138">
@@ -104,7 +105,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/SpuDao.java" timestamp="1543232386825" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/resources/spring/cloud-item-dubbo-provider.xml" timestamp="1543217566899" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.8-SNAPSHOT/parana-category-5.3.8-SNAPSHOT.jar!/io/terminus/parana/category/impl/service/CategoryBindingReadServiceImpl.class" timestamp="1543287620923" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-category/5.3.8-SNAPSHOT/parana-category-5.3.8-SNAPSHOT.jar!/io/terminus/parana/category/impl/service/CategoryBindingReadServiceImpl.class" timestamp="1543290059942" />
     </filemarks>
     <jumps>
       <jump line="32" column="4" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" />
