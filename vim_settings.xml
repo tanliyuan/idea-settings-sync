@@ -138,6 +138,12 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/shop/service/ZcyShopCategoryReadService.java" timestamp="1543388032301" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/ZcyCategoryAttributes.java" timestamp="1543333005335" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeReadService.java" timestamp="1543384911631" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" timestamp="1543391512296">
+        <mark key="[" line="246" column="69" />
+        <mark key="]" line="248" column="33" />
+        <mark key="^" line="248" column="33" />
+        <mark key="." line="248" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/SpuController.java" timestamp="1543368496367">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -265,16 +271,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>categoryReadServiceFacade</text>
+        <text>PreservedGroup.USER_DEFINED.name()</text>
       </register>
       <register name="-" type="4">
-        <text>categoryReadServiceFacade</text>
+        <text>PreservedGroup.USER_DEFINED.name()</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="4">
-        <text>CategoryAttributeReadServiceFacade</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyLnNldEdyb3VwKFByZXNlcnZlZEdyb3VwLlVTRVJfREVGSU5FRC5uYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
