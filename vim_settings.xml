@@ -112,6 +112,7 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/cn/gov/zcy/extra/spu/service/AliSpuServiceImpl.java" timestamp="1543331801387" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/ZcySpuAuditManager.java" timestamp="1543449941044" />
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1543385118685">
         <mark key="[" line="22" column="107" />
         <mark key="]" line="22" column="108" />
@@ -125,7 +126,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="/AliSpuManager.java" timestamp="1543381004685" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/AliSpuManager.java" timestamp="1543382219592">
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/AliSpuManager.java" timestamp="1543449706943">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="4" />
@@ -153,11 +154,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/dbchange/dbchange/V128__商品中心_db_item_spu渠道字段类型变更.sql" timestamp="1543404430087" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/ZcySpuAuditManager.java" timestamp="1543375722419" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadServiceImpl.java" timestamp="1543448798298">
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="34" />
-        <mark key="^" line="52" column="34" />
-        <mark key="." line="52" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadServiceImpl.java" timestamp="1543449455998">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="53" column="56" />
+        <mark key="^" line="53" column="56" />
+        <mark key="." line="53" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliWriteServiceImpl.java" timestamp="1543410737214">
         <mark key="[" line="32" column="0" />
@@ -193,7 +194,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1543413675509" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/SpuAuditWriteServiceImpl.java" timestamp="1543375860498" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1543372801494" />
-      <file name="/fragment.java" timestamp="1543413676278">
+      <file name="/fragment.java" timestamp="1543448989795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1543382737100" />
@@ -302,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>物品编码code</text>
+        <text>Array</text>
       </register>
       <register name="-" type="4">
-        <text>物品编码code</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
