@@ -37,6 +37,12 @@
         <mark key="^" line="63" column="17" />
         <mark key="." line="63" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" timestamp="1543472726917">
+        <mark key="[" line="383" column="115" />
+        <mark key="]" line="383" column="114" />
+        <mark key="." line="383" column="114" />
+        <mark key="^" line="383" column="114" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/category/service/ZcyCategoryAttributeReadServiceImpl.java" timestamp="1543447783395">
         <mark key="[" line="156" column="79" />
         <mark key="]" line="158" column="53" />
@@ -62,12 +68,6 @@
         <mark key="^" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/shop/service/ZcyShopCategoryHelper.java" timestamp="1543388652371" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" timestamp="1543387808547">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="41" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-admin/src/main/java/cn/gov/zcy/admin/jobs/ShopCategoryJobs.java" timestamp="1543389248173" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/rule/dto/BaseInput.java" timestamp="1543392121078" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuWriteServiceImpl.java" timestamp="1543369429277">
@@ -76,15 +76,8 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="120" column="75" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/utils/ZcySpuUtils.java" timestamp="1543446942391">
-        <mark key="[" line="223" column="24" />
-        <mark key="]" line="223" column="67" />
-        <mark key="." line="223" column="67" />
-        <mark key="^" line="223" column="67" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/mall/ZcyCategoryAttributeReadServiceImpl.java" timestamp="1543447473622" />
       <file name="$USER_HOME$/IdeaProjects/dbchange/dbchange/V159__商品中心_db_item_spu增加price.sql" timestamp="1543404851966" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1543413695961" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1543372814278" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1543460075494">
         <mark key="[" line="132" column="44" />
@@ -106,6 +99,12 @@
         <mark key="." line="82" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-SNAPSHOT-sources.jar!/cn/gov/zcy/spu/service/ZcySpuAuditReadService.java" timestamp="1543413294740" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/util/Constants.java" timestamp="1543473341319">
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="68" column="45" />
+        <mark key="^" line="68" column="45" />
+        <mark key="." line="68" column="45" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/ZcyBackCategories.java" timestamp="1543375557005" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-SNAPSHOT-sources.jar!/cn/gov/zcy/shop/service/ZcyShopCategoryWriteService.java" timestamp="1543389286730" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/otherAttributes/OtherAttributeRuleByCategoryExecutor.java" timestamp="1543392109183" />
@@ -131,12 +130,6 @@
       </file>
       <file name="/AliSpuManager.java" timestamp="1543381004685" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemWriteServiceImpl.java" timestamp="1543375614760" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1543413591668">
-        <mark key="[" line="93" column="75" />
-        <mark key="]" line="124" column="53" />
-        <mark key="^" line="124" column="53" />
-        <mark key="." line="124" column="53" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/SpuAliDao.java" timestamp="1543387132074">
         <mark key="[" line="38" column="45" />
         <mark key="]" line="38" column="56" />
@@ -195,7 +188,7 @@
         <mark key="." line="215" column="41" />
         <mark key="^" line="215" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543462045592">
+      <file name="/Dummy.txt" timestamp="1543472242503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -203,7 +196,6 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1543413675509" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/SpuAuditWriteServiceImpl.java" timestamp="1543375860498" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1543372801494" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1543460545129" />
       <file name="/fragment.java" timestamp="1543460878333">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,17 +304,17 @@
       <jump line="47" column="40" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLlNwdVJlYWRTZXJ2aWNlRmFjYWRlIiBpZD0ic3B1UmVhZFNlcnZpY2VGYWNhZGUiIHJldHJpZXM9IjAiIHZlcnNpb249IjEuMC4wIiBjaGVjaz0iZmFsc2UiIHRpbWVvdXQ9IjMwMDAiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OSS</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>OSS</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLlNwdVJlYWRTZXJ2aWNlRmFjYWRlIiBpZD0ic3B1UmVhZFNlcnZpY2VGYWNhZGUiIHJldHJpZXM9IjAiIHZlcnNpb249IjEuMC4wIiBjaGVjaz0iZmFsc2UiIHRpbWVvdXQ9IjMwMDAiIC8+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBzdGF0aWMgU3RyaW5nIE5FV19PU1NfSE9TVCA9ICJ6Y3ktZ292LWl0ZW0ub3NzLWNuLW5vcnRoLTItZ292LTEuYWxpeXVuY3MuY29tIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">W3Nwdeiwg+eUqOacrOWcsF3lvIDmlL7lubPlj7AK</text>
