@@ -3,13 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1543830666430">
+        <mark key="[" line="23" column="107" />
+        <mark key="]" line="23" column="108" />
+        <mark key="." line="23" column="108" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1543819580860">
         <mark key="[" line="38" column="41" />
         <mark key="]" line="38" column="41" />
         <mark key="." line="38" column="41" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543828832602">
+      <file name="/Dummy.txt" timestamp="1543830675169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -118,8 +123,8 @@
       <jump line="74" column="55" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>story#6843</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLlNwdVJlYWRTZXJ2aWNlRmFjYWRlIiBpZD0ic3B1UmVhZFNlcnZpY2VGYWNhZGUiIHJldHJpZXM9IjAiIHZlcnNpb249IjEuMC4wIiBjaGVjaz0iZmFsc2UiIHRpbWVvdXQ9IjMwMDAiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>story#6843</text>
@@ -127,8 +132,8 @@
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="4">
-        <text>Constants.ORIGIN_OSS_IMAGE_HOST, Constants.NEW_CND_HOST</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLlNwdVJlYWRTZXJ2aWNlRmFjYWRlIiBpZD0ic3B1UmVhZFNlcnZpY2VGYWNhZGUiIHJldHJpZXM9IjAiIHZlcnNpb249IjEuMC4wIiBjaGVjaz0iZmFsc2UiIHRpbWVvdXQ9IjMwMDAiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">W3JlbGVhc2UxMjA2XQo=</text>
