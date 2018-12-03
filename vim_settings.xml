@@ -23,10 +23,10 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/factory/ItemFrozenStatus.java" timestamp="1543793531031" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1543807428550" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1543792769439" />
-      <file name="/Dummy.txt" timestamp="1543804293836">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1543816301424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1543806505698" />
     </filemarks>
@@ -133,8 +133,8 @@
       <jump line="74" column="55" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>release</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W3JlbGVhc2UxMjA2XQo=</text>
       </register>
       <register name="-" type="4">
         <text>release</text>
@@ -146,31 +146,31 @@
         <text>Constants.ORIGIN_OSS_IMAGE_HOST, Constants.NEW_CND_HOST</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">W3JlbGVhc2UxMjA2XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W2l0ZW3lm77niYfpk77mjqXmm7/mjaJdCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">W2l0ZW3lm77niYfpk77mjqXmm7/mjaJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lcnJvcjsK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lcnJvcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBpbnB1dCBpbnN0YW5jZW9mIEZ1bGxJdGVtIHx8IGlucHV0IGluc3RhbmNlb2YgUHJvZHVjdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgaW5zdGFuY2VvZiBQcm9kdWN0KSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBpbnB1dCBpbnN0YW5jZW9mIEZ1bGxJdGVtIHx8IGlucHV0IGluc3RhbmNlb2YgUHJvZHVjdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQgaW5zdGFuY2VvZiBQcm9kdWN0KSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3TWFpbkltYWdlID0gbmV3RnVsbEl0ZW0uZ2V0SXRlbSgpLmdldE1haW5JbWFnZSgpLnJlcGxhY2UoQ29uc3RhbnRzLk9SSUdJTl9JTUFHRV9IT1NULCBDb25zdGFudHMuTkVXX0NORF9IT1NUKTsKICAgICAgICBuZXdGdWxsSXRlbS5nZXRJdGVtKCkuc2V0TWFpbkltYWdlKG5ld01haW5JbWFnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
