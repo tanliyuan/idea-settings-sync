@@ -9,7 +9,7 @@
         <mark key="." line="23" column="108" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-extra-api/1.6.2-SNAPSHOT/zcy-extra-api-1.6.2-20181204.015916-658.jar!/cn/gov/zcy/extra/spu/dto/AliSpuDTO.class" timestamp="1543893621916" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteServiceImpl.java" timestamp="1543902097872">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteServiceImpl.java" timestamp="1543911332569">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -47,7 +47,7 @@
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuController.java" timestamp="1543894512377" />
       <file name="$MAVEN_REPOSITORY$/com/dtdream/vanyar/vanyar-user-api/3.08.1129-SNAPSHOT/vanyar-user-api-3.08.1129-20180904.121122-59-sources.jar!/com/dtdream/vanyar/user/enums/Category.java" timestamp="1543901423543" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" timestamp="1543907000265" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1543903122696" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1543910843613" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/manager/ZcyBrandManager.java" timestamp="1543900963651">
         <mark key="[" line="81" column="34" />
         <mark key="]" line="81" column="45" />
@@ -87,13 +87,14 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1543899829667">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="31" column="27" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1543912610894">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="52" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1543906262167">
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.0/poi-4.0.0-sources.jar!/org/apache/poi/ss/usermodel/Row.java" timestamp="1543911973958" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1543912712063">
         <mark key="[" line="32" column="22" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -107,7 +108,7 @@
         <mark key="." line="33" column="42" />
       </file>
       <file name="/pom.xml" timestamp="1543836982863" />
-      <file name="/fragment.java" timestamp="1543905237719">
+      <file name="/fragment.java" timestamp="1543912600219">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -214,44 +215,44 @@
       <jump line="74" column="55" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>cell.getStringCellValue()</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLlByb3BlcnR5V3JpdGVTZXJ2aWNlRmFjYWRlIiBpZD0icHJvcGVydHlXcml0ZVNlcnZpY2VGYWNhZGUiIHJldHJpZXM9IjAiIHZlcnNpb249IjEuMC4wIiBjaGVjaz0iZmFsc2UiIHRpbWVvdXQ9IjEwMDAwIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhZC5zaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSsr77ybCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhZC5zaXplKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQnJhbmRDb250ZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsr77ybCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgWmN5QnJhbmRSZWFkU2VydmljZSB6Y3lCcmFuZFJlYWRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHNlZSBaY3lCcmFuZFdyaXRlU2VydmljZSNjcmVhdGVCcmFuZChMb2dpblVzZXIsIEJyYW5kRFRPKQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQnJhbmRDb250ZXh0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgWmN5QnJhbmRSZWFkU2VydmljZSB6Y3lCcmFuZFJlYWRTZXJ2aWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHNlZSBaY3lCcmFuZFdyaXRlU2VydmljZSNjcmVhdGVCcmFuZChMb2dpblVzZXIsIEJyYW5kRFRPKQogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
