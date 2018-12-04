@@ -8,6 +8,9 @@
         <mark key="]" line="23" column="108" />
         <mark key="." line="23" column="108" />
       </file>
+      <file name="/a.dummy" timestamp="1543913982577">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-extra-api/1.6.2-SNAPSHOT/zcy-extra-api-1.6.2-20181204.015916-658.jar!/cn/gov/zcy/extra/spu/dto/AliSpuDTO.class" timestamp="1543893621916" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteServiceImpl.java" timestamp="1543911332569">
         <mark key="[" line="46" column="0" />
@@ -29,7 +32,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ExcelListener.java" timestamp="1543888241692" />
       <file name="$MAVEN_REPOSITORY$/com/dtdream/vanyar/vanyar-user-api/3.08.1129-SNAPSHOT/vanyar-user-api-3.08.1129-20180904.121122-59-sources.jar!/com/dtdream/vanyar/user/dto/LoginUser.java" timestamp="1543900921044" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1543899894999" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-admin/src/main/java/cn/gov/zcy/admin/controller/ZcyAdminAttachment.java" timestamp="1543914222935" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1543916347595">
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="106" column="11" />
+        <mark key="^" line="106" column="11" />
+        <mark key="." line="106" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-extra/src/main/java/cn/gov/zcy/extra/spu/utils/ConvertUtils.java" timestamp="1543894967201" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/BrandWriteServiceFacade.java" timestamp="1543901059142">
         <mark key="[" line="17" column="26" />
@@ -44,7 +53,7 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuController.java" timestamp="1543894512377" />
+      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuController.java" timestamp="1543914893295" />
       <file name="$MAVEN_REPOSITORY$/com/dtdream/vanyar/vanyar-user-api/3.08.1129-SNAPSHOT/vanyar-user-api-3.08.1129-20180904.121122-59-sources.jar!/com/dtdream/vanyar/user/enums/Category.java" timestamp="1543901423543" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" timestamp="1543907000265" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1543910843613" />
@@ -75,32 +84,39 @@
         <mark key="^" line="38" column="41" />
       </file>
       <file name="/ZcyBrandManager.java" timestamp="1543896018622" />
-      <file name="/Dummy.txt" timestamp="1543905237748">
+      <file name="/Dummy.txt" timestamp="1543913837266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-SNAPSHOT-sources.jar!/cn/gov/zcy/spu/service/SpuImageUrlMigrateService.java" timestamp="1543892240107" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/util/Constants.java" timestamp="1543915646561" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandContext.java" timestamp="1543902837307">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="33" column="11" />
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1543912610894">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="52" column="70" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1543913915811">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="53" column="70" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.0/poi-4.0.0-sources.jar!/org/apache/poi/ss/usermodel/Row.java" timestamp="1543911973958" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1543912712063">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1543914788932">
+        <mark key="[" line="75" column="43" />
+        <mark key="]" line="75" column="52" />
+        <mark key="." line="75" column="52" />
+        <mark key="^" line="75" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuController.java" timestamp="1543907573004" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1543913933784">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="26" column="13" />
+        <mark key="^" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/BrandWriteServiceFacadeImpl.java" timestamp="1543901187694">
         <mark key="[" line="33" column="42" />
         <mark key="]" line="33" column="42" />
@@ -108,8 +124,20 @@
         <mark key="." line="33" column="42" />
       </file>
       <file name="/pom.xml" timestamp="1543836982863" />
-      <file name="/fragment.java" timestamp="1543912600219">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/SpuExcel.java" timestamp="1543913977711">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+      </file>
+      <file name="/fragment.java" timestamp="1543913959510">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/AliSpuExcel.java" timestamp="1543915958796">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -216,43 +244,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7CiAgICAgICAgICAgIFJlc3BvbnNlPEJvb2xlYW4+IHJlc3BvbnNlID0gYWxpV3JpdGVTZXJ2aWNlLmR1bXBJbnNlcnRFeGlzdFVwZGF0ZSh0KTsKICAgICAgICAgICAgaWYgKCFyZXNwb25zZS5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCLorrDlvZXkv53lrZjlpLHotKU6e30scGFyYW06e30iLCB0LCByZXNwb25zZS5nZXRFcnJvcigpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cell.getStringCellValue()</text>
+        <text>Spuex</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBXb3JrYm9vayB3b3JrYm9vayA9IFN0cmVhbWluZ1JlYWRlci5idWlsZGVyKCkucm93Q2FjaGVTaXplKDEwMCkuYnVmZmVyU2l6ZSg0MDk2KQogICAgICAgICAgICAgICAgLm9wZW4oZXhjZWwpOwoKICAgICAgICBJdGVtQ29kZUV4Y2VsIGV4Y2VsTGlzdGVuZXIgPSBuZXcgSXRlbUNvZGVFeGNlbCh3b3JrYm9vayk7CgogICAgICAgIExpc3Q8U3B1QWxpPiByZWFkID0gZXhjZWxMaXN0ZW5lci5yZWFkKCk7CgogICAgICAgIHJlYWQuZm9yRWFjaCh0IC0+IHsKICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7CiAgICAgICAgICAgIFJlc3BvbnNlPEJvb2xlYW4+IHJlc3BvbnNlID0gYWxpV3JpdGVTZXJ2aWNlLmR1bXBJbnNlcnRFeGlzdFVwZGF0ZSh0KTsKICAgICAgICAgICAgaWYgKCFyZXNwb25zZS5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCLorrDlvZXkv53lrZjlpLHotKU6e30scGFyYW06e30iLCB0LCByZXNwb25zZS5nZXRFcnJvcigpKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4gcmVhZC5zaXplKCk7Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7CiAgICAgICAgICAgIFJlc3BvbnNlPEJvb2xlYW4+IHJlc3BvbnNlID0gYWxpV3JpdGVTZXJ2aWNlLmR1bXBJbnNlcnRFeGlzdFVwZGF0ZSh0KTsKICAgICAgICAgICAgaWYgKCFyZXNwb25zZS5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCLorrDlvZXkv53lrZjlpLHotKU6e30scGFyYW06e30iLCB0LCByZXNwb25zZS5nZXRFcnJvcigpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhZC5zaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0cy5hZGQoYnJhbmQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSsr77ybCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWwuaW5jcmVtZW50QW5kR2V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQnJhbmRDb250ZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJhbmQuc2V0RnVsbE5hbWUodC5nZXQoMCkpOwogICAgICAgICAgICBicmFuZC5zZXROYW1lKHQuZ2V0KDApLnRvTG93ZXJDYXNlKCkpOwogICAgICAgICAgICBicmFuZC5zZXRDaE5hbWUodC5nZXQoMSkpOwogICAgICAgICAgICBicmFuZC5zZXRFbk5hbWUodC5nZXQoMikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgWmN5QnJhbmRSZWFkU2VydmljZSB6Y3lCcmFuZFJlYWRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGNlbGwuZ2V0U3RyaW5nQ2VsbFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHNlZSBaY3lCcmFuZFdyaXRlU2VydmljZSNjcmVhdGVCcmFuZChMb2dpblVzZXIsIEJyYW5kRFRPKQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
