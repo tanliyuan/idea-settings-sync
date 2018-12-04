@@ -92,11 +92,11 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1543904868523">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="74" />
-        <mark key="." line="44" column="74" />
-        <mark key="^" line="44" column="74" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1543906262167">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/BrandWriteServiceFacadeImpl.java" timestamp="1543901187694">
         <mark key="[" line="33" column="42" />
@@ -213,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>category</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
