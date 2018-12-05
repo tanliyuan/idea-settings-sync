@@ -12,7 +12,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-extra-api/1.6.2-SNAPSHOT/zcy-extra-api-1.6.2-20181204.015916-658.jar!/cn/gov/zcy/extra/spu/dto/AliSpuDTO.class" timestamp="1543893621916" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1543993904920" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1543997575046">
+        <mark key="[" line="129" column="44" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="143" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteServiceImpl.java" timestamp="1543911332569">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -60,6 +65,12 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/category/service/ZcyCategoryAttributeReadServiceImpl.java" timestamp="1543994942981" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuController.java" timestamp="1543926040382" />
       <file name="$MAVEN_REPOSITORY$/com/dtdream/vanyar/vanyar-user-api/3.08.1129-SNAPSHOT/vanyar-user-api-3.08.1129-20180904.121122-59-sources.jar!/com/dtdream/vanyar/user/enums/Category.java" timestamp="1543901423543" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/convers/TagEnumConverter.java" timestamp="1543997352442">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" timestamp="1543907000265" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandSingleSearchCriteria.java" timestamp="1543922863595">
         <mark key="[" line="30" column="15" />
@@ -90,7 +101,7 @@
         <mark key="^" line="50" column="22" />
       </file>
       <file name="/SpuImageUrlMigrateServiceImpl.java" timestamp="1543892182582" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1543995780753" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1543996753659" />
       <file name="/SpuWriteServiceFacade.java" timestamp="1543991466853" />
       <file name="/ZcyBrandManager.java" timestamp="1543896018622" />
       <file name="/Dummy.txt" timestamp="1543994930356">
@@ -130,6 +141,7 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/PropertyBusinessTagEnum.java" timestamp="1543997080580" />
       <file name="/fragment.java" timestamp="1543994920796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBERUxFVEUgRlJPTQogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJ0YiIvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLnRlcm1pbnVzLnBhcmFuYS5jYXRlZ29yeS5kdG8uR3JvdXBlZENhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>zcyCategoryAttributeReadService</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -256,31 +268,31 @@
         <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIG1pc3MgPSBuZXcgQXRvbWljSW50ZWdlcigwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBERUxFVEUgRlJPTQogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJ0YiIvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLnRlcm1pbnVzLnBhcmFuYS5jYXRlZ29yeS5kdG8uR3JvdXBlZENhdGVnb3J5QXR0cmlidXRlV2l0aFByb3BlcnR5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmZhaWwoIueJqeWTgee8lueggUV4Y2Vs6Kej5p6Q5byC5bi4Iik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnRlcm1pbnVzLnBhcmFuYS5jYXRlZ29yeS5kdG8uQ2F0ZWdvcnlBdHRyaWJ1dGVXaXRoUHJvcGVydHlDb21wb3NpdGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGludGVnZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi56Y3kuY2F0ZWdvcnkuc2VydmljZS5aY3lDYXRlZ29yeUF0dHJpYnV0ZVJlYWRTZXJ2aWNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmKEl0ZW1MYXllckVudW0uaXNCYXNlTGF5ZXIobGF5ZXIpKXsKLy8gICAgICAgICAgICByZXR1cm4gUHJvcGVydHlCdXNpbmVzc1RhZ0VudW0uREVGQVVMVDsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8obGlwZWlqaWUpOiAxOC80LzUgd2Vi5bGC5a+55aSW5L6d6LWWLOiAg+iZkeaYr+WQpumcgOimgeaKveWPluexu+S8vGFnZW50LOWboOS4uuWPr+iDveS8mueUqOWIsOe8k+WtmAogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBaY3lDYXRlZ29yeUF0dHJpYnV0ZVJlYWRTZXJ2aWNlIHpjeUNhdGVnb3J5QXR0cmlidXRlUmVhZFNlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWNjZXNzLmluY3JlbWVudEFuZEdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBERUxFVEUgRlJPTQogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJ0YiIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmZhaWwoIueJqeWTgee8lueggUV4Y2Vs6Kej5p6Q5byC5bi4Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuc2V0QnJhbmRJZChicmFuZElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGludGVnZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJhbmROYW1lSWRtYXAucHV0KGJyYW5kTmFtZSwgYnJhbmRJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
