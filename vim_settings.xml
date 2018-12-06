@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/audit/manager/ZcyAuditWorkflowManager.java" timestamp="1544054062159" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacade.java" timestamp="1544074181962" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemCopyStrategyParamDTO.java" timestamp="1544082701726" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemCopyStrategyParamDTO.java" timestamp="1544096611806" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/facade/BrandReadServiceFacadeImpl.java" timestamp="1543923655230">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
@@ -47,6 +47,7 @@
         <mark key="^" line="37" column="23" />
         <mark key="." line="37" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1544096898699" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandSingleSearchCriteria.java" timestamp="1543922863595">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="15" />
@@ -146,9 +147,7 @@
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuAuditController.java" timestamp="1544060418874" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliWriteServiceImpl.java" timestamp="1544065301590" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcyBackCategoryController.java" timestamp="1544088225670" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1544082776534">
-        <mark key="'" line="980" column="10" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1544096508859" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1544018099440">
         <mark key="[" line="82" column="136" />
         <mark key="]" line="82" column="137" />
