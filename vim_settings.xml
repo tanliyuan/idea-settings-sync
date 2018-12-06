@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/audit/manager/ZcyAuditWorkflowManager.java" timestamp="1544054062159" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacade.java" timestamp="1544074181962" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemCopyStrategyParamDTO.java" timestamp="1544082701726" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544077418028" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/SpuAliMapper.xml" timestamp="1544052058895">
         <mark key="[" line="159" column="60" />
@@ -49,7 +50,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuAuditReadServiceImpl.java" timestamp="1544054037695" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/ZcySpuAuditLockDao.java" timestamp="1544078690810" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1544077647466">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1544082787676">
         <mark key="[" line="683" column="0" />
         <mark key="]" line="683" column="0" />
         <mark key="." line="683" column="0" />
@@ -58,6 +59,9 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadServiceImpl.java" timestamp="1544079688985" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuAuditController.java" timestamp="1544060418874" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliWriteServiceImpl.java" timestamp="1544065301590" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1544082776534">
+        <mark key="'" line="980" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/model/ZcySpuSnapshot.java" timestamp="1544052305562" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/ZcySpuAuditLockMapper.xml" timestamp="1544078662228" />
       <file name="/Dummy.txt" timestamp="1544081723145">
@@ -78,7 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="49" filename="$USER_HOME$/IdeaProjects/weiji_job/weiji-dao/src/main/resources/mybatis/mapper/SalaryMapper.xml" />
       <jump line="7" column="2" filename="$USER_HOME$/IdeaProjects/weiji_job/pom.xml" />
       <jump line="5" column="58" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/resources/spring/cloud-user-vanyar-dubbo-consumer.xml" />
       <jump line="118" column="17" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item-api/src/main/java/cn/gov/zcy/item/service/ZcyBrandReadService.java" />
@@ -178,6 +181,7 @@
       <jump line="213" column="28" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/impl/service/ZcySpuWriteServiceImpl.java" />
       <jump line="47" column="40" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" />
       <jump line="74" column="55" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" />
+      <jump line="980" column="10" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
