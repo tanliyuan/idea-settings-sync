@@ -41,12 +41,12 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="92" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544246154410">
-        <mark key="'" line="514" column="7" />
-        <mark key="[" line="501" column="28" />
-        <mark key="]" line="502" column="43" />
-        <mark key="^" line="502" column="43" />
-        <mark key="." line="502" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544246961784">
+        <mark key="'" line="529" column="7" />
+        <mark key="[" line="492" column="27" />
+        <mark key="]" line="492" column="31" />
+        <mark key="^" line="492" column="31" />
+        <mark key="." line="492" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminProperties.java" timestamp="1544232629692" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadService.java" timestamp="1544086188722">
@@ -342,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>oldItemAttrs.subList()</text>
+        <text>Creates</text>
       </register>
       <register name="-" type="4">
-        <text>oldItemAttrs.subList()</text>
+        <text>Creates</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -354,31 +354,31 @@
         <text>oldItemIds.subList(i * queryLimit, maxIndex)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjcmVhdGVEYW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlRGFvLmNyZWF0ZXMob2xkSXRlbUlkcy5zdWJMaXN0KGkgKiBxdWVyeUxpbWl0LCBtYXhJbmRleCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTa3U+IG9sZFNrdXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2xkU2t1cyA9IFJlc3BIZWxwZXIub3I1MDAob2xkU2t1c1Jlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3JpZ2luQWdyZWVtZW50SWQgPT0gbnVsbCB8fCB0YXJnZXRBZ3JlZW1lbnRJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCLmupDljY/orq5pZOOAgeebruagh+WNj+iurmlk5b+F5aGrIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJdGVtQXR0cmlidXRlPiBvbGRJdGVtQXR0cmlidXRlcyA9IFJlc3BIZWxwZXIub3I1MDAob2xkSXRlbUF0dHJpYnV0ZXNSZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjcmVhdGVEYW8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIOetlueVpeS4uiBQUk9UT0NPTCDml7blv4XkvKAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIOetlueVpeS4uiBQUk9UT0NPTCDml7blv4XkvKAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3JpZ2luQWdyZWVtZW50SWQgPT0gbnVsbCB8fCB0YXJnZXRBZ3JlZW1lbnRJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCLmupDljY/orq5pZOOAgeebruagh+WNj+iurmlk5b+F5aGrIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
