@@ -41,12 +41,12 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="92" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544238560758">
-        <mark key="'" line="487" column="7" />
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="505" column="0" />
-        <mark key="^" line="503" column="7" />
-        <mark key="." line="505" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544246154410">
+        <mark key="'" line="514" column="7" />
+        <mark key="[" line="501" column="28" />
+        <mark key="]" line="502" column="43" />
+        <mark key="^" line="502" column="43" />
+        <mark key="." line="502" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminProperties.java" timestamp="1544232629692" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadService.java" timestamp="1544086188722">
@@ -104,6 +104,7 @@
         <mark key="^" line="37" column="23" />
         <mark key="." line="37" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1544244847506" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandSingleSearchCriteria.java" timestamp="1543922863595">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="15" />
@@ -340,44 +341,44 @@
       <jump line="487" column="7" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>oldItemAttrs.subList()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>oldItemAttrs.subList()</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNcUNyaXRlcmlhIGJ1aWxkID0gTXFDcml0ZXJpYS5idWlsZGVyKCkuaXRlbUNvcHlSZXN1bHQoUmVzcG9uc2Uub2socmVzdWx0RFRPUykpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
+      <register name="0" type="4">
+        <text>oldItemIds.subList(i * queryLimit, maxIndex)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjcmVhdGVEYW8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3JpZ2luQWdyZWVtZW50SWQgPT0gbnVsbCB8fCB0YXJnZXRBZ3JlZW1lbnRJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCLmupDljY/orq5pZOOAgeebruagh+WNj+iurmlk5b+F5aGrIik7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob3JpZ2luQWdyZWVtZW50SWQgPT0gbnVsbCB8fCB0YXJnZXRBZ3JlZW1lbnRJZCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5mYWlsKCLmupDljY/orq5pZOOAgeebruagh+WNj+iurmlk5b+F5aGrIik7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIOetlueVpeS4uiBQUk9UT0NPTCDml7blv4XkvKAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAqIOetlueVpeS4uiBQUk9UT0NPTCDml7blv4XkvKAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAqIOetlueVpeS4uiBQUk9UT0NPTCDml7blv4XkvKAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZTxMaXN0PEl0ZW1Db3B5Q3JlYXRlUmVzdWx0RFRPPj4gbGlzdFJlc3BvbnNlMSA9IG5ldyBSZXNwb25zZTw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
