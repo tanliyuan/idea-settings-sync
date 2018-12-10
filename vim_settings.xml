@@ -12,12 +12,12 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1544422864156" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/PropertyBusinessType.java" timestamp="1544193199539" />
       <file name="/ItemCopyStrategyParamDTO.java" timestamp="1544232835401" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544421191819">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544424007785">
         <mark key="'" line="534" column="7" />
-        <mark key="[" line="544" column="29" />
-        <mark key="]" line="478" column="122" />
-        <mark key="." line="478" column="122" />
-        <mark key="^" line="478" column="122" />
+        <mark key="[" line="570" column="42" />
+        <mark key="]" line="570" column="50" />
+        <mark key="." line="570" column="50" />
+        <mark key="^" line="570" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminProperties.java" timestamp="1544232629692" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/starter/ItemCopyProducer.java" timestamp="1544413667999">
@@ -70,7 +70,7 @@
       <file name="/ItemWriteServiceFacade.java" timestamp="1544409060869" />
       <file name="/ItemWriteServiceImpl.java" timestamp="1544232929012" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/starter/ItemProducer.java" timestamp="1544233824774" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1544413754967">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1544424605507">
         <mark key="[" line="538" column="22" />
         <mark key="]" line="550" column="0" />
         <mark key="." line="550" column="0" />
@@ -201,11 +201,11 @@
       <jump line="487" column="7" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShpdGVtQnlDb3B5U3RyYXRlZ3kuZ2V0UmVzdWx0KCkuc2l6ZSgpID4gMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVzcG9uc2U8SXRlbUNvcHlNcURUTz4gaXRlbUJ5Q29weVN0cmF0ZWd5ID0g</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -214,31 +214,31 @@
         <text encoding="base64">TGlzdDxTa3U+IG9sZFNrdXM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShpdGVtQnlDb3B5U3RyYXRlZ3kuZ2V0UmVzdWx0KCkuc2l6ZSgpID4gMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXFDb250ZXh0IG1xQ29udGV4dCA9IE1xQ29udGV4dC5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAuaXNTZW5kQ3JlZGl0KEJvb2xlYW4uRkFMU0UpCiAgICAgICAgICAgICAgICAgICAgLmlzU2VuZFN0b2NrKEJvb2xlYW4uRkFMU0UpCiAgICAgICAgICAgICAgICAgICAgLmlzU2VuZEl0ZW1Db3B5KEJvb2xlYW4uVFJVRSkuYnVpbGQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/kvJrkv67mlLnorrDlvZXph4zpnaLnmoQgaXRlbUlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXFDcml0ZXJpYS5idWlsZGVyKCkuaXRlbUNvcHlSZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcFdhdGNoLnNwbGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShpdGVtQnlDb3B5U3RyYXRlZ3kuZ2V0UmVzdWx0KCkuc2l6ZSgpID4gMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/kvJrkv67mlLnorrDlvZXph4zpnaLnmoQgaXRlbUlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RvcFdhdGNoIHN0b3BXYXRjaCA9IG5ldyBTdG9wV2F0Y2goKTsKICAgICAgICAgICAgc3RvcFdhdGNoLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcFdhdGNoLnNwbGl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluSWQgPSBpdGVtcy5nZXQoaXRlbXMuc2l6ZSgpIC0gMSkuZ2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJtaW5JZCIsIG1pbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RvcFdhdGNoIHN0b3BXYXRjaCA9IG5ldyBTdG9wV2F0Y2goKTsKICAgICAgICAgICAgc3RvcFdhdGNoLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0U3FsU2Vzc2lvbigpLnNlbGVjdExpc3QoImZpbmRJdGVtc0J5QWdncmVtZW50SWQiLCBtYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluSWQgPSBpdGVtcy5nZXQoaXRlbXMuc2l6ZSgpIC0gMSkuZ2V0SWQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gaXRlbURldGFpbERhby5maW5kQnlJdGVtSWRzKG9sZEl0ZW1JZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJtaW5JZCIsIG1pbklkKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
