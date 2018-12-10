@@ -76,10 +76,10 @@
         <mark key="." line="550" column="0" />
         <mark key="^" line="550" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544408108734">
+      <file name="/Dummy.txt" timestamp="1544426722240">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/StockMessageProducer.java" timestamp="1544236431447" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/PropertyReadServiceFacade.java" timestamp="1544193787706" />
@@ -90,6 +90,7 @@
         <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/PropertyComposite.java" timestamp="1544192817441" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/pom.xml" timestamp="1544426663311" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1544248753454">
         <mark key="[" line="632" column="13" />
         <mark key="]" line="632" column="25" />
@@ -202,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>[依赖升级]</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>[依赖升级]</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
