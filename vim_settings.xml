@@ -31,6 +31,7 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="46" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1544408440600" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/PropertyCriteria.java" timestamp="1544193623178" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1544247962089">
         <mark key="[" line="679" column="55" />
@@ -52,11 +53,11 @@
         <mark key="^" line="1438" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/Property.java" timestamp="1544193635137" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/ItemCopyMessageProducer.java" timestamp="1544249482558">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/ItemCopyMessageProducer.java" timestamp="1544408856049">
         <mark key="[" line="56" column="21" />
-        <mark key="]" line="56" column="21" />
-        <mark key="^" line="68" column="18" />
-        <mark key="." line="56" column="21" />
+        <mark key="]" line="44" column="110" />
+        <mark key="^" line="44" column="110" />
+        <mark key="." line="44" column="110" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeTest.java" timestamp="1544259741913">
         <mark key="[" line="25" column="0" />
@@ -64,22 +65,23 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="8" />
       </file>
+      <file name="/ItemWriteServiceFacade.java" timestamp="1544409060869" />
       <file name="/ItemWriteServiceImpl.java" timestamp="1544232929012" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/starter/ItemProducer.java" timestamp="1544233824774" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1544234618226">
-        <mark key="[" line="538" column="33" />
-        <mark key="]" line="538" column="33" />
-        <mark key="." line="538" column="33" />
-        <mark key="^" line="538" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacade.java" timestamp="1544408530997">
+        <mark key="[" line="538" column="22" />
+        <mark key="]" line="550" column="0" />
+        <mark key="." line="550" column="0" />
+        <mark key="^" line="550" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544406736016">
+      <file name="/Dummy.txt" timestamp="1544408108734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/StockMessageProducer.java" timestamp="1544236431447" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/PropertyReadServiceFacade.java" timestamp="1544193787706" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/response/ItemCopyMqDTO.java" timestamp="1544237812763">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/response/ItemCopyMqDTO.java" timestamp="1544409048147">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="36" column="25" />
         <mark key="." line="36" column="25" />
@@ -92,6 +94,7 @@
         <mark key="." line="632" column="25" />
         <mark key="^" line="632" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1544408420690" />
     </filemarks>
     <jumps>
       <jump line="5" column="58" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/resources/spring/cloud-user-vanyar-dubbo-consumer.xml" />
