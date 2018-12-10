@@ -77,10 +77,10 @@
         <mark key="." line="550" column="0" />
         <mark key="^" line="550" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544432637014">
+      <file name="/Dummy.txt" timestamp="1544443446528">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/StockMessageProducer.java" timestamp="1544236431447" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/PropertyReadServiceFacade.java" timestamp="1544193787706" />
@@ -205,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[依赖升级]</text>
+        <text>协议复制优化]</text>
       </register>
       <register name="-" type="4">
-        <text>[依赖升级]</text>
+        <text>协议复制优化]</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
