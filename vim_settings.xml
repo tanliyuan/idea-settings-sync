@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1544422864156" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/PropertyBusinessType.java" timestamp="1544193199539" />
       <file name="/ItemCopyStrategyParamDTO.java" timestamp="1544232835401" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544424007785">
-        <mark key="'" line="534" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544432621911">
+        <mark key="'" line="234" column="15" />
         <mark key="[" line="570" column="42" />
         <mark key="]" line="570" column="50" />
         <mark key="." line="570" column="50" />
@@ -76,7 +76,7 @@
         <mark key="." line="550" column="0" />
         <mark key="^" line="550" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544426722240">
+      <file name="/Dummy.txt" timestamp="1544432637014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,11 +97,10 @@
         <mark key="." line="632" column="25" />
         <mark key="^" line="632" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandDTO.java" timestamp="1544430577098" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandDTO.java" timestamp="1544432295880" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1544408420690" />
     </filemarks>
     <jumps>
-      <jump line="5" column="58" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/resources/spring/cloud-user-vanyar-dubbo-consumer.xml" />
       <jump line="118" column="17" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item-api/src/main/java/cn/gov/zcy/item/service/ZcyBrandReadService.java" />
       <jump line="45" column="5" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
       <jump line="27" column="13" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/application/service/ZcyApplicationReadServiceImpl.java" />
@@ -201,6 +200,7 @@
       <jump line="74" column="55" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" />
       <jump line="980" column="10" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" />
       <jump line="487" column="7" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" />
+      <jump line="234" column="15" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
