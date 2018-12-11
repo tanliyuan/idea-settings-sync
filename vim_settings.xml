@@ -160,6 +160,12 @@
         <mark key="^" line="33" column="171" />
         <mark key="." line="33" column="171" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1544529386386">
+        <mark key="[" line="362" column="150" />
+        <mark key="]" line="362" column="167" />
+        <mark key="^" line="362" column="167" />
+        <mark key="." line="362" column="167" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteServiceImpl.java" timestamp="1543911332569">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -270,7 +276,7 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadServiceImpl.java" timestamp="1544511236708" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadServiceImpl.java" timestamp="1544530104568" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1543913915811">
         <mark key="[" line="19" column="3" />
         <mark key="]" line="55" column="0" />
@@ -401,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>Mapping</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Mapping</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
