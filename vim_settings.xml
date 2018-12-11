@@ -25,12 +25,6 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="92" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544492927677">
-        <mark key="'" line="239" column="15" />
-        <mark key="[" line="483" column="0" />
-        <mark key="]" line="483" column="0" />
-        <mark key="." line="483" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAuditLogDao.java" timestamp="1544452361285" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice-drds.yml" timestamp="1544525995694">
         <mark key="[" line="82" column="29" />
@@ -117,6 +111,12 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/starter/ItemProducer.java" timestamp="1544233824774" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/BaseServiceTest.java" timestamp="1544509317372" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/StockMessageProducer.java" timestamp="1544236431447" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/util/StringUtil.java" timestamp="1544531493365">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="9" />
+        <mark key="^" line="33" column="9" />
+        <mark key="." line="33" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/response/ItemCopyMqDTO.java" timestamp="1544409048147">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="36" column="25" />
@@ -146,6 +146,12 @@
         <mark key="]" line="20" column="9" />
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1544531509733">
+        <mark key="[" line="1136" column="16" />
+        <mark key="]" line="1136" column="26" />
+        <mark key="^" line="1136" column="26" />
+        <mark key="." line="1136" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/ZcySpuAuditManager.java" timestamp="1544078269208">
         <mark key="[" line="162" column="50" />
@@ -407,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Mapping</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>Mapping</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
