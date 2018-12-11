@@ -12,12 +12,12 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1544422864156" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/PropertyBusinessType.java" timestamp="1544193199539" />
       <file name="/ItemCopyStrategyParamDTO.java" timestamp="1544232835401" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544432621911">
-        <mark key="'" line="234" column="15" />
-        <mark key="[" line="570" column="42" />
-        <mark key="]" line="570" column="50" />
-        <mark key="." line="570" column="50" />
-        <mark key="^" line="570" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1544453016691">
+        <mark key="'" line="239" column="15" />
+        <mark key="[" line="499" column="24" />
+        <mark key="]" line="499" column="34" />
+        <mark key="." line="499" column="34" />
+        <mark key="^" line="499" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAuditLogDao.java" timestamp="1544452361285" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice-drds.yml" timestamp="1544447711859">
@@ -87,17 +87,17 @@
         <mark key="." line="679" column="55" />
         <mark key="^" line="683" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/AgreementItemCopyLockDao.java" timestamp="1544452411986">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/AgreementItemCopyLockDao.java" timestamp="1544453007941">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/AgreementItemCopyMapper.xml" timestamp="1544452393713">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="41" column="10" />
-        <mark key="^" line="41" column="10" />
-        <mark key="." line="41" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/AgreementItemCopyMapper.xml" timestamp="1544453231732">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="7" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1544452053261">
         <mark key="'" line="1564" column="22" />
@@ -244,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>selectOne</text>
+        <text>jdbcType=&quot;java.lang.Long&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>selectOne</text>
+        <text>jdbcType=&quot;java.lang.Long&quot;</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
