@@ -11,6 +11,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1544422864156" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-SNAPSHOT-sources.jar!/cn/gov/zcy/itemService/dto/ZcyItemServiceManageDTO.java" timestamp="1544513392041" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/facade/BrandReadServiceFacadeImpl.java" timestamp="1544597519265">
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/PropertyBusinessType.java" timestamp="1544193199539" />
       <file name="/ItemCopyStrategyParamDTO.java" timestamp="1544232835401" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAuditLogDao.java" timestamp="1544452361285" />
@@ -26,6 +32,7 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="46" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/model/Response.class" timestamp="1544597420807" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/express/service/TransExpensesTemplateReadServiceImpl.java" timestamp="1544582096373">
         <mark key="[" line="262" column="0" />
         <mark key="]" line="262" column="43" />
@@ -39,7 +46,7 @@
         <mark key="." line="204" column="7" />
         <mark key="^" line="204" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1544595262652" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1544597028652" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/ItemCopyMessageProducer.java" timestamp="1544408856049">
         <mark key="[" line="56" column="21" />
         <mark key="]" line="44" column="110" />
@@ -70,7 +77,7 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/facade/BrandReadServiceFacade.java" timestamp="1544586668182" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/facade/BrandReadServiceFacade.java" timestamp="1544597440851" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/stock/service/StockReadServiceImpl.java" timestamp="1544533951842">
         <mark key="[" line="768" column="35" />
         <mark key="]" line="768" column="45" />
@@ -129,6 +136,7 @@
         <mark key="." line="7" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/Property.java" timestamp="1544193635137" />
+      <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/model/Paging.class" timestamp="1544597396562" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeTest.java" timestamp="1544259741913">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
