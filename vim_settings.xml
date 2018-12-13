@@ -6,31 +6,24 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
         <mark key="[" line="48" column="183" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuReadServiceImpl.java" timestamp="1544605102905" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemCopyStrategyParamDTO.java" timestamp="1544237501579">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="76" />
         <mark key="^" line="24" column="76" />
         <mark key="." line="24" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/constants/RedisKeyConstants.java" timestamp="1544422864156" />
-      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.8-SNAPSHOT/zcy-item-api-1.6.8-SNAPSHOT-sources.jar!/cn/gov/zcy/itemService/dto/ZcyItemServiceManageDTO.java" timestamp="1544513392041" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/facade/BrandReadServiceFacadeImpl.java" timestamp="1544599207647">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
         <mark key="^" line="46" column="157" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/PropertyBusinessType.java" timestamp="1544193199539" />
-      <file name="/ItemCopyStrategyParamDTO.java" timestamp="1544232835401" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/spring/cloud-item-dubbo-provider.xml" timestamp="1544683726809">
         <mark key="[" line="50" column="28" />
         <mark key="]" line="50" column="29" />
         <mark key="." line="50" column="29" />
         <mark key="^" line="92" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-web/1.0.35-SNAPSHOT/item-microservice-web-1.0.35-SNAPSHOT-sources.jar!/cn/gov/zcy/service/category/web/controller/SpuController.java" timestamp="1544683664850" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemAuditLogDao.java" timestamp="1544452361285" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-microservice-drds.yml" timestamp="1544525995694">
         <mark key="[" line="82" column="29" />
         <mark key="]" line="82" column="29" />
@@ -55,8 +48,6 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacadeImpl.java" timestamp="1544668525921" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/model/Response.class" timestamp="1544597420807" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteService.java" timestamp="1543901014036">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="42" />
@@ -75,7 +66,6 @@
         <mark key="^" line="37" column="23" />
         <mark key="." line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1544244847506" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandSingleSearchCriteria.java" timestamp="1543922863595">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="15" />
@@ -106,20 +96,12 @@
         <mark key="." line="81" column="45" />
         <mark key="^" line="81" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-trade/src/main/resources/spring/cloud-trade-dubbo-consumer.xml" timestamp="1544533417837" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryAttributeReadServiceImpl.java" timestamp="1543999189153">
         <mark key="[" line="153" column="58" />
         <mark key="]" line="163" column="31" />
         <mark key="^" line="163" column="31" />
         <mark key="." line="163" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1544683957789" />
-      <file name="/ItemWriteServiceFacade.java" timestamp="1544409060869" />
-      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-web/1.0.33-SNAPSHOT/item-microservice-web-1.0.33-SNAPSHOT-sources.jar!/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1544671599131" />
-      <file name="/ItemWriteServiceImpl.java" timestamp="1544232929012" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/starter/ItemProducer.java" timestamp="1544233824774" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/BaseServiceTest.java" timestamp="1544509317372" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/component/mq/producer/handler/StockMessageProducer.java" timestamp="1544236431447" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1544603559283">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="14" />
@@ -162,7 +144,6 @@
         <mark key="^" line="46" column="34" />
         <mark key="." line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-vanyar-dubbo-consumer.xml" timestamp="1544689953494" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/SpuExcel.java" timestamp="1543913977711">
         <mark key="[" line="20" column="3" />
         <mark key="]" line="20" column="9" />
@@ -181,7 +162,6 @@
         <mark key="^" line="166" column="4" />
         <mark key="." line="166" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/contants/MqContant.java" timestamp="1544447359059" />
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/spring/web-micro-item-dubbo-consumer.xml" timestamp="1544683688629">
         <mark key="[" line="22" column="136" />
         <mark key="]" line="22" column="137" />
@@ -205,14 +185,9 @@
         <mark key="^" line="75" column="50" />
         <mark key="." line="72" column="29" />
       </file>
-      <file name="/ZcyItemServiceItemReadServiceImpl.java" timestamp="1544542739744" />
-      <file name="/zcy-item-microservice.yml" timestamp="1544608984812" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.9-police-SNAPSHOT/parana-item-api-5.3.9-police-20181126.082723-1.jar!/io/terminus/parana/item/common/ItemTagEnum.class" timestamp="1544681204225" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminProperties.java" timestamp="1544232629692" />
-      <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/mysql/dao/MyBatisDao.class" timestamp="1544451710831" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/SpuAliDao.java" timestamp="1544603284512">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="63" />
@@ -225,7 +200,6 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/PropertyCriteria.java" timestamp="1544193623178" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1544247962089">
         <mark key="[" line="679" column="55" />
         <mark key="]" line="679" column="55" />
@@ -244,21 +218,18 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/Property.java" timestamp="1544193635137" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1544018099440">
         <mark key="[" line="82" column="136" />
         <mark key="]" line="82" column="137" />
         <mark key="." line="82" column="137" />
         <mark key="^" line="110" column="85" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/model/Paging.class" timestamp="1544597396562" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/test/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeTest.java" timestamp="1544259741913">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/ItemKeyAttrsBriefJob.java" timestamp="1544420726668" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/brandMapper.xml" timestamp="1543980714680">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -312,18 +283,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/pom.xml" timestamp="1544539570029" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/PropertyReadServiceFacade.java" timestamp="1544193787706" />
-      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-web/1.0.33-SNAPSHOT/item-microservice-web-1.0.33-20181212.083702-14.jar!/cn/gov/zcy/service/item/web/controller/ItemController.class" timestamp="1544669447211" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/PropertyComposite.java" timestamp="1544192817441" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/BrandWriteServiceFacadeImpl.java" timestamp="1543901187694">
         <mark key="[" line="33" column="42" />
         <mark key="]" line="33" column="42" />
         <mark key="^" line="33" column="42" />
         <mark key="." line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/application.properties" timestamp="1544509560752" />
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/pom.xml" timestamp="1544426663311" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/dao/ItemDao.java" timestamp="1544248753454">
         <mark key="[" line="632" column="13" />
         <mark key="]" line="632" column="25" />
@@ -336,11 +301,9 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandDTO.java" timestamp="1544432295880" />
       <file name="/fragment.java" timestamp="1544689480062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ItemWriteServiceFacadeImpl.java" timestamp="1544493135094" />
     </filemarks>
     <jumps>
       <jump line="41" column="13" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/audit/manager/BrandAuditManager.java" />
