@@ -186,6 +186,11 @@
         <mark key="^" line="75" column="50" />
         <mark key="." line="72" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/web-aggregated/.gitignore" timestamp="1544701379876">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
@@ -243,13 +248,18 @@
         <mark key="^" line="67" column="106" />
         <mark key="." line="67" column="106" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/web-aggregated/src/main/resources/application.properties" timestamp="1544701269496">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1544700553030" />
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" timestamp="1544666781034">
         <mark key="[" line="38" column="57" />
         <mark key="]" line="38" column="57" />
         <mark key="." line="38" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544700267819">
+      <file name="/Dummy.txt" timestamp="1544701398856">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -411,7 +421,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPHZlcnNpb24+MS4wLjMyLWFwb2xsby1TTkFQU0hPVDwvdmVyc2lvbj4KPj4+Pj4+PiA1ODE3MWJlNS4uLiBb5o6l5YWlYXBvbGxvXeaOkumZpOS4jeW/heimgeeahOS+nei1lgo=</text>
+        <text encoding="base64">YXBwbGljYXRpb24ueW1sCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PA==</text>
@@ -423,31 +433,31 @@
         <text encoding="base64">ICAgICAgPGlmIHRlc3Q9ImtleVByb3BlcnR5VGV4dCAhPSBudWxsIGFuZCBrZXlQcm9wZXJ0eVRleHQgIT0gJyciPgogICAgICAgIGFuZCBrZXlfcHJvcGVydHlfdGV4dCBsaWtlIGNvbmNhdCgnJScsICN7a2V5UHJvcGVydHlUZXh0fSwgJyUnKQogICAgICA8L2lmPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPHZlcnNpb24+MS4wLjMyLWFwb2xsby1TTkFQU0hPVDwvdmVyc2lvbj4KPj4+Pj4+PiA1ODE3MWJlNS4uLiBb5o6l5YWlYXBvbGxvXeaOkumZpOS4jeW/heimgeeahOS+nei1lgo=</text>
+        <text encoding="base64">YXBwbGljYXRpb24ueW1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">YXBwbGljYXRpb24ucHJvcGVydGllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIDx2ZXJzaW9uPjEuMC4zMi1hcG9sbG8tU05BUFNIT1Q8L3ZlcnNpb24+Cj4+Pj4+Pj4gNTgxNzFiZTUuLi4gW+aOpeWFpWFwb2xsb13mjpLpmaTkuI3lv4XopoHnmoTkvp3otZYK</text>
+        <text encoding="base64">dGVzdD10ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ZGZkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgPHZlcnNpb24+MS4wLjMyLWFwb2xsby1TTkFQU0hPVDwvdmVyc2lvbj4KPj4+Pj4+PiA1ODE3MWJlNS4uLiBb5o6l5YWlYXBvbGxvXeaOkumZpOS4jeW/heimgeeahOS+nei1lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W+acjeWKoeWVhuWTgV0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W3JlbGVhc2VdCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIDx2ZXJzaW9uPjEuMC4zMi1hcG9sbG8tU05BUFNIT1Q8L3ZlcnNpb24+Cj4+Pj4+Pj4gNTgxNzFiZTUuLi4gW+aOpeWFpWFwb2xsb13mjpLpmaTkuI3lv4XopoHnmoTkvp3otZYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RvcnkjNjk4OAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3NwdeehruWumuWQjl1rZXlwcm9wZXJ0eXRleHTlrZfmrrXnsr7noa7ljLnphY0K</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
