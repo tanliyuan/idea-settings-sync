@@ -48,6 +48,7 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="46" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/cacher/VaccinePurchaserOrgCacher.java" timestamp="1544710010271" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteService.java" timestamp="1543901014036">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="42" />
@@ -90,7 +91,12 @@
         <mark key="^" line="44" column="110" />
         <mark key="." line="44" column="110" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1544707569852" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1544710539705">
+        <mark key="[" line="310" column="41" />
+        <mark key="]" line="309" column="48" />
+        <mark key="^" line="309" column="48" />
+        <mark key="." line="309" column="48" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/manager/ZcyBrandManager.java" timestamp="1543900963651">
         <mark key="[" line="81" column="34" />
         <mark key="]" line="81" column="45" />
@@ -104,6 +110,7 @@
         <mark key="." line="163" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemLayerEnum.java" timestamp="1544698011140" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/resources/spring/cloud-user-vanyar-dubbo-consumer.xml" timestamp="1544710028737" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1544603559283">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="14" />
@@ -145,6 +152,12 @@
         <mark key="]" line="46" column="34" />
         <mark key="^" line="46" column="34" />
         <mark key="." line="46" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-vanyar-dubbo-consumer.xml" timestamp="1544710081171">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="49" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/SpuExcel.java" timestamp="1543913977711">
         <mark key="[" line="20" column="3" />
@@ -219,6 +232,9 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1544710566420">
+        <mark key="a" line="48" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/AgreementItemCopyMapper.xml" timestamp="1544453231732">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="7" column="40" />
@@ -260,7 +276,7 @@
         <mark key="]" line="38" column="57" />
         <mark key="." line="38" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544708517871">
+      <file name="/Dummy.txt" timestamp="1544710856033">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -315,7 +331,7 @@
         <mark key="." line="49" column="50" />
       </file>
       <file name="/pom.xml" timestamp="1544707555864" />
-      <file name="/fragment.java" timestamp="1544708511520">
+      <file name="/fragment.java" timestamp="1544709579372">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
