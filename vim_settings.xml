@@ -162,11 +162,6 @@
         <mark key="^" line="46" column="34" />
         <mark key="." line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/facade/BrandReadServiceFacade.java" timestamp="1544602380129">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/SpuExcel.java" timestamp="1543913977711">
         <mark key="[" line="20" column="3" />
         <mark key="]" line="20" column="9" />
@@ -236,6 +231,9 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/keyAttributes/UniqueKeyAttrsExceutor.java" timestamp="1544666788456">
+        <mark key="'" line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/PropertyCriteria.java" timestamp="1544193623178" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/ZcyItemServiceController.java" timestamp="1544582894644">
         <mark key="[" line="273" column="0" />
@@ -294,7 +292,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" timestamp="1544619638353">
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" timestamp="1544666781034">
         <mark key="[" line="57" column="57" />
         <mark key="]" line="57" column="57" />
         <mark key="." line="57" column="57" />
@@ -353,15 +351,9 @@
         <mark key="^" line="632" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandDTO.java" timestamp="1544432295880" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1544595282214">
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="/ItemWriteServiceFacadeImpl.java" timestamp="1544493135094" />
     </filemarks>
     <jumps>
-      <jump line="45" column="5" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/service/ItemWriteServiceImpl.java" />
       <jump line="27" column="13" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/application/service/ZcyApplicationReadServiceImpl.java" />
       <jump line="41" column="13" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/audit/manager/BrandAuditManager.java" />
       <jump line="29" column="13" filename="$USER_HOME$/IdeaProjects/acy-mall/zcy-item/src/main/java/cn/gov/zcy/category/service/SupplierAuthItemWriteServiceImpl.java" />
@@ -461,6 +453,7 @@
       <jump line="487" column="7" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" />
       <jump line="234" column="15" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" />
       <jump line="1549" column="22" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" />
+      <jump line="49" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/keyAttributes/UniqueKeyAttrsExceutor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
