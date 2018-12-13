@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
+        <mark key="[" line="48" column="183" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuReadServiceImpl.java" timestamp="1544605102905" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/request/ItemCopyStrategyParamDTO.java" timestamp="1544237501579">
         <mark key="[" line="24" column="19" />
@@ -56,12 +59,6 @@
         <mark key="." line="46" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacadeImpl.java" timestamp="1544668525921" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/SpuAliMapper.xml" timestamp="1544603951745">
-        <mark key="[" line="123" column="60" />
-        <mark key="]" line="123" column="60" />
-        <mark key="^" line="123" column="30" />
-        <mark key="." line="123" column="60" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/model/Response.class" timestamp="1544597420807" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/service/ZcyBrandWriteService.java" timestamp="1543901014036">
         <mark key="[" line="19" column="31" />
@@ -216,9 +213,6 @@
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.9-police-SNAPSHOT/parana-item-api-5.3.9-police-20181126.082723-1.jar!/io/terminus/parana/item/common/ItemTagEnum.class" timestamp="1544681204225" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="21" />
-        <mark key="^" line="55" column="21" />
-        <mark key="." line="55" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminProperties.java" timestamp="1544232629692" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/mysql/dao/MyBatisDao.class" timestamp="1544451710831" />
@@ -233,9 +227,6 @@
         <mark key="]" line="17" column="38" />
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/keyAttributes/UniqueKeyAttrsExceutor.java" timestamp="1544666788456">
-        <mark key="'" line="49" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/PropertyCriteria.java" timestamp="1544193623178" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1544247962089">
@@ -283,10 +274,10 @@
         <mark key="^" line="67" column="106" />
         <mark key="." line="67" column="106" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1544672995551">
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/web-aggregated/pom.xml" timestamp="1544685219882">
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="49" />
+        <mark key="." line="38" column="49" />
         <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" timestamp="1544666781034">
@@ -294,7 +285,7 @@
         <mark key="]" line="38" column="57" />
         <mark key="." line="38" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544683735819">
+      <file name="/Dummy.txt" timestamp="1544685442077">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -355,12 +346,13 @@
         <mark key="." line="49" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/brand/dto/BrandDTO.java" timestamp="1544432295880" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1544685204253" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1544595282214">
         <mark key="[" line="55" column="21" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544683735811">
+      <file name="/fragment.java" timestamp="1544685442071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ItemWriteServiceFacadeImpl.java" timestamp="1544493135094" />
@@ -468,11 +460,11 @@
       <jump line="136" column="27" filename="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-web/1.0.31-SNAPSHOT/item-microservice-web-1.0.31-20181205.084501-5.jar!/cn/gov/zcy/service/item/web/controller/ItemController.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W+acjeWKoeWVhuWTgV0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>getShopId</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
