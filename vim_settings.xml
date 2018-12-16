@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1544864712296">
+      <file name="/Dummy.txt" timestamp="1544957046280">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -22,6 +22,12 @@
       <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/model/TaobaoConfig.java" timestamp="1544944838419" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1544710566420">
         <mark key="a" line="48" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/resources/application.yml" timestamp="1544957043620">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/express/service/TransExpensesTemplateReadServiceImpl.java" timestamp="1544787575596">
         <mark key="[" line="262" column="0" />
@@ -147,16 +153,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[开放jetty容器]</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>[开放jetty容器]</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9ImtleVByb3BlcnR5VGV4dCAhPSBudWxsIGFuZCBrZXlQcm9wZXJ0eVRleHQgIT0gJyciPgogICAgICAgIGFuZCBrZXlfcHJvcGVydHlfdGV4dCBsaWtlIGNvbmNhdCgnJScsICN7a2V5UHJvcGVydHlUZXh0fSwgJyUnKQogICAgICA8L2lmPgo=</text>
+        <text encoding="base64">LS0tCnNwcmluZzoKICBwcm9maWxlczogZGV2Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXBwbGljYXRpb24ueW1sCg==</text>
