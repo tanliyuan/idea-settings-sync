@@ -3,33 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/web-core/pom.xml" timestamp="1545014049967">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/web-core/pom.xml" timestamp="1545017944503">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="50" column="20" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="50" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545016842566">
-        <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/zheyou/pom.xml" timestamp="1545014176227" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
         <mark key="[" line="48" column="183" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1544710539705">
-        <mark key="[" line="310" column="41" />
-        <mark key="]" line="309" column="48" />
-        <mark key="^" line="309" column="48" />
-        <mark key="." line="309" column="48" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/service/taobao/impl/TaobaoTKServiceImpl.java" timestamp="1544954325303" />
-      <file name="/RedisInfo.java" timestamp="1545014969726" />
-      <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/resources/META-INF/app.properties" timestamp="1545016890866" />
-      <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/model/TaobaoConfig.java" timestamp="1544944838419" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1544710566420">
-        <mark key="a" line="48" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/web-core/src/main/java/com/qifoon/web/core/ResponseInfo.java" timestamp="1545017981863">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/resources/application.yml" timestamp="1544957043620">
         <mark key="[" line="28" column="12" />
@@ -37,22 +23,21 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/express/service/TransExpensesTemplateReadServiceImpl.java" timestamp="1544787575596">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="43" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="261" column="33" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-vanyar-dubbo-consumer.xml" timestamp="1544777608321">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="8" />
-        <mark key="^" line="49" column="8" />
-        <mark key="." line="49" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/util/PropertyPlaceholderHelper.class" timestamp="1545016439843" />
+      <file name="/Dummy.txt" timestamp="1545018447711">
+        <mark key="e" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zheyou/pom.xml" timestamp="1545018128516" />
+      <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/service/taobao/impl/TaobaoTKServiceImpl.java" timestamp="1544954325303" />
+      <file name="/RedisInfo.java" timestamp="1545014969726" />
+      <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/resources/META-INF/app.properties" timestamp="1545016890866" />
+      <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/model/TaobaoConfig.java" timestamp="1544944838419" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationProperties.java" timestamp="1545016419057" />
       <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/utils/common/HttpClientUtil.java" timestamp="1544954193634" />
       <file name="/fragment.java" timestamp="1545016842559">
@@ -163,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Info</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Info</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
