@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1544957046280">
+      <file name="$USER_HOME$/IdeaProjects/web-core/pom.xml" timestamp="1545014049967">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545013631626">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/zheyou/pom.xml" timestamp="1545014176227" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
         <mark key="[" line="48" column="183" />
       </file>
@@ -45,7 +51,7 @@
         <mark key="[" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/utils/common/HttpClientUtil.java" timestamp="1544954193634" />
-      <file name="/fragment.java" timestamp="1544778826488">
+      <file name="/fragment.java" timestamp="1545013631608">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -153,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
