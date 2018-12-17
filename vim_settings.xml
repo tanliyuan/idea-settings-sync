@@ -12,6 +12,18 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
         <mark key="[" line="48" column="183" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1544710539705">
+        <mark key="[" line="310" column="41" />
+        <mark key="]" line="309" column="48" />
+        <mark key="^" line="309" column="48" />
+        <mark key="." line="309" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/Config.java" timestamp="1545026970316">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/web-core/src/main/java/com/qifoon/web/core/ResponseInfo.java" timestamp="1545017981863">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -38,6 +50,18 @@
       <file name="/RedisInfo.java" timestamp="1545014969726" />
       <file name="$USER_HOME$/IdeaProjects/antd-admin-springboot/src/main/resources/META-INF/app.properties" timestamp="1545016890866" />
       <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/model/TaobaoConfig.java" timestamp="1544944838419" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/express/service/TransExpensesTemplateReadServiceImpl.java" timestamp="1544787575596">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="43" />
+        <mark key="." line="261" column="0" />
+        <mark key="^" line="261" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-vanyar-dubbo-consumer.xml" timestamp="1544777608321">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="49" column="8" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationProperties.java" timestamp="1545016419057" />
       <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/java/com/qifoon/zheyou/utils/common/HttpClientUtil.java" timestamp="1544954193634" />
       <file name="/fragment.java" timestamp="1545016842559">
@@ -147,8 +171,8 @@
       <jump line="136" column="27" filename="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-web/1.0.31-SNAPSHOT/item-microservice-web-1.0.31-20181205.084501-5.jar!/cn/gov/zcy/service/item/web/controller/ItemController.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="-" type="4">
         <text>Info</text>
@@ -160,31 +184,31 @@
         <text encoding="base64">LS0tCnNwcmluZzoKICBwcm9maWxlczogZGV2Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbGljYXRpb24ueW1sCg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbGljYXRpb24ucHJvcGVydGllcwo=</text>
+        <text encoding="base64">YXBwbGljYXRpb24ueW1sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdD10ZXN0Cg==</text>
+        <text encoding="base64">YXBwbGljYXRpb24ucHJvcGVydGllcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGZkCg==</text>
+        <text encoding="base64">dGVzdD10ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPHZlcnNpb24+MS4wLjMyLWFwb2xsby1TTkFQU0hPVDwvdmVyc2lvbj4KPj4+Pj4+PiA1ODE3MWJlNS4uLiBb5o6l5YWlYXBvbGxvXeaOkumZpOS4jeW/heimgeeahOS+nei1lgo=</text>
+        <text encoding="base64">ZGZkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgPHZlcnNpb24+MS4wLjMyLWFwb2xsby1TTkFQU0hPVDwvdmVyc2lvbj4KPj4+Pj4+PiA1ODE3MWJlNS4uLiBb5o6l5YWlYXBvbGxvXeaOkumZpOS4jeW/heimgeeahOS+nei1lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIDx2ZXJzaW9uPjEuMC4zMi1hcG9sbG8tU05BUFNIT1Q8L3ZlcnNpb24+Cj4+Pj4+Pj4gNTgxNzFiZTUuLi4gW+aOpeWFpWFwb2xsb13mjpLpmaTkuI3lv4XopoHnmoTkvp3otZYK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgIDx2ZXJzaW9uPjEuMC4zMi1hcG9sbG8tU05BUFNIT1Q8L3ZlcnNpb24+Cj4+Pj4+Pj4gNTgxNzFiZTUuLi4gW+aOpeWFpWFwb2xsb13mjpLpmaTkuI3lv4XopoHnmoTkvp3otZYK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
