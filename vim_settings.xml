@@ -13,7 +13,7 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryAttributeWriteServiceImpl.java" timestamp="1545134387979">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryAttributeWriteServiceImpl.java" timestamp="1545135384572">
         <mark key="[" line="350" column="9" />
         <mark key="]" line="351" column="7" />
         <mark key="." line="351" column="7" />
@@ -33,6 +33,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/CategoryAttribute.java" timestamp="1545135674094" />
       <file name="/Dummy.txt" timestamp="1545134712836">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -46,18 +47,18 @@
         <mark key="^" line="146" column="41" />
         <mark key="." line="146" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/CategoryAttributeExcel.java" timestamp="1545132923944">
-        <mark key="[" line="161" column="65" />
-        <mark key="]" line="161" column="65" />
-        <mark key="." line="161" column="65" />
-        <mark key="^" line="161" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/CategoryAttributeExcel.java" timestamp="1545135811663">
+        <mark key="[" line="150" column="13" />
+        <mark key="]" line="151" column="68" />
+        <mark key="." line="151" column="68" />
+        <mark key="^" line="151" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" timestamp="1545134694567">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" timestamp="1545136185928">
         <mark key="'" line="182" column="19" />
-        <mark key="[" line="165" column="71" />
-        <mark key="]" line="111" column="81" />
-        <mark key="." line="111" column="81" />
-        <mark key="^" line="111" column="81" />
+        <mark key="[" line="187" column="46" />
+        <mark key="]" line="188" column="57" />
+        <mark key="." line="188" column="57" />
+        <mark key="^" line="188" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1545132733197">
         <mark key="[" line="0" column="0" />
@@ -167,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>和key不一致</text>
+        <text>Long</text>
       </register>
       <register name="-" type="4">
-        <text>和key不一致</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
