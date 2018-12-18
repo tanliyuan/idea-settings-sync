@@ -22,18 +22,18 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryAttributeMapper.xml" timestamp="1545127695887">
-        <mark key="[" line="225" column="36" />
-        <mark key="]" line="225" column="22" />
-        <mark key="." line="225" column="22" />
-        <mark key="^" line="225" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryAttributeMapper.xml" timestamp="1545133022191">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="160" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1545060551228">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545063456386">
+      <file name="/Dummy.txt" timestamp="1545132733209">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -46,20 +46,20 @@
         <mark key="^" line="146" column="41" />
         <mark key="." line="146" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/CategoryAttributeExcel.java" timestamp="1545131140153">
-        <mark key="[" line="57" column="53" />
-        <mark key="]" line="58" column="52" />
-        <mark key="." line="58" column="52" />
-        <mark key="^" line="58" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/CategoryAttributeExcel.java" timestamp="1545132923944">
+        <mark key="[" line="161" column="65" />
+        <mark key="]" line="161" column="65" />
+        <mark key="." line="161" column="65" />
+        <mark key="^" line="161" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" timestamp="1545128871920">
-        <mark key="'" line="152" column="19" />
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="29" />
-        <mark key="." line="96" column="29" />
-        <mark key="^" line="96" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" timestamp="1545132533806">
+        <mark key="'" line="154" column="19" />
+        <mark key="[" line="201" column="159" />
+        <mark key="]" line="201" column="201" />
+        <mark key="." line="201" column="201" />
+        <mark key="^" line="201" column="201" />
       </file>
-      <file name="/fragment.java" timestamp="1545126621420">
+      <file name="/fragment.java" timestamp="1545132733197">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -167,43 +167,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfCg==</text>
       </register>
       <register name="-" type="4">
-        <text>CategoryAttribute</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWlsLmluY3JlbWVudEFuZEdldCgpOwogICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigi5LiN5a2Y5Zyo57G755uu5bGe5oCn5YWz57O777yae30iLCB0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZF9hdCA9IG5vdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3MuaW5jcmVtZW50QW5kR2V0KCk7Cg==</text>
+        <text encoding="base64">W3JlbGVhc2VdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc3BvbnNlPEJvb2xlYW4+IHVwZGF0ZSA9IGNhdGVnb3J5QXR0cmlidXRlV3JpdGVTZXJ2aWNlRmFjYWRlLnVwZGF0ZSh0KTsKICAgICAgICAgICAgICAgIFJlc3BIZWxwZXIub3I1MDAodXBkYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3MuaW5jcmVtZW50QW5kR2V0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZC5pZlByZXNlbnQoZyAtPiB7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc3BvbnNlPEJvb2xlYW4+IHVwZGF0ZSA9IGNhdGVnb3J5QXR0cmlidXRlV3JpdGVTZXJ2aWNlRmFjYWRlLnVwZGF0ZSh0KTsKICAgICAgICAgICAgICAgIFJlc3BIZWxwZXIub3I1MDAodXBkYXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2F0ZWdvcnlBdHRyaWJ1dGVXcml0ZVNlcnZpY2VGYWNhZGUuZGVsZXRlKGcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZC5pZlByZXNlbnQoZyAtPiB7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2F0ZWdvcnlBdHRyaWJ1dGVXcml0ZVNlcnZpY2VGYWNhZGUuZGVsZXRlKGcpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
