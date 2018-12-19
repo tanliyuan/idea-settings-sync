@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/web-core/pom.xml" timestamp="1545017944503">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="50" column="20" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" timestamp="1545187132426">
+        <mark key="[" line="1348" column="0" />
+        <mark key="]" line="1349" column="13" />
+        <mark key="^" line="1349" column="13" />
+        <mark key="." line="1349" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
         <mark key="[" line="48" column="183" />
       </file>
@@ -14,7 +26,6 @@
         <mark key="^" line="194" column="57" />
         <mark key="." line="194" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacadeImpl.java" timestamp="1545184637747" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryAttributeWriteServiceImpl.java" timestamp="1545135384572">
         <mark key="[" line="350" column="9" />
         <mark key="]" line="351" column="7" />
@@ -26,6 +37,12 @@
         <mark key="]" line="38" column="45" />
         <mark key="^" line="38" column="45" />
         <mark key="." line="38" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zheyou/src/main/resources/application.yml" timestamp="1544957043620">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
@@ -46,6 +63,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/util/Constants.java" timestamp="1545186793958">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="77" column="13" />
+        <mark key="^" line="77" column="13" />
+        <mark key="." line="77" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1545184007959" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/dto/response/ItemPublishPageDTO.java" timestamp="1545139828429">
         <mark key="[" line="25" column="0" />
@@ -63,7 +86,7 @@
       <file name="/fragment.java" timestamp="1545132733197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1545185259177" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1545186096760" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" timestamp="1545184243865">
         <mark key="[" line="47" column="13" />
         <mark key="]" line="47" column="14" />
@@ -175,10 +198,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>；</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>；</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
