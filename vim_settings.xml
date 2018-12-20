@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
         <mark key="[" line="48" column="183" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1545307234753" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1545309225948" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1545140016334">
         <mark key="[" line="194" column="54" />
         <mark key="]" line="194" column="54" />
@@ -44,8 +44,12 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" timestamp="1545308336607">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" timestamp="1545309209533">
         <mark key="'" line="114" column="24" />
+        <mark key="[" line="161" column="66" />
+        <mark key="]" line="161" column="70" />
+        <mark key="^" line="161" column="70" />
+        <mark key="." line="161" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryAttributeMapper.xml" timestamp="1545133022191">
         <mark key="[" line="161" column="0" />
@@ -64,7 +68,7 @@
         <mark key="." line="174" column="25" />
         <mark key="^" line="174" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545307246644">
+      <file name="/Dummy.txt" timestamp="1545309227645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -238,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>exception.getMessage()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>exception.getMessage()</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
