@@ -43,6 +43,9 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" timestamp="1545306437047">
+        <mark key="'" line="114" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryAttributeMapper.xml" timestamp="1545133022191">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
@@ -107,6 +110,7 @@
         <mark key="^" line="255" column="28" />
         <mark key="." line="255" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemStatus.java" timestamp="1545305959739" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1545205149803">
         <mark key="[" line="1362" column="13" />
         <mark key="]" line="1362" column="18" />
@@ -130,8 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="26" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" />
-      <jump line="134" column="39" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ExcelListener.java" />
       <jump line="50" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacadeImpl.java" />
       <jump line="67" column="14" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/util/ObjectUtils.java" />
       <jump line="529" column="32" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
@@ -230,6 +232,8 @@
       <jump line="1382" column="68" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" />
       <jump line="30" column="8" filename="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-web-item-admin.yml" />
       <jump line="76" column="27" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" />
+      <jump line="114" column="24" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
