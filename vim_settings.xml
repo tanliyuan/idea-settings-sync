@@ -60,7 +60,7 @@
         <mark key="." line="174" column="25" />
         <mark key="^" line="174" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545302757224">
+      <file name="/Dummy.txt" timestamp="1545304174202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -71,7 +71,7 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="76" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1545298988947" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1545303585601" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-center.yml" timestamp="1545212406913">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -100,11 +100,12 @@
         <mark key="]" line="90" column="40" />
         <mark key="." line="90" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1545302278103">
-        <mark key="[" line="57" column="45" />
-        <mark key="]" line="57" column="56" />
-        <mark key="^" line="57" column="56" />
-        <mark key="." line="57" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1545304172370">
+        <mark key="'" line="76" column="27" />
+        <mark key="[" line="254" column="50" />
+        <mark key="]" line="255" column="28" />
+        <mark key="^" line="255" column="28" />
+        <mark key="." line="255" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1545205149803">
         <mark key="[" line="1362" column="13" />
@@ -129,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/src/main/java/io/terminus/parana/item/impl/manager/ItemManager.java" />
       <jump line="90" column="26" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" />
       <jump line="134" column="39" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ExcelListener.java" />
       <jump line="50" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacadeImpl.java" />
@@ -229,6 +229,7 @@
       <jump line="151" column="19" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/CategoryAttributeController.java" />
       <jump line="1382" column="68" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" />
       <jump line="30" column="8" filename="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-web-item-admin.yml" />
+      <jump line="76" column="27" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
