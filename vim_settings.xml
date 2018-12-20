@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" timestamp="1545309209533">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/autoconfigure/ExceptionResolver.java" timestamp="1545311560115">
         <mark key="'" line="114" column="24" />
-        <mark key="[" line="161" column="66" />
-        <mark key="]" line="161" column="70" />
-        <mark key="^" line="161" column="70" />
-        <mark key="." line="161" column="70" />
+        <mark key="[" line="157" column="30" />
+        <mark key="]" line="157" column="33" />
+        <mark key="^" line="157" column="33" />
+        <mark key="." line="157" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryAttributeMapper.xml" timestamp="1545133022191">
         <mark key="[" line="161" column="0" />
@@ -68,7 +68,7 @@
         <mark key="." line="174" column="25" />
         <mark key="^" line="174" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545309227645">
+      <file name="/Dummy.txt" timestamp="1545311579461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,10 +97,11 @@
         <mark key="]" line="70" column="40" />
         <mark key="." line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1545308228248">
-        <mark key="]" line="7" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/BrandController.java" timestamp="1545312267486">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="17" />
         <mark key="^" line="7" column="57" />
-        <mark key="." line="7" column="57" />
+        <mark key="." line="42" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1545211714492">
         <mark key="a" line="48" column="8" />
@@ -242,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exception.getMessage()</text>
+        <text>{}&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>exception.getMessage()</text>
+        <text>{}&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
