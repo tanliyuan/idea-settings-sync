@@ -69,6 +69,7 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="76" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/BrandExcel.java" timestamp="1545293337922" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-center.yml" timestamp="1545212406913">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -97,11 +98,11 @@
         <mark key="]" line="90" column="40" />
         <mark key="." line="90" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1545290570197">
-        <mark key="[" line="240" column="78" />
-        <mark key="]" line="240" column="106" />
-        <mark key="^" line="240" column="106" />
-        <mark key="." line="240" column="106" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1545293640139">
+        <mark key="[" line="240" column="109" />
+        <mark key="]" line="240" column="121" />
+        <mark key="^" line="240" column="121" />
+        <mark key="." line="240" column="121" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/manager/ItemManager.java" timestamp="1545205149803">
         <mark key="[" line="1362" column="13" />
@@ -229,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.name(name).</text>
+        <text>getName</text>
       </register>
       <register name="-" type="4">
-        <text>.name(name).</text>
+        <text>getName</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
