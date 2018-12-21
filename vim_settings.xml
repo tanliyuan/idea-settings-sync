@@ -9,9 +9,6 @@
         <mark key="." line="1709" column="52" />
         <mark key="^" line="1931" column="92" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/itemService/service/ZcyItemServiceItemReadService.java" timestamp="1544533632209">
-        <mark key="[" line="48" column="183" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/ItemController.java" timestamp="1545140016334">
         <mark key="[" line="194" column="54" />
         <mark key="]" line="194" column="54" />
@@ -31,9 +28,6 @@
         <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/resources/bootstrap.yml" timestamp="1545371789743" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1544684274922">
-        <mark key="[" line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryAttributeMapper.xml" timestamp="1545133022191">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
@@ -58,6 +52,7 @@
         <mark key="." line="76" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/facade/TransExpensesTemplateWriteServiceFacade.java" timestamp="1545384821265" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/sku/facade/SkuReadServiceFacadeImpl.java" timestamp="1545385783056" />
       <file name="$USER_HOME$/IdeaProjects/ConfigCenter/zcy-item-center.yml" timestamp="1545212406913">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -96,9 +91,7 @@
         <mark key="." line="151" column="68" />
         <mark key="^" line="151" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1545300213005">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/sku/dto/request/SingleSkuSearchCriteria.java" timestamp="1545385657570" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuReadServiceFacade.java" timestamp="1545184243865">
         <mark key="[" line="47" column="13" />
         <mark key="]" line="47" column="14" />
