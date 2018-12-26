@@ -44,11 +44,11 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1545813255726">
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="77" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1545813649192">
+        <mark key="[" line="59" column="50" />
+        <mark key="]" line="59" column="50" />
         <mark key="^" line="59" column="77" />
-        <mark key="." line="59" column="77" />
+        <mark key="." line="59" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/BackCategoryDao.java" timestamp="1545812637038">
         <mark key="[" line="88" column="5" />
@@ -87,11 +87,11 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryBindingMapper.xml" timestamp="1545813290140">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="70" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryBindingMapper.xml" timestamp="1545814055726">
+        <mark key="[" line="63" column="13" />
+        <mark key="]" line="69" column="22" />
+        <mark key="." line="69" column="22" />
+        <mark key="^" line="69" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/FrontCategoryTagTree.java" timestamp="1545794407917">
         <mark key="[" line="25" column="7" />
@@ -284,11 +284,11 @@
       <jump line="123" column="13" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9ImRlbGV0ZUJ5QmFja0NhdGVnb3J5SWQiIHBhcmFtZXRlclR5cGU9ImxvbmciPgogICAgICAgIERFTEVURSBGUk9NIDxpbmNsdWRlIHJlZmlkPSJ0YiIgLz4KICAgICAgICBXSEVSRSBiYWNrX2NhdGVnb3J5X2lkID0gI3tiYWNrQ2F0ZWdvcnlJZH0KICAgIDwvZGVsZXRlPgoKICAgIDxkZWxldGUgaWQ9ImRlbGV0ZUJ5RnJvbnRDYXRlZ29yeUlkIiBwYXJhbWV0ZXJUeXBlPSJsb25nIiA+CiAgICAgICAgREVMRVRFIEZST00gPGluY2x1ZGUgcmVmaWQ9InRiIiAvPgogICAgICAgIFdIRVJFIGZyb250X2NhdGVnb3J5X2lkID0gI3tmcm9udENhdGVnb3J5SWR9CiAgICA8L2RlbGV0ZT4K</text>
+      <register name="&quot;" type="4">
+        <text>FROM</text>
       </register>
       <register name="-" type="4">
-        <text>tagId</text>
+        <text>FROM</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
