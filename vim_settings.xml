@@ -76,12 +76,12 @@
         <mark key="." line="22" column="64" />
         <mark key="^" line="135" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" timestamp="1545897007697">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" timestamp="1545899553313">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="148" column="23" />
-        <mark key="." line="148" column="23" />
-        <mark key="^" line="148" column="23" />
+        <mark key="[" line="145" column="55" />
+        <mark key="]" line="145" column="75" />
+        <mark key="." line="145" column="75" />
+        <mark key="^" line="145" column="75" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteService.java" timestamp="1545891812046">
         <mark key="[" line="41" column="7" />
@@ -132,7 +132,7 @@
         <mark key="." line="55" column="47" />
         <mark key="^" line="55" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545897439407">
+      <file name="/Dummy.txt" timestamp="1545899579029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -192,7 +192,7 @@
         <mark key="." line="51" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/java/com/mauersu/controller/RedisController.java" timestamp="1545748471801" />
-      <file name="/fragment.java" timestamp="1545897439400">
+      <file name="/fragment.java" timestamp="1545899082461">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[前端类目标签]</text>
+        <text>otherAttrsJson</text>
       </register>
       <register name="-" type="4">
-        <text>[前端类目标签]</text>
+        <text>otherAttrsJson</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -312,31 +312,31 @@
         <text>frontCategoryId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKEdyb3VwZWRPdGhlckF0dHJpYnV0ZSBncm91cCA6IGdyb3VwZWRPdGhlckF0dHJpYnV0ZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy/liZTpmaRCQVNJQ+WIhue7hAogICAgICAgICAgICAgICAgICAgICAgICBpZiAoISJCQVNJQyIuZXF1YWxzKGdyb3VwLmdldEdyb3VwKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL+iAgeaVsOaNruS4reWIhue7hOS/oeaBr+aYr+iLseaWhyzov5nkuKrkuZ/pnIDopoHovazlj5gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5hZGRBbGwocmVncm91cE90aGVyQXR0cihncm91cC5nZXRPdGhlckF0dHJpYnV0ZXMoKSwgYXR0cktleTJHcm91cCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uTm9kZSBqc29uTm9kZSA9IEpzb25NYXBwZXIubm9uRW1wdHlNYXBwZXIoKS50cmVlRnJvbUpzb24ob3RoZXJBdHRyc0pzb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W+aUvuW8gOiLj+WugeagoemqjF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKEdyb3VwZWRPdGhlckF0dHJpYnV0ZSBncm91cCA6IGdyb3VwZWRPdGhlckF0dHJpYnV0ZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy/liZTpmaRCQVNJQ+WIhue7hAogICAgICAgICAgICAgICAgICAgICAgICBpZiAoISJCQVNJQyIuZXF1YWxzKGdyb3VwLmdldEdyb3VwKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL+iAgeaVsOaNruS4reWIhue7hOS/oeaBr+aYr+iLseaWhyzov5nkuKrkuZ/pnIDopoHovazlj5gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5hZGRBbGwocmVncm91cE90aGVyQXR0cihncm91cC5nZXRPdGhlckF0dHJpYnV0ZXMoKSwgYXR0cktleTJHcm91cCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W+aUvuW8gOiLj+WugeagoemqjF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImZpbmRCeUNvbmRpdGlvbiIgcGFyYW1ldGVyVHlwZT0iamF2YS51dGlsLk1hcCIgcmVzdWx0TWFwPSIiCg==</text>
+        <text encoding="base64">ICAgIDwvc2VsZWN0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZHVwbGljYXRpb24oKQo=</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImZpbmRCeUNvbmRpdGlvbiIgcGFyYW1ldGVyVHlwZT0iamF2YS51dGlsLk1hcCIgcmVzdWx0TWFwPSIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgZHVwbGljYXRpb24oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeVRhZ0Rhby51cGRhdGVIYXNDaGlsZHJlbihkYlRhZ1BpZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yeVRhZ0Rhby51cGRhdGVIYXNDaGlsZHJlbihkYlRhZ1BpZCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
