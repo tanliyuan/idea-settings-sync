@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuReadServiceImpl.java" timestamp="1545905539342" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/mysql/FrontCategoryTagDao.java" timestamp="1545804796359">
-        <mark key="[" line="22" column="65" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/java/com/mauersu/util/Constant.java" timestamp="1545744075070">
         <mark key="[" line="21" column="94" />
         <mark key="]" line="21" column="48" />
@@ -215,7 +212,7 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="100" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1545998053394">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1545999442857">
         <mark key="[" line="63" column="59" />
         <mark key="]" line="63" column="62" />
         <mark key="." line="63" column="62" />
@@ -226,6 +223,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliReadServiceImpl.java" timestamp="1545999849988" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryBindingWriteServiceImpl.java" timestamp="1545993285294">
         <mark key="[" line="89" column="45" />
         <mark key="]" line="90" column="55" />
@@ -257,9 +255,6 @@
         <mark key="]" line="173" column="0" />
         <mark key="^" line="173" column="20" />
         <mark key="." line="173" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1545989686178">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
