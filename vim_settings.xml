@@ -14,11 +14,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryTagWriteServiceFacadeImpl.java" timestamp="1545990608212">
-        <mark key="[" line="80" column="12" />
-        <mark key="]" line="80" column="48" />
-        <mark key="." line="80" column="48" />
-        <mark key="^" line="80" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/FrontCategoryTagWriteServiceFacadeImpl.java" timestamp="1545994130647">
+        <mark key="[" line="82" column="54" />
+        <mark key="]" line="82" column="126" />
+        <mark key="." line="82" column="126" />
+        <mark key="^" line="82" column="126" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/BrandWriteServiceImpl.java" timestamp="1545810508890" />
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/java/com/mauersu/util/Constant.java" timestamp="1545744075070">
@@ -33,11 +33,16 @@
         <mark key="." line="62" column="14" />
         <mark key="^" line="62" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/FrontCategoryDao.java" timestamp="1545982146994">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/FrontCategoryDao.java" timestamp="1545993855954">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="8" />
         <mark key="^" line="40" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryBindingWriteService.java" timestamp="1545993076219">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1545789131010">
         <mark key="[" line="83" column="0" />
@@ -70,6 +75,12 @@
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-item/pom.xml" timestamp="1545893210274" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryBindingWriteServiceFacade.java" timestamp="1545993050672">
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="20" column="76" />
+        <mark key="." line="20" column="65" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/BackCategory.java" timestamp="1545985521393" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/CategoryBinding.java" timestamp="1545789749114" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1545979806363" />
@@ -114,11 +125,23 @@
         <mark key="." line="104" column="82" />
         <mark key="^" line="104" column="82" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/CategoryBindingWriteServiceFacadeImpl.java" timestamp="1545993068071">
+        <mark key="[" line="24" column="102" />
+        <mark key="]" line="24" column="102" />
+        <mark key="^" line="24" column="108" />
+        <mark key="." line="24" column="102" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteService.java" timestamp="1545891812046">
         <mark key="[" line="41" column="7" />
         <mark key="]" line="41" column="41" />
         <mark key="." line="41" column="41" />
         <mark key="^" line="41" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryBindingMapper.xml" timestamp="1545994791467">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="66" />
+        <mark key="^" line="29" column="66" />
+        <mark key="." line="29" column="66" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/utils/JsonMapper.class" timestamp="1545894695091" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/dto/FrontCategoryTagTree.java" timestamp="1545794407917">
@@ -138,11 +161,11 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="100" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/frontCategoryMapper.xml" timestamp="1545982340562">
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="58" column="31" />
-        <mark key="." line="58" column="31" />
-        <mark key="^" line="58" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/frontCategoryMapper.xml" timestamp="1545994544784">
+        <mark key="[" line="74" column="46" />
+        <mark key="]" line="74" column="46" />
+        <mark key="." line="74" column="46" />
+        <mark key="^" line="80" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/brand/service/BrandReadServiceImpl.java" timestamp="1545810612899" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1545987443351">
@@ -161,6 +184,12 @@
         <mark key="]" line="35" column="31" />
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/CategoryBindingWriteServiceImpl.java" timestamp="1545993285294">
+        <mark key="[" line="89" column="45" />
+        <mark key="]" line="90" column="55" />
+        <mark key="^" line="90" column="55" />
+        <mark key="." line="90" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/resources/redis.properties" timestamp="1545745024300">
         <mark key="[" line="7" column="17" />
@@ -192,7 +221,7 @@
         <mark key="." line="56" column="50" />
         <mark key="^" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1545990432354">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1545993826153">
         <mark key="[" line="54" column="38" />
         <mark key="]" line="55" column="32" />
         <mark key="." line="55" column="32" />
@@ -321,43 +350,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIDxzcWwgaWQ9InZhbHMiPgogICAgICAgICN7ZnJvbnRDYXRlZ29yeUlkfSwgI3tiYWNrQ2F0ZWdvcnlJZH0sICN7dGFnSWR9LCAje3N0YXR1c30gIG5vdygpLCBub3coKQogICAgPC9zcWw+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>keyProperty=&quot;id&quot;</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLkZyb250Q2F0ZWdvcnlXcml0ZVNlcnZpY2VGYWNhZGUiIGlkPSJmcm9udENhdGVnb3J5V3JpdGVTZXJ2aWNlRmFjYWRlIiByZXRyaWVzPSIwIiB2ZXJzaW9uPSIxLjAuMCIgY2hlY2s9ImZhbHNlIiB0aW1lb3V0PSIxMDAwMCIgLz4KICAgIDxkdWJibzpyZWZlcmVuY2UgaW50ZXJmYWNlPSJjbi5nb3YuemN5LnNlcnZpY2UuY2F0ZWdvcnkuZmFjYWRlLkZyb250Q2F0ZWdvcnlSZWFkU2VydmljZUZhY2FkZSIgaWQ9ImZyb250Q2F0ZWdvcnlSZWFkU2VydmljZUZhY2FkZSIgcmV0cmllcz0iMCIgdmVyc2lvbj0iMS4wLjAiIGNoZWNrPSJmYWxzZSIgdGltZW91dD0iMTAwMDAiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxzcWwgaWQ9InZhbHMiPgogICAgICAgICN7ZnJvbnRDYXRlZ29yeUlkfSwgI3tiYWNrQ2F0ZWdvcnlJZH0sICN7dGFnSWR9LCAje3N0YXR1c30gIG5vdygpLCBub3coKQogICAgPC9zcWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBDYXRlZ29yeUJpbmRpbmdXcml0ZVNlcnZpY2VJbXBsKENhdGVnb3J5QmluZGluZ0RhbyBjYXRlZ29yeUJpbmRpbmdEYW8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDYXRlZ29yeUJpbmRpbmdNYW5hZ2VyIGNhdGVnb3J5QmluZGluZ01hbmFnZXIpIHsKICAgICAgICB0aGlzLmNhdGVnb3J5QmluZGluZ0RhbyA9IGNhdGVnb3J5QmluZGluZ0RhbzsKICAgICAgICB0aGlzLmNhdGVnb3J5QmluZGluZ01hbmFnZXIgPSBjYXRlZ29yeUJpbmRpbmdNYW5hZ2VyOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB0YWdJZCDmoIfnrb5pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W+S/ruWkjeWVhuWTgeWxnuaAp+WIhue7hOmXrumimF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W+S/ruWkjeWVhuWTgeWxnuaAp+WIhue7hOmXrumimF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnJvbnRDYXRlZ29yeVRhZyBmcm9udENhdGVnb3J5VGFnMSA9IGZyb250Q2F0ZWdvcnlUYWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShmcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnJvbnRDYXRlZ29yeVRhZyBmcm9udENhdGVnb3J5VGFnMSA9IGZyb250Q2F0ZWdvcnlUYWc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
