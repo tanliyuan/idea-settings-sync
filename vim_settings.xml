@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuReadServiceImpl.java" timestamp="1545905539342" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/unique/UniqueCodeExceutor.java" timestamp="1546069601478">
+        <mark key="'" line="38" column="123" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/java/com/mauersu/util/Constant.java" timestamp="1545744075070">
         <mark key="[" line="21" column="94" />
         <mark key="]" line="21" column="48" />
@@ -184,16 +187,14 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/CategoryBinding.java" timestamp="1545789749114" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/itemMapper.xml" timestamp="1545979806363" />
       <file name="$USER_HOME$/IdeaProjects/lunatone/app/files/back_config.yaml" timestamp="1546003052043" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1545995935558">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="30" />
-        <mark key="." line="59" column="30" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminFrontCategories.java" timestamp="1545982392314">
         <mark key="[" line="36" column="90" />
         <mark key="]" line="36" column="94" />
         <mark key="^" line="36" column="94" />
         <mark key="." line="36" column="94" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/src/main/java/cn/gov/zcy/service/item/web/controller/TransExpensesTemplateController.java" timestamp="1545653182721">
+        <mark key="'" line="44" column="102" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/propertyMapper.xml" timestamp="1545990818745" />
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/java/com/mauersu/util/RedisApplication.java" timestamp="1545746241035">
@@ -208,11 +209,6 @@
         <mark key="." line="104" column="82" />
         <mark key="^" line="104" column="82" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/redis-admin/pom.xml" timestamp="1545739665292">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteService.java" timestamp="1545891812046">
         <mark key="[" line="41" column="7" />
         <mark key="]" line="41" column="41" />
@@ -226,7 +222,7 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="100" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1546068832851">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1546069535813">
         <mark key="[" line="70" column="5" />
         <mark key="]" line="71" column="18" />
         <mark key="." line="71" column="18" />
@@ -272,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" />
       <jump line="131" column="20" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" />
       <jump line="98" column="31" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" />
       <jump line="38" column="44" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/brand/service/ZcyBrandWriteServiceImpl.java" />
@@ -372,6 +367,7 @@
       <jump line="123" column="13" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
       <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" />
       <jump line="71" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/facade/ItemWriteServiceFacadeImpl.java" />
+      <jump line="38" column="123" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/unique/UniqueCodeExceutor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
