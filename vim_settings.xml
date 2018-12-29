@@ -219,13 +219,13 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="100" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1546071955248">
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="91" column="60" />
-        <mark key="." line="91" column="60" />
-        <mark key="^" line="91" column="60" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/FrontCategoriesTagController.java" timestamp="1546072754601">
+        <mark key="[" line="76" column="97" />
+        <mark key="]" line="76" column="97" />
+        <mark key="." line="76" column="97" />
+        <mark key="^" line="75" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546071958384">
+      <file name="/Dummy.txt" timestamp="1546072767238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -367,11 +367,11 @@
       <jump line="38" column="123" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/unique/UniqueCodeExceutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RequestParam</text>
       </register>
       <register name="-" type="4">
-        <text>PUT</text>
+        <text>RequestParam</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
