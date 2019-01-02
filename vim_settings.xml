@@ -82,6 +82,12 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1546423135269">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="225" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/AdminFrontCategories.java" timestamp="1545982392314">
         <mark key="[" line="36" column="90" />
         <mark key="]" line="36" column="94" />
@@ -147,12 +153,6 @@
         <mark key="]" line="48" column="50" />
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="100" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/frontCategoryMapper.xml" timestamp="1545996796542">
-        <mark key="[" line="74" column="16" />
-        <mark key="]" line="74" column="16" />
-        <mark key="." line="74" column="16" />
-        <mark key="^" line="74" column="90" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/pom.xml" timestamp="1546413208970">
         <mark key="[" line="50" column="24" />
@@ -256,13 +256,19 @@
         <mark key="^" line="51" column="108" />
         <mark key="." line="51" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1545997745354">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="173" column="20" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/pom.xml" timestamp="1546422852808">
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="87" column="27" />
+        <mark key="." line="87" column="27" />
+        <mark key="^" line="87" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/domain/TransExpensesTemplate.java" timestamp="1546419381762" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web/pom.xml" timestamp="1546422937391">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="131" column="20" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/job/AliSpuDumpJob.java" />
@@ -368,10 +374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwYXJhbmEudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>parana</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -380,31 +386,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jbi5nb3YuemN5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGFyYW5hLWl0ZW08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjYuMTUtUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwYXJhbmEudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W+acjeWKoeWVhuWTgeeuoeeQhuWIl+ihqF11cmzov4Hnp7vliLB3ZWItYWdncmVnYXRlZOmhueebrgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">W+acjeWKoeWVhuWTgeeuoeeQhuWIl+ihqF11cmzov4Hnp7vliLB3ZWItYWdncmVnYXRlZOmhueebrgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnBhcmFuYS1pdGVtPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnBhcmFuYS1pdGVtLWFwaTwvbW9kdWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8bW9kdWxlPnBhcmFuYS1jYXRlZ29yeTwvbW9kdWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnBhcmFuYS1pdGVtPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+emN5LWl0ZW0tYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNuLmdvdi56Y3k8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnBhcmFuYS1pdGVtLWFwaTwvbW9kdWxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnpjeS1pdGVtLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jbi5nb3YuemN5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
+        <text encoding="base64">CQk8bW9kdWxlPnBhcmFuYS1jYXRlZ29yeTwvbW9kdWxlPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
