@@ -9,6 +9,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1546499938824">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dtdream/vanyar/vanyar-common/1.28.0-SNAPSHOT/vanyar-common-1.28.0-20170601.013534-8.jar!/com/dtdream/vanyar/common/openapi/OpenResponse.class" timestamp="1546482397403" />
       <file name="$USER_HOME$/IdeaProjects/redis-admin/src/main/java/com/mauersu/util/Constant.java" timestamp="1545744075070">
         <mark key="[" line="21" column="94" />
@@ -92,11 +95,11 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/brand/facade/OpenBrandReadServiceFacadeImpl.java" timestamp="1546498933500">
-        <mark key="[" line="48" column="63" />
-        <mark key="]" line="48" column="123" />
-        <mark key="." line="48" column="123" />
-        <mark key="^" line="48" column="123" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/brand/facade/OpenBrandReadServiceFacadeImpl.java" timestamp="1546500067417">
+        <mark key="[" line="46" column="78" />
+        <mark key="]" line="47" column="42" />
+        <mark key="." line="47" column="42" />
+        <mark key="^" line="47" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/pom.xml" timestamp="1546413208970">
         <mark key="[" line="50" column="24" />
@@ -253,11 +256,11 @@
         <mark key="^" line="104" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadService.java" timestamp="1546494169638" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/brand/facade/OpenBrandReadServiceFacade.java" timestamp="1546498216859">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/brand/facade/OpenBrandReadServiceFacade.java" timestamp="1546500018712">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/3rd-parana/parana-web-admin/pom.xml" timestamp="1546419747131">
         <mark key="[" line="25" column="21" />
@@ -302,6 +305,12 @@
         <mark key="]" line="90" column="55" />
         <mark key="^" line="90" column="55" />
         <mark key="." line="90" column="55" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/brand/dto/OpenBrand.java" timestamp="1546500008024">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/pom.xml" timestamp="1546413482876">
         <mark key="[" line="205" column="24" />
@@ -452,11 +461,11 @@
       <jump line="38" column="123" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/unique/UniqueCodeExceutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TGlzdHMuPGNuLmdvdi56Y3kuc2VydmljZS5leHRlcm5hbC5icmFuZC5kdG8uT3BlbkJyYW5kLmNhbHM+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdHMuPGNuLmdvdi56Y3kuc2VydmljZS5leHRlcm5hbC5icmFuZC5kdG8uT3BlbkJyYW5kLmNhbHM+</text>
+        <text>Openbrand</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -468,28 +477,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZmluZEJyYW5kc0J5Q2F0ZWdvcnkgY2F0ZWdvcnlJZDp7fSx6aEJyYW5kTmFtZTp7fSxlbkJyYW5kTmFtZTp7fSIsIGNhdGVnb3J5SWQsIHpoQnJhbmROYW1lLCBlbkJyYW5kTmFtZSk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNoZWNrTm90TnVsbChjYXRlZ29yeUlkLCAiY2F0ZWdvcnlJZCBpcyBudWxsIik7CiAgICAgICAgICAgIExpc3Q8TG9uZz4gYnJhbmRJZHMgPSBicmFuZElkc0NhY2hlLmdldFVuY2hlY2tlZChjYXRlZ29yeUlkKTsKICAgICAgICAgICAgaWYgKGlzTnVsbE9yRW1wdHkoYnJhbmRJZHMpKSB7CiAgICAgICAgICAgICAgICBsb2cud2FybigiZmFpbCB0byBmaW5kIGJyYW5kSWRzIGJ5IGNhdGVnb3J5SWQ6e30iLCBjYXRlZ29yeUlkKTsKICAgICAgICAgICAgICAgIHJldHVybiBPcGVuUmVzcG9uc2UuZmFpbCgiYnJhbmRJZHMubm90LmZvdW5kIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTGlzdDxCcmFuZD4gb2JyYW5kcyA9IHpjeUJyYW5kRGFvLmxpc3RCeUNhdGVnb3J5QW5kTmFtZShicmFuZElkcywgemhCcmFuZE5hbWUsIGVuQnJhbmROYW1lKTsKICAgICAgICAgICAgaWYgKGlzTnVsbE9yRW1wdHkob2JyYW5kcykpIHsKICAgICAgICAgICAgICAgIGxvZy53YXJuKCJmYWlsIHRvIGZpbmQgYnJhbmQgYnkgY2F0ZWdvcnlJZDp7fSx6aEJyYW5kTmFtZTp7fSxlbkJyYW5kTmFtZTp7fSIsIGNhdGVnb3J5SWQsIHpoQnJhbmROYW1lLCBlbkJyYW5kTmFtZSk7CiAgICAgICAgICAgICAgICByZXR1cm4gT3BlblJlc3BvbnNlLmZhaWwoImJyYW5kLm5vdC5mb3VuZCIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIExpc3Q8T3BlbkJyYW5kPiBicmFuZHMgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsKICAgICAgICAgICAgZm9yIChCcmFuZCBvYnJhbmQgOiBvYnJhbmRzKSB7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBvYnJhbmQpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIE9wZW5CcmFuZCBicmFuZCA9IG5ldyBPcGVuQnJhbmQoKTsKICAgICAgICAgICAgICAgIGJyYW5kLnNldE5hbWUob2JyYW5kLmdldEZ1bGxOYW1lKCkpOwogICAgICAgICAgICAgICAgYnJhbmQuc2V0RW5OYW1lKG9icmFuZC5nZXRFbk5hbWUoKSk7CiAgICAgICAgICAgICAgICBicmFuZC5zZXREZXNjcmlwdGlvbihvYnJhbmQuZ2V0RGVzY3JpcHRpb24oKSk7CiAgICAgICAgICAgICAgICBicmFuZHMuYWRkKGJyYW5kKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgbG9nLmluZm8oImZpbmRCcmFuZHNCeUNhdGVnb3J5IHJlc3VsdCBzaXplOnt9IiwgYnJhbmRzLnNpemUoKSk7CiAgICAgICAgICAgIHJldHVybiBPcGVuUmVzcG9uc2Uub2soYnJhbmRzKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cud2FybigiZmFpbCB0byBmaW5kIGJyYW5kcyBieSBjYXRlZ29yeUlkOnt9LHpoQnJhbmROYW1lOnt9LGVuQnJhbmROYW1lOnt9IiwgY2F0ZWdvcnlJZCwgemhCcmFuZE5hbWUsIGVuQnJhbmROYW1lLCBUaHJvd2FibGVzLmdldFN0YWNrVHJhY2VBc1N0cmluZyhlKSk7CiAgICAgICAgICAgIHJldHVybiBPcGVuUmVzcG9uc2UuZmFpbChlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnJhbmRkYW8gemN5QnJhbmREYW87Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi56Y3kuaXRlbS5kdG8uT3BlbkJyYW5kOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi56Y3kuaXRlbS5kdG8uT3BlbkJyYW5kOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnaW5nPFpjeVNwdT4gcmVzdWx0ID0gbmV3IFBhZ2luZzw+KHpjeVNwdVBhZ2luZy5nZXRSZXN1bHQoKS5nZXRUb3RhbCgpLCBjb252ZXJ0KTsK</text>
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi56Y3kuaXRlbS5kdG8uT3BlbkJyYW5kOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxaY3lTcHU+IGNvbnZlcnQgPSBQb2pvQ29udmVydFV0aWwuY29udmVydCh6Y3lTcHVQYWdpbmcuZ2V0UmVzdWx0KCkuZ2V0RGF0YSgpLCBaY3lTcHUuY2xhc3MpOwogICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoY29udmVydCkpIHsKICAgICAgICAgICAgICAgIGNvbnZlcnQuc3RyZWFtKCkuZm9yRWFjaCh0IC0+IHsKICAgICAgICAgICAgICAgICAgICBaY3lTcHVVdGlscy5wYXJzZVNwdUZyb21QZXJzaXN0ZW5jZSh0KTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi56Y3kuaXRlbS5kdG8uT3BlbkJyYW5kOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
