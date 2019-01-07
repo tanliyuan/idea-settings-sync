@@ -254,11 +254,11 @@
         <mark key="^" line="56" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/attribute/dto/SkuAttribute.java" timestamp="1546566349857" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1546589801520">
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="55" column="32" />
-        <mark key="." line="55" column="32" />
-        <mark key="^" line="55" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1546841287226">
+        <mark key="[" line="119" column="17" />
+        <mark key="]" line="119" column="20" />
+        <mark key="." line="119" column="20" />
+        <mark key="^" line="119" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/domain/TransExpensesTemplate.java" timestamp="1546419381762" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1546566134641" />
@@ -428,7 +428,7 @@
         <mark key="." line="86" column="10" />
         <mark key="^" line="86" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546595096658">
+      <file name="/Dummy.txt" timestamp="1546841316605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -483,6 +483,11 @@
         <mark key="]" line="51" column="50" />
         <mark key="^" line="51" column="108" />
         <mark key="." line="51" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1546841236197">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -588,11 +593,11 @@
       <jump line="86" column="97" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RvcnkjCg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>7445</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
