@@ -129,6 +129,12 @@
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/resources/spring/cloud-web-item-dubbo-consumer.xml" timestamp="1546847181726" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1546936440093" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/java/io/terminus/parana/category/impl/dao/FrontCategoryDao.java" timestamp="1546919519019" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuController.java" timestamp="1546949928833">
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="340" column="12" />
+        <mark key="^" line="340" column="12" />
+        <mark key="." line="340" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-trade/src/main/java/cn/gov/zcy/trade/service/IndexRecommendReadServiceImpl.java" timestamp="1546926024670" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagReadServiceImpl.java" timestamp="1545807080948">
         <mark key="[" line="22" column="47" />
@@ -235,7 +241,7 @@
         <mark key="." line="86" column="10" />
         <mark key="^" line="86" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546929756071">
+      <file name="/Dummy.txt" timestamp="1546949941217">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -612,11 +618,11 @@
       <jump line="86" column="97" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVOdW0rKzsK</text>
+      <register name="&quot;" type="4">
+        <text>spuReadServiceFacade</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMA==</text>
+        <text>spuReadServiceFacade</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
