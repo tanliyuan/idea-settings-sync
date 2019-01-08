@@ -145,11 +145,11 @@
         <mark key="." line="120" column="25" />
         <mark key="^" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1546936541509">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="164" column="22" />
-        <mark key="." line="164" column="22" />
-        <mark key="^" line="164" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1546937659360">
+        <mark key="[" line="175" column="51" />
+        <mark key="]" line="175" column="51" />
+        <mark key="." line="175" column="51" />
+        <mark key="^" line="175" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/domain/TransExpensesTemplate.java" timestamp="1546419381762" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1546566134641" />
@@ -607,11 +607,11 @@
       <jump line="86" column="97" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoa2V5VmFsdWUuY29udGFpbnNLZXkoc3BsaXRbMF0pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGtleVZhbHVlLmNvbXB1dGVJZkFic2VudCgpCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>toList</text>
       </register>
       <register name="-" type="4">
-        <text>isNoneBlank</text>
+        <text>toList</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
