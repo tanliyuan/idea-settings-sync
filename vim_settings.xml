@@ -101,11 +101,11 @@
         <mark key="." line="120" column="25" />
         <mark key="^" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1546955503210">
-        <mark key="[" line="179" column="51" />
-        <mark key="]" line="179" column="57" />
-        <mark key="." line="179" column="57" />
-        <mark key="^" line="179" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1546959484482">
+        <mark key="[" line="182" column="40" />
+        <mark key="]" line="182" column="49" />
+        <mark key="." line="182" column="49" />
+        <mark key="^" line="182" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/domain/TransExpensesTemplate.java" timestamp="1546419381762" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1546566134641" />
@@ -409,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>size</text>
+        <text>getValue0</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>getValue0</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -421,31 +421,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IGYuc3BsaXQoIjoiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVOdW0uc2V0QXQwKHVwZGF0ZU51bS5nZXRWYWx1ZTAoKSArIDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVOdW0rKzsK</text>
+        <text encoding="base64">ICAgICAgICBVbml0PEludGVnZXI+IHVwZGF0ZU51bSA9IFVuaXQud2l0aCgwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFNwdUFsaT4gdXBkYXRlU3B1ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0QXQxKG5ld0FmZmVjdFByb3BlcnR5VGV4dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWlyPEJvb2xlYW4sIFN0cmluZz4gcmVzdWx0ID0gUGFpci53aXRoKEJvb2xlYW4uRkFMU0UsIG9yaWdpblN0cik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuc2V0QWZmZWN0UHJvcGVydHlUZXh0KGFmZmVjdFByb3BlcnR5VGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRBdDAoQm9vbGVhbi5UUlVFKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldEF0MChCb29sZWFuLlRSVUUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmVlZFVwZGF0ZSA9IEJvb2xlYW4uVFJVRTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBCb29sZWFuPiBwYXJhbiA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUGFpcjw+KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUdXBsZS5mcm9tCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYj4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
