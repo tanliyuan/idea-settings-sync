@@ -31,11 +31,11 @@
         <mark key="^" line="23" column="112" />
         <mark key="." line="23" column="112" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1546595016051">
-        <mark key="[" line="99" column="72" />
-        <mark key="]" line="100" column="33" />
-        <mark key="." line="100" column="33" />
-        <mark key="^" line="100" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1546916844615">
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+        <mark key="^" line="68" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/item/service/OpenItemReadService.java" timestamp="1546509573387" />
       <file name="$MAVEN_REPOSITORY$/io/terminus/terminus-common/2.0-SNAPSHOT/terminus-common-2.0-20160229.110703-3.jar!/io/terminus/common/model/Response.class" timestamp="1546512125586" />
@@ -100,11 +100,11 @@
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/resources/spring/cloud-web-item-dubbo-consumer.xml" timestamp="1546847181726" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.15-SNAPSHOT/zcy-item-api-1.6.15-20181228.050335-11.jar!/cn/gov/zcy/category/service/ZcyCategoryReadService.class" timestamp="1546569606079" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/attribute/dto/SkuAttribute.java" timestamp="1546566349857" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1546841287226">
-        <mark key="[" line="119" column="17" />
-        <mark key="]" line="119" column="20" />
-        <mark key="." line="119" column="20" />
-        <mark key="^" line="119" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1546916800545">
+        <mark key="[" line="151" column="59" />
+        <mark key="]" line="151" column="66" />
+        <mark key="." line="151" column="66" />
+        <mark key="^" line="151" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/domain/TransExpensesTemplate.java" timestamp="1546419381762" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1546566134641" />
@@ -156,6 +156,11 @@
         <mark key="^" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/java/cn/gov/zcy/web/controller/ZcyAddresses.java" timestamp="1546847152974" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/pom.xml" timestamp="1546916361281">
+        <mark key="]" line="497" column="24" />
+        <mark key="^" line="497" column="24" />
+        <mark key="." line="497" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/terminus/parana/parana-item-api/5.3.9-sale-SNAPSHOT/parana-item-api-5.3.9-sale-SNAPSHOT-sources.jar!/io/terminus/parana/category/enums/CategoryBackTagEnum.java" timestamp="1546568578426" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadServiceImpl.java" timestamp="1546495697888" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcyBackCategoryController.java" timestamp="1546523236800" />
@@ -329,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
