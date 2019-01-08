@@ -9,7 +9,7 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacade.java" timestamp="1546952409282">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacade.java" timestamp="1546953312286">
         <mark key="[" line="53" column="7" />
         <mark key="]" line="54" column="15" />
         <mark key="^" line="54" column="15" />
@@ -79,9 +79,9 @@
         <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/dto/SpuSearchCriteria.java" timestamp="1546951994621">
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="12" />
-        <mark key="." line="49" column="12" />
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-web/src/main/resources/spring/cloud-web-item-dubbo-consumer.xml" timestamp="1546847181726" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1546936440093" />
@@ -101,11 +101,11 @@
         <mark key="." line="120" column="25" />
         <mark key="^" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1546952004072">
-        <mark key="[" line="150" column="99" />
-        <mark key="]" line="175" column="50" />
-        <mark key="." line="175" column="50" />
-        <mark key="^" line="175" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1546955503210">
+        <mark key="[" line="179" column="51" />
+        <mark key="]" line="179" column="57" />
+        <mark key="." line="179" column="57" />
+        <mark key="^" line="179" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/express/domain/TransExpensesTemplate.java" timestamp="1546419381762" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/cache/BackCategoryCacher.java" timestamp="1546566134641" />
@@ -120,7 +120,7 @@
         <mark key="." line="19" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/category/facade/ZcyCategoryReadFacade.java" timestamp="1546847551455" />
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/SpuAliDao.java" timestamp="1546951893895" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/SpuAliDao.java" timestamp="1546954212075" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/open/OpenSpuReadServiceImpl.java" timestamp="1546495697888" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcyBackCategoryController.java" timestamp="1546523236800" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/category/service/FrontCategoryReadService.java" timestamp="1546925826203" />
@@ -145,7 +145,7 @@
         <mark key="." line="86" column="10" />
         <mark key="^" line="86" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546950918401">
+      <file name="/Dummy.txt" timestamp="1546953326664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -409,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SpuAli.SpuChannelEnum</text>
+        <text>size</text>
       </register>
       <register name="-" type="4">
-        <text>SpuAli.SpuChannelEnum</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
