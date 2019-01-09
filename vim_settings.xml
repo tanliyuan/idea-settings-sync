@@ -44,8 +44,14 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1547012954544" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuController.java" timestamp="1547005906277" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliWriteServiceImpl.java" timestamp="1547035378563">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" timestamp="1547025883896" />
-      <file name="/Dummy.txt" timestamp="1547034210674">
+      <file name="/Dummy.txt" timestamp="1547035444945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,11 +162,11 @@
       <jump line="86" column="97" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>商品条码（GS1编码）</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>商品条码（GS1编码）</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -169,31 +175,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBrZXkzID0gSm9pbmVyLm9uKCItIikuam9pbih0LmdldCgyKSwgIueUn+S6p+iuuOWPr+ivgee8luWPtyIpOwogICAgICAgICAgICAgICAgaWYgKGF0dHJpYnV0ZU1hcC5jb250YWluc0tleShrZXkzKSkgewogICAgICAgICAgICAgICAgICAgIGFmZmVjdFByb3BlcnR5LmFwcGVuZCgiOyIpLmFwcGVuZChhdHRyaWJ1dGVNYXAuZ2V0KGtleTMpKS5hcHBlbmQoIjoiKS5hcHBlbmQocHJvZHVjdExpY2Vuc2UpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5ZWG5ZOB5p2h56CB77yIR1Mx57yW56CB77yJCiAgICAgICAgICAgICAgICBTdHJpbmcgaXRlbUNvZGUgPSB0LmdldCgxKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvbmcgYmlnRGVjaW1hbCA9IG5ldyBCaWdEZWNpbWFsKDEwMCkubXVsdGlwbHkobmV3IEJpZ0RlY2ltYWwoc3B1QWxpLmdldFNwdVByaWNlKCkpKS5sb25nVmFsdWUoKTsKICAgICAgICAgICAgICAgIHNwdUFsaS5zZXRQcmljZShiaWdEZWNpbWFsKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">5q2jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5ZWG5ZOB5p2h56CB77yIR1Mx57yW56CB77yJCiAgICAgICAgICAgICAgICBTdHJpbmcgaXRlbUNvZGUgPSB0LmdldCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">5q2jCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmZmVjdFByb3BlcnR5LmFwcGVuZCgiOyIpLmFwcGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdCdWlsZGVyIGFmZmVjdFByb3BlcnR5ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
