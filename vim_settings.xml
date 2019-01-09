@@ -15,6 +15,7 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuReadServiceImpl.java" timestamp="1547016575877" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/BackCategoryLayerEnum.java" timestamp="1546572119348">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
@@ -124,6 +125,11 @@
         <mark key="]" line="340" column="12" />
         <mark key="^" line="340" column="12" />
         <mark key="." line="340" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1547016459060">
+        <mark key="]" line="164" column="27" />
+        <mark key="." line="164" column="27" />
+        <mark key="^" line="164" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryTagWriteServiceImpl.java" timestamp="1546929618950">
         <mark key="[" line="117" column="28" />
@@ -338,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>ne</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>ne</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
