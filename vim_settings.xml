@@ -29,11 +29,11 @@
         <mark key="." line="166" column="70" />
         <mark key="^" line="166" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/AliSpuExcel.java" timestamp="1547022829062">
-        <mark key="[" line="114" column="4" />
-        <mark key="]" line="114" column="16" />
-        <mark key="^" line="114" column="16" />
-        <mark key="." line="114" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/AliSpuExcel.java" timestamp="1547031237898">
+        <mark key="[" line="139" column="17" />
+        <mark key="]" line="140" column="27" />
+        <mark key="^" line="140" column="27" />
+        <mark key="." line="140" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-api/src/main/java/cn/gov/zcy/address/service/ZcyAddressReadService.java" timestamp="1547003028165" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1547024815512">
@@ -45,7 +45,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/pom.xml" timestamp="1547012954544" />
       <file name="$USER_HOME$/IdeaProjects/acy-mall/zcy-webc/src/main/java/cn/gov/zcy/webc/controller/ZcySpuController.java" timestamp="1547005906277" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemAttributeReadServiceImpl.java" timestamp="1547025883896" />
-      <file name="/Dummy.txt" timestamp="1547026164026">
+      <file name="/Dummy.txt" timestamp="1547031386645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,10 +157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">5q2jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>aliSpuService</text>
+        <text encoding="base64">TGlzdHMuPFN0cmluZz5uZXdBcnJheUxpc3QoIuS/nei0qOacnyIp</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
@@ -169,31 +169,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBrZXkzID0gSm9pbmVyLm9uKCItIikuam9pbih0LmdldCgyKSwgIueUn+S6p+iuuOWPr+ivgee8luWPtyIpOwogICAgICAgICAgICAgICAgaWYgKGF0dHJpYnV0ZU1hcC5jb250YWluc0tleShrZXkzKSkgewogICAgICAgICAgICAgICAgICAgIGFmZmVjdFByb3BlcnR5LmFwcGVuZCgiOyIpLmFwcGVuZChhdHRyaWJ1dGVNYXAuZ2V0KGtleTMpKS5hcHBlbmQoIjoiKS5hcHBlbmQocHJvZHVjdExpY2Vuc2UpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5q2jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7Cg==</text>
+        <text encoding="base64">5q2jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzcHVJZCA9IGlkZW50aXR5RmFjdG9yeS5uZXh0KENvbnN0cmFudHMuWmN5QWxpU3B1KTsKICAgICAgICAgICAgdC5zZXRTcHVJZChzcHVJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmZmVjdFByb3BlcnR5LmFwcGVuZCgiOyIpLmFwcGVuZCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdCdWlsZGVyIGFmZmVjdFByb3BlcnR5ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmZmVjdFByb3BlcnR5LmFwcGVuZCgiOyIpLmFwcGVuZCgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdCdWlsZGVyIGFmZmVjdFByb3BlcnR5ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWFmZmVjdFByb3BlcnR5LnRvU3RyaW5nKCkuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNwdUFsaS5zZXRBZmZlY3RQcm9wZXJ0eVRleHQoYWZmZWN0UHJvcGVydHkudG9TdHJpbmcoKS5zdWJzdHJpbmcoMSkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
