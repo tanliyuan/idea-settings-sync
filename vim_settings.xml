@@ -9,11 +9,11 @@
         <mark key="." line="34" column="110" />
         <mark key="^" line="34" column="102" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/category/OpenCategoryController.java" timestamp="1547095967639">
-        <mark key="[" line="66" column="128" />
-        <mark key="]" line="66" column="149" />
-        <mark key="." line="66" column="149" />
-        <mark key="^" line="66" column="149" />
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/category/OpenCategoryController.java" timestamp="1547098005158">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="30" />
+        <mark key="." line="63" column="30" />
+        <mark key="^" line="63" column="60" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/spu/facade/OpenSpuReadServiceFacade.java" timestamp="1547087277909">
         <mark key="[" line="15" column="38" />
@@ -55,7 +55,7 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547095983265">
+      <file name="/Dummy.txt" timestamp="1547098013556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,16 +226,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>categoryId</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>categoryId</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY24uZ292LnpjeS5zZXJ2aWNlLndhcmVob3VzZSIsCg==</text>
+      <register name="0" type="4">
+        <text>/zcy.mall.category.attrs.get</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb25nIGNhdGVnb3J5SWQgPSBzZWFyY2guZ2V0KCJjYXRlZ29yeUlkIik7Cg==</text>
