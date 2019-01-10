@@ -9,18 +9,13 @@
         <mark key="." line="15" column="59" />
         <mark key="^" line="15" column="59" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/FrontCategoryDao.java" timestamp="1547109358658" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/java/io/terminus/parana/category/impl/dao/BackCategoryDao.java" timestamp="1547105133233" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1547101513242">
         <mark key="[" line="167" column="44" />
         <mark key="]" line="167" column="44" />
         <mark key="." line="167" column="44" />
         <mark key="^" line="167" column="44" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/facade/CategoryReadServiceFacade.java" timestamp="1547005659876">
-        <mark key="[" line="23" column="112" />
-        <mark key="]" line="23" column="112" />
-        <mark key="^" line="23" column="112" />
-        <mark key="." line="23" column="112" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/BackCategoryDao.java" timestamp="1547105119367" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/spring/cloud-mall-item-dubbo-consumer.xml" timestamp="1547092488713">
@@ -36,12 +31,6 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/spu/facade/request/SpuRequestVo.java" timestamp="1547087267542">
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/spu/request/SpuRequestVo.java" timestamp="1547087061194">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="18" column="0" />
@@ -49,18 +38,6 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-parana-item-api/src/main/java/io/terminus/parana/cache/CategoryAttributeCacher.java" timestamp="1547105270071" />
-      <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/category/request/CategoryAttrRequestVo.java" timestamp="1547095941742">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/SpuAliWriteServiceImpl.java" timestamp="1547035378563">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="64" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/spu/facade/OpenSpuReadServiceFacadeImpl.java" timestamp="1547087455801">
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="46" />
@@ -87,35 +64,19 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/frontCategoryMapper.xml" timestamp="1547109547222" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/brand/facade/OpenBrandReadServiceFacadeImpl.java" timestamp="1547105606115">
         <mark key="[" line="23" column="49" />
         <mark key="]" line="34" column="28" />
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547101515559">
+      <file name="/Dummy.txt" timestamp="1547109611967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/ItemCodeExcel.java" timestamp="1547034119575">
-        <mark key="[" line="226" column="61" />
-        <mark key="]" line="226" column="64" />
-        <mark key="." line="226" column="64" />
-        <mark key="^" line="226" column="64" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1547002696654">
-        <mark key="[" line="166" column="59" />
-        <mark key="]" line="166" column="70" />
-        <mark key="." line="166" column="70" />
-        <mark key="^" line="166" column="70" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/utils/AliSpuExcel.java" timestamp="1547032826474">
-        <mark key="[" line="43" column="84" />
-        <mark key="]" line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/resources/mapper/frontCategoryMapper.xml" timestamp="1547109682205" />
     </filemarks>
     <jumps>
       <jump line="38" column="44" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/brand/service/ZcyBrandWriteServiceImpl.java" />
@@ -220,8 +181,8 @@
       <jump line="43" column="101" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">W+W8gOaUvuW5s+WPsOi/geenu10K</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -233,32 +194,32 @@
         <text>/zcy.mall.category.attrs.get</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGNhdGVnb3J5SWQgPSBzZWFyY2guZ2V0KCJjYXRlZ29yeUlkIik7Cg==</text>
+        <text encoding="base64">W+W8gOaUvuW5s+WPsOi/geenu10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGNhdGVnb3J5SWQgPSBzZWFyY2guZ2V0KCJjYXRlZ29yeUlkIik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W+eJqeWTgee8lueggeaVsOaNruWvvOWFpV0K</text>
+        <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">W+eJqeWTgee8lueggeaVsOaNruWvvOWFpV0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFnZU51bSA9IHJlcXVlc3RWby5nZXRQYWdlTnVtKCkgPT0gbnVsbCA/IDEgOiByZXF1ZXN0Vm8uZ2V0UGFnZU51bSgpOwogICAgICAgICAgICBwYWdlU2l6ZSA9IHBhZ2VTaXplID09IG51bGwgPyAyMCA6IHBhZ2VTaXplOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>@NotNull Long categoryId, @NotNull String keyAttrs,
                                       Integer pageNum, Integer pageSize</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5QXR0cnMgPSBzZWFyY2gK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">W+WNh+e6p0lNXeeJiOacrCzlk4HniYzkvJjljJYK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
