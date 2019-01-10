@@ -77,13 +77,19 @@
         <mark key="^" line="84" column="32" />
         <mark key="." line="84" column="32" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/service/parana/FrontCategoryWriteServiceImpl.java" timestamp="1547116925891">
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="53" column="32" />
+        <mark key="^" line="53" column="32" />
+        <mark key="." line="53" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/brand/facade/OpenBrandReadServiceFacadeImpl.java" timestamp="1547105606115">
         <mark key="[" line="23" column="49" />
         <mark key="]" line="34" column="28" />
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547111067155">
+      <file name="/Dummy.txt" timestamp="1547116995873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -193,8 +199,8 @@
       <jump line="43" column="101" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W+S/ruWkjV1teWJhdGlzIOWPquacieS4gOS4quWPguaVsOeahOaXtuWAmXhtbOWPguaVsOiOt+WPlgo=</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
@@ -206,32 +212,32 @@
         <text>/zcy.mall.category.attrs.get</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W+W8gOaUvuW5s+WPsOi/geenu10K</text>
+        <text encoding="base64">W+S/ruWkjV1teWJhdGlzIOWPquacieS4gOS4quWPguaVsOeahOaXtuWAmXhtbOWPguaVsOiOt+WPlgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGNhdGVnb3J5SWQgPSBzZWFyY2guZ2V0KCJjYXRlZ29yeUlkIik7Cg==</text>
+        <text encoding="base64">W+W8gOaUvuW5s+WPsOi/geenu10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGNhdGVnb3J5SWQgPSBzZWFyY2guZ2V0KCJjYXRlZ29yeUlkIik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W+eJqeWTgee8lueggeaVsOaNruWvvOWFpV0K</text>
+        <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">W+eJqeWTgee8lueggeaVsOaNruWvvOWFpV0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFnZU51bSA9IHJlcXVlc3RWby5nZXRQYWdlTnVtKCkgPT0gbnVsbCA/IDEgOiByZXF1ZXN0Vm8uZ2V0UGFnZU51bSgpOwogICAgICAgICAgICBwYWdlU2l6ZSA9IHBhZ2VTaXplID09IG51bGwgPyAyMCA6IHBhZ2VTaXplOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>@NotNull Long categoryId, @NotNull String keyAttrs,
                                       Integer pageNum, Integer pageSize</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5QXR0cnMgPSBzZWFyY2gK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5QXR0cnMgPSBzZWFyY2gK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
