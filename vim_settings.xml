@@ -10,6 +10,12 @@
         <mark key="." line="15" column="59" />
         <mark key="^" line="15" column="59" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/util/DBBatchOptUtil.java" timestamp="1547193741377">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="50" />
+        <mark key="^" line="40" column="50" />
+        <mark key="." line="40" column="50" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/dao/FrontCategoryDao.java" timestamp="1547110525919" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/java/io/terminus/parana/category/impl/dao/BackCategoryDao.java" timestamp="1547105133233" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/item/service/ItemWriteServiceImpl.java" timestamp="1547192178109" />
@@ -19,7 +25,7 @@
         <mark key="." line="167" column="44" />
         <mark key="^" line="167" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1547191375448">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1547193657820">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="^" line="127" column="66" />
@@ -215,11 +221,11 @@
       <jump line="43" column="101" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W+WJjeWPsOexu+ebrl3liJvlu7rpu5jorqTnirbmgIExCg==</text>
+      <register name="&quot;" type="4">
+        <text>Consumer</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>Consumer</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
