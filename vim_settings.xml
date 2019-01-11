@@ -59,11 +59,11 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/FrontCategory.java" timestamp="1547122340168">
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="56" column="14" />
-        <mark key="^" line="56" column="14" />
-        <mark key="." line="56" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/domain/FrontCategory.java" timestamp="1547172107179">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="82" column="3" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/CategoryBindingManager.java" timestamp="1547110592860">
         <mark key="[" line="45" column="48" />
@@ -95,7 +95,7 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547122343838">
+      <file name="/Dummy.txt" timestamp="1547172148611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -206,7 +206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W+S/ruWkjV1teWJhdGlzIOWPquacieS4gOS4quWPguaVsOeahOaXtuWAmXhtbOWPguaVsOiOt+WPlgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
@@ -218,32 +218,31 @@
         <text>/zcy.mall.category.attrs.get</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W+S/ruWkjV1teWJhdGlzIOWPquacieS4gOS4quWPguaVsOeahOaXtuWAmXhtbOWPguaVsOiOt+WPlgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W+W8gOaUvuW5s+WPsOi/geenu10K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBGcm9udENhdGVnb3J5IGZyb250Q2F0ZWdvcnkgPSBuZXcgRnJvbnRDYXRlZ29yeSgpOwogICAgICAgIGZyb250Q2F0ZWdvcnkuc2V0U3RhdHVzKDEpOwogICAgICAgIFN0cmluZyBzID0gSlNPTk9iamVjdC50b0pTT05TdHJpbmcoZnJvbnRDYXRlZ29yeSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGNhdGVnb3J5SWQgPSBzZWFyY2guZ2V0KCJjYXRlZ29yeUlkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEpTT05PYmplY3QudG9KU09OU3RyaW5nKGZyb250Q2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEpTT05PYmplY3QudG9KU09OU3RyaW5nKGZyb250Q2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHJvb3QgPSBMb25nLnZhbHVlT2Yoc2VhcmNoLmdldCgicm9vdCIpKTsKICAgICAgICBJbnRlZ2VyIGRlcHRoID0gc2VhcmNoLmdldCgiZGVwdGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEpTT05PYmplY3QudG9KU09OU3RyaW5nKGZyb250Q2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W+eJqeWTgee8lueggeaVsOaNruWvvOWFpV0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEpTT05PYmplY3QudG9KU09OU3RyaW5nKGZyb250Q2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZU51bSA9IHJlcXVlc3RWby5nZXRQYWdlTnVtKCkgPT0gbnVsbCA/IDEgOiByZXF1ZXN0Vm8uZ2V0UGFnZU51bSgpOwogICAgICAgICAgICBwYWdlU2l6ZSA9IHBhZ2VTaXplID09IG51bGwgPyAyMCA6IHBhZ2VTaXplOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text>@NotNull Long categoryId, @NotNull String keyAttrs,
-                                      Integer pageNum, Integer pageSize</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5QXR0cnMgPSBzZWFyY2gK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBGcm9udENhdGVnb3J5IGZyb250Q2F0ZWdvcnkgPSBuZXcgRnJvbnRDYXRlZ29yeSgpOwogICAgICAgIGZyb250Q2F0ZWdvcnkuc2V0U3RhdHVzKDEpOwogICAgICAgIFN0cmluZyBzID0gSlNPTk9iamVjdC50b0pTT05TdHJpbmcoZnJvbnRDYXRlZ29yeSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
