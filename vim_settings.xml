@@ -76,17 +76,23 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/category/facade/OpenBackCategoryReadServiceFacadeImpl.java" timestamp="1547361419230">
+        <mark key="[" line="234" column="83" />
+        <mark key="]" line="235" column="54" />
+        <mark key="^" line="235" column="54" />
+        <mark key="." line="235" column="54" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/Spus.java" timestamp="1547101513242">
         <mark key="[" line="167" column="44" />
         <mark key="]" line="167" column="44" />
         <mark key="." line="167" column="44" />
         <mark key="^" line="167" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/category/dto/OpenCategoryAttribute.java" timestamp="1547360515056">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="64" column="38" />
-        <mark key="^" line="64" column="38" />
-        <mark key="." line="64" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/category/dto/OpenCategoryAttribute.java" timestamp="1547361433914">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="69" column="10" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/manager/FrontCategoryTagManager.java" timestamp="1547195213123">
         <mark key="[" line="126" column="0" />
@@ -94,7 +100,7 @@
         <mark key="^" line="127" column="66" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547360525562">
+      <file name="/Dummy.txt" timestamp="1547361437605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,6 +134,9 @@
         <mark key="]" line="166" column="70" />
         <mark key="." line="166" column="70" />
         <mark key="^" line="166" column="70" />
+      </file>
+      <file name="/fragment.java" timestamp="1547361319631">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/spu/facade/OpenSpuReadServiceFacadeImpl.java" timestamp="1547087455801">
         <mark key="[" line="39" column="24" />
@@ -255,28 +264,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDkuLrkuoblhbzlrrnkuIrpnaLpgqPkuKrmi7zlhpnplJnor6/nmoTlrZfmrrXvvIzlvIDmlL7lubPlj7DnlKjnmoTmmK/ov5nkuKrmi7zlhpkKICAgICAgICAgKiBAcmV0dXJuCiAgICAgICAgICovCiAgICAgICAgcHJpdmF0ZSBCb29sZWFuIGdldElzU2t1Q2FuZGlkYXRlKCkgewogICAgICAgICAgICByZXR1cm4gaXNTdWtDYW5kaWRhdGU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">562+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5pe2Cg==</text>
+        <text encoding="base64">562+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W+S/ruWkjV1teWJhdGlzIOWPquacieS4gOS4quWPguaVsAo=</text>
+        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W+WJjeWPsOexu+ebrl3liJvlu7rpu5jorqTnirbmgIExCg==</text>
+        <text encoding="base64">5pe2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeUJpbmRpbmdEYW8uY3JlYXRlcyhjYXRlZ29yeUJpbmRpbmdzKTsK</text>
+        <text encoding="base64">W+S/ruWkjV1teWJhdGlzIOWPquacieS4gOS4quWPguaVsAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9udENhdGVnb3J5RGFvLmNyZWF0ZXMoZnJvbnRDYXRlZ29yaWVzKTsK</text>
+        <text encoding="base64">W+WJjeWPsOexu+ebrl3liJvlu7rpu5jorqTnirbmgIExCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
