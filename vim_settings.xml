@@ -24,6 +24,9 @@
         <mark key="." line="530" column="14" />
         <mark key="^" line="530" column="14" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1547453636587">
+        <mark key="'" line="58" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/category/facade/OpenBackCategoryReadServiceFacadeImpl.java" timestamp="1547361419230">
         <mark key="[" line="234" column="83" />
         <mark key="]" line="235" column="54" />
@@ -68,6 +71,9 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/tag/service/ZcyTagWriteServiceImpl.java" timestamp="1547432299758" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" timestamp="1547453259681">
+        <mark key="'" line="81" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/spu/facade/OpenSpuReadServiceFacadeImpl.java" timestamp="1547087455801">
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="46" />
@@ -75,6 +81,7 @@
         <mark key="^" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/spu/model/Spu.java" timestamp="1547448630091" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/audit/service/SpuAuditWriteServiceImpl.java" timestamp="1547453616620" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/category/facade/OpenBackCategoryReadServiceFacade.java" timestamp="1547360031533" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1547090713521">
         <mark key="[" line="34" column="109" />
@@ -137,6 +144,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/messages/messages_zh_CN.properties" timestamp="1547453311839" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/resources/mapper/categoryBindingMapper.xml" timestamp="1547205801680">
         <mark key="[" line="52" column="50" />
         <mark key="]" line="52" column="49" />
@@ -156,13 +164,8 @@
         <mark key="." line="166" column="70" />
         <mark key="^" line="166" column="70" />
       </file>
-      <file name="/fragment.java" timestamp="1547361319631">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="44" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/brand/service/ZcyBrandWriteServiceImpl.java" />
-      <jump line="113" column="9" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/brand/service/ZcyBrandWriteServiceImpl.java" />
       <jump line="1181" column="25" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
       <jump line="144" column="27" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
       <jump line="785" column="0" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
@@ -261,6 +264,8 @@
       <jump line="38" column="123" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/unique/UniqueCodeExceutor.java" />
       <jump line="86" column="97" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
       <jump line="43" column="101" filename="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/brand/OpenBrandController.java" />
+      <jump line="81" column="8" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpus.java" />
+      <jump line="58" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
