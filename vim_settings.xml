@@ -17,12 +17,12 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1547537921747">
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" timestamp="1547554010778">
         <mark key="'" line="59" column="13" />
-        <mark key="[" line="121" column="9" />
-        <mark key="]" line="122" column="7" />
-        <mark key="." line="122" column="7" />
-        <mark key="^" line="122" column="7" />
+        <mark key="[" line="118" column="74" />
+        <mark key="]" line="118" column="76" />
+        <mark key="." line="118" column="76" />
+        <mark key="^" line="118" column="76" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external/src/main/java/cn/gov/zcy/service/external/category/facade/OpenBackCategoryReadServiceFacadeImpl.java" timestamp="1547523705116">
         <mark key="[" line="234" column="83" />
@@ -184,11 +184,11 @@
       <jump line="58" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3JlbGVhc2VdCg==</text>
+      <register name="&quot;" type="4">
+        <text>.negate()</text>
       </register>
       <register name="-" type="4">
-        <text>categoryId</text>
+        <text>.negate()</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
