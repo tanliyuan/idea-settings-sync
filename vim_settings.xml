@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/audit/service/SpuAuditWriteServiceImpl.java" timestamp="1547453616620" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/category/facade/OpenBackCategoryReadServiceFacade.java" timestamp="1547360031533" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/service/item-microservice-api/1.0.40-RELEASE/item-microservice-api-1.0.40-RELEASE-sources.jar!/cn/gov/zcy/service/category/dto/Tree.java" timestamp="1547523349524" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/pom.xml" timestamp="1547524547495" />
       <file name="$USER_HOME$/IdeaProjects/web-open-middle/zcy-web-open-middle/src/main/java/cn/gov/zcy/open/web/item/center/category/OpenCategoryController.java" timestamp="1547523280943">
         <mark key="[" line="72" column="57" />
         <mark key="]" line="72" column="62" />
@@ -47,7 +48,7 @@
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/java/io/terminus/parana/spu/impl/service/SpuWriteServiceImpl.java" timestamp="1547431570757" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/resources/mapper/spuMapper.xml" timestamp="1547448904134" />
       <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-extra-api/1.5.8-SNAPSHOT/zcy-extra-api-1.5.8-20180709.124417-479.jar!/cn/gov/zcy/extra/spu/service/AliSpuService.class" timestamp="1547460016271" />
-      <file name="/Dummy.txt" timestamp="1547449711352">
+      <file name="/Dummy.txt" timestamp="1547524660334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -61,6 +62,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/enums/ItemTagEnum.java" timestamp="1547520017428" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/category/enums/CategoryBackTagEnum.java" timestamp="1547432251024" />
+      <file name="$USER_HOME$/IdeaProjects/web-open-middle/pom.xml" timestamp="1547524581148">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="41" />
+        <mark key="." line="49" column="41" />
+      </file>
       <file name="/fragment.java" timestamp="1547522223183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,7 +176,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTzsK</text>
+        <text encoding="base64">W+exu+ebruWxnuaAp11vY2VhbiDmjqXlj6Pov4Hnp7sK</text>
       </register>
       <register name="-" type="4">
         <text>OpenResponse</text>
@@ -182,31 +188,31 @@
         <text>/zcy.mall.category.attrs.get</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTzsK</text>
+        <text encoding="base64">W+exu+ebruWxnuaAp11vY2VhbiDmjqXlj6Pov4Hnp7sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHNpbmNlIDE2LzcvMjgK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGF1dGhvciDnn7Pnp4AK</text>
+        <text encoding="base64">ICogQHNpbmNlIDE2LzcvMjgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICog5byA5pS+5bmz5Y+w57uf5LiA6L+U5Zue5raI5oGv5qC85byPCg==</text>
+        <text encoding="base64">ICogQGF1dGhvciDnn7Pnp4AK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W+WNh+e6p10K</text>
+        <text encoding="base64">ICog5byA5pS+5bmz5Y+w57uf5LiA6L+U5Zue5raI5oGv5qC85byPCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnRlcm1pbnVzLnBhcmFuYS5zcHUubW9kZWwuU3B1Owo=</text>
+        <text encoding="base64">W+WNh+e6p10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W3JlbGVhc2VdCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnRlcm1pbnVzLnBhcmFuYS5zcHUubW9kZWwuU3B1Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5Y+wCg==</text>
+        <text encoding="base64">W3JlbGVhc2VdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W+S7peWJjeaWueazlV3pu5jorqTlj6rmn6Ug5Z+656GA5qCH562+Cg==</text>
+        <text encoding="base64">5Y+wCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
