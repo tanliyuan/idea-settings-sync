@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/RuleChain.java" timestamp="1547703727034">
+        <mark key="[" line="116" column="109" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/otherAttributes/ItemOtherAttributeNonRequiredRuleByCategoryExecutor.java" timestamp="1547704312264" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/resources/spring/cloud-admin-item-dubbo-consumer.xml" timestamp="1547688974506">
         <mark key="[" line="34" column="109" />
         <mark key="]" line="34" column="110" />
@@ -14,6 +18,12 @@
         <mark key="]" line="72" column="62" />
         <mark key="^" line="72" column="62" />
         <mark key="." line="72" column="62" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/otherAttributes/ItemOtherAttributeRuleByCategoryExecutor.java" timestamp="1547704266456">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="30" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/spu/facade/OpenSpuReadServiceFacade.java" timestamp="1547630750746">
         <mark key="[" line="16" column="0" />
@@ -33,7 +43,7 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.15-SNAPSHOT/zcy-item-api-1.6.15-20181228.050335-11.jar!/cn/gov/zcy/tag/service/ResourceService.class" timestamp="1547697363711" />
+      <file name="$MAVEN_REPOSITORY$/cn/gov/zcy/zcy-item-api/1.6.15-SNAPSHOT/zcy-item-api-1.6.15-20181228.050335-11.jar!/cn/gov/zcy/tag/service/ResourceService.class" timestamp="1547703386230" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/resources/mapper/parana/categoryBindingMapper.xml" timestamp="1547205732044">
         <mark key="[" line="63" column="50" />
         <mark key="]" line="64" column="21" />
@@ -152,6 +162,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" timestamp="1547703857255" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuController.java" timestamp="1547449059586">
         <mark key="[" line="67" column="18" />
         <mark key="]" line="67" column="23" />
@@ -169,13 +180,19 @@
         <mark key="^" line="537" column="22" />
         <mark key="." line="537" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/otherAttributes/OtherAttributeRuleByCategoryExecutor.java" timestamp="1547703755602">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/category/facade/SpuWriteServiceFacadeImpl.java" timestamp="1547204755072">
         <mark key="[" line="166" column="59" />
         <mark key="]" line="166" column="70" />
         <mark key="." line="166" column="70" />
         <mark key="^" line="166" column="70" />
       </file>
-      <file name="/fragment.java" timestamp="1547635174469">
+      <file name="/fragment.java" timestamp="1547704234285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-external-api/src/main/java/cn/gov/zcy/service/external/spu/facade/response/OpenSpu.java" timestamp="1547636631614">
@@ -294,11 +311,11 @@
       <jump line="58" column="13" filename="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/AliSpuManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5Db250ZXh0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sho</text>
       </register>
       <register name="-" type="4">
-        <text>getCreatedAt</text>
+        <text>sho</text>
       </register>
       <register name="/" type="4">
         <text>:set keep-english-in-normal</text>
