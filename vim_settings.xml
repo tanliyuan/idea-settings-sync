@@ -65,6 +65,7 @@
         <mark key="." line="44" column="144" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/service/RuleEngineValidateServiceImpl.java" timestamp="1547729656813" />
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/service/ZcySpuAuditReadServiceImpl.java" timestamp="1547782557188" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/keyAttributes/UniqueKeyAttrsExceutor.java" timestamp="1547732013224">
         <mark key="'" line="36" column="1" />
         <mark key="[" line="96" column="19" />
@@ -85,6 +86,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/chain/base/BaseExceutor.java" timestamp="1547727375630" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/spu/manager/ZcySpuAuditManager.java" timestamp="1547782984401" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/rule/utils/RuleSupport.java" timestamp="1547727902427">
         <mark key="[" line="19" column="104" />
         <mark key="]" line="19" column="103" />
@@ -188,13 +190,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/SpuAuditWriteServiceImpl.java" timestamp="1547781772883" />
+      <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/audit/service/SpuAuditWriteServiceImpl.java" timestamp="1547782953639" />
       <file name="$USER_HOME$/IdeaProjects/zcy-item/zcy-item-category/src/main/resources/mapper/categoryBindingMapper.xml" timestamp="1547205801680">
         <mark key="[" line="52" column="50" />
         <mark key="]" line="52" column="49" />
         <mark key="^" line="52" column="49" />
         <mark key="." line="52" column="49" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/dao/mysql/ZcySpuAuditDao.java" timestamp="1547782834000" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-api/src/main/java/cn/gov/zcy/service/item/domain/ItemAttribute.java" timestamp="1547730919594" />
       <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-web-admin/src/main/java/cn/gov/zcy/service/item/admin/controller/ZcySpuController.java" timestamp="1547449059586">
         <mark key="[" line="67" column="18" />
@@ -223,6 +226,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/item/item-microservice/item-microservice-center/src/main/java/cn/gov/zcy/service/spu/manager/ZcySpuAuditManager.java" timestamp="1547782522846" />
     </filemarks>
     <jumps>
       <jump line="144" column="27" filename="$USER_HOME$/IdeaProjects/zcy-item/zcy-item/src/main/java/cn/gov/zcy/item/service/ZcyItemReadServiceImpl.java" />
